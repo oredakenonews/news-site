@@ -1,0 +1,8 @@
+---
+title: "XやYouTubeを見すぎるとデブ猫が画面占領、個人開発の強制休憩ツールが話題　海外からも反響"
+date: 2026-04-27 17:10:00 +0900
+categories: [ITmedia]
+---
+XやYouTubeなどを使いすぎると、画面上に猫が現れ、強制的に休憩させる──そんなツール「Cat Gatekeeper」がXで反響を呼んでいる。
+
+[続きを読む →](https://www.itmedia.co.jp/news/articles/2604/27/news113.html)
