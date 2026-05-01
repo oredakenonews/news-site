@@ -1,113 +1,5 @@
 {
   "done": {
-    "1df541d916182bfa8bf90c3caad1c8c99cf0c81477244eac628a6f3b048a3055": {
-      "link": "http://www3.nhk.or.jp/news/html/20260401/k10015089921000.html",
-      "title": "プロ野球 今夜のヤクルト対広島 雨天中止",
-      "saved": "2026-04-01-huroye-qiu-jin-ye-noyakurutodui-guang-dao-yu-tian-zhong-zhi.md",
-      "ts": 1775028062
-    },
-    "7f074e09509301b47c91c1d1e7006083b267856022a10fdda1501126a73abbe8": {
-      "link": "http://www3.nhk.or.jp/news/html/20260401/k10015089891000.html",
-      "title": "レッドソックス 吉田正尚 フォアボール2つ 今季初ヒットは出ず",
-      "saved": "2026-04-01-retutosotukusu-ji-tian-zheng-shang-huoahoru2tu-jin-ji-chu-hitutohachu-su.md",
-      "ts": 1775028062
-    },
-    "74ced033b636b3f3069ca59cfcff65c631a06227d86c396a4d44ab14cdc74eff": {
-      "link": "http://www3.nhk.or.jp/news/html/20260401/k10015089901000.html",
-      "title": "カブス 鈴木誠也 復帰に向けマイナーリーグの試合に出場へ",
-      "saved": "2026-04-01-kahusu-ling-mu-cheng-ye-fu-gui-nixiang-kemainarikunoshi-he-nichu-chang-he.md",
-      "ts": 1775028062
-    },
-    "bbc5b12b0e4bcbae69c7a6ec32fafabed1757d2a80d771e774bbd60997586576": {
-      "link": "http://www3.nhk.or.jp/news/html/20260401/k10015089881000.html",
-      "title": "メッツ 千賀滉大 今季初登板 6回2失点と好投も負け投手に",
-      "saved": "2026-04-01-metutu-qian-he-huang-da-jin-ji-chu-deng-ban-6hui-2shi-dian-tohao-tou-mofu-ketou-.md",
-      "ts": 1775028062
-    },
-    "9ac83845b554e1411f9d05867e2a087434763214af617415deadf9de88d8444d": {
-      "link": "http://www3.nhk.or.jp/news/html/20260401/k10015089851000.html",
-      "title": "今年度予算案 参院立民“集中審議なければ 採決応じられない”",
-      "saved": "2026-04-01-jin-nian-du-yu-suan-an-can-yuan-li-min-ji-zhong-shen-yi-nakereha-cai-jue-ying-si.md",
-      "ts": 1775028062
-    },
-    "60e6e4488e63bde0b22b5791ed923c99ffa52f9c3f0ad07ed6ef39ffe4ed2ade": {
-      "link": "http://www3.nhk.or.jp/news/html/20260401/k10015089861000.html",
-      "title": "香港政府運営する歴史博物館 展示内容が全面的にリニューアル",
-      "saved": "2026-04-01-xiang-gang-zheng-fu-yun-ying-suruli-shi-bo-wu-guan-zhan-shi-nei-rong-kaquan-mian.md",
-      "ts": 1775028062
-    },
-    "6c20648c3e2d4e17bc838c73397d41b998cfae5e1746c60615630de51c6c2e87": {
-      "link": "https://www.bbc.com/japanese/articles/ce841z7001zo?at_medium=RSS&at_campaign=rss",
-      "title": "イスラエル、レバノン南部の一部を管理下に置くと　対ヒズボラ戦が終結後も",
-      "saved": "2026-04-01-isuraeru-rehanonnan-bu-noyi-bu-woguan-li-xia-nizhi-kuto-dui-hisuhorazhan-kazhong.md",
-      "ts": 1775028062
-    },
-    "776aa63b920de989db1095c8322d3cffaeff9cc0bbe9ceb498c5653208cac3a2": {
-      "link": "https://www.itmedia.co.jp/news/articles/2604/01/news096.html",
-      "title": "【朗報】スレタイと1コメを書く→AIがレスを生成する匿名掲示板シミュレーター登場　想像以上に「おまいら」だった件",
-      "saved": "2026-04-01-lang-bao-suretaito1komewoshu-ku-aikaresuwosheng-cheng-suruni-ming-jie-shi-ban-si.md",
-      "ts": 1775028062
-    },
-    "deaf1f0b48eac1d962dbfe49d362c018e9ddba50d333238130a43029fe515c7c": {
-      "link": "http://www3.nhk.or.jp/news/html/20260401/k10015089821000.html",
-      "title": "「除霊」としてわいせつ行為の疑いで逮捕の58歳男性 不起訴に",
-      "saved": "2026-04-01-chu-ling-tositewaisetuxing-wei-noyi-itedai-bu-no58sui-nan-xing-bu-qi-su-ni.md",
-      "ts": 1775028062
-    },
-    "8232bcf43ecd958dfcbbd17a3969cc40a9c784c53141f80521423a058a5630df": {
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBXUXF0eXBKRW5HNi1yRURYb3FLNUV6REZodmZoNnB3NkZPZXVJTEVqaUYzYkVPaUU1X3pJcHlERWdTUm5kR0hJYVQyZUxlb2V6NFFndXltNA?oc=5",
-      "title": "プラスチックに広く使われる化学物質、世界で200万人の早産と7.4万人の新生児死亡に関係 米調査 - CNN",
-      "saved": "2026-04-01-hurasutitukuniguang-kushi-wareruhua-xue-wu-zhi-shi-jie-te200mo-ren-nozao-chan-to-2.md",
-      "ts": 1775028062
-    },
-    "a8b747c5594babb2c859c2525a12b6e430fd64b325e9be07d643b9a331eff747": {
-      "link": "http://www3.nhk.or.jp/news/html/20260401/k10015089651000.html",
-      "title": "高市首相と仏 マクロン大統領 首脳会談【ライブ配信中】",
-      "saved": "2026-04-01-gao-shi-shou-xiang-tofo-makuronda-tong-ling-shou-noy-hui-tan-raihupei-xin-zhong.md",
-      "ts": 1775034304
-    },
-    "3ea41f4e7dc79b9fe444ca27559b2f7d3f0b96e353a236b3b90d2c35ca9c5815": {
-      "link": "http://www3.nhk.or.jp/news/html/20260401/k10015090011000.html",
-      "title": "「RSウイルス感染症」ワクチン SNSで広がる根拠ない情報に注意",
-      "saved": "2026-04-01-rsuirusugan-ran-zheng-wakutin-snsteguang-karugen-ju-naiqing-bao-nizhu-yi.md",
-      "ts": 1775034304
-    },
-    "88f6fcfdce7d91630d771da54dfd7c6b72bf49c086042ccc67451b37cc04f6df": {
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwQzNQVzlDdjl0ZXlOMFhWYkFqanFkaU5KNWVmb015YXJVV0Joa1loRmFkMGVCUVVOQldZNGkxbkUxODZNUWt4ckxFOFFCbW9LemdF?oc=5",
-      "title": "イランが湾岸諸国に新たな攻撃 クウェートの空港で火災、UAEでは死者 - CNN",
-      "saved": "2026-04-01-irankawan-an-zhu-guo-nixin-tanagong-ji-kuuetonokong-gang-tehuo-zai-uaetehasi-zhe.md",
-      "ts": 1775034304
-    },
-    "142ffed82077a5bf99029806a549106eb085ced61439d46c2d00cfcb2f79f655": {
-      "link": "http://www3.nhk.or.jp/news/html/20260401/k10015089841000.html",
-      "title": "ガソリン価格 全国平均1リットル170.2円 2週連続値下がり",
-      "saved": "2026-04-01-kasorinjia-ge-quan-guo-ping-jun-1ritutoru170-2yuan-2zhou-lian-sok-zhi-xia-kari.md",
-      "ts": 1775034304
-    },
-    "78f64ff58b70814a4300a7be4cbecd53fed5844bea88b2907992a8f773ff3496": {
-      "link": "http://www3.nhk.or.jp/news/html/20260401/k10015089951000.html",
-      "title": "ノーベル賞 坂口さんと北川さんに衆参両院の議長が祝意伝える",
-      "saved": "2026-04-01-noherushang-ban-kou-santobei-chuan-sannizhong-can-liang-yuan-noyi-chang-kazhu-yi.md",
-      "ts": 1775034304
-    },
-    "1ad7da56167fd0c53d6580d37d29482ce41da5f08bdc82136db80be817c4e3a9": {
-      "link": "https://www.bbc.com/japanese/articles/cx2wq3lg29no?at_medium=RSS&at_campaign=rss",
-      "title": "「何か手を打たないと」　ガソリン価格急騰にアメリカ人は",
-      "saved": "2026-04-01-he-kashou-woda-tanaito-kasorinjia-ge-ji-teng-niamerikaren-ha.md",
-      "ts": 1775034304
-    },
-    "1386a48d8372e0cebc3ead3f6ec5ab4adb3d2a4705c1ffd774fb19ada7c94d30": {
-      "link": "https://www.bbc.com/japanese/articles/cq8w53pw8qqo?at_medium=RSS&at_campaign=rss",
-      "title": "ホワイトハウスの「宴会場」建設計画、連邦地裁が差し止め　トランプ氏は控訴の方針",
-      "saved": "2026-04-01-howaitohausuno-yan-hui-chang-jian-she-ji-hua-lian-bang-di-cai-kachai-sizhi-me-to.md",
-      "ts": 1775034304
-    },
-    "1836c4fa0d0072d3511316ebe55719ad74e32e04c45ea479acc0c35ebbffc52a": {
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DYzl1Sjl5bC1sMFprWmlKMU9mSVM2ZGJ2UV9IWVJteHRMQldsLVFQNWxsWTdRUTZmcE9oSFVWOGNyZ2MyQjU3VWVGWXAwaFVDSXVvYg?oc=5",
-      "title": "イランの首都テヘランで演説するペゼシュキアン大統領＝31日/Aboutaleb Nadri/Reuters/FILE - CNN",
-      "saved": "2026-04-01-irannoshou-du-teheranteyan-shuo-suruhesesiyukianda-tong-ling-31ri-aboutaleb-nadr.md",
-      "ts": 1775034304
-    },
     "70fa3f5218c58e7c9e5be8c7eec4eed3d599941d1ab81b582610a6918e309726": {
       "link": "http://www3.nhk.or.jp/news/html/20260401/k10015089811000.html",
       "title": "各地の企業で入社式 リーダーが新入社員を激励",
@@ -13199,6 +13091,120 @@
       "title": "日本人４人、ベネチアの料理店でぼったくり被害 市長激怒で一時閉店も - CNN",
       "saved": "2018-02-01-ri-ben-ren-4ren-henetianoliao-li-dian-tehotutakuribei-hai-shi-chang-ji-nu-teyi-s.md",
       "ts": 1777617370
+    },
+    "5db8b81db25eea377b9456619f08d77b23525afccc51d529b0f61c1e11911280": {
+      "link": "http://www3.nhk.or.jp/news/html/20260501/k10015112921000.html",
+      "title": "東海道新幹線 新富士～静岡 上下線で運転見合わせ 停電の影響",
+      "saved": "2026-05-01-dong-hai-dao-xin-gan-xian-xin-fu-shi-jing-gang-shang-xia-xian-teyun-zhuan-jian-h.md",
+      "ts": 1777628753
+    },
+    "0055e953801bfb568c27d1779c11fdac6605ba33f8ba6ec182efa1039f1aa19a": {
+      "link": "http://www3.nhk.or.jp/news/html/20260501/k10015112741000.html",
+      "title": "円相場 政府・日銀の市場介入で大幅に円高進む",
+      "saved": "2026-05-01-yuan-xiang-chang-zheng-fu-ri-yin-noshi-chang-jie-ru-teda-fu-niyuan-gao-jin-mu.md",
+      "ts": 1777628753
+    },
+    "27fe131b15ada38956169f968e75f301748b3fe7be92d199b3eb7fa3235571cd": {
+      "link": "http://www3.nhk.or.jp/news/html/20260501/k10015112841000.html",
+      "title": "天皇ご一家 栃木の御料牧場で静養に",
+      "saved": "2026-05-01-tian-huang-koyi-jia-hoy-mu-noyu-liao-mu-chang-tejing-yang-ni.md",
+      "ts": 1777628753
+    },
+    "3effa43904ae76b138f13951d187f37f7cd1d527b9c879f852af03dd2ade1082": {
+      "link": "https://www.itmedia.co.jp/news/articles/2605/01/news113.html",
+      "title": "IT大喜利「エンタープライズ版BeReal.にありそうなこと」【回答募集】",
+      "saved": "2026-05-01-itda-xi-li-entahuraisuban-bereal-niarisounakoto-hui-da-mu-ji.md",
+      "ts": 1777628753
+    },
+    "a0156d0bb1a21de9b6ada5d65810c56a92bc26c96cf4e663d7ae5fef4cc9ba1b": {
+      "link": "https://www.itmedia.co.jp/news/articles/2605/01/news114.html",
+      "title": "ナトリウムイオン電池、前から飛行機に持ち込み不可だった　エレコムが訂正と謝罪",
+      "saved": "2026-05-01-natoriumuiondian-chi-qian-karafei-xing-ji-nichi-tiip-mibu-ke-tatuta-erekomukadin.md",
+      "ts": 1777628753
+    },
+    "53a476caefee5694b5648e585411114ffd3d190952d452cae7ff9725f97e7dc4": {
+      "link": "http://www3.nhk.or.jp/news/html/20260501/k10015112451000.html",
+      "title": "東京 福生 “ハンマー”で殴り逃走 44歳容疑者を逮捕 警視庁",
+      "saved": "2026-05-01-dong-jing-fu-sheng-hanma-teou-ritao-zou-44sui-rong-yi-zhe-wodai-bu-jing-shi-ting.md",
+      "ts": 1777628753
+    },
+    "8dd0285a9dca59e5e52846893d2e925f6365d02b3906185b783f65e336dd8e3d": {
+      "link": "http://www3.nhk.or.jp/news/html/20260501/k10015112801000.html",
+      "title": "旭山動物園 遺体損壊事件 園内で妻のものとみられるスマホ発見",
+      "saved": "2026-05-01-xu-shan-dong-wu-yuan-yi-ti-sun-huai-shi-jian-yuan-nei-teqi-nomonotomirarerusumah.md",
+      "ts": 1777628753
+    },
+    "f69576ed583162d0ef463dad636b14b76663df9afab978649aa598469ee24aa1": {
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9QV2o5QlJfV200TFZILTc5X1pLdkEyd1hkTHFjY2Z5TWJsTy1qUEJwN0NubWxKbWpqTXBEVVJfRXpyd284aVJIOVRyMHJuUm5hcGFWQg?oc=5",
+      "title": "奇跡の木として知られる植物、水道水のマイクロプラスチックを98％除去する能力も判明(1/2) - CNN",
+      "saved": "2026-05-01-qi-ji-nomu-tositezhi-rareruzhi-wu-shui-dao-shui-nomaikurohurasutitukuwo98-chu-qu.md",
+      "ts": 1777628753
+    },
+    "d20c10bca74fafc0c8a9336fd61ef83876efcb54cdbb64ef062cba88ec9842c7": {
+      "link": "https://www.itmedia.co.jp/news/articles/2605/01/news112.html",
+      "title": "LINEの“iOS／Android間でも履歴完全移行”機能にまた不具合、一部履歴が復元できず　公開鍵の保存不備で",
+      "saved": "2026-05-01-lineno-ios-androidjian-temolu-li-wan-quan-yi-xing-ji-neng-nimatabu-ju-he-yi-bu-l.md",
+      "ts": 1777628753
+    },
+    "e3e78d4fbc947f542bcd16d168356a7e524fc5e189819833e748ec91812cf9d8": {
+      "link": "https://www.itmedia.co.jp/news/articles/2605/01/news111.html",
+      "title": "イエローハット子会社で最大345万人分の情報漏えいか　データ持ち出しの痕跡確認",
+      "saved": "2026-05-01-ierohatutozi-hui-she-tezui-da-345mo-ren-fen-noqing-bao-lou-eika-tetachi-tichu-si.md",
+      "ts": 1777628753
+    },
+    "3e2721588a44cc4ee5d0a46382766dc0f6399c7ba138e4b3c558065b08ed26de": {
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqM0dMNUNDZlZxSTlJMnJSSmF4R1k1VzVEaGFWcVhrUXM2MlNLOUhzRTFIaVNTcm9BWGZiZG96YVdVNHROR2JaNURTbm5zSi1SNWtQY0VhMGlfUQ?oc=5",
+      "title": "バンクシーの新たな彫像、ロンドンに登場 無批判な愛国心を風刺か - CNN",
+      "saved": "2026-05-01-hankusinoxin-tanadiao-xiang-rontonnideng-chang-wu-pi-pan-naai-guo-xin-wofeng-ci-.md",
+      "ts": 1777628753
+    },
+    "b4c61b65eac23f9a3ef7d9181aa482bdd841b7ad46443e5e11433defc7c1ee57": {
+      "link": "https://www.itmedia.co.jp/news/articles/2605/01/news109.html",
+      "title": "「Gemini」「NotebookLM」のエンタープライズ版、“政府認定サービス”入り　政府調達の対称に",
+      "saved": "2026-05-01-gemini-notebooklm-noentahuraisuban-zheng-fu-ren-ding-sahisu-ru-ri-zheng-fu-diao-.md",
+      "ts": 1777628753
+    },
+    "926317ddb8ca4f01a8621428a80256d8de30129e75b1860191a375928b1d3b23": {
+      "link": "http://www3.nhk.or.jp/news/html/20260501/k10015112701000.html",
+      "title": "フィギュア 中井亜美が祝賀会で決意「より成長した姿を」",
+      "saved": "2026-05-01-huikiyua-zhong-jing-ya-mei-kazhu-he-hui-tejue-yi-yoricheng-chang-sitazi-wo.md",
+      "ts": 1777628753
+    },
+    "43272da9ed18dc8be7b2f6988105749fe9e16ba3763ccb949c734be1ea2d5976": {
+      "link": "https://www.itmedia.co.jp/news/articles/2605/01/news105.html",
+      "title": "「いらすとやメーカー」登場　パーツを自在にカスタマイズで、“被り”も回避可能？",
+      "saved": "2026-05-01-irasutoyameka-deng-chang-hatuwozi-zai-nikasutamaisute-bei-ri-mohui-bi-ke-neng.md",
+      "ts": 1777628753
+    },
+    "3ed836faf8c86606ec7732b8e7622371ab6ab8b5a2c839033b8b16a33e2be35d": {
+      "link": "http://www3.nhk.or.jp/news/html/20260501/k10015112711000.html",
+      "title": "バンクシー新作の像 ロンドンに出現 “盲目的な愛国心”風刺か",
+      "saved": "2026-05-01-hankusixin-zuo-noxiang-rontonnichu-xian-mang-mu-de-naai-guo-xin-feng-ci-ka.md",
+      "ts": 1777628753
+    },
+    "ccf646342bd49c90ef24aec89a784d1dca33767861e9fa11eb7da7f0a8c8afd0": {
+      "link": "https://www.itmedia.co.jp/news/articles/2605/01/news103.html",
+      "title": "楽天カード利用者に「詐欺サイトに入力した疑いあり」警告開始　セキュリティ企業と連携",
+      "saved": "2026-05-01-le-tian-katoli-yong-zhe-ni-zha-qi-saitoniru-li-sitayi-iari-jing-gao-kai-shi-seki.md",
+      "ts": 1777628753
+    },
+    "7cabc9fddae01aea0489da9504f59722251c8515daed7b1f36890ba1fcccfb3c": {
+      "link": "https://www.itmedia.co.jp/news/articles/2605/01/news099.html",
+      "title": "東証、KDDIに違約金9120万円　子会社の架空取引で「投資者の信頼を損なった」",
+      "saved": "2026-05-01-dong-zheng-kddiniwei-yue-jin-9120mo-yuan-zi-hui-she-nojia-kong-qu-yin-te-tou-zi-.md",
+      "ts": 1777628753
+    },
+    "1b3a994fe1f6eb39d2224238174c92acafe4ea9a8081bf5606d709918458d98e": {
+      "link": "http://www3.nhk.or.jp/news/html/20260501/k10015112681000.html",
+      "title": "納豆や冷蔵ギョーザ販売休止の動き“資材の調達困難”など理由",
+      "saved": "2026-05-01-na-dou-yaleng-zang-kiyosafan-mai-xiu-zhi-nodong-ki-zi-cai-nodiao-da-kun-nan-nato.md",
+      "ts": 1777628753
+    },
+    "95c87d197427358e120741c90c414ea537a1e57413d77c55311e9254007e7449": {
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBoSTNRaWRZMHNxUWhHME5UUUNnV2w2MTB2VnJiQVBhcDVvdlhXak5QZExpMDFYeXpwS2V2Ujd1X282UkNOa0RxWGNfQ2tmRGtpMDlZUw?oc=5",
+      "title": "エジプトで発掘したミイラの腹部から「イリアス」の一節を記したパピルスが見つかった/Ministry of Tourism and Antiquities - CNN",
+      "saved": "2026-05-01-esihutotefa-jue-sitamiiranofu-bu-kara-iriasu-noyi-jie-woji-sitahahirusukajian-tu.md",
+      "ts": 1777628753
     }
   }
 }
