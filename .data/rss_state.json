@@ -1,95 +1,5 @@
 {
   "done": {
-    "1cbc6dbb0fc1d92f3ccd3d273d287895b2e11f00e9872c4db23bbdf675d1f6ef": {
-      "link": "http://www3.nhk.or.jp/news/html/20260407/k10015094011000.html",
-      "title": "森保監督 W杯代表“けがの選手の回復具合など確認し最終判断”",
-      "saved": "2026-04-07-sen-bao-jian-du-wbei-dai-biao-kekanoxuan-shou-nohui-fu-ju-he-natoque-ren-sizui-z.md",
-      "ts": 1775540801
-    },
-    "0e314c62d70813fd7f1ba7bc5f2f3045e53e269dbe32ec7adfb12b9b445b75a8": {
-      "link": "http://www3.nhk.or.jp/news/html/20260407/k10015093621000.html",
-      "title": "NY原油市場 WTIの先物価格 一時1バレル＝116ドル台まで上昇",
-      "saved": "2026-04-07-nyyuan-you-shi-chang-wtinoxian-wu-jia-ge-yi-shi-1hareru-116torutai-mateshang-she.md",
-      "ts": 1775540801
-    },
-    "ec896880a8ce55128084015eca13ebeeb0a3189d18bca8c0499de2b341a60c81": {
-      "link": "https://www.bbc.com/japanese/articles/cm2kd5py85mo?at_medium=RSS&at_campaign=rss",
-      "title": "ガザで10人殺害されたと現地情報筋、イスラエルの空爆やハマスと民兵組織の衝突で",
-      "saved": "2026-04-07-kasate10ren-sha-hai-saretatoxian-di-qing-bao-jin-isuraerunokong-bao-yahamasutomi.md",
-      "ts": 1775540801
-    },
-    "a08677b939d260fcbf20ef81cf53456be663818c47a56010bf615ea0f70463af": {
-      "link": "http://www3.nhk.or.jp/news/html/20260407/k10015094001000.html",
-      "title": "韓国 サムスン電子 1～3月 営業利益 前年同時期の8倍超",
-      "saved": "2026-04-07-han-guo-samusundian-zi-1-3yue-ying-ye-li-yi-qian-nian-tong-shi-qi-no8bei-chao.md",
-      "ts": 1775540801
-    },
-    "d86194908793f3bae39fb1f87f0089f4c5cc510600ca31f129c13f6d4fec7338": {
-      "link": "https://www.bbc.com/japanese/articles/c9d4x7zn37no?at_medium=RSS&at_campaign=rss",
-      "title": "月の「裏」を回った宇宙船オリオン、「ヒューストン、通信確認」と交信　「私たちも皆さんを見ています」",
-      "saved": "2026-04-07-yue-no-li-wohui-tutayu-zhou-chuan-orion-hiyusuton-tong-xin-que-ren-tojiao-xin-si.md",
-      "ts": 1775540801
-    },
-    "8485ed96fc074f93e0a34b8d8861cafa9121dcc1410308164b86f20fa5b78370": {
-      "link": "https://www.itmedia.co.jp/business/articles/2604/07/news083.html",
-      "title": "ローソン、オフィス内に「棚単位」で出店　KDDI拠点で実証開始",
-      "saved": "2026-04-07-roson-ohuisunei-ni-peng-dan-wei-techu-dian-kddiju-dian-teshi-zheng-kai-shi.md",
-      "ts": 1775540801
-    },
-    "ead62b60d666d4783d00d07c1ea53d93725b3f5bc8608dff0426f2bb5d26b155": {
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBINmlBNE5GenFOQ3M0Nl9TN21fVDhrTEc4VEpodTl1V1BZV0NyZVlMczBjWDNlM3A1VHFXanh1MndkWXlmTFRpM0VPYlRIbXM?oc=5",
-      "title": "何歳からでも脳は書き換えられる、神経外科医が解説 - CNN",
-      "saved": "2026-04-07-he-sui-karatemonoy-hashu-kihuan-erareru-shen-jing-wai-ke-yi-kajie-shuo-cnn.md",
-      "ts": 1775540801
-    },
-    "a082b2bdd9b7d05b0f36b8c1dce23b58762bfc6925b1d69756cb04cb1dacddd1": {
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BLTc1V0FBQncxcFlLYkkxelo2SVpMYURVbTI1VEJGSjJqM2U2TWx0SktfYWNxSUt1WDF5NFVqQmdSSVRFTHdNc185Z0ZRcTlaYXBv?oc=5",
-      "title": "ハイチのギャング組織、半数は子どもで構成 派遣される外国部隊と対峙も(1/3) - CNN",
-      "saved": "2026-04-07-haitinokiyankuzu-zhi-ban-shu-hazi-tomotegou-cheng-pai-qian-sareruwai-guo-bu-dui-.md",
-      "ts": 1775540801
-    },
-    "04173ac42e7a7a20ca7c37f6f8fa68f154a12cb9d4549fa9ff38bbca23833674": {
-      "link": "https://www.itmedia.co.jp/news/articles/2604/07/news088.html",
-      "title": "アルテミスの宇宙船が54年ぶりに有人月周回　月面に6545kmまで接近",
-      "saved": "2026-04-07-arutemisunoyu-zhou-chuan-ka54nian-huriniyou-ren-yue-zhou-hui-yue-mian-ni6545kmma.md",
-      "ts": 1775540801
-    },
-    "f04b9d6f25510515da3eda6d3c64dabe2d2ba16f64ba1b1e3c6198076c8e4599": {
-      "link": "http://www3.nhk.or.jp/news/html/20260407/k10015093971000.html",
-      "title": "ホワイトソックス 村上宗隆 2試合続けて無安打 チームも敗れる",
-      "saved": "2026-04-07-howaitosotukusu-cun-shang-zong-long-2shi-he-sok-ketewu-an-da-timumobai-reru.md",
-      "ts": 1775540801
-    },
-    "c4e259e2c14120fa6642396edbd1332b81ba48312e7b3b24c48554d126328ee1": {
-      "link": "http://www3.nhk.or.jp/news/html/20260407/k10015093961000.html",
-      "title": "レッドソックス 吉田正尚 2試合連続ヒットもチームは敗れ3連敗",
-      "saved": "2026-04-07-retutosotukusu-ji-tian-zheng-shang-2shi-he-lian-sok-hitutomotimuhabai-re3lian-ba.md",
-      "ts": 1775540801
-    },
-    "7fbde6a7deec0ef94797871c9af9b34c1c3800821e0acabd7e51aea315ca30df": {
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA4WkZMQnV2SXRtYThfSEhmZ3VvUWVWMFEtYU1xOFQ1MThRbW5YMmotVXN5T1A2QUk1cFRhWGdUbnEySnR6NkJ3clRVNWp4TXdCZEgyZw?oc=5",
-      "title": "受動的に画面を見続けると認知症リスクが上昇する可能性 座ったままでも脳の健康を保つ秘訣は - CNN",
-      "saved": "2026-04-07-shou-dong-de-nihua-mian-wojian-sok-kerutoren-zhi-zheng-risukukashang-sheng-suruk.md",
-      "ts": 1775540801
-    },
-    "fe4017d35b05df3cc2206a2f818cf87e8c4393c52ff36e6c85132d759843165a": {
-      "link": "https://www.bbc.com/japanese/articles/cn9q503318do?at_medium=RSS&at_campaign=rss",
-      "title": "トランプ氏、「一夜で」イランを壊滅させると警告　7日夜までにホルムズ海峡開放なければ",
-      "saved": "2026-04-07-toranhushi-yi-ye-te-iranwohuai-mie-saserutojing-gao-7ri-ye-matenihorumusuhai-xia.md",
-      "ts": 1775540801
-    },
-    "c91b9e911e279a835dcc6f820bcf0555ab38d689bc5338b28349f95b121becbd": {
-      "link": "http://www3.nhk.or.jp/news/html/20260407/k10015093851000.html",
-      "title": "ゼンショーHD創業者 小川賢太郎会長 死去 すき家を全国に拡大",
-      "saved": "2026-04-07-sensiyohdchuang-ye-zhe-xiao-chuan-xian-tai-lang-hui-chang-si-qu-sukijia-woquan-g.md",
-      "ts": 1775540801
-    },
-    "bf753db18d46a6fdfce033a44c1286b0e79a48d7bc685412acf5751acbd7c9bd": {
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RUVFUR2tKSFk0Qk84WFRfTk9aVFhMeUd5UENLUzhZQmh0bGg4eVJiajVMUWhiR0xHendVQ0UtLUdHVFlyTVdEbEFJemR4YU1LQmNV?oc=5",
-      "title": "派遣された外国部隊による性的虐待事案を調査、国連が詳細報告 ハイチ - CNN",
-      "saved": "2026-04-07-pai-qian-saretawai-guo-bu-dui-niyoruxing-de-nue-dai-shi-an-wodiao-cha-guo-lian-k.md",
-      "ts": 1775540801
-    },
     "c1369074216ce1f70e76380071e3382a2ba618b67479dc7a85d9f1eda9bef72c": {
       "link": "http://www3.nhk.or.jp/news/html/20260407/k10015094021000.html",
       "title": "今年度予算案 このあと参議院本会議で採決へ 成立の見通し",
@@ -12695,6 +12605,168 @@
       "title": "退職一時金を「廃止」する会社は増えるのか　優秀人材が逃げる給与シフトの成否",
       "saved": "2026-05-07-tui-zhi-yi-shi-jin-wo-fei-zhi-suruhui-she-hazeng-erunoka-you-xiu-ren-cai-katao-k.md",
       "ts": 1778122357
+    },
+    "1ee044c42e0c65c5689575de8cd77a450d3b18a5fb5895dbd8a997a86c8f2556": {
+      "link": "https://www.bbc.com/japanese/articles/c62exzn6282o?at_medium=RSS&at_campaign=rss",
+      "title": "日本の「反戦姿勢」、なぜ見直しの動きがあるのか",
+      "saved": "2026-05-07-ri-ben-no-fan-zhan-zi-shi-nasejian-zhi-sinodong-kikaarunoka.md",
+      "ts": 1778135687
+    },
+    "32b4fab3f28eb421a8a81cf79e966a535ce23e9a28ea63a428da3adb39973214": {
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBKTUp5eGJpRmRtdk5HMlNMaGQwaVB4TjQ3dVdHVWtUVXZLNkNhZ0U2dm5ZUjRkOWg4N0s1dF96X2wzdjlEd0xQeW1EcXJkdm5TQjZpNg?oc=5",
+      "title": "過去最大のブラックホールフレアを観測、太陽10兆個分の光放出 - CNN",
+      "saved": "2026-05-07-guo-qu-zui-da-nohuratukuhoruhureawoguan-ce-tai-yang-10zhao-ge-fen-noguang-fang-c.md",
+      "ts": 1778135687
+    },
+    "f6dd4ad94009a8476b53ed50f3669aa9adecbb04f110e1bdc9ad480e71791c4a": {
+      "link": "http://www3.nhk.or.jp/news/html/20260507/k10015115981000.html",
+      "title": "ハンタウイルス確認のクルーズ船 3人移送 感染源調査も",
+      "saved": "2026-05-07-hantauirusuque-ren-nokurusuchuan-3ren-yi-song-gan-ran-yuan-diao-cha-mo.md",
+      "ts": 1778135687
+    },
+    "9505cedfb188caf8f6cf6db555ac69d98076ef22053b9596c524e86542f796ea": {
+      "link": "https://www.itmedia.co.jp/news/articles/2605/07/news075.html",
+      "title": "「セーラームーンに似ている」　生成AIを使った化粧品の広告が物議　メーカーは謝罪と広告の撤去を発表",
+      "saved": "2026-05-07-seramunnisi-teiru-sheng-cheng-aiwoshi-tutahua-zhuang-pin-noguang-gao-kawu-yi-mek.md",
+      "ts": 1778135687
+    },
+    "8d928513cbd2751318f5bf018a0c42185c3322cd07ef07b2708ef23f7fa53765": {
+      "link": "https://www.itmedia.co.jp/business/articles/2605/07/news008.html",
+      "title": "4950円のセレブ牛丼、100畳の休憩空間……　高輪ゲートウェイシティが、異色すぎる挑戦をするワケ",
+      "saved": "2026-05-07-4950yuan-noserehuniu-jing-100die-noxiu-qi-kong-jian-gao-lun-ketoueisiteika-yi-se.md",
+      "ts": 1778135687
+    },
+    "e7a23406406d4cc2e745690bc442a80b68a833e66d37bad88a0f58f0ddf962a0": {
+      "link": "http://www3.nhk.or.jp/news/html/20260507/k10015115941000.html",
+      "title": "熊本 八代市新庁舎工事めぐり 市議ら あっせん収賄容疑で逮捕",
+      "saved": "2026-05-07-xiong-ben-ba-dai-shi-xin-ting-yadoru-gong-shi-mekuri-shi-yi-ra-atusenshou-hui-ro.md",
+      "ts": 1778135687
+    },
+    "0c7762e18e6cfb601aa5a07b3a752f51d84c091a571392a2f6933954a29ceb4d": {
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0V19nbHoxQ0I3QkhVcXhtU3NOeUloT055aVN0Nlo0aDRjZTcwY2lhdGUxMnNSam85UjN1Zm5EdzliWVVlbk9XbkVVMlFjWFcx?oc=5",
+      "title": "トランプ氏、米国はイラン情勢を「非常にうまく制御」 軍人の母親を前に - CNN",
+      "saved": "2026-05-07-toranhushi-mi-guo-hairanqing-shi-wo-fei-chang-niumakuzhi-yu-jun-ren-nomu-qin-woq.md",
+      "ts": 1778135687
+    },
+    "fee412717aea299216d07cc836fc6dc5eda7625ec9b0ead71dfbb19bb87bc3f6": {
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UWEFOUVBsUVQ5OEdJOWxrd0JnTGxUUVpsMmticjMwd0g2MkFia3piRXNyczlvWkNvNTlrNWpGMHRZZXRVWHRvVEFiaXNsXzR1TzdNVA?oc=5",
+      "title": "太陽系外縁の小天体に「あるはずのない」大気を発見 冥王星以外で初 - CNN",
+      "saved": "2026-05-07-tai-yang-xi-wai-yuan-noxiao-tian-ti-ni-aruhasunonai-da-qi-wofa-jian-ming-wang-xi.md",
+      "ts": 1778135687
+    },
+    "07d0647925f78b9f4153f7900f19e239ab44c6584fffde873bb06ab06065035a": {
+      "link": "http://www3.nhk.or.jp/news/html/20260507/k10015115931000.html",
+      "title": "カブス 鈴木誠也 日米通算1500安打 チームは8連勝",
+      "saved": "2026-05-07-kahusu-ling-mu-cheng-ye-ri-mi-tong-suan-1500an-da-timuha8lian-sheng.md",
+      "ts": 1778135687
+    },
+    "3dfa8d96c8af574ee806cfc9b69a0540e23cde6d879a2c84b9914eee81cea5c1": {
+      "link": "http://www3.nhk.or.jp/news/html/20260507/k10015115871000.html",
+      "title": "レッドソックス 吉田正尚 先発出場で2安打",
+      "saved": "2026-05-07-retutosotukusu-ji-tian-zheng-shang-xian-fa-chu-chang-te2an-da.md",
+      "ts": 1778135687
+    },
+    "9fad454f98cdfdddfb5c102a8616537d6b3167073dbd741afd896adaed343cb5": {
+      "link": "https://www.itmedia.co.jp/business/articles/2605/07/news077.html",
+      "title": "「10円ライス」に「100円ランチ」学食で格安が続々、理由は？",
+      "saved": "2026-05-07-10yuan-raisu-ni-100yuan-ranti-xue-shi-tege-an-kasok-li-you-ha.md",
+      "ts": 1778135687
+    },
+    "618bfaecc631ff7fb3e768bd018da9e9e988806ff1c48b0810adae745e47688e": {
+      "link": "https://www.itmedia.co.jp/news/articles/2605/07/news072.html",
+      "title": "富士通、予備自衛官の管理業務をデジタル化　招集や教育も効率化、災害救助にも一役",
+      "saved": "2026-05-07-fu-shi-tong-yu-bei-zi-wei-guan-noguan-li-ye-wu-wotesitaruhua-zhao-ji-yajiao-yu-m.md",
+      "ts": 1778135687
+    },
+    "6a98a4f615909cab2f59c14be305a3f1f1126373266bb69d9ebaf9d7b633760f": {
+      "link": "https://www.itmedia.co.jp/news/articles/2605/08/news012.html",
+      "title": "車から人型へ50秒で変形、全長4.7mの乗用ロボ「SR-01」に乗ってきた　まるでトランスフォーマー？",
+      "saved": "2026-05-07-che-kararen-xing-he50miao-tebian-xing-quan-chang-4-7mnocheng-yong-roho-sr-01-nic.md",
+      "ts": 1778135687
+    },
+    "b152146e155df36a1f8759418e90987399e210581ab8470c077d448705efdb1d": {
+      "link": "https://www.bbc.com/japanese/articles/c7758d8nnrdo?at_medium=RSS&at_campaign=rss",
+      "title": "中国、ホルムズ海峡の「早期」再開を求める　イランと外相会談",
+      "saved": "2026-05-07-zhong-guo-horumusuhai-xia-no-zao-qi-zai-kai-woqiu-meru-irantowai-xiang-hui-tan.md",
+      "ts": 1778135687
+    },
+    "fd3a939bf99f92f8070242270fcc48bbacc823031b81487bd108efd6bf9be4e6": {
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2cHl2d1QwbG9RYlQ3WHVKY3M3UThvLVFPZ2tCSnI4WEdPanRDdmRWb0lYNjBUdFBPYVVTRWszam1JU2w2c0dIb2Fxd2oyMXQ1Sl9n?oc=5",
+      "title": "英キャサリン妃がイタリア訪問へ、がん治療後初の海外公務 - CNN",
+      "saved": "2026-05-07-ying-kiyasarinfei-kaitariafang-wen-he-kanzhi-liao-hou-chu-nohai-wai-gong-wu-cnn.md",
+      "ts": 1778135687
+    },
+    "8475a74617e50d2b4b7b835a97bdafc5ab0d4de1d1a95ecb07ad87ced3867bb9": {
+      "link": "http://www3.nhk.or.jp/news/html/20260507/k10015115761000.html",
+      "title": "磐越道 高校生死亡の事故 生徒は後部座席から投げ出されたか",
+      "saved": "2026-05-07-pan-yue-dao-gao-xiao-sheng-si-wang-noshi-gu-sheng-tu-hahou-bu-zuo-xi-karatou-kec.md",
+      "ts": 1778135687
+    },
+    "cada19ab6ec4ba1ef150e77a7b8860b611d0aaefa41bdbd7f9158b7125446f76": {
+      "link": "https://www.bbc.com/japanese/articles/cy02d8x39z5o?at_medium=RSS&at_campaign=rss",
+      "title": "イスラエル、レバノン首都を空爆　ヒズボラとの戦闘で停戦後初めて",
+      "saved": "2026-05-07-isuraeru-rehanonshou-du-wokong-bao-hisuhoratonozhan-dou-teting-zhan-hou-chu-mete.md",
+      "ts": 1778135687
+    },
+    "ac6436000692fd8243553d63a8517bee22a3d50bcf6fcd833405308ae1efeb2b": {
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9vNU1oQ3FleHdfY1oxM0Z1cDZVYlRGZDd6eG9FMWl2OWxRZ1QwcWYxWUJvamRZTkRUdVJ3TEpiVF9ST1B2QzYwRkJWdzFzd0xmMHpyNA?oc=5",
+      "title": "人から人に感染するハンタウイルス「アンデス株」とは アルゼンチンで2018年に集団感染(1/2) - CNN",
+      "saved": "2026-05-07-ren-kararen-nigan-ran-suruhantauirusu-antesuzhu-toha-arusentinte2018nian-niji-tu.md",
+      "ts": 1778135687
+    },
+    "0b152de935637836d50258fc39a7d0f3072e5182fa6d01a595756be5369c4888": {
+      "link": "http://www3.nhk.or.jp/news/html/20260507/k10015115831000.html",
+      "title": "エプスタイン問題 ラトニック商務長官が議会で証言 現職閣僚初",
+      "saved": "2026-05-07-ehusutainwen-ti-ratonitukushang-wu-chang-guan-kayi-hui-tezheng-yan-xian-zhi-ge-l.md",
+      "ts": 1778135687
+    },
+    "abdb16f08af55cf2070fdca1f8e29e7fefd26aa94f081700b47227f4e8252fcf": {
+      "link": "http://www3.nhk.or.jp/news/html/20260507/k10015115841000.html",
+      "title": "米ベッセント財務長官 米中首脳会談前に訪日へ 高市首相と会談",
+      "saved": "2026-05-07-mi-hetusentocai-wu-chang-guan-mi-zhong-shou-noy-hui-tan-qian-nifang-ri-he-gao-sh.md",
+      "ts": 1778135687
+    },
+    "6eb0fbe31d87f53c8af226465decdbcc0b970adba7434b806ed32b57ad908374": {
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByYVFzSFNHTzd0bHJ0LTgtaXB2SGxJRlZLX016QzlaakZZa21pNC1UZkNBaVZtU2NUeG9qX3dCRmZxaURPZUppQUE0Y3ZCd0lEbjFz?oc=5",
+      "title": "世界有数の大都市、宇宙からも確認できる驚異的な速度で沈下 - CNN",
+      "saved": "2026-05-07-shi-jie-you-shu-noda-du-shi-yu-zhou-karamoque-ren-tekirujing-yi-de-nasu-du-teche.md",
+      "ts": 1778135687
+    },
+    "b05cb7e4f8c518fbee97d99aa3cc56b9e657ba160c55fee44436279020f21ec2": {
+      "link": "https://www.itmedia.co.jp/news/articles/2605/04/news015.html",
+      "title": "“白髪”はがんから体を守った印？　急な黒髪復活は要注意、頭皮活性化に警鐘──東大などがNature系列で2025年に発表",
+      "saved": "2026-05-07-bai-fa-hakankarati-woshou-tutayin-ji-nahei-fa-fu-huo-hayao-zhu-yi-tou-pi-huo-xin.md",
+      "ts": 1778135687
+    },
+    "01d5ac67efae63bb4f7ced42ad54e19549f55d35f7234729f891b4f8ec053ff5": {
+      "link": "https://www.itmedia.co.jp/news/articles/2605/07/news018.html",
+      "title": "“腹筋”がポンプとなり脳内のゴミを洗い流す？　腹部収縮による脳内体液の循環システムをマウスで確認、Nature系列で掲載",
+      "saved": "2026-05-07-fu-jin-kahonhutonarinoy-nei-nokomiwoxi-iliu-su-fu-bu-shou-suo-niyorunoy-nei-ti-y.md",
+      "ts": 1778135687
+    },
+    "30f853ab757ad253cd9b3ae60933ef82a7a4d10ac359db78ff5fc37dc49f5b66": {
+      "link": "https://www.bbc.com/japanese/articles/c5y9xkwyl1no?at_medium=RSS&at_campaign=rss",
+      "title": "イラン、アメリカの提案を「検討中」　14項目の覚書で合意近づくと米報道",
+      "saved": "2026-05-07-iran-amerikanoti-an-wo-jian-tao-zhong-14xiang-mu-nojue-shu-tehe-yi-jin-tukutomi-.md",
+      "ts": 1778135687
+    },
+    "3d8cdaf9bcc2c86cce3ac6ca09d0fe4e5f647a87151fc51e0165f9398c5f61e2": {
+      "link": "https://www.itmedia.co.jp/news/articles/2605/07/news061.html",
+      "title": "大気が存在する太陽系外縁天体、国立天文台など発見　冥王星以外では初",
+      "saved": "2026-05-07-da-qi-kacun-zai-surutai-yang-xi-wai-yuan-tian-ti-guo-li-tian-wen-tai-natofa-jian.md",
+      "ts": 1778135687
+    },
+    "9dce438cfa19b57b910b0e7e9e612608bc2aa0183bfa0ccbbb9ad91266bbad45": {
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzMnJIU2o2dWV3eEQ4NEFKM2p3VldSYnBoY1BvMVVHMzQxMWJ6VGplcFUzTlh5Uy1OR1VGVkgzNUZMbE1QRFVFeThITFQyR3hSVW9LLVplSzhSTWVET2JqX29FSDh1YmF6Z3c?oc=5",
+      "title": "閑散としたモスクワのショッピングモールが物語る、ロシア経済の苦境 - CNN",
+      "saved": "2026-05-02-xian-san-tositamosukuwanosiyotuhinkumorukawu-yu-ru-rosiajing-ji-noku-jing-cnn.md",
+      "ts": 1778135687
+    },
+    "7f04b2f1b3d6a2b4d3e422bc7fe31566c693feac72d81af080eb255ed52ecb02": {
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWWUt5Mkt2amlXSEpUV3pGU1BHRmpjNkZCMklIZUZUY25WU19QS1NwRDE0M0NzbmxaWXppZzN3YThhWElsYXBTQXlBNW9iMEk?oc=5",
+      "title": "ロシアの爆撃機、滑走路で炎上 - CNN",
+      "saved": "2025-06-02-rosianobao-ji-ji-hua-zou-lu-teyan-shang-cnn.md",
+      "ts": 1778135687
     }
   }
 }
