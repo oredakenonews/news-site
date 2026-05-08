@@ -1,35 +1,5 @@
 {
   "done": {
-    "8c3f5bf75fa263bc842ab9089aea612318d5790c9835eabe05ca8d5988692cfa": {
-      "link": "https://www.itmedia.co.jp/news/articles/2604/08/news098.html",
-      "title": "全盲の4人、AIで「映像監督」に　音から広がるイメージを生成AIでMV化",
-      "saved": "2026-04-08-quan-mang-no4ren-aite-ying-xiang-jian-du-ni-yin-karaguang-karuimesiwosheng-cheng.md",
-      "ts": 1775632812
-    },
-    "e82987e9f5f232186708809e1f7ba12f3d73960c61a1da687296d732d0a7468c": {
-      "link": "http://www3.nhk.or.jp/news/html/20260408/k10015094831000.html",
-      "title": "ガソリン価格 全国平均1リットル167.4円 3週連続で下落",
-      "saved": "2026-04-08-kasorinjia-ge-quan-guo-ping-jun-1ritutoru167-4yuan-3zhou-lian-sok-texia-luo.md",
-      "ts": 1775632812
-    },
-    "e08625a0412c932b5ec089fd51883d6b20a54c5aed95d0ade57c9a12342253a1": {
-      "link": "http://www3.nhk.or.jp/news/html/20260408/k10015094791000.html",
-      "title": "福島 郡山 住宅街にいたクマ 高速道路沿いの茂みに 警戒続く",
-      "saved": "2026-04-08-fu-dao-jun-shan-zhu-zhai-jie-niitakuma-gao-su-dao-lu-yan-inomao-mini-jing-jie-so.md",
-      "ts": 1775632812
-    },
-    "9831ee4e6e62e99f73ce0981eb829d5f09f3b0dde1d29795d9eea9b003dad0ae": {
-      "link": "http://www3.nhk.or.jp/news/html/20260408/k10015094811000.html",
-      "title": "松山英樹 5年ぶり優勝目指すマスターズ 開幕前に意気込み",
-      "saved": "2026-04-08-song-shan-ying-shu-5nian-huriyou-sheng-mu-zhi-sumasutasu-kai-mu-qian-niyi-qi-ip-.md",
-      "ts": 1775632812
-    },
-    "e367d014c8966ff2fcc49a90cdaa40593013df199a6239cf3fdd977141fb5109": {
-      "link": "https://www.itmedia.co.jp/business/articles/2604/08/news073.html",
-      "title": "“シンナー高騰”が直撃　「塗装工事業」倒産、過去20年で最多に",
-      "saved": "2026-04-08-sinnagao-teng-kazhi-ji-tu-zhuang-gong-shi-ye-dao-chan-guo-qu-20nian-tezui-duo-ni.md",
-      "ts": 1775632812
-    },
     "4cb766e6ddbdf79d9c9b324061a61607b74952ab78eec896c29fc19a189d9436": {
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xUTROWWhva3MtYUM2a1JKbDJtUU5INC10cHROanAtZXp0VHRKc3ZEMWYtc2FmNkZxdXpPQ29lN29TMFJlWkx6TmgzcG01ZjVGTktF?oc=5",
       "title": "停戦に懐疑的なイラン国民、首都で米・イスラエル国旗燃やす姿も - CNN",
@@ -12671,6 +12641,66 @@
       "title": "大相撲夏場所 角番の大関 安青錦が初日と2日目を休場へ",
       "saved": "2026-05-08-da-xiang-pu-xia-chang-suo-jiao-fan-noda-guan-an-qing-jin-kachu-ri-to2ri-mu-woxiu.md",
       "ts": 1778219815
+    },
+    "528d170ab12db61d451b8d37bb169204ec789350e81ecfff404151d951870974": {
+      "link": "http://www3.nhk.or.jp/news/html/20260508/k10015116861000.html",
+      "title": "レイカーズ 八村塁 16得点もチームは2連敗",
+      "saved": "2026-05-08-reikasu-ba-cun-toride-16de-dian-motimuha2lian-bai.md",
+      "ts": 1778226451
+    },
+    "9f930d2d6f42756f1af763e576af831a12cfa83a6e27e41168cd6cc46d63e439": {
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB2QWNLZngxcDd2dXRpTFQzY3pROGxQQ1RuQklzSnVQQzZubjQwNU90ekl3U1FKTGpuQ2tiZFUxS3J2b1pkNEw4a2xHdEI4QWI2?oc=5",
+      "title": "USAID解体で混乱、米支援物資がイエメンの親イラン系勢力に流出した経緯とは(1/2) - CNN",
+      "saved": "2026-05-08-usaidjie-ti-tehun-luan-mi-zhi-yuan-wu-zi-kaiemennoqin-iranxi-shi-li-niliu-chu-si.md",
+      "ts": 1778226451
+    },
+    "c571791142fbaa2c2c0052ba1f9295ab77b41b6c985a4f5e7264ad5e31f76e44": {
+      "link": "https://www.bbc.com/japanese/articles/cn4pjyepnk7o?at_medium=RSS&at_campaign=rss",
+      "title": "日本で反戦デモ拡大　高市首相が防衛力強化を掲げる中",
+      "saved": "2026-05-08-ri-ben-tefan-zhan-temokuo-da-gao-shi-shou-xiang-kafang-wei-li-qiang-hua-wojie-ke.md",
+      "ts": 1778226451
+    },
+    "59c97e567e5d7331239224c4d7007a31f3a8d517f590269ad196ac8159c7a9b8": {
+      "link": "https://www.itmedia.co.jp/news/articles/2605/08/news101.html",
+      "title": "「Switch 2」値上げへ　1万円アップの5万9980円に",
+      "saved": "2026-05-08-switch-2-zhi-shang-kehe-1mo-yuan-atuhuno5mo-9980yuan-ni.md",
+      "ts": 1778226451
+    },
+    "068027170c99404d1f3f0f398cba98ba3e2baa13bb56c7f88e8a2776973bdbce": {
+      "link": "http://www3.nhk.or.jp/news/html/20260508/k10015116841000.html",
+      "title": "ソニーグループ決算 映画ヒットで増収もEV中止で最終減益に",
+      "saved": "2026-05-08-sonikuruhujue-suan-ying-hua-hitutotezeng-shou-moevzhong-zhi-tezui-zhong-jian-yi-.md",
+      "ts": 1778226451
+    },
+    "bd2e72140089208dd75cdb5fa50b7b91a94b27ac417c333aebe46b43cf60cb62": {
+      "link": "http://www3.nhk.or.jp/news/html/20260508/k10015116831000.html",
+      "title": "アメリカ キューバへの圧力強化 軍傘下企業の資産凍結",
+      "saved": "2026-05-08-amerika-kiyuhahenoya-li-qiang-hua-jun-san-xia-qi-ye-nozi-chan-dong-jie.md",
+      "ts": 1778226451
+    },
+    "36aef5c5cec24a6687dd37bd66dece5738b8d05d9936550471446b62da1c2e27": {
+      "link": "https://www.bbc.com/japanese/articles/cpqp7z90j12o?at_medium=RSS&at_campaign=rss",
+      "title": "トランプ氏、EUが貿易協定を承認しなければ「はるかに高い」関税課すと　7月4日を期限に",
+      "saved": "2026-05-08-toranhushi-eukamao-yi-xie-ding-wocheng-ren-sinakereha-harukanigao-i-guan-shui-ke.md",
+      "ts": 1778226451
+    },
+    "c31861e905a9600746195fa3576948b12e7c8a1eccdb7b90c42c7be4a0a37684": {
+      "link": "https://www.itmedia.co.jp/news/articles/2605/08/news096.html",
+      "title": "ヤフオクも「ちいかわ」ハッピーセット出品一時禁止へ　メルカリに続き",
+      "saved": "2026-05-08-yahuokumo-tiikawa-hatuhisetutochu-pin-yi-shi-jin-zhi-he-merukarinisok-ki.md",
+      "ts": 1778226451
+    },
+    "aa7b92b2f9f72e9785c1da8022eff01537f647626489071d9408ac77681b7b0f": {
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1PZVZrMmV3bFRDY0Y5Z0FheUZ0ZjZ0YW5hUEM5ZnFwaGhlWnRobVZYV1Z1UVJra25ETEdRUE9oZ3FndWtfSmxmdE5rTFo1ODg5?oc=5",
+      "title": "イランの攻撃を難なく撃退か、米軍アーレイ・バーク級駆逐艦の防御兵装とは - CNN",
+      "saved": "2026-05-08-irannogong-ji-wonan-nakuji-tui-ka-mi-jun-areihakuji-qu-zhu-jian-nofang-yu-bing-z-2.md",
+      "ts": 1778226451
+    },
+    "2b00fa07b3fe7bc4cfe34df9bda5ef3a930d143bcca216d8271a48507378953c": {
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5PeFZkR3otRm5uaEV0a3ZOZFVPMUZOamZkaG56dWNyVTRXRVdsamN5OGctMlh0b0F6bWgxVVprbHNBanNRWC1yeU9yTzdWanpQ?oc=5",
+      "title": "【分析】合衆国憲法修正第25条の発動でトランプ氏の解任求める声、超党派で突如高まる - CNN",
+      "saved": "2026-04-08-fen-xi-he-zhong-guo-xian-fa-xiu-zheng-di-25tiao-nofa-dong-tetoranhushi-nojie-ren-2.md",
+      "ts": 1778226451
     }
   }
 }
