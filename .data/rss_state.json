@@ -1,83 +1,5 @@
 {
   "done": {
-    "3ae7aa10870e618fe493cfc5dcb9a4acc99105eacd96878383ab0c6c4582242e": {
-      "link": "http://www3.nhk.or.jp/news/html/20260414/k10015099101000.html",
-      "title": "バスケ女子 田中こころ WNBAドラフトで指名 日本選手史上2人目",
-      "saved": "2026-04-14-hasukenu-zi-tian-zhong-kokoro-wnbatorahutotezhi-ming-ri-ben-xuan-shou-shi-shang-.md",
-      "ts": 1776153637
-    },
-    "37d9d1f74c604c8b6ec6417b878bddebd34466a2fbf94c241539b8b577c64599": {
-      "link": "http://www3.nhk.or.jp/news/html/20260414/k10015099111000.html",
-      "title": "大相撲 引退の剣翔「相撲から離れるのはさみしい」心境語る",
-      "saved": "2026-04-14-da-xiang-pu-yin-tui-nojian-xiang-xiang-pu-karali-rerunohasamisii-xin-jing-yu-ru.md",
-      "ts": 1776153637
-    },
-    "01e8f890c2ae645a4728d88c4e613cad3123c2facdd55bbbf9dfdd86f645d62c": {
-      "link": "https://www.itmedia.co.jp/news/articles/2604/14/news107.html",
-      "title": "警戒レベル併記の新しい「防災気象情報」、5月29日に運用開始　気象庁など発表",
-      "saved": "2026-04-14-jing-jie-reherubing-ji-noxin-sii-fang-zai-qi-xiang-qing-bao-5yue-29ri-niyun-yong.md",
-      "ts": 1776153637
-    },
-    "8f6dd395fdeb0084f0d6a16d90ade6766d63c0d5f5864b9796df72dcea7269b3": {
-      "link": "https://www.bbc.com/japanese/articles/c4gjjv9vj9yo?at_medium=RSS&at_campaign=rss",
-      "title": "カナダのカーニー首相、政権基盤固める　補選で自由党が勝利し過半数確保",
-      "saved": "2026-04-14-kanatanokanishou-xiang-zheng-quan-ji-pan-gu-meru-bu-xuan-tezi-you-dang-kasheng-l.md",
-      "ts": 1776153637
-    },
-    "ad16de9b63d37c491ca5332c37aa43d96c308b2d3e80f4b27d2b227f1ec6d282": {
-      "link": "http://www3.nhk.or.jp/news/html/20260414/k10015098761000.html",
-      "title": "株価が上昇 軍事作戦直後の水準に 米とイラン協議の再開期待で",
-      "saved": "2026-04-14-zhu-jia-kashang-sheng-jun-shi-zuo-zhan-zhi-hou-noshui-zhun-ni-mi-toiranxie-yi-no.md",
-      "ts": 1776153637
-    },
-    "2cdf1048b6b9b115d8d56dfb857872b220075eba483c9fc1c72dbe116d25b88f": {
-      "link": "http://www3.nhk.or.jp/news/html/20260414/k10015099091000.html",
-      "title": "ドジャース 大谷翔平 デッドボールで連続試合出塁47に",
-      "saved": "2026-04-14-tosiyasu-da-gu-xiang-ping-tetutohorutelian-sok-shi-he-chu-toride-47ni.md",
-      "ts": 1776153637
-    },
-    "8749adf46f5e5eeb90ef27c1b983728edea6c6e156c976c7eb04c9dac9589d92": {
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96bGd0R1BMYlBQejZwbUNBYXBMSHNPYXlLVmJPc2JsZlltNVV6UmkzdWtWalM0WWU3RjExQVRHWXlmRkpfN0hzeWdGaGNRX2VSLTIw?oc=5",
-      "title": "トランプ氏、経済的痛手に対するイランの限界値を読み違えか 専門家らが指摘 - CNN",
-      "saved": "2026-04-14-toranhushi-jing-ji-de-tong-shou-nidui-suruirannoxian-jie-zhi-wodu-miwei-eka-zhua.md",
-      "ts": 1776153637
-    },
-    "5cb39b8a79b713d0619f96d754cafc4ac77703c3168ead05b069c9a97a3962f0": {
-      "link": "http://www3.nhk.or.jp/news/html/20260414/k10015099061000.html",
-      "title": "自民 「武器」移転原則可能とする政府案了承 国会へ事後通知",
-      "saved": "2026-04-14-zi-min-wu-qi-yi-zhuan-yuan-ze-ke-neng-tosuruzheng-fu-an-liao-cheng-guo-hui-heshi.md",
-      "ts": 1776153637
-    },
-    "f57991b0f0f8868b58cd80a4e456e8165fd4da4ff7664aa8f855abb445f32ae9": {
-      "link": "https://www.bbc.com/japanese/articles/cevkkykg0x4o?at_medium=RSS&at_campaign=rss",
-      "title": "トランプ氏が損賠1.5兆円請求の名誉毀損訴訟、米連邦地裁が棄却　エプスティーン元被告に関するWSJ記事めぐり",
-      "saved": "2026-04-14-toranhushi-kasun-pei-1-5zhao-yuan-qing-qiu-noming-yu-hui-sun-su-song-mi-lian-ban.md",
-      "ts": 1776153637
-    },
-    "db2336a3ae38ca9b6203f627af047b788b61a3884e84eab9722782b2776ed037": {
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9NSU1lNjE1N3dRaGNQelJpUjkwRDd2WGk2eFU3ZFFjZWVEdUlOWmpSNWkyWENWb3dtX0pRZVNBRGhxeFNrVHNQcEdtLTRuMkNF?oc=5",
-      "title": "英国の基地で目撃された米空軍の空中給油機KC135、破片による多数の穴 弾道ミサイル攻撃で損傷か - CNN",
-      "saved": "2026-04-14-ying-guo-noji-di-temu-ji-saretami-kong-jun-nokong-zhong-gei-you-ji-kc135-po-pian.md",
-      "ts": 1776153637
-    },
-    "6d5c73f053c8c66667e6f7c1b26c0c2ba9179c8063392f7f10478a5a22757dfa": {
-      "link": "https://www.bbc.com/japanese/articles/c20dd6ql008o?at_medium=RSS&at_campaign=rss",
-      "title": "トランプ氏、教皇を批判し自分をキリストのように見せた画像を投稿　支持基盤から批判",
-      "saved": "2026-04-14-toranhushi-jiao-huang-wopi-pan-sizi-fen-wokirisutonoyounijian-setahua-xiang-woto.md",
-      "ts": 1776153637
-    },
-    "f7477bf2aea57d560cb91d3b9cb5336fc27e9cb8129581d67f7a53f9caa34c06": {
-      "link": "https://www.bbc.com/japanese/articles/cwyxxvln4wgo?at_medium=RSS&at_campaign=rss",
-      "title": "英首相、イラン市民へのトランプ氏の脅しは「間違っている」と　米軍のイラン港湾封鎖にイギリスは参加せず",
-      "saved": "2026-04-14-ying-shou-xiang-iranshi-min-henotoranhushi-noxie-siha-jian-wei-tuteiru-to-mi-jun.md",
-      "ts": 1776153637
-    },
-    "48bd2684d571210c5c4efcfad25a6388138e9824ceb240abaad17e0fa9b6a68a": {
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93Z3l5RFFVSGtVSV9DeTd2M2tTVVVGVTdpNnRwcEhybVZjY1lRWEZaVHhYc3JXSk91bTZFYnp4Y1N6Rk1CLTZlQ1daVFp0VXlnQU9GVVhTb3ZsZjN4b3JTX0I4Yzdxb09Ec3c?oc=5",
-      "title": "サッカーW杯のユニホーム、最高傑作は30年前のモデル - CNN",
-      "saved": "2026-04-12-satukawbei-noyunihomu-zui-gao-jie-zuo-ha30nian-qian-nomoteru-cnn-7.md",
-      "ts": 1776153637
-    },
     "4c021aa5c02342a8700f5ba6ba6de8ded0afa05ef2193d30231d34f84a0eb4ec": {
       "link": "https://www.itmedia.co.jp/news/articles/2604/14/news129.html",
       "title": "飛行機内でモバイルバッテリーは使用禁止、国交省が新ルールを公表　24日から適用　持ち込みは2個まで",
@@ -12725,6 +12647,126 @@
       "title": "「海中に消えるＵＦＯ」、米海軍の動画が流出 - CNN.co.jp",
       "saved": "2021-05-21-hai-zhong-nixiao-eruufo-mi-hai-jun-nodong-hua-kaliu-chu-cnn-co-jp.md",
       "ts": 1778741170
+    },
+    "1f24567f04df60ddb62c6d8f18a164d7a5860d54d07a6de6fa8ca163150f6b63": {
+      "link": "http://www3.nhk.or.jp/news/html/20260514/k10015121651000.html",
+      "title": "広島 呉の船解体現場で火災 船や廃材が焼ける 避難指示も",
+      "saved": "2026-05-14-guang-dao-wu-nochuan-jie-ti-xian-chang-tehuo-zai-chuan-yafei-cai-kashao-keru-bi-.md",
+      "ts": 1778753682
+    },
+    "78500efb153f26915fb385d9ad72a9ba6cb53bb911a2ce45806de0bd6ad3641b": {
+      "link": "http://www3.nhk.or.jp/news/html/20260514/k10015121691000.html",
+      "title": "カゴメ ケチャップのトマトのイラスト減らす インク調達不安定",
+      "saved": "2026-05-14-kakome-ketiyatuhunotomatonoirasutojian-rasu-inkudiao-da-bu-an-ding.md",
+      "ts": 1778753682
+    },
+    "1f26ddf3042ac54b1975f1716917f25ccb3e37099adf7485dce348725c21e73b": {
+      "link": "https://www.itmedia.co.jp/news/articles/2605/14/news133.html",
+      "title": "カバー、特別損失32億円を計上　「ホロアース」サービス終了にともない",
+      "saved": "2026-05-14-kaha-te-bie-sun-shi-32yi-yuan-woji-shang-horoasu-sahisuzhong-liao-nitomonai.md",
+      "ts": 1778753682
+    },
+    "4a89c7d73a7d9afaf34fc63eeabb9639cafb42aa7decbbcfea7307aaf477cfa3": {
+      "link": "http://www3.nhk.or.jp/news/html/20260514/k10015121791000.html",
+      "title": "日本人4人乗船タンカー ホルムズ海峡を通過 ENEOS発表",
+      "saved": "2026-05-14-ri-ben-ren-4ren-cheng-chuan-tanka-horumusuhai-xia-wotong-guo-eneosfa-biao.md",
+      "ts": 1778753682
+    },
+    "ee2c808cad42f343933c40fb6108df42355ac26f5a3284e3382af05edfcc0eac": {
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1MmdiOURPaVRwNmRqN2EzTGRTbkFHSXVJSnRraDFGNndza1RSRFNoclJucmNYc0ZYZFJqbXdqN1NDenFBZmgwLXhhTnNhUVZ0aVhxbw?oc=5",
+      "title": "天敵に襲われ思わず片足立ちのマーモット 19年の野生生物写真家コンテストを振り返る - CNN.co.jp",
+      "saved": "2026-05-14-tian-di-nixi-waresi-wasupian-zu-li-tinomamotuto-19nian-noye-sheng-sheng-wu-xie-z.md",
+      "ts": 1778753682
+    },
+    "af11f046d665edb3191762b369598b794c1bd2c9ced9654e5b1b96eab0c11e67": {
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HZW5uVnpQeHJCWUxNbTFzSzJCeC1CaUt1YUlocXFsVExuWTRMd2hraDBkTE5CdTlFZUo2MGhJQWI4OE5YS2xyOHd4LW9OV3hYdG9F?oc=5",
+      "title": "写真特集：「野生生物写真家コンテスト」、各部門の19年の受賞作を振り返る(1/19) - CNN.co.jp",
+      "saved": "2026-05-14-xie-zhen-te-ji-ye-sheng-sheng-wu-xie-zhen-jia-kontesuto-ge-bu-men-no19nian-nosho.md",
+      "ts": 1778753682
+    },
+    "5207943b3fdd54b7996097930deb71938e0e878345a0375081dc1b91997c9254": {
+      "link": "https://www.bbc.com/japanese/articles/c626w0611e6o?at_medium=RSS&at_campaign=rss",
+      "title": "イギリスの自動化ゲート、8歳以上に対象を拡大　7月から",
+      "saved": "2026-05-14-ikirisunozi-dong-hua-keto-8sui-yi-shang-nidui-xiang-wokuo-da-7yue-kara.md",
+      "ts": 1778753682
+    },
+    "c37116761aa277408b928b0c1d85164b9733f96a398a7cf368b930297c43d3c8": {
+      "link": "https://www.bbc.com/japanese/articles/c2d2j1r6529o?at_medium=RSS&at_campaign=rss",
+      "title": "米連邦上院、次期FRB議長を承認　トランプ氏指名のウォーシュ氏",
+      "saved": "2026-05-14-mi-lian-bang-shang-yuan-ci-qi-frbyi-chang-wocheng-ren-toranhushi-zhi-ming-nouosi.md",
+      "ts": 1778753682
+    },
+    "9d5ae4e5da31c0d9029ac6753ad8da5ddf8179d6b90ab65920766fd3863a5d5a": {
+      "link": "https://www.bbc.com/japanese/articles/cx217d6p99xo?at_medium=RSS&at_campaign=rss",
+      "title": "米中首脳が北京で会談　トランプ氏は「素晴らしい」進展あったと記者団に",
+      "saved": "2026-05-14-mi-zhong-shou-noy-kabei-jing-tehui-tan-toranhushi-ha-su-qing-rasii-jin-zhan-atut.md",
+      "ts": 1778753682
+    },
+    "4dbba1bfe8f021ac21744945054c22fefcae0cbf79f4ece5c735434cd30def03": {
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KbVc4SlJVb2VFRTBNZXVueUN3LWEyNlZfRlE3VU5oZXdTWl9fRUlZRzE0QnRmR1hWSmgyZW9HZHdxYUhMUWJDUDhTME43MGJlWEE?oc=5",
+      "title": "低価格帯ノートPCを実機テスト、損しない3製品はこれ 選び方のポイントも解説 - CNN.co.jp",
+      "saved": "2026-05-14-di-jia-ge-dai-notopcwoshi-ji-tesuto-sun-sinai3zhi-pin-hakore-xuan-hifang-nohoint.md",
+      "ts": 1778753682
+    },
+    "4ed2bbb7219f1ea83b92acf7a4c0c4bb7d9931ce0d83c69391929b13d6bc068e": {
+      "link": "https://www.itmedia.co.jp/news/articles/2605/14/news127.html",
+      "title": "KADOKAWA、早期退職募集　通期大幅減益、「アニメ・実写」は赤字転落",
+      "saved": "2026-05-14-kadokawa-zao-qi-tui-zhi-mu-ji-tong-qi-da-fu-jian-yi-animeshi-xie-hachi-zi-zhuan-.md",
+      "ts": 1778753682
+    },
+    "08baebdd8b8e1609aa697b8b9a6347202890b55503b3ee862cf0db441a323082": {
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZQWNDQkQydU9jU3FqN2xINnJXM3NXc3Myb2p2WmxMaGR5TVFDQXRUTFh2bWNVWGRjNkUzOVNSMzlIU3NrZDJLVklNUUx3N3VNakVR?oc=5",
+      "title": "「建設的戦略安定関係」の新時代、習氏が米中首脳会談で称賛 - CNN.co.jp",
+      "saved": "2026-05-14-jian-she-de-zhan-lue-an-ding-guan-xi-noxin-shi-dai-xi-shi-kami-zhong-shou-noy-hu.md",
+      "ts": 1778753682
+    },
+    "934523f09ffc09d67cf9c4af9c56c9cf2750ab86171f94bec7e10ea2b485d208": {
+      "link": "https://www.itmedia.co.jp/news/articles/2605/14/news119.html",
+      "title": "津田塾大学が個人情報漏えいで謝罪、別件で逮捕された元職員が“匿名掲示板”に投稿　システム権限の設定ミスも",
+      "saved": "2026-05-14-jin-tian-shu-da-xue-kage-ren-qing-bao-lou-eitexie-zui-bie-jian-tedai-bu-saretayu.md",
+      "ts": 1778753682
+    },
+    "3116bcd8b49f2aabf597196d6be68f566efd573e2f513c48e15f4d68758ae3b0": {
+      "link": "https://www.itmedia.co.jp/business/articles/2605/14/news120.html",
+      "title": "シャープ新テレビ、AIキャラと会話可能に　「アクオス」25周年モデル投入",
+      "saved": "2026-05-14-siyahuxin-terehi-aikiyaratohui-hua-ke-neng-ni-akuosu-25zhou-nian-moterutou-ru.md",
+      "ts": 1778753682
+    },
+    "cfe4f6539694e1b1e978f5184365b61e5218999ef8cfa4d9c88589ba17f3745b": {
+      "link": "http://www3.nhk.or.jp/news/html/20260514/k10015121171000.html",
+      "title": "サッカーワールドカップ あす日本代表メンバー26人を発表",
+      "saved": "2026-05-14-satukawarutokatuhu-asuri-ben-dai-biao-menha26ren-wofa-biao.md",
+      "ts": 1778753682
+    },
+    "e67782ff903c96af98609351fa66ed573e6a5e2f21c133b0195f75d4d33201ba": {
+      "link": "http://www3.nhk.or.jp/news/html/20260514/k10015121631000.html",
+      "title": "ラグビーリーグワン プレーオフ進出の6チームが意気込み",
+      "saved": "2026-05-14-rakuhirikuwan-hureohujin-chu-no6timukayi-qi-ip-mi.md",
+      "ts": 1778753682
+    },
+    "b76eb8483f0763864a92df4939f24785abb504efbfbbd98d9301469d85578a26": {
+      "link": "https://www.bbc.com/japanese/articles/crlpze626e4o?at_medium=RSS&at_campaign=rss",
+      "title": "【解説】 英政界、国王の演説で議会は開会したものの……",
+      "saved": "2026-05-14-jie-shuo-ying-zheng-jie-guo-wang-noyan-shuo-teyi-hui-hakai-hui-sitamonono.md",
+      "ts": 1778753682
+    },
+    "50fd1408fa50c4544068213368d4ec5d7670a5e979daae903bf519330c9485ce": {
+      "link": "https://www.itmedia.co.jp/news/articles/2605/14/news117.html",
+      "title": "「世界サーバ投げ選手権」2026年のチャンピオンはSAP従業員",
+      "saved": "2026-05-14-shi-jie-sahatou-kexuan-shou-quan-2026nian-notiyanhionhasapcong-ye-yuan.md",
+      "ts": 1778753682
+    },
+    "ca1c8e2a1ca5621151c829b91864b832f2816a6be4cf8ea24e14f6afac8282b6": {
+      "link": "https://www.itmedia.co.jp/news/articles/2605/14/news109.html",
+      "title": "「Chromebookは継続」　Googleが10年間のアップデートを改めて約束　「Googlebook」発表を受け",
+      "saved": "2026-05-14-chromebookhaji-sok-googleka10nian-jian-noatuhutetowogai-meteyue-shu-googlebook-f.md",
+      "ts": 1778753682
+    },
+    "5b21febfcb317a7b4e9e256b641f20394736b0041cd8c37a70283bd1190b65b5": {
+      "link": "https://www.itmedia.co.jp/news/articles/2605/14/news111.html",
+      "title": "「【機密】昇進リスト先行公開、VPNでアクセスを」巧妙な詐欺メールが拡散中　「給与改定」「交通費改定」版も",
+      "saved": "2026-05-14-ji-mi-sheng-jin-risutoxian-xing-gong-kai-vpnteakusesuwo-qiao-miao-nazha-qi-meruk.md",
+      "ts": 1778753682
     }
   }
 }
