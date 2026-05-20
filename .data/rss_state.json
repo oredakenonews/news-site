@@ -1,95 +1,5 @@
 {
   "done": {
-    "5b844daf33e36da222334c0791d032c685caeea7a29b6b834ca7e7d17fdda0db": {
-      "link": "http://www3.nhk.or.jp/news/html/20260420/k10015103601000.html",
-      "title": "【津波情報】岩手 青森 北海道に津波警報 久慈港80cm津波到達",
-      "saved": "2026-04-20-jin-bo-qing-bao-yan-shou-qing-sen-bei-hai-dao-nijin-bo-jing-bao-jiu-ci-gang-80cm.md",
-      "ts": 1776679070
-    },
-    "9e7d592488ccaee47c9f7d2bdcfc787f64699a06c11542800bd5d983011e1991": {
-      "link": "http://www3.nhk.or.jp/news/html/20260420/k10015103841000.html",
-      "title": "三陸沖で発生 M7.5の地震 宮城と秋田で長周期地震動 階級3観測",
-      "saved": "2026-04-20-san-lu-chong-tefa-sheng-m7-5nodi-zhen-gong-cheng-toqiu-tian-techang-zhou-qi-di-z.md",
-      "ts": 1776679070
-    },
-    "a507ed759307f371ebf651082c201752398b8a2e1a09bac53cb7674753e38a5f": {
-      "link": "http://www3.nhk.or.jp/news/html/20260420/k10015103641000.html",
-      "title": "【ライブ】木原官房長官が臨時記者会見 地震の対応説明へ",
-      "saved": "2026-04-20-raihu-mu-yuan-guan-fang-chang-guan-kalin-shi-ji-zhe-hui-jian-di-zhen-nodui-ying-.md",
-      "ts": 1776679070
-    },
-    "f5a55187b6a7d6d07644f7f5ad9d07760b6150497d4b2402616dc35ef57924cc": {
-      "link": "http://www3.nhk.or.jp/news/html/20260420/k10015103651000.html",
-      "title": "気象庁が会見「すぐに高いところへ避難を」",
-      "saved": "2026-04-20-qi-xiang-ting-kahui-jian-sukunigao-itokorohebi-nan-wo.md",
-      "ts": 1776679070
-    },
-    "9ddd71983602c59cc7d1527865c54a34457c78da4c729fc8eb205570a2ae2c8b": {
-      "link": "http://www3.nhk.or.jp/news/html/20260420/k10015103631000.html",
-      "title": "【ライブ配信】岩手 青森 北海道に津波警報 各地の映像",
-      "saved": "2026-04-20-raihupei-xin-yan-shou-qing-sen-bei-hai-dao-nijin-bo-jing-bao-ge-di-noying-xiang.md",
-      "ts": 1776679070
-    },
-    "477f37f6c566e511ebf97a8ec7fb40587a1731d3bb0efd556308b40f79984945": {
-      "link": "http://www3.nhk.or.jp/news/html/20260420/k10015103581000.html",
-      "title": "【地震情報】青森県階上町で震度5強 青森 岩手 宮城で震度5弱",
-      "saved": "2026-04-20-di-zhen-qing-bao-qing-sen-xian-jie-shang-ting-tezhen-du-5qiang-qing-sen-yan-shou.md",
-      "ts": 1776679070
-    },
-    "d6d9d6d8f64e603483e8a1fc01c9e932822c8404c1c6b0cd29b69152f87c33bb": {
-      "link": "http://www3.nhk.or.jp/news/html/20260420/k10015103751000.html",
-      "title": "「北海道・三陸沖後発地震注意情報」発表基準か精査中 気象庁",
-      "saved": "2026-04-20-bei-hai-dao-san-lu-chong-hou-fa-di-zhen-zhu-yi-qing-bao-fa-biao-ji-zhun-kajing-c.md",
-      "ts": 1776679070
-    },
-    "6026c234c3598020088f8f0acdb3e330f8fd0309073ddf88dd7d2c572c53ca13": {
-      "link": "https://www.itmedia.co.jp/news/articles/2604/20/news111.html",
-      "title": "三陸沖の地震で通信各社が「災害用伝言サービス」を運用開始　気象庁は避難継続を呼び掛け",
-      "saved": "2026-04-20-san-lu-chong-nodi-zhen-tetong-xin-ge-she-ka-zai-hai-yong-chuan-yan-sahisu-woyun-.md",
-      "ts": 1776679070
-    },
-    "b5e87eaacd620979fd2efc2e1e281d1438b9c266e29b26db65c0da59d3e222d9": {
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5oS29fWHFZSERlNkV2b1pkczlfOEhoQmpQUGVYY08xb0RSOWlCV3R1NXBxOWQxV0tXSWhIS2t4cWM1UnFENG5uc21XZXo5enJLWE93?oc=5",
-      "title": "イラン外務省、米国との2回目の和平交渉「現時点で」計画なし - CNN",
-      "saved": "2026-04-20-iranwai-wu-sheng-mi-guo-tono2hui-mu-nohe-ping-jiao-she-xian-shi-dian-te-ji-hua-n.md",
-      "ts": 1776679070
-    },
-    "e17fe75c6ac5fa67e0274bdd577c79929351880ef490adf337c01002eb8d42ba": {
-      "link": "https://www.bbc.com/japanese/articles/c78lg3ld920o?at_medium=RSS&at_campaign=rss",
-      "title": "【分析】 トランプ政権に影を落とす数々のインサイダー取引疑惑",
-      "saved": "2026-04-20-fen-xi-toranhuzheng-quan-niying-woluo-tosushu-noinsaitaqu-yin-yi-huo.md",
-      "ts": 1776679070
-    },
-    "91de7b984f1be279f79db1c88e2fa227bfd8bae6ec2f3aa36f2308140fcc394e": {
-      "link": "https://www.bbc.com/japanese/articles/ce9m7yerzxlo?at_medium=RSS&at_campaign=rss",
-      "title": "ローマ教皇の「暴君」発言、トランプ氏に向けたものではないと",
-      "saved": "2026-04-20-romajiao-huang-no-bao-jun-fa-yan-toranhushi-nixiang-ketamonotehanaito.md",
-      "ts": 1776679070
-    },
-    "032c3520f4b126a49b7500f90ecb227565a2d9cc5dcdb14f940c890ce4c16725": {
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4NER4S3VnZ0lIcDJURjRGZDNMV1kyZC1ZdE1GWFc1SEpYMmVEYlhUTFNaWmhTM1kzYzF6eGw4b3NTS0JDUlZ5QTBRNl81RGRHUXJtRGhvejNuNjQ?oc=5",
-      "title": "イラン船に砲撃した米海軍のミサイル駆逐艦「スプルーアンス」とは - CNN",
-      "saved": "2026-04-20-iranchuan-nipao-ji-sitami-hai-jun-nomisairuqu-zhu-jian-suhuruansu-toha-cnn.md",
-      "ts": 1776679070
-    },
-    "cc88e332bd19210f6c466429b39f413d5d9914c21d2912989f2b6057de819796": {
-      "link": "https://www.bbc.com/japanese/articles/c208j580611o?at_medium=RSS&at_campaign=rss",
-      "title": "ゼレンスキー氏、米国を非難　ロシア産原油の制裁緩和を延長で",
-      "saved": "2026-04-20-serensukishi-mi-guo-wofei-nan-rosiachan-yuan-you-nozhi-cai-huan-he-woyan-chang-t.md",
-      "ts": 1776679070
-    },
-    "b86d84c6c6f7415270bf93c8717ea19d7ffd6743c5bdb5629725be0d3b5ad5b9": {
-      "link": "https://www.itmedia.co.jp/news/articles/2604/20/news094.html",
-      "title": "LINEやYahoo!検索に謎のロボットアイコン登場、いったい何者？　正体は……",
-      "saved": "2026-04-20-lineyayahoo-jian-suo-nimi-norohotutoaikondeng-chang-itutaihe-zhe-zheng-ti-ha.md",
-      "ts": 1776679070
-    },
-    "e37742e4f2b85556cc20d6c9c0eea4bd30750a40b96b18dd7f1a8c5cff7d9b6b": {
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81RUh0SURPZ2t4RlFPLTNnNFVTTF9sRFhpakZ3VktLT3lOeXQyRnNDR0JKRTVKeTl3Q2lWS1pTV2VhTnVfOWxMYmxwSUlLQ1U?oc=5",
-      "title": "米軍、イラン船の機関室に複数回砲撃 - CNN",
-      "saved": "2026-04-20-mi-jun-iranchuan-noji-guan-shi-nifu-shu-hui-pao-ji-cnn.md",
-      "ts": 1776679070
-    },
     "e6133c04c6d2af6e3244f2961a86e9c332ee1a95f21f62355381cc27b807752e": {
       "link": "http://www3.nhk.or.jp/news/html/20260420/k10015103891000.html",
       "title": "5道県 17万6828人に「避難指示」 総務省（20日19時45分時点）",
@@ -12893,6 +12803,144 @@
       "title": "初期人類種間の交雑の実態、歯に含まれるたんぱく質の分析で明らかに 中国(3/3) - CNN.co.jp",
       "saved": "2026-05-15-chu-qi-ren-lei-zhong-jian-nojiao-za-noshi-tai-chi-nihan-marerutanhakuzhi-nofen-x-2.md",
       "ts": 1779262951
+    },
+    "28a7833d8aa677ba12a0b000eae8f57e05a772f96413a7ff1407684a26bab2ba": {
+      "link": "http://www3.nhk.or.jp/news/html/20260520/k10015126981000.html",
+      "title": "兵庫 親子死亡 親子から警察に被害につながる相談は寄せられず",
+      "saved": "2026-05-20-bing-ku-qin-zi-si-wang-qin-zi-karajing-cha-nibei-hai-nitunakaruxiang-tan-haji-se.md",
+      "ts": 1779274173
+    },
+    "03cb2f70413433fc3ce1d50321c5a941c34cd82c5f497c3094caab541615c148": {
+      "link": "http://www3.nhk.or.jp/news/html/20260520/k10015126331000.html",
+      "title": "高市首相 中東情勢などの対応で補正予算案検討 野党と党首討論",
+      "saved": "2026-05-20-gao-shi-shou-xiang-zhong-dong-qing-shi-natonodui-ying-tebu-zheng-yu-suan-an-jian.md",
+      "ts": 1779274173
+    },
+    "74e9b4b71f239be227588b994ba94c1494713ca86e8929246232682d8e834897": {
+      "link": "http://www3.nhk.or.jp/news/html/20260520/k10015126961000.html",
+      "title": "スポーツ庁が強化プラン改定 パラ選手発掘や海外支援に重点",
+      "saved": "2026-05-20-suhotuting-kaqiang-hua-hurangai-ding-haraxuan-shou-fa-jue-yahai-wai-zhi-yuan-niz.md",
+      "ts": 1779274173
+    },
+    "8588ed0fd002e113eb30a1042cc04ae948216ddb946abf9b3ad35a1c9192c7f6": {
+      "link": "http://www3.nhk.or.jp/news/html/20260520/k10015126561000.html",
+      "title": "大相撲夏場所11日目 霧島２敗対決制す 琴栄峰 翔猿 3人並ぶ",
+      "saved": "2026-05-20-da-xiang-pu-xia-chang-suo-11ri-mu-wu-dao-2bai-dui-jue-zhi-su-qin-rong-feng-xiang.md",
+      "ts": 1779274173
+    },
+    "89242d9f8f65ea82ca13259a01b717bfe0a26c402b9bfe2bf5353c5b5297c626": {
+      "link": "https://www.bbc.com/japanese/articles/cdxp4zy74q2o?at_medium=RSS&at_campaign=rss",
+      "title": "米グーグル、新型スマートグラスを今秋発売　初期モデルの販売中止から10年超",
+      "saved": "2026-05-20-mi-kukuru-xin-xing-sumatokurasuwojin-qiu-fa-mai-chu-qi-moterunofan-mai-zhong-zhi.md",
+      "ts": 1779274173
+    },
+    "06c424b96370c43a06e4974d63570bab100fd91d7c6d1772457629545582c1d3": {
+      "link": "http://www3.nhk.or.jp/news/html/20260520/k10015126841000.html",
+      "title": "スポーツを見る機会の確保のあり方 有識者会議が初会合",
+      "saved": "2026-05-20-suhotuwojian-ruji-hui-noque-bao-noarifang-you-shi-zhe-hui-yi-kachu-hui-he.md",
+      "ts": 1779274173
+    },
+    "a9d2ddd95189e5171f9b184977a093a91a73fa52450540116da1c5579a512b5a": {
+      "link": "http://www3.nhk.or.jp/news/html/20260520/k10015126931000.html",
+      "title": "愛知 SNS型投資詐欺で約8億7000万円被害か",
+      "saved": "2026-05-20-ai-zhi-snsxing-tou-zi-zha-qi-teyue-8yi-7000mo-yuan-bei-hai-ka.md",
+      "ts": 1779274173
+    },
+    "dc2420ddf2a86ba6c92e9df7e88bef48ed4c8e2b186f41c56a6ec18b05d33eb1": {
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDYWdDWlpYQTZNMF9ZVkgwaHhfeExJS0JzaWtIMFk5dW9iS1U3cjJ3RG9jRVpoeGdzdllrS0h2TGFONUxhaXd3X2tCUFo5WVVSRUh5UlFhZWJfUQ?oc=5",
+      "title": "写真家アベドンのドキュメンタリー、カンヌで初上映 ハワード監督が選んだ傑作4点 - CNN.co.jp",
+      "saved": "2026-05-20-xie-zhen-jia-ahetonnotokiyumentari-kannutechu-shang-ying-hawatojian-du-kaxuan-nt.md",
+      "ts": 1779274173
+    },
+    "fe4207c01ec7ad375f0e9b8084dd68133288ce53e92dbdad9debeeb096a974be": {
+      "link": "https://www.itmedia.co.jp/news/articles/2605/20/news129.html",
+      "title": "Appleのスポーツ速報アプリが日本上陸　iPhoneのロック画面やApple Watchにリアルタイム表示",
+      "saved": "2026-05-20-applenosuhotusu-bao-ahurikari-ben-shang-lu-iphonenorotukuhua-mian-yaapple-watchn.md",
+      "ts": 1779274173
+    },
+    "99265d3aafeead5534cde0792cca1e1dd26fb10c39b9fc8c8c64bc332d5f3699": {
+      "link": "https://www.itmedia.co.jp/news/articles/2605/20/news130.html",
+      "title": "山手線の車両を5Gの“ミリ波エリア化”　JR東とKDDIが初めて実証──ガラスアンテナで電波を車内に",
+      "saved": "2026-05-20-shan-shou-xian-noche-liang-wo5gno-miribo-eriahua-jrdong-tokddikachu-meteshi-zhen.md",
+      "ts": 1779274173
+    },
+    "48dc9fb0da24e9a1758611999456a155299432aa53bbd3cdde85e3be57363e14": {
+      "link": "http://www3.nhk.or.jp/news/html/20260520/k10015126881000.html",
+      "title": "栃木強盗殺人事件 高校生 通話で指示受けながら押し入ったか",
+      "saved": "2026-05-20-hoy-mu-qiang-dao-sha-ren-shi-jian-gao-xiao-sheng-tong-hua-tezhi-shi-shou-kenakar.md",
+      "ts": 1779274173
+    },
+    "d392e273079631b8e5e5462b69c2a1a92afcc92853e75eb205ee4c0616ddb9f7": {
+      "link": "https://www.bbc.com/japanese/articles/cdxp4z6xzwxo?at_medium=RSS&at_campaign=rss",
+      "title": "イギリス、ロシア産石油への制裁を緩和　燃料価格の高騰受け",
+      "saved": "2026-05-20-ikirisu-rosiachan-shi-you-henozhi-cai-wohuan-he-ran-liao-jia-ge-nogao-teng-shou-.md",
+      "ts": 1779274173
+    },
+    "ba2f0ca936c51168b0ca72fcf16f45b1a80725e6c7c58a4cf8d538635363c31f": {
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OVkNsOVdiYUYyUGd1Q3JFVnRHYXEwU3p0US1oX2JIbzhqS2VVY2JuSzBmUG9wVHJSc3VPdnB1XzFFQ1BBamNrOHczdDdyQnNwTVpxOA?oc=5",
+      "title": "外国人観光客の迷惑行為に辟易、タイが90カ国超のビザなし滞在期間を短縮 - CNN.co.jp",
+      "saved": "2026-05-20-wai-guo-ren-guan-guang-ke-nomi-huo-xing-wei-nipi-yi-taika90kaguo-chao-nohisanasi.md",
+      "ts": 1779274173
+    },
+    "3a7478d83813597b402dea0a654e2fe552b2e5d6a37a1a8ec99ccb1033dd6fc6": {
+      "link": "http://www3.nhk.or.jp/news/html/20260520/k10015126811000.html",
+      "title": "レッドソックス 吉田正尚 途中出場でツーベース チームは勝利",
+      "saved": "2026-05-20-retutosotukusu-ji-tian-zheng-shang-tu-zhong-chu-chang-tetuhesu-timuhasheng-li.md",
+      "ts": 1779274173
+    },
+    "5d07ebe7cfed8f8348e1ae66d954498099c43766aeb968e0b638c03a6d6748b9": {
+      "link": "https://www.bbc.com/japanese/articles/czd2q434rjno?at_medium=RSS&at_campaign=rss",
+      "title": "プーチン氏が訪中、習氏と会談　双方の関係は「かつてないほど高いレベル」と強調",
+      "saved": "2026-05-20-hutinshi-kafang-zhong-xi-shi-tohui-tan-shuang-fang-noguan-xi-ha-katutenaihotogao.md",
+      "ts": 1779274173
+    },
+    "ff0395e177c953dfabe5dec66be25e26ce4b705573d6d53d4bb6b6c4bea3841e": {
+      "link": "https://www.itmedia.co.jp/news/articles/2605/20/news124.html",
+      "title": "Grok、「OpenClaw」と連携　サブスク加入者なら直接利用可能　メッセージアプリ経由で操作も",
+      "saved": "2026-05-20-grok-openclaw-tolian-xi-sahusukujia-ru-zhe-narazhi-jie-li-yong-ke-neng-metusesia.md",
+      "ts": 1779274173
+    },
+    "bcb49f89fd50ccc6604af2f4dc9c91b944287a384cb3b4fbd7e734ea09bcfc66": {
+      "link": "https://www.bbc.com/japanese/articles/cwy21v8ywqgo?at_medium=RSS&at_campaign=rss",
+      "title": "タイ、ビザなし滞在期間を60日から30日へ短縮　日本・イギリスなど93カ国対象",
+      "saved": "2026-05-20-tai-hisanasizhi-zai-qi-jian-wo60ri-kara30ri-heduan-suo-ri-ben-ikirisunato93kaguo.md",
+      "ts": 1779274173
+    },
+    "490e296a5841e2bece4b1cf3072f48767af2f27a6257db32b2ce1c8044678cf3": {
+      "link": "http://www3.nhk.or.jp/news/html/20260520/k10015126731000.html",
+      "title": "プロ野球オールスターゲーム 小久保監督と藤川監督が意気込み",
+      "saved": "2026-05-20-huroye-qiu-orusutakemu-xiao-jiu-bao-jian-du-toteng-chuan-jian-du-kayi-qi-ip-mi.md",
+      "ts": 1779274173
+    },
+    "2c7035a053bf3c7fec1c472d39a8abc9eec401708ce0c58c21f8134e18135bfd": {
+      "link": "http://www3.nhk.or.jp/news/html/20260520/k10015126781000.html",
+      "title": "オリックス 宮城大弥投手がアメリカで左ひじの手術",
+      "saved": "2026-05-20-oritukusu-gong-cheng-da-mi-tou-shou-kaamerikatezuo-hisinoshou-shu.md",
+      "ts": 1779274173
+    },
+    "13aeddb900610bafee84e46b1c81f7cb8b9a554479d8d1222cd91dfceee6fe27": {
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1COE1nRWF0aDN3eFRjWGJIM3ZMU1BlMEUwM3BzWkd2dHdRZ1MxUDdTclZSMEpuRWUyTVVRRTZCN0JoNEYzVnJaWXNxaTdyY3BZUHBz?oc=5",
+      "title": "習氏、訪中のプーチン氏を盛大に歓迎 米国を暗に批判も - CNN.co.jp",
+      "saved": "2026-05-20-xi-shi-fang-zhong-nohutinshi-wosheng-da-nihuan-ying-mi-guo-woan-nipi-pan-mo-cnn-.md",
+      "ts": 1779274173
+    },
+    "dac8d65cdc2d93b387fad816b551f0b1f689f5c3f7b338c36c2801af5b44763d": {
+      "link": "http://www3.nhk.or.jp/news/html/20260520/k10015126701000.html",
+      "title": "イトーヨーカ堂 プラスチック容器価格上昇で総菜販売変更へ",
+      "saved": "2026-05-20-itoyokatang-hurasutitukurong-qi-jia-ge-shang-sheng-tezong-cai-fan-mai-bian-geng-.md",
+      "ts": 1779274173
+    },
+    "01d01c967cf3b19d9c0c017d8ea49cb36eab984794f9f87b1b263b909fb5f860": {
+      "link": "https://www.itmedia.co.jp/business/articles/2605/20/news115.html",
+      "title": "「バズっただけでは買えない時代が到来」　物価高でコスメ選びはどう変わった？",
+      "saved": "2026-05-20-hasututataketehamai-enaishi-dai-kadao-lai-wu-jia-gao-tekosumexuan-hihatoubian-wa.md",
+      "ts": 1779274173
+    },
+    "c4c1ab619b4fe06122dc0db45e7fcdfb217383ccf7ea5f610b8a718605752a28": {
+      "link": "https://www.itmedia.co.jp/business/articles/2605/20/news107.html",
+      "title": "Google「25年で最大の刷新」　AI検索、新モデルで“OpenAI対抗”鮮明に【発表まとめ】",
+      "saved": "2026-05-20-google-25nian-tezui-da-noshua-xin-aijian-suo-xin-moterute-openaidui-kang-xian-mi.md",
+      "ts": 1779274173
     }
   }
 }
