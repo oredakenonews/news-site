@@ -1,89 +1,5 @@
 {
   "done": {
-    "249ee6d473c3d6e136f8af714469899c2575f5d384e046ca1f31e68735434b06": {
-      "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115331000.html",
-      "title": "レイカーズ 八村塁 18得点も昨季王者に敗れ黒星スタート",
-      "saved": "2026-05-06-reikasu-ba-cun-toride-18de-dian-mozuo-ji-wang-zhe-nibai-rehei-xing-sutato.md",
-      "ts": 1778048947
-    },
-    "20c612df59bf1d262cd6d047e31e7f6e1e204f3f935463dfe51c5e2d3b989443": {
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41UC1MazlfVDVFX2V3MXlCMmVUWkpONlprZlNsam5Kd0tud25BajhHSHFqWG9GOHhDTkJzSkYtendmVVRSTEp3ZUVpZFdzc3haZVZV?oc=5",
-      "title": "写真特集：楽園の島に残る激戦の傷痕、パラオ・ペリリュー島を訪ねる(1/11) - CNN",
-      "saved": "2026-05-06-xie-zhen-te-ji-le-yuan-nodao-nican-ruji-zhan-noshang-hen-haraoheririyudao-wofang.md",
-      "ts": 1778048947
-    },
-    "7239c97d37f737a41b2a1273196e5b92412269ef6b8e49ea49195eb369d39fdf": {
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9FWmU5aEM4YmlwTGJqTEFSTlJjckhwT1MtY2llVHdJbDJpZ1l4ZTVGNGs0WS1xZWV3bU1nM2tEUGFfczVQR2llYUVOdzlLdFhHQ1pZNQ?oc=5",
-      "title": "楽園の島が暗転、第2次大戦で最も過酷な戦場の一つに パラオ・ペリリュー島の戦跡を訪ねる(1/3) - CNN",
-      "saved": "2026-05-06-le-yuan-nodao-kaan-zhuan-di-2ci-da-zhan-tezui-moguo-ku-nazhan-chang-noyi-tuni-ha.md",
-      "ts": 1778048947
-    },
-    "9c9070a2c35323dd9ca66443ae7174c92d9c7de55235e1602b5d91257b3cb97b": {
-      "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115341000.html",
-      "title": "岩手 大槌町「山林が燃えている」通報 消防",
-      "saved": "2026-05-06-yan-shou-da-chui-ting-shan-lin-karan-eteiru-tong-bao-xiao-fang.md",
-      "ts": 1778048947
-    },
-    "d9433b997a0da1adf62e0ef5921ccee0d8632b95cfc4297235ce8c4c48a5f9e3": {
-      "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115291000.html",
-      "title": "ドジャース 大谷翔平 投手専念で7回2失点も援護なく2敗目",
-      "saved": "2026-05-06-tosiyasu-da-gu-xiang-ping-tou-shou-zhuan-nian-te7hui-2shi-dian-moyuan-hu-naku2ba.md",
-      "ts": 1778048947
-    },
-    "c687a9f32e67733aa95739654a67681f5919350995ec045e240663f27df90999": {
-      "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115301000.html",
-      "title": "カブス 鈴木誠也 ノーヒットもチームはサヨナラ勝ちで7連勝",
-      "saved": "2026-05-06-kahusu-ling-mu-cheng-ye-nohitutomotimuhasayonarasheng-tite7lian-sheng.md",
-      "ts": 1778048947
-    },
-    "a55d908c41a46729768b4ead0426e3fa3839635e838a039e4bc39b68d220fa1e": {
-      "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115321000.html",
-      "title": "ホワイトソックス 村上宗隆 代打でヒットもチーム敗れる",
-      "saved": "2026-05-06-howaitosotukusu-cun-shang-zong-long-dai-da-tehitutomotimubai-reru.md",
-      "ts": 1778048947
-    },
-    "6c7260c6fbb1989aeaf841ab3eae1805c37cdbe824b2ee5b5837d3c49ea234a5": {
-      "link": "https://www.bbc.com/japanese/articles/c052lre75z6o?at_medium=RSS&at_campaign=rss",
-      "title": "ホルムズ海峡からの船舶誘導支援、「短期間」停止とトランプ氏　イランとの合意に向けて「大きな進展」と発表",
-      "saved": "2026-05-06-horumusuhai-xia-karanochuan-bo-you-dao-zhi-yuan-duan-qi-jian-ting-zhi-totoranhus.md",
-      "ts": 1778048947
-    },
-    "705dcac9a157e55cd3d5e625ff0f1b7c5d03eddf3291ead9af24fc360da0ea26": {
-      "link": "https://www.bbc.com/japanese/articles/cy428zv3xz8o?at_medium=RSS&at_campaign=rss",
-      "title": "ロシアがウクライナ各地攻撃、20人以上殺害　両国はそれぞれ一方的に停戦宣言",
-      "saved": "2026-05-06-rosiakaukurainage-di-gong-ji-20ren-yi-shang-sha-hai-liang-guo-hasoresoreyi-fang-.md",
-      "ts": 1778048947
-    },
-    "40b72d3b7cb9abcbfa336f2abf5bca469c5a110b7205b7ad68957cc66935bc84": {
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EZkQ0bWdmTFR1emVCZmR5czBnRWFmSlNScEMyWmNyUkdRMDRYSzNNZ21xYnVQaHF2Tm1Fc25reGJtRXJNSmtGOVRiM3NIRWFRNVVj?oc=5",
-      "title": "ロシア領内深くへの攻撃で2人死亡、首都では規模縮小した戦勝記念パレードの準備(1/2) - CNN",
-      "saved": "2026-05-06-rosialing-nei-shen-kuhenogong-ji-te2ren-si-wang-shou-du-tehagui-mo-suo-xiao-sita.md",
-      "ts": 1778048947
-    },
-    "840b37b109ff2142e633fe6f610b76d76834350d0d4044f921c7f3de3d34dce4": {
-      "link": "https://www.bbc.com/japanese/articles/c1w2e1q47g7o?at_medium=RSS&at_campaign=rss",
-      "title": "【解説】ホルムズ海峡での対立続く、全面戦争へ逆戻りのリスクも……BBC国際編集長",
-      "saved": "2026-05-06-jie-shuo-horumusuhai-xia-tenodui-li-sok-ku-quan-mian-zhan-zheng-heni-li-rinorisu.md",
-      "ts": 1778048947
-    },
-    "3ca2d12f458d8636b7b1f269d4e4cc7e8ea7a25fa6fc61546c828eb33337cd63": {
-      "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115281000.html",
-      "title": "米アンソロピック 「ミュトス」に中国が追いつく可能性 言及",
-      "saved": "2026-05-06-mi-ansorohituku-miyutosu-nizhong-guo-kazhui-itukuke-neng-xing-yan-ji.md",
-      "ts": 1778048947
-    },
-    "87abf3264d4eb30211b1a97c5796a91dfd0c36767e7bbffc6dd290bcbfe8d236": {
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE43Z093a0hxY3hhdE5KMGhuNzFjRUJlVlZTNnpidjVXbjYzSHB6bXJxMEpXbmo5UElPeU9qNk9YM2pucG5lakhwak1fOVFwdEwy?oc=5",
-      "title": "軍のイルカがホルムズ海峡で活動？ 米海軍の訓練プログラムは実在 - CNN",
-      "saved": "2026-05-06-jun-noirukakahorumusuhai-xia-tehuo-dong-mi-hai-jun-noxun-lian-hurokuramuhashi-za.md",
-      "ts": 1778048947
-    },
-    "c8a86961ed5c21065a1b9c08ecd4b4d46d2a2d462cead4142dfd09791d8c13fe": {
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BNlhxdVdwY2JmYUdaMU1uWHhIbndpdlpXYjA0UGkwV0x3LVpILURZcEJPTW9JMzVOSHBTbGJmcVBtMGZjcE51RVFoN011SmI3Y3VFeg?oc=5",
-      "title": "ロッキード・マーチン製のF35「アディール」/Lockheed Martin - CNN",
-      "saved": "2026-05-03-rotukitomatinzhi-nof35-ateiru-lockheed-martin-cnn.md",
-      "ts": 1778048947
-    },
     "fe420e0de1e68c90c1652b9f131c629b9653c06c7340661e55828775926bd551": {
       "link": "http://www3.nhk.or.jp/news/html/20260506/k10015115431000.html",
       "title": "【地震速報】千葉県と東京23区で震度3 津波の心配なし",
@@ -13733,6 +13649,150 @@
       "title": "「従業員のSNS投稿による炎上」多発　防止策の第一歩、社内ルールの整備状況は？",
       "saved": "2026-06-05-cong-ye-yuan-nosnstou-gao-niyoruyan-shang-duo-fa-fang-zhi-ce-nodi-yi-bu-she-nei-.md",
       "ts": 1780631197
+    },
+    "872262bba968ff395abe6df2ad99759034b20944ed673df177dee9dae37f4eba": {
+      "link": "http://www3.nhk.or.jp/news/html/20260605/k10015142201000.html",
+      "title": "伊藤ハム パッケージの色の数減らす 物価高や中東情勢影響",
+      "saved": "2026-06-05-yi-teng-hamu-hatukesinose-noshu-jian-rasu-wu-jia-gao-yazhong-dong-qing-shi-ying-.md",
+      "ts": 1780646795
+    },
+    "0446b2ad72e4c21f80253024ab3d50ccfedc726c542cc93f2219e7535769effd": {
+      "link": "http://www3.nhk.or.jp/news/html/20260605/k10015142181000.html",
+      "title": "4月の景気動向指数 前月比1.1ポイントの上昇 上昇は2か月連続",
+      "saved": "2026-06-05-4yue-nojing-qi-dong-xiang-zhi-shu-qian-yue-bi-1-1hointonoshang-sheng-shang-sheng.md",
+      "ts": 1780646795
+    },
+    "273b5898840f811bc22903c2b33933ae611f4031fad5856b1947a846469e6368": {
+      "link": "https://www.bbc.com/japanese/articles/cp8p8688zk6o?at_medium=RSS&at_campaign=rss",
+      "title": "【2026年サッカー男子W杯】各国代表が北米に続々と到着　11日に開幕",
+      "saved": "2026-06-05-2026nian-satukanan-zi-wbei-ge-guo-dai-biao-kabei-mi-nisok-todao-zhao-11ri-nikai-.md",
+      "ts": 1780646795
+    },
+    "613cfdfe23d566a84a7e9f4d216ebc2ff1f6989a976acd93eefea51aba21bdf4": {
+      "link": "http://www3.nhk.or.jp/news/html/20260605/k10015142191000.html",
+      "title": "サッカーW杯へ強化試合 スウェーデンがギリシャと引き分け",
+      "saved": "2026-06-05-satukawbei-heqiang-hua-shi-he-suuetenkakirisiyatoyin-kifen-ke.md",
+      "ts": 1780646795
+    },
+    "36ba7d8c702dec8027f796a50d53f5018c9f2a58fd56a7627d47e155c760d9ca": {
+      "link": "https://www.itmedia.co.jp/news/articles/2606/05/news110.html",
+      "title": "ミスで“永久無料”の人気ゲーム「PICO PARK：Classic」配信停止へ　1000万DLも「ずっと無料はよくなかった」",
+      "saved": "2026-06-05-misute-yong-jiu-wu-liao-noren-qi-kemu-pico-park-classic-pei-xin-ting-zhi-he-1000.md",
+      "ts": 1780646795
+    },
+    "3c1ee814132f0d40203cd5bd112546b0604d400012ac28dcdc9389d880f1c167": {
+      "link": "http://www3.nhk.or.jp/news/html/20260605/k10015142171000.html",
+      "title": "自民 維新 国民 参政 国民投票法改正案提出“今国会で成立を”",
+      "saved": "2026-06-05-zi-min-wei-xin-guo-min-can-zheng-guo-min-tou-piao-fa-gai-zheng-an-ti-chu-jin-guo.md",
+      "ts": 1780646795
+    },
+    "facf91ad01f3207e6557e433714a6306db000728fddaa9ac43837189ca361e77": {
+      "link": "https://www.itmedia.co.jp/news/articles/2606/05/news107.html",
+      "title": "国内初、ADHD治療にスマホアプリ　塩野義製薬がきょうから発売　子供向けに",
+      "saved": "2026-06-05-guo-nei-chu-adhdzhi-liao-nisumahoahuri-yan-ye-yi-zhi-yao-kakiyoukarafa-mai-zi-go.md",
+      "ts": 1780646795
+    },
+    "a1c4c3ac7017bc38c0eb9445654fb243da63184f49614d55b1fa4744740e6cf0": {
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QLTdmUHFYWGhJZnNoSW4xSkFPcmdscEg1MXhCbXZHbndQTGsxRmxQYlQwZlF0M1U1Ykw3VV82VkxKRUhQRXZwZ1MxTkh2NTVCRThv?oc=5",
+      "title": "イラン出身のアーティスト、マルジャン・サトラピさんが56歳で死去 「ペルセポリス」の著者 - CNN",
+      "saved": "2026-06-05-iranchu-shen-noateisuto-marusiyansatorahisanka56sui-tesi-qu-herusehorisu-nozhu-z.md",
+      "ts": 1780646795
+    },
+    "cce40739a1a3a8b3379d86d7386ddf7d876ebbeacb5bb12669938ed7b9238344": {
+      "link": "https://www.itmedia.co.jp/news/articles/2606/05/news108.html",
+      "title": "「JALモバイル powered by ahamo」6月25日提供開始　月2970円・30GBでマイルもたまる",
+      "saved": "2026-06-05-jalmohairu-powered-by-ahamo-6yue-25ri-ti-gong-kai-shi-yue-2970yuan-30gbtemairumo.md",
+      "ts": 1780646795
+    },
+    "f2f60bd4ebb475f1cc9cb784d7941643de652fe1bceb1343a49aa209fc8578a6": {
+      "link": "http://www3.nhk.or.jp/news/html/20260605/k10015142151000.html",
+      "title": "ゼレンスキー大統領 プーチン大統領に公開書簡 “直接会談を”",
+      "saved": "2026-06-05-serensukida-tong-ling-hutinda-tong-ling-nigong-kai-shu-jian-zhi-jie-hui-tan-wo.md",
+      "ts": 1780646795
+    },
+    "bd0e122702ad4ebc4d3223babdbd9f8f0e2242dccbb15687191581420ae69c20": {
+      "link": "http://www3.nhk.or.jp/news/html/20260605/k10015142141000.html",
+      "title": "ブルージェイズ 岡本和真 2安打 チームは勝ち 連敗を4で止める",
+      "saved": "2026-06-05-hurusieisu-gang-ben-he-zhen-2an-da-timuhasheng-ti-lian-bai-wo4tezhi-meru.md",
+      "ts": 1780646795
+    },
+    "06a77b59ec164f68cbd4d5b5604d0cdf51042d563f09ca37c3daa9d4d1466351": {
+      "link": "https://www.itmedia.co.jp/news/articles/2606/05/news106.html",
+      "title": "カード番号総当たり「クレジットマスター攻撃」に注意、利用履歴の確認を　Kyash",
+      "saved": "2026-06-05-katofan-hao-zong-dang-tari-kuresitutomasutagong-ji-nizhu-yi-li-yong-lu-li-noque-.md",
+      "ts": 1780646795
+    },
+    "38779c40ca8fc7e77887b900c64c12d3fade063a80e465f64e95e4801d7fa8c7": {
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fRjd4cHEySGlZdWFGVlhKem1MMjZnR1B3X1dTbWxhVkxON1FKdkNScjQ0VThXYlp2ZFBUYndlRzRlS3pKWGJoQWpZYzFvbU5QaWdj?oc=5",
+      "title": "中国の習近平国家主席、来週異例の北朝鮮訪問へ - CNN",
+      "saved": "2026-06-05-zhong-guo-noxi-jin-ping-guo-jia-zhu-xi-lai-zhou-yi-li-nobei-zhao-xian-fang-wen-h.md",
+      "ts": 1780646795
+    },
+    "2d679d5248c13023c30505c11722ea50de20336924760e2b1c3c0015dda5ed90": {
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1SUnkyV2Y0S2RZellYWi1uT2FPMTY4MFhCVElwNUxaOTJxMnI4VEI5UEU2TzhpT0swZDh1R1ZiT2hTVFZXRVlNMWFYOXVrbk0?oc=5",
+      "title": "最新鋭の米空母で火災、甚大な被害が映像で明らかに - CNN",
+      "saved": "2026-06-05-zui-xin-rui-nomi-kong-mu-tehuo-zai-shen-da-nabei-hai-kaying-xiang-teming-rakani-.md",
+      "ts": 1780646795
+    },
+    "dbe26bc25ffd34e59d718dea1f37c7a709848e96974571c57ff43ab19ecc7404": {
+      "link": "http://www3.nhk.or.jp/news/html/20260605/k10015142011000.html",
+      "title": "カブス 今永6失点 鈴木代打でヒット チームはサヨナラ勝ち",
+      "saved": "2026-06-05-kahusu-jin-yong-6shi-dian-ling-mu-dai-da-tehituto-timuhasayonarasheng-ti.md",
+      "ts": 1780646795
+    },
+    "20fa453d7a2cf8e013df3cab176d6b90283a8f0f9da4fa4774e72adf3f072212": {
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB4M18ybVQ2VWdGaFp0U21ORmU5NXpzQUJSS01PWjZuaGhvXzFyME1xMWxLbkNNVFlPV01aUmg4SjA5MXBOSkJWQXZuODNQeFl6?oc=5",
+      "title": "米空母ジェラルド・フォード、火災の損傷が映像で明らかに 消火システム作動せずとの証言も CNN EXCLUSIVE - CNN",
+      "saved": "2026-06-05-mi-kong-mu-sierarutohuoto-huo-zai-nosun-shang-kaying-xiang-teming-rakani-xiao-hu.md",
+      "ts": 1780646795
+    },
+    "9296b8e4be70dd113a3de353fac3b9f2e632d5e3591fa260c79574611cccb532": {
+      "link": "http://www3.nhk.or.jp/news/html/20260605/k10015141961000.html",
+      "title": "ゴルフ全米女子オープン開幕 渋野日向子が3位につけ好スタート",
+      "saved": "2026-06-05-koruhuquan-mi-nu-zi-ohunkai-mu-shibui-ye-ri-xiang-zi-ka3wei-nitukehao-sutato.md",
+      "ts": 1780646795
+    },
+    "8f51ea178feaea5c108e6de0c94ff152a14e51821b1cf92daa812720bac9eb37": {
+      "link": "https://www.itmedia.co.jp/news/articles/2606/05/news097.html",
+      "title": "新「マイナアプリ」アイコン公開　「マイナちゃん」消える",
+      "saved": "2026-06-05-xin-mainaahuri-aikongong-kai-mainatiyan-xiao-eru.md",
+      "ts": 1780646795
+    },
+    "782c6cb4ad345256cfb9c008b778bf01f31916f0a3b15d31cd79f4264a2e7cc0": {
+      "link": "http://www3.nhk.or.jp/news/html/20260605/k10015141931000.html",
+      "title": "大リーグ ヤンキースのジャッジ ろっ骨疲労骨折で離脱へ",
+      "saved": "2026-06-05-da-riku-yankisunosiyatusi-rotugu-pi-lao-gu-zhe-teli-tuo-he.md",
+      "ts": 1780646795
+    },
+    "f149e79eb0a0e6bd242d1eaacb847408141c46a1dbf29f3ed22b75d30028439a": {
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5BcmJoT0NQWi1zRzd5ZTU5VDktLTR6ZTZZNlZ6Y25DWnNPZndfbDRwMENTNjMtelNnejFwNWM0YUxrSG9sbElMT2xSRUd4aVdR?oc=5",
+      "title": "歴戦の垂直離着陸機AV8「ハリアー」、米海兵隊が退役式典 F35Bに道を譲る(1/2) - CNN",
+      "saved": "2026-06-05-li-zhan-nochui-zhi-li-zhao-lu-ji-av8-haria-mi-hai-bing-dui-katui-yi-shi-dian-f35.md",
+      "ts": 1780646795
+    },
+    "9479939c522805d912fd182e284fbc226694a763e46abf4b7cf33946c844c1cf": {
+      "link": "https://www.bbc.com/japanese/articles/ceqpq7zrxvlo?at_medium=RSS&at_campaign=rss",
+      "title": "英首相、マスク氏やファラージ氏が「分断をあおっている」と非難　ノヴァクさん殺害事件めぐり",
+      "saved": "2026-06-05-ying-shou-xiang-masukushi-yahuarasishi-ka-fen-duan-woaotuteiru-tofei-nan-nouakus.md",
+      "ts": 1780646795
+    },
+    "39d15aa66917152b708f8d56ff67d5b3eb23ec3c265e0f57b3f1e922af06f3bd": {
+      "link": "https://www.itmedia.co.jp/news/articles/2606/05/news096.html",
+      "title": "ヤマダHDとエディオン、経営統合に基本合意　2027年10月めど",
+      "saved": "2026-06-05-yamatahdtoeteion-jing-ying-tong-he-niji-ben-he-yi-2027nian-10yue-meto.md",
+      "ts": 1780646795
+    },
+    "09d10cda36337eabacc687cd3d8602ad508bc2b216a8c5e9bdbb9b979c9266b2": {
+      "link": "https://www.itmedia.co.jp/news/articles/2606/05/news091.html",
+      "title": "ChatGPTの“記憶”を刷新　メモリ機能の新基盤展開、無料ユーザーへも順次",
+      "saved": "2026-06-05-chatgptno-ji-yi-woshua-xin-memoriji-neng-noxin-ji-pan-zhan-kai-wu-liao-yusahemos.md",
+      "ts": 1780646795
+    },
+    "b1620d9317af66af25e4ec117a5023e6985667788d294b7d7c293ece1d6a2fc5": {
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uaGszaklEaW56T2xJeUlBRE1ULVNSeXFkd2tjNzAtNHp2WVN5RHlWNjc5eTNLWUFBWGZWckFwejlxWTVXd0VCQ3BHS2EwdzFtNHJ5cA?oc=5",
+      "title": "イラン学生通信（ISNA）から5月4日に入手した、ホルムズ海峡に停泊する船舶の写真 - CNN",
+      "saved": "2026-06-05-iranxue-sheng-tong-xin-isna-kara5yue-4ri-niru-shou-sita-horumusuhai-xia-niting-b.md",
+      "ts": 1780646795
     }
   }
 }
