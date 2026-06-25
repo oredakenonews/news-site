@@ -1,137 +1,5 @@
 {
   "done": {
-    "89648a10df017f3f31db2e5efd43d2c98e1c676a630fbd193278caa2e4dc0a9f": {
-      "link": "http://www3.nhk.or.jp/news/html/20260526/k10015131461000.html",
-      "title": "巨人 阿部慎之助監督が辞任 娘への暴行疑いで逮捕を受けて",
-      "saved": "2026-05-26-ju-ren-a-bu-shen-zhi-zhu-jian-du-kaci-ren-niang-henobao-xing-yi-itedai-bu-woshou.md",
-      "ts": 1779766453
-    },
-    "7bcd05c0f9f8f7cfc0c2fab563033063eb0210db5f2d337c340096cc4ee690af": {
-      "link": "https://www.itmedia.co.jp/business/articles/2605/26/news072.html",
-      "title": "「困った上司」経験者は9割　“尊敬される上司”とは何が違うのか",
-      "saved": "2026-05-26-kun-tutashang-si-jing-yan-zhe-ha9ge-zun-jing-sarerushang-si-tohahe-kawei-unoka.md",
-      "ts": 1779766453
-    },
-    "24a7895f0ec617c38c55ec0dbf6dc3612cc20e8653fb6cafcc473282ee739add": {
-      "link": "http://www3.nhk.or.jp/news/html/20260526/k10015131441000.html",
-      "title": "電気・ガス料金支援へ 今年度の予備費5135億円の支出決定",
-      "saved": "2026-05-26-dian-qi-kasuliao-jin-zhi-yuan-he-jin-nian-du-noyu-bei-fei-5135yi-yuan-nozhi-chu-.md",
-      "ts": 1779766453
-    },
-    "7414f9dcbb9f98020c2a4a1bedcbc72d0d72876957cb9bb7d2a265da30bb110f": {
-      "link": "http://www3.nhk.or.jp/news/html/20260526/k10015131431000.html",
-      "title": "安愚楽牧場「和牛オーナー制度」国への賠償請求退ける判決",
-      "saved": "2026-05-26-an-yu-le-mu-chang-he-niu-onazhi-du-guo-henopei-chang-qing-qiu-tui-kerupan-jue.md",
-      "ts": 1779766453
-    },
-    "b44dd36a57ebba6c5c02b8bc185c3a9aa676c96fedf882a22c8e8299509cae3f": {
-      "link": "http://www3.nhk.or.jp/news/html/20260526/k10015131421000.html",
-      "title": "米軍がイラン船舶やミサイル施設攻撃 “自衛のため”",
-      "saved": "2026-05-26-mi-jun-kairanchuan-bo-yamisairushi-she-gong-ji-zi-wei-notame.md",
-      "ts": 1779766453
-    },
-    "d82fd982c98ea704142d08eda0dbf81604bc6bb7801a6f6246b6901bae89b281": {
-      "link": "https://www.bbc.com/japanese/articles/cj0pp7vezq4o?at_medium=RSS&at_campaign=rss",
-      "title": "米軍、イラン南部を空爆　合意は「目前ではない」とイランが説明後",
-      "saved": "2026-05-26-mi-jun-irannan-bu-wokong-bao-he-yi-ha-mu-qian-tehanai-toirankashuo-ming-hou.md",
-      "ts": 1779766453
-    },
-    "4b1189cf1e4a21c56da7c6d45d1929c13f597bb9d43a7f906a4d16845c1ee4ca": {
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5JcURlXzdLdEdlZWNCRjNvclpNUEtzaElSZEswdUdvVWl1UjlKS3N5Z2dvVk9sdVVocUs3SENfUU90V3Y0SHJvT0ZwMl9lZTVl?oc=5",
-      "title": "今世紀中にも海に飲み込まれる恐れ 科学者ら米ニューオーリンズの住民に移住呼びかけ - CNN",
-      "saved": "2026-05-26-jin-shi-ji-zhong-nimohai-niyin-miip-marerukong-re-ke-xue-zhe-rami-niyuorinsunozh.md",
-      "ts": 1779766453
-    },
-    "8c74908c9be678a5d3bb0334a39b9267e9332496d5eff3a2a95c59e6fcd4950b": {
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LNTJBaHhGY2ZSWENTUlZ6ZERIYi1OVzhuT09GbWFIbWxEWVNvTzVDdmx1QTliQVhiT3VkNFBGRy05akhhd1g0R3c0T1REX1FxWHBB?oc=5",
-      "title": "ロンドン行きの旅客機が目的地変更、預け荷物の中に充電中のモバイルバッテリー - CNN",
-      "saved": "2026-05-26-rontonxing-kinolu-ke-ji-kamu-de-di-bian-geng-yu-kehe-wu-nozhong-nichong-dian-zho.md",
-      "ts": 1779766453
-    },
-    "a31a24cae7133cf5c4a7da31f712605efdd6ed08c49078fd82e35779e72fb05b": {
-      "link": "https://www.itmedia.co.jp/news/articles/2605/26/news068.html",
-      "title": "KADOKAWA「ダ・ヴィンチ」休刊　創刊32年、紙からWebへ移行",
-      "saved": "2026-05-26-kadokawa-tauinti-xiu-kan-chuang-kan-32nian-zhi-karawebheyi-xing.md",
-      "ts": 1779766453
-    },
-    "821d28f01712c0555becf1473dca36833099e6c731d4933e9a7267a525ce0a5e": {
-      "link": "https://www.itmedia.co.jp/business/articles/2605/26/news061.html",
-      "title": "リユース業界、4期連続で拡大　セカスト躍進の裏で淘汰も加速",
-      "saved": "2026-05-26-riyusuye-jie-4qi-lian-sok-tekuo-da-sekasutoyue-jin-noli-tetao-tai-mojia-su.md",
-      "ts": 1779766453
-    },
-    "9e7119b558e31219b7b0f0391d65df492fd4b2c8edf67419e8ae7e568040af16": {
-      "link": "https://www.itmedia.co.jp/news/articles/2605/26/news067.html",
-      "title": "Googleで「結婚して」と検索したら、丁寧に断られた　検索クエリを指令と勘違い？",
-      "saved": "2026-05-26-googlete-jie-hun-site-tojian-suo-sitara-ding-zhu-niduan-rareta-jian-suo-kueriwoz.md",
-      "ts": 1779766453
-    },
-    "5906f94cd0691375667b3a23f36532a45cee9de3af6834dbed110a0acdf5422b": {
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RR3plNlNJYlJDLXlaMFZ5Wi1pclhZN1JrM3hWM0FrTVFEaTBIRzM5dFR5RFBpbmZ4MTFTMmdXX0JOSVNJQk9YWnNXRUZyclhTdk1R?oc=5",
-      "title": "イラン、ホルムズ海峡沿いの複数地点で爆発を報告 防空システム作動 - CNN",
-      "saved": "2026-05-26-iran-horumusuhai-xia-yan-inofu-shu-di-dian-tebao-fa-wobao-gao-fang-kong-sisutemu.md",
-      "ts": 1779766453
-    },
-    "ae91a28c3790013206e7d10c5f78e5c55cca9049c751541ba53452958b0bdf77": {
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE56UlFDSUhYRWQ1SGVjY1BzVW9XNFlfbUxFU0FJa1BzOFVYdkR0UDlFZlRERnJNZURFOEY1Z1QwWG1hVnBTNHFxZ1lsc3F0WXpHWDAw?oc=5",
-      "title": "ハンタウイルス発生のクルーズ船、下船のスペイン人が陽性 - CNN",
-      "saved": "2026-05-26-hantauirusufa-sheng-nokurusuchuan-xia-chuan-nosuheinren-kayang-xing-cnn.md",
-      "ts": 1779766453
-    },
-    "8b9aab59fed39b86e4f9f9fc22d6703b8c81c2b26e890ddfc8cb2c8772beb70d": {
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzTGROUmZnb1dobEs2bEFQZU9fR2tCTGNyTjlQOFpEZnhsNDRLYnJpY1M0QlcxNmVFWjJiWkZDWlU3cXhPVnExS2pFNWZiZF8zWUgw?oc=5",
-      "title": "米軍、イランのミサイル発射施設と船艇を標的に「自衛のための攻撃」 戦闘終結に向けた協議続くなか - CNN",
-      "saved": "2026-05-26-mi-jun-irannomisairufa-she-shi-she-tochuan-ting-wobiao-de-ni-zi-wei-notamenogong.md",
-      "ts": 1779766453
-    },
-    "21600053bc68cbd2f13ec35d0be7720bd1c9a61b7ce75331e1a22f430a9cafed": {
-      "link": "http://www3.nhk.or.jp/news/html/20260526/k10015131411000.html",
-      "title": "日本の対外純資産561兆円 過去最高も中国に抜かれ3位に",
-      "saved": "2026-05-26-ri-ben-nodui-wai-chun-zi-chan-561zhao-yuan-guo-qu-zui-gao-mozhong-guo-niba-kare3.md",
-      "ts": 1779766453
-    },
-    "877fa5e45781e6b0c447116987e786714eadb788d1ce0dd6028352feb1f2ab3f": {
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80aURrOHluNkROajhYVDl5MTZwMGxfUE45bmJZMTJBVG9GTFlBNVNjNzNEUkhILTRMVHY1dkNFQ2VTc0NISGxqN1VPUUNSb1hMbG84?oc=5",
-      "title": "核問題と制裁巡る米イラン間の相違、早期解消に楽観的な見方 - CNN",
-      "saved": "2026-05-26-he-wen-ti-tozhi-cai-xun-rumi-iranjian-noxiang-wei-zao-qi-jie-xiao-nile-guan-de-n.md",
-      "ts": 1779766453
-    },
-    "4dd39352bc6fda792a9791416be9e8b4b86a25454f6dc6a18e2d3c06160d071c": {
-      "link": "https://www.itmedia.co.jp/news/articles/2605/26/news019.html",
-      "title": "考えるだけでPC操作・脳内発話も　中国がAI脳インプラント開発加速、一般販売も間近か　Nature報道",
-      "saved": "2026-05-26-kao-erutaketepccao-zuo-noy-nei-fa-hua-mo-zhong-guo-kaainoy-inhurantokai-fa-jia-s.md",
-      "ts": 1779766453
-    },
-    "abb1ef0eb184f130cf2c86ddae2c6df68b528a9ae1ad29084f8f9742455e7301": {
-      "link": "https://www.itmedia.co.jp/news/articles/2605/25/news062.html",
-      "title": "総額は同じなのに、なぜ「送料無料」を選ぶのか？　fMRIで脳をのぞいて解明　韓国チームが学術誌で発表",
-      "saved": "2026-05-26-zong-e-hatong-sinanoni-nase-song-liao-wu-liao-woxuan-hunoka-fmritenoy-wonosoitej.md",
-      "ts": 1779766453
-    },
-    "047e59c92b39e49cac7f6eb784fe11aee47dfc9a80eb7465ca859199263bdd5b": {
-      "link": "https://www.itmedia.co.jp/business/articles/2605/26/news025.html",
-      "title": "雑談、挨拶、雪かきまで　クレディセゾン「43人のおせっかい集団」が変えた、AI時代の「孤独」",
-      "saved": "2026-05-26-za-tan-ai-zan-xue-kakimate-kureteiseson-43ren-noosetukaiji-tuan-kabian-eta-aishi.md",
-      "ts": 1779766453
-    },
-    "d994a3683a1fabad849e5a0c5a2543a7558ddc6dc10ef211364bb69a12cca428": {
-      "link": "https://www.itmedia.co.jp/business/articles/2605/26/news018.html",
-      "title": "ペンタブ大手ワコム、社長が娘のために会社を“私物化”？　投資ファンドの指摘に反論も、残る疑問",
-      "saved": "2026-05-26-hentahuda-shou-wakomu-she-chang-kaniang-notamenihui-she-wo-si-wu-hua-tou-zi-huan.md",
-      "ts": 1779766453
-    },
-    "552f3a4ad35755dd551b76f39e51b098df133c388a85d772db453792392f720c": {
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LQzk2bE8yWnl2aUkxTUpUNHdfR1hIX1VHZkNtSUpmVHVhb3FGeWc5SVZRalZLVlhfTjBYekt4eV9PNVQ0YkI4U0sxWjEwSEFLOFNj?oc=5",
-      "title": "航空機の操縦を学ぶAI、自動化を受け入れ始める航空業界(2/2) - CNN",
-      "saved": "2026-05-25-hang-kong-ji-nocao-zong-woxue-huai-zi-dong-hua-woshou-keru-reshi-meruhang-kong-y-2.md",
-      "ts": 1779766453
-    },
-    "ec295f9954c391846730fe2201b20705535598c9bd562269261f250c8ddfbfb9": {
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9lSHBHZmZENV9WLWZjSmFPWHl1Z2tDckkzYXRqMk42d28zTk1iNXlhQmJNdEtxcUdsR285aHpXODRsb3dMNWMtZzNncDdCb21hdzJuXw?oc=5",
-      "title": "毎晩午前2時から路上に出て、商店や飲食店が路上に捨てた段ボールを集め始めるウー・サウジンさん（71） - CNN",
-      "saved": "2026-05-25-mei-wan-wu-qian-2shi-karalu-shang-nichu-te-shang-dian-yayin-shi-dian-kalu-shang-.md",
-      "ts": 1779766453
-    },
     "365bb7a5fb74252bc45dd7ef1f5e5c9a59d8d3860ef82f8390da935ebe4d2105": {
       "link": "http://www3.nhk.or.jp/news/html/20260526/k10015131781000.html",
       "title": "衆議院憲法審査会 28日開催で与野党が合意",
@@ -14999,6 +14867,180 @@
       "title": "早くも熱波に見舞われた欧州で、アパートの建物の外壁に見られるエアコンの室外機＝5月23日、スペインのマドリード - CNN",
       "saved": "2026-06-24-zao-kumore-bo-nijian-wu-waretaou-zhou-te-ahatonojian-wu-nowai-bi-nijian-rareruea.md",
       "ts": 1782358439
+    },
+    "09984a7001e8361bf06b66af3fab78b85749de47ec1d33e6338bdd440b438273": {
+      "link": "https://www.bbc.com/japanese/articles/cz0jx4jp3r3o?at_medium=RSS&at_campaign=rss",
+      "title": "ロシア占領下のクリミア最大都市で停電、ウクライナのドローン攻撃後",
+      "saved": "2026-06-25-rosiazhan-ling-xia-nokurimiazui-da-du-shi-teting-dian-ukurainanotorongong-ji-hou.md",
+      "ts": 1782373300
+    },
+    "f47ca8adf61b7bb58c41d6d11d8f8b87b73b346531b0bb94e53826f6aec9a551": {
+      "link": "http://www3.nhk.or.jp/news/html/20260625/k10015159251000.html",
+      "title": "株価 3100円以上値上がり 終値で最高値を更新",
+      "saved": "2026-06-25-zhu-jia-3100yuan-yi-shang-zhi-shang-kari-zhong-zhi-tezui-gao-zhi-wogeng-xin.md",
+      "ts": 1782373300
+    },
+    "3126e1b26fc2a052b2b745ff6e85f89954545afa48546d4b73ef382d9dc5c530": {
+      "link": "http://www3.nhk.or.jp/news/html/20260625/k10015159511000.html",
+      "title": "W杯 南アフリカが初の決勝トーナメントへ 韓国に競り勝つ",
+      "saved": "2026-06-25-wbei-nan-ahurikakachu-nojue-sheng-tonamentohe-han-guo-nijing-risheng-tu.md",
+      "ts": 1782373300
+    },
+    "138f1586ea512b955f820ee8976031770b2fe3bb6068ba8e2991146e88ed05eb": {
+      "link": "http://www3.nhk.or.jp/news/html/20260625/k10015159521000.html",
+      "title": "W杯 メキシコが3連勝で決勝トーナメント進出 チェコに快勝",
+      "saved": "2026-06-25-wbei-mekisikoka3lian-sheng-tejue-sheng-tonamentojin-chu-tiekonikuai-sheng.md",
+      "ts": 1782373300
+    },
+    "83ab1475ab8c7d6f794c348b0db7ed6fce9237ca90efc9a1e14a583a6e872af7": {
+      "link": "https://www.bbc.com/japanese/articles/crkvj82xg3vo?at_medium=RSS&at_campaign=rss",
+      "title": "【2026年サッカー男子W杯】 ロナウド、6大会連続ゴールの新記録　批判はね返す",
+      "saved": "2026-06-25-2026nian-satukanan-zi-wbei-ronauto-6da-hui-lian-sok-korunoxin-ji-lu-pi-pan-hanef.md",
+      "ts": 1782373300
+    },
+    "7c185b14460d2ca9e89fa4b284e81dcc11213352655be039d48c2d45988d0b2d": {
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBzMlRSYXdvZk9NYjNLaThNdUxxb3Vrc3ZJMjhMNV85bDNaVW1qc3lianpVaFdLbjFERE9ySnRrc1NZbEE3cjNKSjM4LXJLVGZP?oc=5",
+      "title": "【分析】ベネズエラ地震、試される米国の国家再建の約束 - CNN",
+      "saved": "2026-06-25-fen-xi-henesueradi-zhen-shi-sarerumi-guo-noguo-jia-zai-jian-noyue-shu-cnn.md",
+      "ts": 1782373300
+    },
+    "fe39c3c09a760b2dfc8e13252940547f9ddb6044192b2a57b8ea4e551cf6cb4a": {
+      "link": "http://www3.nhk.or.jp/news/html/20260625/k10015159681000.html",
+      "title": "【大雨・台風】各地で被害 備えの動き",
+      "saved": "2026-06-25-da-yu-tai-feng-ge-di-tebei-hai-bei-enodong-ki.md",
+      "ts": 1782373300
+    },
+    "a6e84bce089c0fb9fd900d657a70bcf3fdb744083c69257014ac0a1639cdaa0d": {
+      "link": "https://www.itmedia.co.jp/news/articles/2606/25/news109.html",
+      "title": "「ANYCOLORの口座に振り込まないと、爆破する」にじさんじ運営企業の名を悪用した脅迫メール大量送信　法的対応へ",
+      "saved": "2026-06-25-anycolornokou-zuo-nizhen-riip-manaito-bao-po-suru-nisisansiyun-ying-qi-ye-noming.md",
+      "ts": 1782373300
+    },
+    "4e25805849d95030dd96f81a1d35d227753a8b7b2d50f2c92d9804c1851ae715": {
+      "link": "http://www3.nhk.or.jp/news/html/20260625/k10015159571000.html",
+      "title": "「西～東日本 大雨27日ごろにかけ続く 厳重に警戒を」気象庁",
+      "saved": "2026-06-25-xi-dong-ri-ben-da-yu-27ri-koronikakesok-ku-yan-zhong-nijing-jie-wo-qi-xiang-ting.md",
+      "ts": 1782373300
+    },
+    "d1fb4412e8d54c09766feaab15c10d7c8eb9e309059a01847b786782c67f2bed": {
+      "link": "http://www3.nhk.or.jp/news/html/20260625/k10015159741000.html",
+      "title": "カブス 今永昇太 本塁打3本浴びるも8試合ぶり勝利",
+      "saved": "2026-06-25-kahusu-jin-yong-sheng-tai-ben-toride-da-3ben-yu-hirumo8shi-he-hurisheng-li.md",
+      "ts": 1782373300
+    },
+    "aa11e37cfe04dcc8fbaf3183bfd8bed03f096f0bb3012aab84eeec0c0348236b": {
+      "link": "http://www3.nhk.or.jp/news/html/20260625/k10015159751000.html",
+      "title": "ブルージェイズ 岡本和真4試合ぶり無安打 チームは連敗",
+      "saved": "2026-06-25-hurusieisu-gang-ben-he-zhen-4shi-he-huriwu-an-da-timuhalian-bai.md",
+      "ts": 1782373300
+    },
+    "af29e8f3abb111ef7c1b620740db53ef9eae8050ff8ab7cbaf2ec30223706a67": {
+      "link": "http://www3.nhk.or.jp/news/html/20260625/k10015159731000.html",
+      "title": "ドジャース 大谷翔平【一問一答】第2子について父親の顔も",
+      "saved": "2026-06-25-tosiyasu-da-gu-xiang-ping-yi-wen-yi-da-di-2zi-nituitefu-qin-noyan-mo.md",
+      "ts": 1782373300
+    },
+    "8178cf6d57e913cd939b23055871aa23493783533a6b6aa057560a3f1db9177c": {
+      "link": "https://www.itmedia.co.jp/news/articles/2606/25/news100.html",
+      "title": "Google Play、手数料を30％から引き下げ　独自決済や外部サイト誘導も開放　日本は12月から",
+      "saved": "2026-06-25-google-play-shou-shu-liao-wo30-karayin-kixia-ke-du-zi-jue-ji-yawai-bu-saitoyou-d.md",
+      "ts": 1782373300
+    },
+    "401ced5f1951fd5aee7ed82f50c14ddd353b6118c20012c495455fe45201c4a5": {
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CcHlveVBjZ21fQWZBakZndVhUVHFlWjRrc0xGM3lXajMtaHQ0T2pnMC05MjRyM09GaEc3VW1LNFlaUUJkU254a2pVRS05LTJSY1hN?oc=5",
+      "title": "世界で大地震が複数発生、関連はあるのか？ - CNN",
+      "saved": "2026-06-25-shi-jie-teda-di-zhen-kafu-shu-fa-sheng-guan-lian-haarunoka-cnn.md",
+      "ts": 1782373300
+    },
+    "76e4816b1ee743e7ab5e799c1c2e1efcc2da6240fb120cabaa0a4e039cd3ff4c": {
+      "link": "https://www.itmedia.co.jp/news/articles/2606/25/news088.html",
+      "title": "流出の恐れがある@niftyの「メールパスワード」って何？　「ログインパスワード」とは違うの？",
+      "saved": "2026-06-25-liu-chu-nokong-rekaaru-niftyno-meruhasuwato-tutehe-rokuinhasuwato-tohawei-uno.md",
+      "ts": 1782373300
+    },
+    "bd4ccbf716812c10cab84f1ccecc428b160a9d7a7d99867594b0ac73da7fefb0": {
+      "link": "https://www.bbc.com/japanese/articles/cp9l8j43zkjo?at_medium=RSS&at_campaign=rss",
+      "title": "【解説】 「クールダウン拠点」、映画無料券、窓に「白い粉」……欧州各国の熱波対策",
+      "saved": "2026-06-25-jie-shuo-kurutaunju-dian-ying-hua-wu-liao-quan-chuang-ni-bai-ifen-ou-zhou-ge-guo.md",
+      "ts": 1782373300
+    },
+    "229039b4ffec2009f136c9106fd1314c0b3df314ba90f4dcd74f8cd49dbca683": {
+      "link": "http://www3.nhk.or.jp/news/html/20260625/k10015159671000.html",
+      "title": "プロ野球 阪神対ヤクルト 天候不良のため中止",
+      "saved": "2026-06-25-huroye-qiu-ban-shen-dui-yakuruto-tian-hou-bu-liang-notamezhong-zhi.md",
+      "ts": 1782373300
+    },
+    "2d9b5c0442d7e77a56adb7aaaea1c42f239d110d091ffe08d1746b75a3599148": {
+      "link": "https://www.bbc.com/japanese/articles/c4gywdp374lo?at_medium=RSS&at_campaign=rss",
+      "title": "ヨーロッパ西部で熱波　フランス、イギリス、スペインで記録的高温",
+      "saved": "2026-06-25-yorotuhaxi-bu-tere-bo-huransu-ikirisu-suheinteji-lu-de-gao-wen.md",
+      "ts": 1782373300
+    },
+    "b4a4621a9dfea18ae29f1ee6ffe5b3a347b944bdde0cd952dbed8d47a3be1aad": {
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjdWVFMXY5c2FoRlpkaXBIY0lQdDZORHcyTFJDdDh4M0N1TzV0RFdUYWE1a01ONXpjME16dkNldzc3OUhIYXFnclRpSHRYVUxFaXU0?oc=5",
+      "title": "ベネズエラのM7超の地震、「見たことない規模」と首都住民 1967年の地震より強力 - CNN",
+      "saved": "2026-06-25-henesueranom7chao-nodi-zhen-jian-takotonaigui-mo-toshou-du-zhu-min-1967nian-nodi.md",
+      "ts": 1782373300
+    },
+    "93effc3cbfcb9081587d3c86b51228b490272bad626802bb92dc7c760ef2f7da": {
+      "link": "http://www3.nhk.or.jp/news/html/20260625/k10015159621000.html",
+      "title": "サッカー 59歳“カズ”がJ3福島と契約更新 還暦プレーへ",
+      "saved": "2026-06-25-satuka-59sui-kasu-kaj3fu-dao-toqi-yue-geng-xin-huan-li-hurehe.md",
+      "ts": 1782373300
+    },
+    "554f73390f87cad796f378d3a78d658ab933e2467477ab762f327e7ad1393458": {
+      "link": "https://www.bbc.com/japanese/articles/c9d2xden324o?at_medium=RSS&at_campaign=rss",
+      "title": "IAEA、イラン核施設を査察すると　合意に基づき実施予定と事務局長",
+      "saved": "2026-06-25-iaea-iranhe-shi-she-wocha-cha-suruto-he-yi-niji-tukishi-shi-yu-ding-toshi-wu-ju-.md",
+      "ts": 1782373300
+    },
+    "a8c92f1227fdeded752a67eeb44ffc7a7300e82dd20ced7de753657d4f9e928d": {
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5JTEF0RDZMMi1kLWNVbGoxaHBrQ296eURvaXFZcVV4aHdicERLa0pZOEY4VzdzUDNVT3VsbEZlakF1d185ZDFnSkdJR3NUa0s4?oc=5",
+      "title": "【分析】米国務長官、中東訪問でイスラエルに立ち寄らず 再び冷遇されるネタニヤフ氏 - CNN",
+      "saved": "2026-06-25-fen-xi-mi-guo-wu-chang-guan-zhong-dong-fang-wen-teisuraerunili-tiji-rasu-zai-hil.md",
+      "ts": 1782373300
+    },
+    "0bbfe8b9a9fb9c7fba9814ac163e3588675aa9e4fdeb3684c0041bdf7dd24e68": {
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1STGxwY28zekxvRVAtRzNjUVAzc20yUFQtZ1d3bmltSTRFZDEtenlTRENhMzlHOHd4b2ZhbkR5ZGsxZnZMWnZrZFlXZndWYVJvdHlmSzhR?oc=5",
+      "title": "イスラエル軍、意図して子どもたちを標的に ジェノサイド止まらず 国連報告書(2/2) - CNN",
+      "saved": "2026-06-25-isuraerujun-yi-tu-sitezi-tomotatiwobiao-de-ni-sienosaitozhi-marasu-guo-lian-bao-.md",
+      "ts": 1782373300
+    },
+    "3fc3bacf6f18cb9cb38e877e2aa9f6272d3fc5fb78cfd37d815adef539831909": {
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8yRlVqelZ1YjY0VUU5Yk8tMThKZnhYU1dybzBvR3ZoYTUyejlxSFhrbGFwV21VWjVhM18wdVdmb1lZMloyYUw0RzZoQkFRMmozckRjTWhuS0ZiZ2JtNlE?oc=5",
+      "title": "イスラエル軍、意図して子どもたちを標的に ジェノサイド止まらず 国連報告書(1/2) - CNN",
+      "saved": "2026-06-25-isuraerujun-yi-tu-sitezi-tomotatiwobiao-de-ni-sienosaitozhi-marasu-guo-lian-bao--2.md",
+      "ts": 1782373300
+    },
+    "c06711778dc6688a5e0ec05524a9e8feedbb09c823854d2c9db59e78e1a3077d": {
+      "link": "https://www.bbc.com/japanese/articles/cx2j4xg9xeeo?at_medium=RSS&at_campaign=rss",
+      "title": "南米ヴェネズエラで強い地震が2度発生　マグニチュード7超",
+      "saved": "2026-06-25-nan-mi-uenesuerateqiang-idi-zhen-ka2du-fa-sheng-makunitiyuto7chao.md",
+      "ts": 1782373300
+    },
+    "fe26c2b91e83605a5fec75c32da5504a00dd28ddc7a939b53703cbef01f23bed": {
+      "link": "https://www.itmedia.co.jp/news/articles/2606/25/news086.html",
+      "title": "6代目「アイボ」、販売終了へ　サポートなどは継続",
+      "saved": "2026-06-25-6dai-mu-aiho-fan-mai-zhong-liao-he-sahotonatohaji-sok.md",
+      "ts": 1782373300
+    },
+    "967fc1c88ca42d0651c12ed3830e548f8bf9a729c0e06e143ef54d3201380d3b": {
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpRnQ5WjlHSGhrakQwWTEwWEpjc3JNb0tCdGNOVDQ5WVMwX0laMVhESXJMWFVOLVIxa1h4X0VuMnV1VVZCUFNuV0tjTDRxUHZQYkw0?oc=5",
+      "title": "セレブに人気の島の海底洞窟から8000万円相当の大麻製品押収 イタリア - CNN",
+      "saved": "2026-06-25-serehuniren-qi-nodao-nohai-di-dong-ku-kara8000mo-yuan-xiang-dang-noda-ma-zhi-pin-2.md",
+      "ts": 1782373300
+    },
+    "f30999dbf3ae3bbe31ee445c861ebbd51d3c37546ed2024b2b76b592a018b2b7": {
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85Uk82REdKRnZMaUJyMnF2d0VkSmJYdFVsaFJpWlViTjdGY0dJWDIwWnIyb2FhcUFuM0Q1eXpzSnlrMXFHcXBWMTVGSGMzQUh3eTJoVGdVQloyYzg?oc=5",
+      "title": "トランプ政権、議会に876億ドルの追加予算を要請 大半はイラン戦争関連費 - CNN",
+      "saved": "2026-06-25-toranhuzheng-quan-yi-hui-ni876yi-torunozhui-jia-yu-suan-woyao-qing-da-ban-hairan-2.md",
+      "ts": 1782373300
+    },
+    "59338feeb5924ace46db9d3d2d8e28c4ec9f5569929098b57d1f99b859e362f4": {
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTMWdFMDhoZ0M5dzdiXzdITG9DTlVLTi1ub0FTeTNmelNodXI5TFNwbGVNZ1huMGdzSng0c0owTHVJNENOMXdadHVoM0ZpM1FGVFE0dG5Fbw?oc=5",
+      "title": "記録的な酷暑が続く欧州、エアコン普及率が低すぎる理由は？(2/2) - CNN",
+      "saved": "2026-06-24-ji-lu-de-naku-shu-kasok-kuou-zhou-eakonpu-ji-lu-kadi-sukiruli-you-ha-2-2-cnn.md",
+      "ts": 1782373300
     }
   }
 }
