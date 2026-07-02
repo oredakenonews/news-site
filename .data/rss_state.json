@@ -1,137 +1,5 @@
 {
   "done": {
-    "013a37f31fc8b540de9fd3ff7a92712a4fa873c0dfac2e15231552c1e3a65854": {
-      "link": "https://www.bbc.com/japanese/articles/cn8pd7877yyo?at_medium=RSS&at_campaign=rss",
-      "title": "トランプ政権、「反武器化基金」の一時差し止め命令に従うと発表　「政治的捜査」補償が目的の基金",
-      "saved": "2026-06-02-toranhuzheng-quan-fan-wu-qi-hua-ji-jin-noyi-shi-chai-sizhi-meming-ling-nicong-ut.md",
-      "ts": 1780389748
-    },
-    "fda0f5dbb07acfca40a6a5970394c24c53c62eb153673b480bd387326799471b": {
-      "link": "https://www.bbc.com/japanese/articles/c4g885231r0o?at_medium=RSS&at_campaign=rss",
-      "title": "【解説】イギリスの首相であり続けるのは、今やかつてないほど難しいのか",
-      "saved": "2026-06-02-jie-shuo-ikirisunoshou-xiang-tearisok-kerunoha-jin-yakatutenaihotonan-siinoka.md",
-      "ts": 1780389748
-    },
-    "e5a30eb9895999500e2b62766a60aec50b29ab8f05236c154b9ed8f125980005": {
-      "link": "https://www.bbc.com/japanese/articles/cg7pxylrr4ro?at_medium=RSS&at_campaign=rss",
-      "title": "ロシアがウクライナ首都など大規模空爆、少なくとも13人死亡",
-      "saved": "2026-06-02-rosiakaukurainashou-du-natoda-gui-mo-kong-bao-shao-nakutomo13ren-si-wang.md",
-      "ts": 1780389748
-    },
-    "ac54509a32e0d2223eaaf2f8d7d7502edc45b65a0f155b8bc168e88dba3f11a2": {
-      "link": "http://www3.nhk.or.jp/news/html/20260602/k10015138321000.html",
-      "title": "ジャンポケ斉藤元メンバー 被告人質問 “同意あると思った”",
-      "saved": "2026-06-02-siyanhokeqi-teng-yuan-menha-bei-gao-ren-zhi-wen-tong-yi-arutosi-tuta.md",
-      "ts": 1780389748
-    },
-    "a4b914c2ad78c079b6d865ba717db74003a441e7e7de9afcdc3a88dd7c5e7bbd": {
-      "link": "https://www.bbc.com/japanese/articles/c62xyxrlnp7o?at_medium=RSS&at_campaign=rss",
-      "title": "エボラ出血熱、新しいワクチン3種が開発中　感染拡大の懸念の中",
-      "saved": "2026-06-02-ehorachu-xie-re-xin-siiwakutin3zhong-kakai-fa-zhong-gan-ran-kuo-da-noxuan-nian-n.md",
-      "ts": 1780389748
-    },
-    "4bce53253b453dbea9d62d58031afc24f0a275ec5a9d3e59bcffb8eb28ec2a3a": {
-      "link": "http://www3.nhk.or.jp/news/html/20260602/k10015138301000.html",
-      "title": "糖尿病治療薬 “ダイエット目的の使用 健康被害のおそれ”",
-      "saved": "2026-06-02-tang-niao-bing-zhi-liao-yao-taietutomu-de-noshi-yong-jian-kang-bei-hai-noosore.md",
-      "ts": 1780389748
-    },
-    "78f700b34feff8c1e0b6d81e4b29277c45e55acdc3807d002ae086b37add4f3c": {
-      "link": "http://www3.nhk.or.jp/news/html/20260602/k10015138211000.html",
-      "title": "歌手の菅原洋一さん死去 92歳 「知りたくないの」などヒット曲",
-      "saved": "2026-06-02-ge-shou-nojian-yuan-yang-yi-sansi-qu-92sui-zhi-ritakunaino-natohitutoqu.md",
-      "ts": 1780389748
-    },
-    "7adee3cda87c71bd37448c5034f180fa0e01e42f68835b44173bfc87c61cb508": {
-      "link": "https://www.bbc.com/japanese/articles/c8jvzk931nvo?at_medium=RSS&at_campaign=rss",
-      "title": "【検証】トランプ氏の名前は撤去されていない、ケネディ・センターのAI生成動画が拡散",
-      "saved": "2026-06-02-jian-zheng-toranhushi-noming-qian-hache-qu-sareteinai-keneteisentanoaisheng-chen.md",
-      "ts": 1780389748
-    },
-    "0cb55d6e17039d154d457ac5387194273b33e4d47a64addcfa46f5d07997b008": {
-      "link": "http://www3.nhk.or.jp/news/html/20260602/k10015137911000.html",
-      "title": "株価 値下がり きのう最高値更新で利益確定の売りも",
-      "saved": "2026-06-02-zhu-jia-zhi-xia-kari-kinouzui-gao-zhi-geng-xin-teli-yi-que-ding-nomai-rimo.md",
-      "ts": 1780389748
-    },
-    "93e12ddc19b6ad2bef5275c5f30850ddc4c12697adb1573c907423adfaf0333f": {
-      "link": "http://www3.nhk.or.jp/news/html/20260602/k10015138281000.html",
-      "title": "東京電力 福島第一原発2号機 燃料プールの核燃料取り出し開始",
-      "saved": "2026-06-02-dong-jing-dian-li-fu-dao-di-yi-yuan-fa-2hao-ji-ran-liao-hurunohe-ran-liao-qu-ric.md",
-      "ts": 1780389748
-    },
-    "138894b8a6d9712413a6b25ec27812c0ef09f931141124d981f7de1ed3ab81f2": {
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1HNC1GVlFLak1kdDk1VDFIaE96NDlTd0xXMGgya1NQMFhhdWpzNURSdFhVWGFfdlRDNVNGMHhKTU91dVFJLVBZY2xyX3hfeHdJOWc?oc=5",
-      "title": "アマゾンの「新Fire TV Stick HD」を1週間使ってみた 感動した点と残念な点 - CNN",
-      "saved": "2026-06-02-amasonno-xin-fire-tv-stick-hd-wo1zhou-jian-shi-tutemita-gan-dong-sitadian-tocan-.md",
-      "ts": 1780389748
-    },
-    "65a54d75ca6e56a10f561ae3b089d8b22ef365f9cb0f59709802e8c67c739866": {
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1raV8wYVJBdERzdno5aldpRHRoNUxlWTdjLXhmaFB3MDhDYWp3NF9LYVNLVVJlRlZzZ3oybXdCQXh2TkFuNDYzRXpZWDJ0XzcxNzFJeg?oc=5",
-      "title": "行き先は「地獄」？ 物議の「666」番バスが夏季長距離路線で復活 ポーランド - CNN",
-      "saved": "2026-06-02-xing-kixian-ha-di-yu-wu-yi-no-666-fan-hasukaxia-ji-chang-ju-li-lu-xian-tefu-huo-.md",
-      "ts": 1780389748
-    },
-    "998f70beed15829de16ee51f21f83cd3be71b1fd320279cbc5fcbba036a0184e": {
-      "link": "http://www3.nhk.or.jp/news/html/20260602/k10015138181000.html",
-      "title": "ドジャース 大谷翔平 今季5回目の3安打もチームは敗れる",
-      "saved": "2026-06-02-tosiyasu-da-gu-xiang-ping-jin-ji-5hui-mu-no3an-da-motimuhabai-reru.md",
-      "ts": 1780389748
-    },
-    "0dfa5939aad8149e5975dad2a7c4d8fa3a93a6567b86ae7a9373b6491fa1fbf7": {
-      "link": "http://www3.nhk.or.jp/news/html/20260602/k10015138201000.html",
-      "title": "サッカーW杯へ強化試合 日本の対戦相手スウェーデンが敗れる",
-      "saved": "2026-06-02-satukawbei-heqiang-hua-shi-he-ri-ben-nodui-zhan-xiang-shou-suuetenkabai-reru.md",
-      "ts": 1780389748
-    },
-    "aa9cb8666ff29e635708f7ba444082b04018fa6e8c5a20b4ddf2d9dfe2a726f7": {
-      "link": "https://www.bbc.com/japanese/articles/cvgzxn99904o?at_medium=RSS&at_campaign=rss",
-      "title": "【解説】 トランプ氏には終戦が必要、しかしイランは引かず……BBC国際編集長",
-      "saved": "2026-06-02-jie-shuo-toranhushi-nihazhong-zhan-kabi-yao-sikasiiranhayin-kasu-bbcguo-ji-bian-.md",
-      "ts": 1780389748
-    },
-    "269a4decb4798e12bae80b768eeae473dff260d9a18e1c4f1c8aa87523a26392": {
-      "link": "https://www.bbc.com/japanese/articles/ce9pl492mk3o?at_medium=RSS&at_campaign=rss",
-      "title": "【解説】 前駐米大使の任命問題、今なおスターマー英首相に打撃",
-      "saved": "2026-06-02-jie-shuo-qian-zhu-mi-da-shi-noren-ming-wen-ti-jin-naosutamaying-shou-xiang-nida-.md",
-      "ts": 1780389748
-    },
-    "cff0e86fdcd14dabbc7eb0a4e27dcc17bd04a80d18ad0b117fb0e1d36c78338d": {
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmemJMMkZNc05PODc5ZWlYSV9DaktFY3EzTDhSYTJWSFRndzEtQUlJLXRmcGlhcFA0VThyMlo2NHZWVHdIV1dhbTBWMG91bzU0RG16VFp3?oc=5",
-      "title": "コンサート中にピアニストが体調不良、観客の大学生が代演で窮地救う 豪(1/2) - CNN",
-      "saved": "2026-06-02-konsatozhong-nihianisutokati-diao-bu-liang-guan-ke-noda-xue-sheng-kadai-yan-teqi.md",
-      "ts": 1780389748
-    },
-    "4176a719aa4175bf5ccf52697add4ef5cd1bd999e229b0ac48e04d51dfb39ee3": {
-      "link": "https://www.itmedia.co.jp/news/articles/2606/02/news096.html",
-      "title": "「Nintendo Music」ブラウザ版が公開　PCやタブレットでも利用可能に　車内再生にも対応",
-      "saved": "2026-06-02-nintendo-music-hurausaban-kagong-kai-pcyatahuretutotemoli-yong-ke-neng-ni-che-ne.md",
-      "ts": 1780389748
-    },
-    "10a539416457ad3cd4d47f3ce2fe7a9e7fdaa7ef9275d36f3e24510cef516b7f": {
-      "link": "http://www3.nhk.or.jp/news/html/20260602/k10015138131000.html",
-      "title": "ホワイトソックス 西田陸浮 3試合連続ヒットも連勝ストップ",
-      "saved": "2026-06-02-howaitosotukusu-xi-tian-lu-fu-3shi-he-lian-sok-hitutomolian-sheng-sutotuhu.md",
-      "ts": 1780389748
-    },
-    "4302804a4f0f673b4d4edddcf98980ecf58cdd4f0605641242b592aa2d197e4b": {
-      "link": "https://www.bbc.com/japanese/articles/c332x8yykl6o?at_medium=RSS&at_campaign=rss",
-      "title": "英政府、前駐米大使の任命めぐる文書公開　複数の閣僚と共に首相を批判",
-      "saved": "2026-06-02-ying-zheng-fu-qian-zhu-mi-da-shi-noren-ming-mekuruwen-shu-gong-kai-fu-shu-noge-l.md",
-      "ts": 1780389748
-    },
-    "2687b51163c90986d7a926655cc5318b4c84e2a4c3185aa15a34d08bcef358ea": {
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xcUlic0VOUk15djY2eDFzalBWTkhpNUlDZ0NKalFXRFh5bHJCVWExUHNzc0xBNWF6RVNDeHlrRnBRb0VDYk9VSTlSajVhYk93dFlF?oc=5",
-      "title": "元人質だったイスラエル人女性、ハマス拘束下での性的虐待と「性奴隷」になる恐怖を語る - CNN",
-      "saved": "2026-01-05-yuan-ren-zhi-tatutaisuraeruren-nu-xing-hamasuju-shu-xia-tenoxing-de-nue-dai-to-x-2.md",
-      "ts": 1780389748
-    },
-    "1c7c2d775b555a287d92c264dde27247eae8b9d6fded0e2d52a7cf0e22dda043": {
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQYzJnbVpMMkNGbVZCZ2JsT3E0QUlUZmU0dDlXZ3psQmZvNHM3LVpFTldpLVIxSEluS1hOdVFFY3VUWXU4QXc0eFdhVHVHeUFvOEZR?oc=5",
-      "title": "写真特集：2025年にレッドカーペットを席巻したネイキッドドレスを振り返る(1/10) - CNN",
-      "saved": "2025-12-25-xie-zhen-te-ji-2025nian-niretutokahetutowoxi-juan-sitaneikitutotoresuwozhen-rifa.md",
-      "ts": 1780389748
-    },
     "9280ce83fe169906b37db14c95b2b5ec87c94f6efdb067e9e78e6c3f5178ef0d": {
       "link": "http://www3.nhk.or.jp/news/html/20260602/k10015138731000.html",
       "title": "【プロ野球結果】巨人 則本が今季7回目登板で移籍後初勝利",
@@ -15197,6 +15065,126 @@
       "title": "11歳男児が狂犬病で死亡、目覚めたら顔の上にコウモリが カナダ - CNN.co.jp",
       "saved": "2026-07-02-11sui-nan-er-kakuang-quan-bing-tesi-wang-mu-jue-metarayan-noshang-nikoumorika-ka.md",
       "ts": 1782977536
+    },
+    "46817de80829accf5719408b626031f5c7b4c44c9833d46fba6b1bcf0d804859": {
+      "link": "http://www3.nhk.or.jp/news/html/20260702/k10015166871000.html",
+      "title": "サッカー日本代表 森保監督が帰国後会見「未来は必ず世界一」",
+      "saved": "2026-07-02-satukari-ben-dai-biao-sen-bao-jian-du-kagui-guo-hou-hui-jian-wei-lai-habi-sushi-.md",
+      "ts": 1782988792
+    },
+    "89b0c5c606e15f37e173b235b2ac9a731e2e76d1cd5b2272d278ba9c71fb18ec": {
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92WjNPd2ExVFMwTzlHN2stSy1nN18tbGtDYk1VLUJWbTJJcTBTeEpDd0ZwU1hMTEpiNl9nQUtyRjI0TmxOTGQ0SVh6TU8tSWNjMHByRA?oc=5",
+      "title": "引き出しに眠っていた骨、「南極大陸で見つかった最初の恐竜化石」と判明(1/3) - CNN.co.jp",
+      "saved": "2026-07-02-yin-kichu-sinimian-tuteitagu-nan-ji-da-lu-tejian-tukatutazui-chu-nokong-long-hua.md",
+      "ts": 1782988792
+    },
+    "becb045f03fa4151d7517f13d8e567dc8502a497f6c38b9a34480162cc702491": {
+      "link": "http://www3.nhk.or.jp/news/html/20260702/k10015167151000.html",
+      "title": "生食用の鶏肉 衛生基準などのガイドライン初めて策定へ 厚労省",
+      "saved": "2026-07-02-sheng-shi-yong-noji-rou-wei-sheng-ji-zhun-natonokaitorainchu-metece-ding-he-hou-.md",
+      "ts": 1782988792
+    },
+    "9add66276a5e72313ebd6a460e34a00a7dcb9df57658c0460a165613258f3a08": {
+      "link": "http://www3.nhk.or.jp/news/html/20260702/k10015167341000.html",
+      "title": "円相場 日中は1ドル＝162円台前半 夕方以降は荒い値動き",
+      "saved": "2026-07-02-yuan-xiang-chang-ri-zhong-ha1toru-162yuan-tai-qian-ban-xi-fang-yi-jiang-hahuang-.md",
+      "ts": 1782988792
+    },
+    "7ca622683f879c7923a2f7a4277246022b1da946ccd7d1fdda3a09b010008e2b": {
+      "link": "https://www.itmedia.co.jp/business/articles/2607/02/news109.html",
+      "title": "回転ずしのくら寿司が“非回転”で勝負　新宿に高級路線「無添蔵」6店目",
+      "saved": "2026-07-02-hui-zhuan-susinokurashou-si-ka-fei-hui-zhuan-tesheng-fu-xin-su-nigao-ji-lu-xian-.md",
+      "ts": 1782988792
+    },
+    "882cab4b42922fe088836e8080c312df1c144573ee0ad6c86a8db175f945bbe2": {
+      "link": "https://www.itmedia.co.jp/business/articles/2607/02/news107.html",
+      "title": "どこまでが配慮で、どこからが“過保護”なのか　ホワハラが生まれる職場の境界線",
+      "saved": "2026-07-02-tokomatekapei-lu-te-tokokaraka-guo-bao-hu-nanoka-howaharakasheng-mareruzhi-chang.md",
+      "ts": 1782988792
+    },
+    "4e82a60eb89e1f333070d15bc5f47e4bd81aa99f3694a3bbd70fd64bf60c9f77": {
+      "link": "https://www.itmedia.co.jp/news/articles/2607/02/news106.html",
+      "title": "日本生命、スペースX投資で莫大利益は本当か　総代会で質疑白熱　「未公開株」に積極姿勢",
+      "saved": "2026-07-02-ri-ben-sheng-ming-suhesuxtou-zi-temo-da-li-yi-haben-dang-ka-zong-dai-hui-tezhi-y.md",
+      "ts": 1782988792
+    },
+    "d2469157f67f5282a82079c916a2f3d347ec4e81d3e34953439715774e3489dd": {
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5RdHZ6WlpIODdzUGlDaDRJOUxYRy1JdmF3WWQ3RTlqY0FYOTg3ZUp3MEk5NjNJVUFKZXV1UjkzYWxqY0RYZFQ3a0gzLWlxTFZEUG5RMA?oc=5",
+      "title": "二つの顔を持って生まれた子猫、3日後に死ぬ 20年米オレゴン州 - CNN.co.jp",
+      "saved": "2026-07-02-er-tunoyan-wochi-tutesheng-maretazi-mao-3ri-hou-nisi-nu-20nian-mi-orekonzhou-cnn.md",
+      "ts": 1782988792
+    },
+    "069be642e30bea256fa8d617e8bab560463c88d20fa9e6384efb922bbec50e84": {
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1TQ2Z4Y2d2UFgxbzB3RHBmWVZFM1BSa0JUUmtQVVRoNkZ5MXJjSmVNMmI3MVNHRjRiQ1hCUXFNV0M1X3F5Sl9TRkFrX0RERXl1?oc=5",
+      "title": "トランプ氏、所有リゾートからの収入が急増 事業利益と政治の重複を如実に反映 - CNN.co.jp",
+      "saved": "2026-07-02-toranhushi-suo-you-risotokaranoshou-ru-kaji-zeng-shi-ye-li-yi-tozheng-zhi-nozhon.md",
+      "ts": 1782988792
+    },
+    "3e96b78bd2fea04b574c43ea5a16de63aa555284df453b06936dc8fb826e9747": {
+      "link": "http://www3.nhk.or.jp/news/html/20260702/k10015167251000.html",
+      "title": "大手企業 夏のボーナス 初の100万円超 経団連調査",
+      "saved": "2026-07-02-da-shou-qi-ye-xia-nohonasu-chu-no100mo-yuan-chao-jing-tuan-lian-diao-cha.md",
+      "ts": 1782988792
+    },
+    "ee34c97c87dbee3c98fce15bbdf7d0d8e35c4735e0de54fb1f344d4a20beb171": {
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1aWlUyUjV3aXdsS05QY0d3bnprZTk2bDh4d0JreXBKUGxFcWd0bVJqTFVjYm9fVUdyMGM4TWhYRE1ERjBJaTlkdzBPc1FKZWkx?oc=5",
+      "title": "米海軍ヘリがアラビア海で「緊急着水」、行方不明の乗員を捜索 - CNN.co.jp",
+      "saved": "2026-07-02-mi-hai-jun-herikaarahiahai-te-jin-ji-zhao-shui-xing-fang-bu-ming-nocheng-yuan-wo.md",
+      "ts": 1782988792
+    },
+    "a604856a60c80a649e3b26eeaec0a7bbe4da9e969e81c508aa172d6f9b4faaed": {
+      "link": "https://www.bbc.com/japanese/articles/czde75enrp8o?at_medium=RSS&at_campaign=rss",
+      "title": "北京の最高層ビルに小型機が激突、中国当局は何があったのか説明せず",
+      "saved": "2026-07-02-bei-jing-nozui-gao-ceng-hirunixiao-xing-ji-kaji-tu-zhong-guo-dang-ju-hahe-kaatut.md",
+      "ts": 1782988792
+    },
+    "0746c575941b0ac23223630ec6e891e6b3c96f6d85d5f71a91f3cf410ce6cef3": {
+      "link": "https://www.itmedia.co.jp/news/articles/2607/02/news094.html",
+      "title": "キャンメイクの“高クオリティ”「AI社員」、SNSで評価割れる「実物に近づけたAIと実物の写真は違う」",
+      "saved": "2026-07-02-kiyanmeikuno-gao-kuoritei-aishe-yuan-snsteping-jia-ge-reru-shi-wu-nijin-tuketaai.md",
+      "ts": 1782988792
+    },
+    "05e18398020eb6d8698a0e27c64ab42b16e1691fc2bdc140c4235d29d672956c": {
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GY3MtUmczbkFFUWZCWk92cmVSRENwSnR4R21qLVJzXzBaNi1HaFdzYWtCOHcxQTdGSVZDYUhVRV93NnlrME5wOXZMLWZXRnU3WGlr?oc=5",
+      "title": "キーウへの大規模攻撃で13人死亡、市長が発表 - CNN.co.jp",
+      "saved": "2026-07-02-kiuhenoda-gui-mo-gong-ji-te13ren-si-wang-shi-chang-kafa-biao-cnn-co-jp.md",
+      "ts": 1782988792
+    },
+    "35159649c53fa5fd95eb54d09392cc804dbb22dea8b5c55d908f30adea0626e7": {
+      "link": "http://www3.nhk.or.jp/news/html/20260702/k10015167221000.html",
+      "title": "ラグビー日本代表イタリア戦へ 大学生スタンドオフ伊藤抜てき",
+      "saved": "2026-07-02-rakuhiri-ben-dai-biao-itariazhan-he-da-xue-sheng-sutantoohuyi-teng-ba-teki.md",
+      "ts": 1782988792
+    },
+    "aa7be5549ec90fa4788aa5ca7de2ee273399c442c52e4544833d18e7d350131c": {
+      "link": "https://www.bbc.com/japanese/articles/c74yve5yxq2o?at_medium=RSS&at_campaign=rss",
+      "title": "ロシア、キーウに大規模なミサイル・ドローン攻撃、少なくとも13人死亡",
+      "saved": "2026-07-02-rosia-kiunida-gui-mo-namisairutorongong-ji-shao-nakutomo13ren-si-wang.md",
+      "ts": 1782988792
+    },
+    "4941aa6427a119ec795962b9bdad5fa4f56cd03f07eb3c0d6ed279939af7a034": {
+      "link": "https://www.itmedia.co.jp/news/articles/2607/02/news095.html",
+      "title": "復活した「Fable 5」　米政府からのオーダーに対して、Anthropicはどう対策したのか",
+      "saved": "2026-07-02-fu-huo-sita-fable-5-mi-zheng-fu-karanootanidui-site-anthropichatoudui-ce-sitanok.md",
+      "ts": 1782988792
+    },
+    "3a9b3c3e1a86b76339ba9e2b23e1a16ce44af9ee4bc4a2ea841ea5db0b22984c": {
+      "link": "https://www.itmedia.co.jp/news/articles/2607/02/news097.html",
+      "title": "LINEとPayPay、26年夏にアカウント連携　トーク上で送金・割り勘可能に　LINEポイントは統合へ",
+      "saved": "2026-07-02-linetopaypay-26nian-xia-niakauntolian-xi-tokushang-tesong-jin-ge-rikan-ke-neng-n.md",
+      "ts": 1782988792
+    },
+    "47fe0b1c2be1a42d38352d56ebd7483c5da8f2571394962a70327d9f8e656fe0": {
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5OczBVZlZiNG13WEV4T1g4b1dFQklnSWUwcjF1Q0JKU3lLMUtxQ0E1RmRyY1FxNTR3d3NZb3pXd3k1TmZwSU1xWmV5MzdpbHlIdGJ0Mg?oc=5",
+      "title": "毎日のコーヒー1杯が肝疾患や肝臓がんのリスクを下げる可能性があることが明らかになった - CNN.co.jp",
+      "saved": "2026-07-02-mei-ri-nokohi1bei-kagan-ji-huan-yagan-zang-kannorisukuwoxia-keruke-neng-xing-kaa.md",
+      "ts": 1782988792
+    },
+    "b2b77b814e08ded905047f810b8a33c313908a58b56daaf65c1bbff3a473b3c8": {
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qOTBrcFdwU1JLTzRqSTlsX2FyNzN6UkVaZUZET0xja1p4aTJxNURxS2NyYkxBNi1PZzQwWl95QVNlUjlzOUhNaVNPa2dpS3ZhZHRv?oc=5",
+      "title": "米CIA、ロシアの主張覆す評価 「ウクライナはドローン攻撃でプーチン氏公邸を狙わず」 - CNN.co.jp",
+      "saved": "2026-01-01-mi-cia-rosianozhu-zhang-fu-suping-jia-ukurainahatorongong-ji-tehutinshi-gong-di--3.md",
+      "ts": 1782988792
     }
   }
 }
