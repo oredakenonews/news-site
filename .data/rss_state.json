@@ -1,101 +1,5 @@
 {
   "done": {
-    "9280ce83fe169906b37db14c95b2b5ec87c94f6efdb067e9e78e6c3f5178ef0d": {
-      "link": "http://www3.nhk.or.jp/news/html/20260602/k10015138731000.html",
-      "title": "【プロ野球結果】巨人 則本が今季7回目登板で移籍後初勝利",
-      "saved": "2026-06-02-huroye-qiu-jie-guo-ju-ren-ze-ben-kajin-ji-7hui-mu-deng-ban-teyi-ji-hou-chu-sheng.md",
-      "ts": 1780408932
-    },
-    "97cf9d3b1e776bd10bdf0ed81a5839f476a98c006877578691109519140d062f": {
-      "link": "http://www3.nhk.or.jp/news/html/20260602/k10015138651000.html",
-      "title": "気象庁 線状降水帯情報 発表システム不具合 “復旧までHPで”",
-      "saved": "2026-06-02-qi-xiang-ting-xian-zhuang-jiang-shui-dai-qing-bao-fa-biao-sisutemubu-ju-he-fu-ji.md",
-      "ts": 1780408932
-    },
-    "eb2191eb66bac2f7f9694795bc2e822022699590dbdfe230074df4a502901b3f": {
-      "link": "http://www3.nhk.or.jp/news/html/20260602/k10015138841000.html",
-      "title": "高知 四万十町 一部地区に避難指示",
-      "saved": "2026-06-02-gao-zhi-si-mo-shi-ting-yi-bu-di-qu-nibi-nan-zhi-shi.md",
-      "ts": 1780408932
-    },
-    "bfdda6bf6f44d5b37f2c02f150a1983efccc3f747d36516e0b668bc145f15014": {
-      "link": "http://www3.nhk.or.jp/news/html/20260602/k10015138791000.html",
-      "title": "首都圏の在来線 3日の始発から運休する路線【一覧あり】",
-      "saved": "2026-06-02-shou-du-quan-nozai-lai-xian-3ri-noshi-fa-karayun-xiu-surulu-xian-yi-lan-ari.md",
-      "ts": 1780408932
-    },
-    "be7c7581e866d0cafa8fa05a7d9595c7b2c0b5d8586c82a2f960e344045de876": {
-      "link": "http://www3.nhk.or.jp/news/html/20260602/k10015138771000.html",
-      "title": "線状降水帯直前予測 高知中部と西部 徳島北部で発生おそれ",
-      "saved": "2026-06-02-xian-zhuang-jiang-shui-dai-zhi-qian-yu-ce-gao-zhi-zhong-bu-toxi-bu-de-dao-bei-bu.md",
-      "ts": 1780408932
-    },
-    "e5c9b95c449e8c43f90f4bfcb90a34db7f713694def149ecff6a7c4850a24a5c": {
-      "link": "https://www.itmedia.co.jp/news/articles/2606/02/news128.html",
-      "title": "JAXA、IHIエアロスペースを5カ月の指名停止措置に　「作業未了を完了」と虚偽報告、不当請求も",
-      "saved": "2026-06-02-jaxa-ihiearosuhesuwo5kayue-nozhi-ming-ting-zhi-cuo-zhi-ni-zuo-ye-wei-liao-wowan-.md",
-      "ts": 1780408932
-    },
-    "2baf6e65aef8abf18619e022bd69642aa93f2609f961b0d24206db8dfa7b8b88": {
-      "link": "http://www3.nhk.or.jp/news/html/20260602/k10015138591000.html",
-      "title": "サッカー日本代表 W杯北中米大会の事前合宿地メキシコへ出発",
-      "saved": "2026-06-02-satukari-ben-dai-biao-wbei-bei-zhong-mi-da-hui-noshi-qian-he-su-di-mekisikohechu.md",
-      "ts": 1780408932
-    },
-    "ab82770a4db9d001eac1e628d567802eca65e022d9f455fa063735581fa16c8d": {
-      "link": "http://www3.nhk.or.jp/news/html/20260602/k10015138661000.html",
-      "title": "ボクシング 元世界王者 具志堅用高さんタイトル獲得50年祝う",
-      "saved": "2026-06-02-hokusinku-yuan-shi-jie-wang-zhe-ju-zhi-jian-yong-gao-santaitoruhuo-de-50nian-zhu.md",
-      "ts": 1780408932
-    },
-    "b38b7e4a7de30ef1686903c7fa9f8d8b7540070176baa1acc26bd55546f7dcdd": {
-      "link": "http://www3.nhk.or.jp/news/html/20260602/k10015138521000.html",
-      "title": "千葉 ロッテの新「マリンスタジアム」ドーム化に向け検討へ",
-      "saved": "2026-06-02-qian-xie-rotutenoxin-marinsutasiamu-tomuhua-nixiang-kejian-tao-he.md",
-      "ts": 1780408932
-    },
-    "3cb1bd2a121a726ab70ef766de37ad44dd567078a96e728547663606487361ff": {
-      "link": "https://www.itmedia.co.jp/news/articles/2606/02/news123.html",
-      "title": "JR東、イギリスで自販機事業を強化　ヒースローなど主要空港の運営事業を取得",
-      "saved": "2026-06-02-jrdong-ikirisutezi-fan-ji-shi-ye-woqiang-hua-hisuronatozhu-yao-kong-gang-noyun-y.md",
-      "ts": 1780408932
-    },
-    "67f27eca7d1aa7d55f0ba1874e84a9bd768647c146c76255488d9d73cad40a02": {
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAtV3JmN1N1UUIxenZ3NnFwd3JRS0p0MnFCYjVzcEJyekg0VzhXOV9UcEptY05yekRzYXJ1aUpxNEJzWk9mSW9IZzR4bkV1SVNo?oc=5",
-      "title": "失踪中のロスアラモス研究所職員、森林で遺体発見 米ニューメキシコ州 - CNN",
-      "saved": "2026-06-02-shi-zong-zhong-norosuaramosuyan-jiu-suo-zhi-yuan-sen-lin-teyi-ti-fa-jian-mi-niyu.md",
-      "ts": 1780408932
-    },
-    "4e0605215c14ba69dd49b9964f0ad3c4129fe82c0bd89c56ccd96a80d054defc": {
-      "link": "https://www.itmedia.co.jp/news/articles/2606/02/news097.html",
-      "title": "マネーフォワードの銀行連携、再開率99％超でも「完全復旧」に至らないワケ",
-      "saved": "2026-06-02-manehuowatonoyin-xing-lian-xi-zai-kai-lu-99-chao-temo-wan-quan-fu-jiu-nizhi-rana.md",
-      "ts": 1780408932
-    },
-    "6ab64cd8073f19bae741ef5c894a05c9165f5437d4745457626572aef76a0c67": {
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE91VFRWcDBuaElJOHlsRFVOOEViSVV1ODNWUGR5WG9PZk9wWlZ1WTJrSkNCaUV6ZDE1Rmg2U3hkQWpFd296a0RMUFhKc0pmODdUdldJMg?oc=5",
-      "title": "2016年の映画「ラ・ラ・ランド」では、エマ・ストーンとライアン・ゴズリングが駆け出しの女優とジャズピアニストを演じた - CNN",
-      "saved": "2026-06-02-2016nian-noying-hua-rararanto-teha-emasutontoraiankosurinkukaqu-kechu-sinonu-you.md",
-      "ts": 1780408932
-    },
-    "3b4039dee7940401337d103673c6a49d0d9848993b689fca72b5efd72388cea1": {
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1rdHBoTDRaOTl6clFyamFyVUhKNjhoSEhCRFN5RzFVTnNSbzZhdnF6bVhYWV9iMVpuYW95bWpnbWRkX2dnczN3Y3d4d3FtbWltQTNVUg?oc=5",
-      "title": "体調不良のピアニストに代わって演奏するためステージに向かうスターリング・ナサさん/Maddie Corwin - CNN",
-      "saved": "2026-06-02-ti-diao-bu-liang-nohianisutonidai-watuteyan-zou-surutamesutesinixiang-kausutarin.md",
-      "ts": 1780408932
-    },
-    "358aa99acc64a653b8f0226255090280bd8795646406740194349c5deb1b3e89": {
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pcVZyV21BZk1leUVqdWkyTEVnUXFWMDA3cExXZGdoeFN1aDk4NVB3MWNGYXRNbXRVWXotZEVjck1mUk90b21naDhPMThuclFYa3BzRkhTM0pNdWZvc2gzQkhpWElVT2JfeUE?oc=5",
-      "title": "「チャンスはほんの数秒間」、ケイト・モスをとらえた写真が歴史的な1枚に - CNN",
-      "saved": "2026-06-02-tiyansuhahonnoshu-miao-jian-keitomosuwotoraetaxie-zhen-kali-shi-de-na1mei-ni-cnn-2.md",
-      "ts": 1780408932
-    },
-    "7e31755e46d154e134c2d000e7dc8e4486d8ab1ee9bd1c98b6eae862f1df5c76": {
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlVnpyakpGMVk5TWxJQnVhSWNrckhYRUZiZUw0WHA1Nk9maFhreEhOSEtXZnRXa2lBWmswSmxRMF9zc2RoNzdBeDh3b3NISVlRdkxzSGVn?oc=5",
-      "title": "中国のテレビ、男性タレントの耳にぼかし入れる 理由は？ - CNN",
-      "saved": "2019-01-19-zhong-guo-noterehi-nan-xing-tarentonoer-nihokasiru-reru-li-you-ha-cnn.md",
-      "ts": 1780408932
-    },
     "d5b92f0c147cdd0a9c889a10251a1f9df5cd223867813de48dc6295ab5d5bcd2": {
       "link": "http://www3.nhk.or.jp/news/html/20260603/k10015139251000.html",
       "title": "東京 目黒川にレベル4氾濫危険警報 今後氾濫するおそれ",
@@ -15185,6 +15089,150 @@
       "title": "米CIA、ロシアの主張覆す評価 「ウクライナはドローン攻撃でプーチン氏公邸を狙わず」 - CNN.co.jp",
       "saved": "2026-01-01-mi-cia-rosianozhu-zhang-fu-suping-jia-ukurainahatorongong-ji-tehutinshi-gong-di--3.md",
       "ts": 1782988792
+    },
+    "5ab98534fef994cff8e3995655a1466361bcf28cf06058b8a668c952c31d3aa4": {
+      "link": "https://www.itmedia.co.jp/business/articles/2607/03/news013.html",
+      "title": "シンガポールのドンキで飛ぶように売れる　1パック2000円の「日本産イチゴ」を支える技術とビジネスモデルとは",
+      "saved": "2026-07-03-sinkahorunotonkitefei-huyounimai-reru-1hatuku2000yuan-no-ri-ben-chan-itiko-wozhi.md",
+      "ts": 1783033603
+    },
+    "1dba42763b6d514c5aefdf19004e374b5b1607d6dff137392082b857a93d858c": {
+      "link": "https://www.itmedia.co.jp/news/articles/2607/03/news069.html",
+      "title": "Micron Technology、「Trump Accounts」に2億5000万ドル拠出",
+      "saved": "2026-07-03-micron-technology-trump-accounts-ni2yi-5000mo-toruju-chu.md",
+      "ts": 1783033603
+    },
+    "a2825d5f67f183a820e807d11f491362122440a0e2cabcf22b29006e0ad29409": {
+      "link": "http://www3.nhk.or.jp/news/html/20260703/k10015167741000.html",
+      "title": "W杯 スペインが盤石の試合運びでオーストリアに快勝 2回戦進出",
+      "saved": "2026-07-03-wbei-suheinkapan-shi-noshi-he-yun-hiteosutorianikuai-sheng-2hui-zhan-jin-chu.md",
+      "ts": 1783033603
+    },
+    "1da055add185f29f1789792b2c6c99e47a59c206fefc3c0bf1f5fd617897263a": {
+      "link": "https://www.itmedia.co.jp/business/articles/2607/03/news019.html",
+      "title": "「暑いと効率が落ちる」はやっぱり本当だった　データが示す、エアコンと経済成長の関係性",
+      "saved": "2026-07-03-shu-itoxiao-lu-kaluo-tiru-hayatuhariben-dang-tatuta-tetakashi-su-eakontojing-ji-.md",
+      "ts": 1783033603
+    },
+    "113b94649c13d4c968cde2a3ad9b2bd51e598037799ebf161b95c51745b9a684": {
+      "link": "https://www.itmedia.co.jp/business/articles/2607/03/news020.html",
+      "title": "みずほはなぜ「中小企業」に向き合うのか　銀行が埋めようとする“空白地帯”",
+      "saved": "2026-07-03-misuhohanase-zhong-xiao-qi-ye-nixiang-kihe-unoka-yin-xing-kamai-meyoutosuru-kong.md",
+      "ts": 1783033603
+    },
+    "b6987630c680bf1c0d45f0aa68809de880e8ae48d39eb6cdd19e4d6db9583e3a": {
+      "link": "https://www.itmedia.co.jp/business/articles/2607/03/news014.html",
+      "title": "「フェラーリより別荘」を選ぶ若者たち　年10泊から買える!?　NOT A HOTELの“新・経済圏”とは",
+      "saved": "2026-07-03-huerariyoribie-zhuang-woxuan-huruo-zhe-tati-nian-10bo-karamai-eru-not-a-hotelno-.md",
+      "ts": 1783033603
+    },
+    "811fc5c435f2c6f758fe1378fa56b2cad06fdd20404cffc9a3aa6e5b9b7eb047": {
+      "link": "https://www.itmedia.co.jp/business/articles/2607/03/news038.html",
+      "title": "年会費16万5000円を「据え置いた」AMEX　プラチナが売る\"体験\"の裏に「年500万円」の顧客選別",
+      "saved": "2026-07-03-nian-hui-fei-16mo-5000yuan-wo-ju-ezhi-ita-amex-huratinakamai-ru-ti-yan-noli-ni-n.md",
+      "ts": 1783033603
+    },
+    "850795702db708d469a1257dc40ad3a86878ba82de89a936c54ba9905d8adf80": {
+      "link": "https://www.itmedia.co.jp/business/articles/2607/03/news001.html",
+      "title": "【7月1日から】未達成なら月5万円　「障害者雇用率2.5％&#10132;2.7％」引き上げへの処方箋",
+      "saved": "2026-07-03-7yue-1ri-kara-wei-da-cheng-narayue-5mo-yuan-zhang-hai-zhe-gu-yong-lu-2-5-2-7-yin.md",
+      "ts": 1783033603
+    },
+    "d71b5cba88b478fd4005e25c56a7e667a5f9f9bd83c186d55f1863656777c278": {
+      "link": "http://www3.nhk.or.jp/news/html/20260703/k10015167681000.html",
+      "title": "テスラ 欧州や中国で需要回復か ガソリン価格高騰も追い風に",
+      "saved": "2026-07-03-tesura-ou-zhou-yazhong-guo-texu-yao-hui-fu-ka-kasorinjia-ge-gao-teng-mozhui-ifen.md",
+      "ts": 1783033603
+    },
+    "57615acc40685784be1977d5bf768daafea560dcd75f77394c0c5f44f1f0e6a9": {
+      "link": "https://www.itmedia.co.jp/news/articles/2607/03/news050.html",
+      "title": "“開かずの基幹システム”、450人月→実質2カ月で解読　創業100年のカクヤス、生成AIで挑む「転生」",
+      "saved": "2026-07-03-kai-kasunoji-gan-sisutemu-450ren-yue-shi-zhi-2kayue-tejie-du-chuang-ye-100nian-n.md",
+      "ts": 1783033603
+    },
+    "2e65f8be9f2d86313794a01456c25c1d62af677936ae5e99d977f36720eee88c": {
+      "link": "https://www.itmedia.co.jp/news/articles/2607/03/news067.html",
+      "title": "Microsoft、AI導入支援組織「Microsoft Frontier Company」設立　6000人体制で顧客企業を支援",
+      "saved": "2026-07-03-microsoft-aidao-ru-zhi-yuan-zu-zhi-microsoft-frontier-company-she-li-6000ren-ti-.md",
+      "ts": 1783033603
+    },
+    "dd1449dded61360138cd12fafbf25b10c02b432c52e6c7d13e236000a54caa04": {
+      "link": "http://www3.nhk.or.jp/news/html/20260703/k10015167571000.html",
+      "title": "プロ野球 西武 長谷川信哉 左手骨折で登録抹消 交流戦MVP",
+      "saved": "2026-07-03-huroye-qiu-xi-wu-chang-gu-chuan-xin-zai-zuo-shou-gu-zhe-tedeng-lu-mo-xiao-jiao-l.md",
+      "ts": 1783033603
+    },
+    "c19afbe34b747315e57c845018e53dbfb219b79b75e908c404b63a37eb80ee1c": {
+      "link": "http://www3.nhk.or.jp/news/html/20260703/k10015167731000.html",
+      "title": "ダウ平均株価 最高値を更新 FRBの利上げ観測後退で",
+      "saved": "2026-07-03-tauping-jun-zhu-jia-zui-gao-zhi-wogeng-xin-frbnoli-shang-keguan-ce-hou-tui-te.md",
+      "ts": 1783033603
+    },
+    "d93831a77a39545abbb691694febf4e8c7886ade5804b8504217e2a821877dad": {
+      "link": "http://www3.nhk.or.jp/news/html/20260703/k10015167461000.html",
+      "title": "28人犠牲 熱海土石流から5年 復興遅れ避難生活続ける住民も",
+      "saved": "2026-07-03-28ren-ikenie-sheng-re-hai-tu-shi-liu-kara5nian-fu-xing-chi-rebi-nan-sheng-huo-so.md",
+      "ts": 1783033603
+    },
+    "bff44cef155473523ebe87578a20cbea50d2d4c822326e7dc945fedafb9c8a53": {
+      "link": "http://www3.nhk.or.jp/news/html/20260703/k10015167701000.html",
+      "title": "中国当局に拘束された香港の書店の元店長 台湾で死去",
+      "saved": "2026-07-03-zhong-guo-dang-ju-niju-shu-saretaxiang-gang-noshu-dian-noyuan-dian-chang-tai-wan.md",
+      "ts": 1783033603
+    },
+    "0a827264f27dca069df817dd8a74901696a07532b818eda9522eb45af05daf7e": {
+      "link": "http://www3.nhk.or.jp/news/html/20260702/k10015167501000.html",
+      "title": "【プロ野球速報】日本ハム 先頭バッターから4者連続HRで5連勝",
+      "saved": "2026-07-03-huroye-qiu-su-bao-ri-ben-hamu-xian-tou-hatutakara4zhe-lian-sok-hrte5lian-sheng.md",
+      "ts": 1783033603
+    },
+    "9f2f4b9f79e42c0ea66ac3d94ff6d3b4fa243235246b4ac7ca7dffd6fbccf5cf": {
+      "link": "http://www3.nhk.or.jp/news/html/20260703/k10015167691000.html",
+      "title": "サッカー日本代表 今後は監督の人選が焦点に",
+      "saved": "2026-07-03-satukari-ben-dai-biao-jin-hou-hajian-du-noren-xuan-kajiao-dian-ni.md",
+      "ts": 1783033603
+    },
+    "c783e032404a64b38a51df029063908a2e27b390272b009416ca61d8cec9f28a": {
+      "link": "http://www3.nhk.or.jp/news/html/20260702/k10015167441000.html",
+      "title": "東京 小学校火事 電気ストーブは音楽教諭の私物 私服など干す",
+      "saved": "2026-07-02-dong-jing-xiao-xue-xiao-huo-shi-dian-qi-sutohuhayin-le-jiao-yu-nosi-wu-si-fu-nat.md",
+      "ts": 1783033603
+    },
+    "9fd07a26ce80d06f62aba69b6cc514d6fa47908f7d3298d707bdd57cf55ef986": {
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yQzBPNEVncnNBRVJvck82aXg0YjZHVWh1aWdiWWlMODFQdTJaZ3QxcW5qQkoxb01MMnd1WWE0dmZUWDczV2lWYUU2ZzlDLVNOcWZj?oc=5",
+      "title": "スターリングラード超える惨状、ウクライナ戦争の総死傷者200万人に達する 米シンクタンク - CNN.co.jp",
+      "saved": "2026-07-02-sutarinkuratochao-erucan-zhuang-ukurainazhan-zheng-nozong-si-shang-zhe-200mo-ren.md",
+      "ts": 1783033603
+    },
+    "5cd7e86c66ce216a7c0d805babc5a556c602642296c7e45dc25d00962aa858c3": {
+      "link": "http://www3.nhk.or.jp/news/html/20260702/k10015167411000.html",
+      "title": "日本ハム 先頭バッターから4者連続本塁打 プロ野球史上初",
+      "saved": "2026-07-02-ri-ben-hamu-xian-tou-hatutakara4zhe-lian-sok-ben-toride-da-huroye-qiu-shi-shang-.md",
+      "ts": 1783033603
+    },
+    "8e25434f6786c56b78b42d0f11c02ac7ce04aaea9721f9601907c0f5ae45f671": {
+      "link": "https://www.itmedia.co.jp/news/articles/2607/02/news110.html",
+      "title": "LINEに「プレミアムブロック」登場　相手の友だち一覧から自分を“そっと消せる”　今秋から有料提供へ",
+      "saved": "2026-07-02-lineni-huremiamuhurotuku-deng-chang-xiang-shou-noyou-tatiyi-lan-karazi-fen-wo-so.md",
+      "ts": 1783033603
+    },
+    "e9e510c97d2ed4720ac6d5b3c8fbe123a975591c48a47ee62b07dc3b984985b3": {
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1QQzJQT2ppVkZSanZWRjJnbGhzVEJvODdDZVMtM0FBUGJVdzBqQllqZmI0MGh1bVZhVWdhQXRJamNwMmJhQl9kb2lTOUpJZDU1RFdVbg?oc=5",
+      "title": "二つの顔を持って生まれた子猫「ビスケッツ＆グレイビー」 - CNN.co.jp",
+      "saved": "2026-07-02-er-tunoyan-wochi-tutesheng-maretazi-mao-hisuketutu-kureihi-cnn-co-jp.md",
+      "ts": 1783033603
+    },
+    "230b5c76a71fd323424b8f19251115202a4f7d2ba39bc84bf29e57d52cf93cab": {
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9BekE5dmNtVmdlQ0xHSEJreVRJV3Rha0JZWXFYU29UVzZUWGUtUE5ZdWFuWXZpWWVVLVZ0YThFVG5TWDNia1dUelZsQS14LWl2S3pCMg?oc=5",
+      "title": "カナダ・ブリティッシュコロンビア州のバンクーバー島に生息するホオヒゲコウモリ/Marek Stefunko/iStockphoto/Getty Images - CNN.co.jp",
+      "saved": "2026-07-02-kanatahuriteitusiyukoronhiazhou-nohankuhadao-nisheng-xi-suruhoohikekoumori-marek.md",
+      "ts": 1783033603
+    },
+    "9cec4e5205ec1ccf72c3669659a39b41ab448b5b148fab24f980b091324f679a": {
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93MUpleXNiSHROd2hJR2FkQ2V4NlJ0bUVsbFI0eEhlekRTOWRCSnliM2IyYWMtQ1JSUUZHaThFMHFvM3Y4R2JDSHpCdHNTa1JVTHZFaUV3?oc=5",
+      "title": "ロシアでの高給を約束された多数のペルー人、たどり着いた先はウクライナの前線(3/3) - CNN.co.jp",
+      "saved": "2026-07-01-rosiatenogao-gei-woyue-shu-saretaduo-shu-noheruren-tatorizhao-itaxian-haukuraina-2.md",
+      "ts": 1783033603
     }
   }
 }
