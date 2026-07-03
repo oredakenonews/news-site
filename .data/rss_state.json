@@ -1,119 +1,5 @@
 {
   "done": {
-    "d5b92f0c147cdd0a9c889a10251a1f9df5cd223867813de48dc6295ab5d5bcd2": {
-      "link": "http://www3.nhk.or.jp/news/html/20260603/k10015139251000.html",
-      "title": "東京 目黒川にレベル4氾濫危険警報 今後氾濫するおそれ",
-      "saved": "2026-06-03-dong-jing-mu-hei-chuan-nireheru4fan-lan-wei-xian-jing-bao-jin-hou-fan-lan-suruos.md",
-      "ts": 1780443903
-    },
-    "d3c9001a110aca7568ac9b41dd68aef6433dae71d71ee43021ba798be310a62b": {
-      "link": "http://www3.nhk.or.jp/news/html/20260603/k10015139291000.html",
-      "title": "東京 神田川にレベル4氾濫危険警報 今後氾濫するおそれ",
-      "saved": "2026-06-03-dong-jing-shen-tian-chuan-nireheru4fan-lan-wei-xian-jing-bao-jin-hou-fan-lan-sur.md",
-      "ts": 1780443903
-    },
-    "cd7fa627308eb66f813885c07a2f282ea69f2cd394c94659e06692e95782e256": {
-      "link": "http://www3.nhk.or.jp/news/html/20260603/k10015139261000.html",
-      "title": "線状降水帯直前予測 神奈川県東部で発生のおそれ",
-      "saved": "2026-06-03-xian-zhuang-jiang-shui-dai-zhi-qian-yu-ce-shen-nai-chuan-xian-dong-bu-tefa-sheng.md",
-      "ts": 1780443903
-    },
-    "781deef19ecf7b448c6e5e33b9ee885e6dfea6e3748f85bcc8609c05cedad09c": {
-      "link": "http://www3.nhk.or.jp/news/html/20260603/k10015139221000.html",
-      "title": "東京 野川・仙川にレベル4氾濫危険警報 今後氾濫するおそれ",
-      "saved": "2026-06-03-dong-jing-ye-chuan-xian-chuan-nireheru4fan-lan-wei-xian-jing-bao-jin-hou-fan-lan.md",
-      "ts": 1780443903
-    },
-    "94078f4066cf2c8b6e72ccab436c33eb2560b1917d05162de9931fcdfb4f4c78": {
-      "link": "https://www.itmedia.co.jp/business/articles/2606/03/news025.html",
-      "title": "中身は他と本質的な差はない──60年超えのロングセラー「味ぽん」、コロナ禍の停滞を打破した「2本柱の戦略」",
-      "saved": "2026-06-03-zhong-shen-hata-toben-zhi-de-nachai-hanai-60nian-chao-enoronkusera-wei-hon-koron.md",
-      "ts": 1780443903
-    },
-    "e6da6bcb88cb2014d93e6c70793f2099f8b3f67c6ba1709713d49645036b1d4c": {
-      "link": "https://www.itmedia.co.jp/business/articles/2606/03/news019.html",
-      "title": "外食の人手不足は“外国人頼み”で解決できるのか　飲食店900件倒産の深層",
-      "saved": "2026-06-03-wai-shi-noren-shou-bu-zu-ha-wai-guo-ren-lai-mi-tejie-jue-tekirunoka-yin-shi-dian.md",
-      "ts": 1780443903
-    },
-    "ab14be53c74830e296d8cdc5eeef12b80dfbeebe1141ca3667e4f6b1cf839f95": {
-      "link": "https://www.itmedia.co.jp/news/articles/2606/03/news066.html",
-      "title": "Microsoft、AndroidベースのAIエージェント基盤「Solara」発表　Snapdragon搭載のバッジ型端末も披露",
-      "saved": "2026-06-03-microsoft-androidhesunoaiesientoji-pan-solara-fa-biao-snapdragonda-zai-nohatusix.md",
-      "ts": 1780443903
-    },
-    "455f605d8b125cb121c3d3ed63a4be739aef33301dc63e4c3319bf1e898580cb": {
-      "link": "https://www.itmedia.co.jp/business/articles/2606/03/news011.html",
-      "title": "ピーク時の3分の1まで低迷　「スッパイマン」を15億円企業に復活させた”意外性戦略”",
-      "saved": "2026-06-03-hikushi-no3fen-no1matedi-mi-sutuhaiman-wo15yi-yuan-qi-ye-nifu-huo-saseta-yi-wai-.md",
-      "ts": 1780443903
-    },
-    "6b00eb2885643cb6b1430092bd1ea3f3ab87eb62294b87a64e8c9b8781b0d8c2": {
-      "link": "http://www3.nhk.or.jp/news/html/20260603/k10015139191000.html",
-      "title": "東京 善福寺川にレベル4氾濫危険警報 今後氾濫するおそれ",
-      "saved": "2026-06-03-dong-jing-shan-fu-si-chuan-nireheru4fan-lan-wei-xian-jing-bao-jin-hou-fan-lan-su.md",
-      "ts": 1780443903
-    },
-    "ff4a183c9f1367bf2a6dfbd6c6864234d5f6d3fa8947b85ae9e777c121ba14c9": {
-      "link": "http://www3.nhk.or.jp/news/html/20260603/k10015139171000.html",
-      "title": "神奈川 横須賀市にレベル4土砂災害危険警報 厳重な警戒を",
-      "saved": "2026-06-03-shen-nai-chuan-heng-xu-he-shi-nireheru4tu-sha-zai-hai-wei-xian-jing-bao-yan-zhon.md",
-      "ts": 1780443903
-    },
-    "ff7f8c84f18d593feb106ab51f1c9983d1901eef5bc07ed74ed447b4545ff363": {
-      "link": "https://www.itmedia.co.jp/news/articles/2606/03/news054.html",
-      "title": "「電源タップは3～5年で交換推奨」は短すぎ？　推奨する日本配線システム工業会に聞いてみた",
-      "saved": "2026-06-03-dian-yuan-tatuhuha3-5nian-tejiao-huan-tui-jiang-haduan-suki-tui-jiang-sururi-ben.md",
-      "ts": 1780443903
-    },
-    "d5f93a629e1706149f36cb2822e08ec27e895755654a452c7735db71d7c072a6": {
-      "link": "https://www.itmedia.co.jp/business/articles/2606/03/news017.html",
-      "title": "AI需要で半導体不足は「しばらく続く」　PCメーカー、デルの対応策は？",
-      "saved": "2026-06-03-aixu-yao-teban-dao-ti-bu-zu-ha-siharakusok-ku-pcmeka-terunodui-ying-ce-ha.md",
-      "ts": 1780443903
-    },
-    "44bffc89ed1b7fe3da376524ed1b97f39a67665b5f1d8638445aff61611c7925": {
-      "link": "https://www.itmedia.co.jp/business/articles/2606/03/news022.html",
-      "title": "「上司との付き合い方」をChatGPTに聞く　職場コミュニケーションの現在",
-      "saved": "2026-06-03-shang-si-tonofu-kihe-ifang-wochatgptniwen-ku-zhi-chang-komiyunikesiyonnoxian-zai.md",
-      "ts": 1780443903
-    },
-    "f66351ba2411b529e3cec6259d9f9f534d7e3d631cf5aa6ec4336c1f51b4c4af": {
-      "link": "http://www3.nhk.or.jp/news/html/20260603/k10015139051000.html",
-      "title": "和歌山 古座川にレベル5氾濫特別警報 氾濫発生 最大級の警戒",
-      "saved": "2026-06-03-he-ge-shan-gu-zuo-chuan-nireheru5fan-lan-te-bie-jing-bao-fan-lan-fa-sheng-zui-da.md",
-      "ts": 1780443903
-    },
-    "477b6bdb211a09877a06ff0a3717c5112b12264bd256705d82a1a114d1790b74": {
-      "link": "https://www.itmedia.co.jp/business/articles/2606/03/news024.html",
-      "title": "「報連相より結果が大事」　台湾人が日本企業に抱く“カルチャーギャップ”とは？",
-      "saved": "2026-06-03-bao-lian-xiang-yorijie-guo-kada-shi-tai-wan-ren-kari-ben-qi-ye-nibao-ku-karutiya.md",
-      "ts": 1780443903
-    },
-    "05aa2bb1811ae567dab0bbc20f85a18662b2453e141b0960f44a6adf21b0f174": {
-      "link": "https://www.itmedia.co.jp/business/articles/2606/03/news031.html",
-      "title": "“置くだけでひんやり”は広がるのか　ニトリ、新型ポータブルクーラーを投入",
-      "saved": "2026-06-03-zhi-kutaketehinyari-haguang-karunoka-nitori-xin-xing-hotahurukurawotou-ru.md",
-      "ts": 1780443903
-    },
-    "e896e92ee930990ead49900ea03d90a9f25715eefd8e1db3e641233e403cc2ca": {
-      "link": "https://www.itmedia.co.jp/business/articles/2606/03/news021.html",
-      "title": "部下が上司とのコミュニケーションで知りたいこと　2位「望む報連相のレベル」、1位は？",
-      "saved": "2026-06-03-bu-xia-kashang-si-tonokomiyunikesiyontezhi-ritaikoto-2wei-wang-mubao-lian-xiang-.md",
-      "ts": 1780443903
-    },
-    "947dc91ad20ae655712ba0da899de2f232b2734e430eee50934f80cad19bd2d7": {
-      "link": "https://www.itmedia.co.jp/news/articles/2606/03/news063.html",
-      "title": "Microsoft、NVIDIAのSoC搭載でAI特化のミニPC「Surface RTX Spark Dev Box」披露",
-      "saved": "2026-06-03-microsoft-nvidianosocda-zai-teaite-hua-nominipc-surface-rtx-spark-dev-box-pi-lu.md",
-      "ts": 1780443903
-    },
-    "cb75107416f210fb83f18950bd814dd14be9a471f9356f6e81ec99a69ad5ed6a": {
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSTG1ac0paa1hmdy0tNkUzSG16YWd2dDhoLTFzVTh2YURUbUNUTmJTczVwQnpDaTVmWHc3RlBFM2ktM2VyY0w5Z25IbTJXVE9iNFVF?oc=5",
-      "title": "橋から宙づりの遺体６体発見 メキシコ・リゾート地付近(1/2) - CNN",
-      "saved": "2017-12-23-qiao-karazhou-turinoyi-ti-6ti-fa-jian-mekisikorisotodi-fu-jin-1-2-cnn.md",
-      "ts": 1780443903
-    },
     "90e6e9756e0ccda7738f37ef26aed393a3e573480122ab18066438da6f7ff28a": {
       "link": "http://www3.nhk.or.jp/news/html/20260603/k10015138881000.html",
       "title": "台風6号 関東に最接近 氾濫や土砂災害など厳重警戒",
@@ -15233,6 +15119,150 @@
       "title": "ロシアでの高給を約束された多数のペルー人、たどり着いた先はウクライナの前線(3/3) - CNN.co.jp",
       "saved": "2026-07-01-rosiatenogao-gei-woyue-shu-saretaduo-shu-noheruren-tatorizhao-itaxian-haukuraina-2.md",
       "ts": 1783033603
+    },
+    "8e1687ecdbfc898590bb5f45ec4866648d03234a23ce35518927f196109153b1": {
+      "link": "http://www3.nhk.or.jp/news/html/20260703/k10015167861000.html",
+      "title": "京大を国際卓越研究大学に認定へ 今年度200億円助成見込み",
+      "saved": "2026-07-03-jing-da-woguo-ji-zhuo-yue-yan-jiu-da-xue-niren-ding-he-jin-nian-du-200yi-yuan-zh.md",
+      "ts": 1783047495
+    },
+    "d34b6e193341589edd98e23145b1dd5a9f786c1161256fe435e1a1b5d7be1c9f": {
+      "link": "http://www3.nhk.or.jp/news/html/20260703/k10015167791000.html",
+      "title": "うその決算報告書などで銀行から11億円詐取か 元社長逮捕",
+      "saved": "2026-07-03-usonojue-suan-bao-gao-shu-natoteyin-xing-kara11yi-yuan-zha-qu-ka-yuan-she-chang-.md",
+      "ts": 1783047495
+    },
+    "b22ba91118fd9bed2bf85a794fb1cbafb5537ba5f5bd1bc12c9f669223ead00c": {
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jd0ZNTHpjNXg2ZkdqQUdMQmtHelRTdmdGcm9iYk1Lcmxfckh3Z1U2WmpxMEs4NE5zQTdRTV8wamh3bDhJWWZnUnRsRlBVckZsLWpZ?oc=5",
+      "title": "ロシアによるキーウ大規模攻撃、死者27人に 住居ビルから逃げ惑う市民 - CNN.co.jp",
+      "saved": "2026-07-03-rosianiyorukiuda-gui-mo-gong-ji-si-zhe-27ren-ni-zhu-ju-hirukaratao-kehuo-ushi-mi.md",
+      "ts": 1783047495
+    },
+    "20d49ee5701917d9fcf844c00d8237696d095faad3489c8fdeba4c7cd162d362": {
+      "link": "http://www3.nhk.or.jp/news/html/20260703/k10015167941000.html",
+      "title": "中部電力 浜岡原発めぐる不正 赤澤経産相“厳正に対処”",
+      "saved": "2026-07-03-zhong-bu-dian-li-bang-gang-yuan-fa-mekurubu-zheng-chi-ze-jing-chan-xiang-yan-zhe.md",
+      "ts": 1783047495
+    },
+    "5728a7bbb2b12ae87ee04ca3266c45537a40b4114ed48a81b051b77dffa3c8b6": {
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DaEZOZlM2bTk2SWFHd1g5anJTRk5yU1RORXcwR0VmdjZXNmxZSHRyRVhVYURkeDAzNDJ1U1FiWk54SkZuTWxrSTdkS0d0djBzZkJR?oc=5",
+      "title": "ベネズエラ地震から8日、がれきの中から奇跡的に男性を救出 死者2千人超(1/2) - CNN.co.jp",
+      "saved": "2026-07-03-henesueradi-zhen-kara8ri-karekinozhong-karaqi-ji-de-ninan-xing-wojiu-chu-si-zhe-.md",
+      "ts": 1783047495
+    },
+    "4e8a77c43661699ad0fe217d0531bf4d3617247b549a49fc2f169c18dd995930": {
+      "link": "http://www3.nhk.or.jp/news/html/20260703/k10015167901000.html",
+      "title": "サッカーW杯 ポルトガルがクロアチアに劇的勝利で2回戦へ",
+      "saved": "2026-07-03-satukawbei-horutokarukakuroatianiju-de-sheng-li-te2hui-zhan-he.md",
+      "ts": 1783047495
+    },
+    "3ec7dc6dd0a13035df7fa62bd424c706a24d393b89c39d964c3bccec5fb2db52": {
+      "link": "https://www.bbc.com/japanese/articles/c24y8dd5662o?at_medium=RSS&at_campaign=rss",
+      "title": "ヴェネズエラ地震発生から8日、生存者を倒壊した建物から救出",
+      "saved": "2026-07-03-uenesueradi-zhen-fa-sheng-kara8ri-sheng-cun-zhe-wodao-huai-sitajian-wu-karajiu-c.md",
+      "ts": 1783047495
+    },
+    "655dcfa4c0ec1f1a6e9aa11db47983e10649ffdab5a4950c7b0a66d02888249b": {
+      "link": "http://www3.nhk.or.jp/news/html/20260703/k10015167801000.html",
+      "title": "長期金利 約29年ぶり一時2.81％に上昇 インフレ加速観測などで",
+      "saved": "2026-07-03-chang-qi-jin-li-yue-29nian-huriyi-shi-2-81-nishang-sheng-inhurejia-su-guan-ce-na.md",
+      "ts": 1783047495
+    },
+    "49996025a6fe0fbae68323bff49a5a3b6f99a4b276d1d85a6cf34b9653b4e4c4": {
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KMGt3OVZUWUVoSUxNeGxhRk50RlZER0syYjhsbnVPMGJrNGpUbE1VWWR6RFptcHZSaXQwRjBvUmFkaGdLN2J6bUNwOGpiLWJRakVGRlJQbw?oc=5",
+      "title": "トランプ氏はどうやって1600億円もの暗号資産収入を得たのか？ 自身のミームコインが大暴落する中 - CNN.co.jp",
+      "saved": "2026-07-03-toranhushi-hatouyatute1600yi-yuan-monoan-hao-zi-chan-shou-ru-wode-tanoka-zi-shen.md",
+      "ts": 1783047495
+    },
+    "b5ff729c663098a161c5f5f388721a747fe32d817ad5737b7aa39ba848056150": {
+      "link": "http://www3.nhk.or.jp/news/html/20260703/k10015167871000.html",
+      "title": "覆面作家・雨穴さんの「変な絵」 ダガー賞翻訳部門 受賞逃す",
+      "saved": "2026-07-03-fu-mian-zuo-jia-yu-xue-sanno-bian-nahui-takashang-fan-yi-bu-men-shou-shang-tao-s.md",
+      "ts": 1783047495
+    },
+    "518b306bf73b4dbd9e975121e6f8aa55140a5a9134bad35feb91777fbc8ce76a": {
+      "link": "https://www.itmedia.co.jp/news/articles/2607/03/news087.html",
+      "title": "Cloudflare、AIクローラー制御を全顧客に開放──「検索」「エージェント」「学習」の3分類で管理可能に",
+      "saved": "2026-07-03-cloudflare-aikurorazhi-yu-woquan-gu-ke-nikai-fang-jian-suo-esiento-xue-xi-no3fen.md",
+      "ts": 1783047495
+    },
+    "99410dd1a633344851599a68d38881fd422436b85a67cc69384e23333dfd1a61": {
+      "link": "https://www.itmedia.co.jp/news/articles/2607/03/news083.html",
+      "title": "Amazonの衛星ブロードバンド「Leo」、打ち上げ300基突破で世界3位の規模に",
+      "saved": "2026-07-03-amazonnowei-xing-hurotohanto-leo-da-tishang-ke300ji-tu-po-teshi-jie-3wei-nogui-m.md",
+      "ts": 1783047495
+    },
+    "022afffd15929d7e09a812c3b477fc83e023f2e3e311c339c1db21dc7f864932": {
+      "link": "https://www.bbc.com/japanese/articles/cx2je89p20zo?at_medium=RSS&at_campaign=rss",
+      "title": "北京・最高層ビルの小型機衝突、操縦者の「個人的理由」が原因と　中国当局が発表",
+      "saved": "2026-07-03-bei-jing-zui-gao-ceng-hirunoxiao-xing-ji-chong-tu-cao-zong-zhe-no-ge-ren-de-li-y.md",
+      "ts": 1783047495
+    },
+    "9727d90c9df581c880120a96b8fff847a20e90fa405e3b86d2c143527007dc31": {
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9VZFVYLVdiY0JOdkgyS2lUN3Bjak9OcHhuRThTa01NdFl0dGtpRUhMYi1ZbkRteUh2LVFWcGl4QVR2RFZEa2RHd2lDNnNpQy1R?oc=5",
+      "title": "米軍人、連邦議会議事堂で逮捕される トランプ氏の弾劾求めた直後 - CNN.co.jp",
+      "saved": "2026-07-03-mi-jun-ren-lian-bang-yi-hui-yi-shi-tang-tedai-bu-sareru-toranhushi-nodan-he-qiu-.md",
+      "ts": 1783047495
+    },
+    "0a93b92de9123a6fe68673f533724d8bc5b1d5f886825a499413f62c6aaefd2a": {
+      "link": "https://www.itmedia.co.jp/news/articles/2607/03/news082.html",
+      "title": "KADOKAWAの早期退職に154人が応募　年約17億円の人件費削減へ",
+      "saved": "2026-07-03-kadokawanozao-qi-tui-zhi-ni154ren-kaying-mu-nian-yue-17yi-yuan-noren-jian-fei-xu.md",
+      "ts": 1783047495
+    },
+    "fbfd4cb96a2f5995ad232d0b8cb9a65878675af2aff91500a05e2b828e0c53c6": {
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZSThHMmREbVF5aUN5eWlhblpSWDFrbXlodXAwQzJZa3I2dGlXaTBET1dXODNON3BYdFVwWHlWLWp0NFd1YktRczNidDJmQ21nUmVR?oc=5",
+      "title": "北京最高層ビルに突入の小型機、パイロットは66歳男性 当局は「自殺願望」あったと発表 - CNN.co.jp",
+      "saved": "2026-07-03-bei-jing-zui-gao-ceng-hirunitu-ru-noxiao-xing-ji-hairotutoha66sui-nan-xing-dang-.md",
+      "ts": 1783047495
+    },
+    "eb23a28ae36d06c2b279b27d7582f804469c8e2554c4a56f0737440941d0ab09": {
+      "link": "https://www.itmedia.co.jp/news/articles/2607/03/news077.html",
+      "title": "NVIDIA、AIインフラ調達の新ビジネスモデル発表　収益分配で新興企業を支援",
+      "saved": "2026-07-03-nvidia-aiinhuradiao-da-noxin-hisinesumoterufa-biao-shou-yi-fen-pei-texin-xing-qi.md",
+      "ts": 1783047495
+    },
+    "22350bcb2941da091700b680ef1fb2a0f3f4b8f48c347c81f37a211d674837a1": {
+      "link": "https://www.itmedia.co.jp/news/articles/2607/03/news076.html",
+      "title": "書店特典のはずが……集英社「メタキラ」eBayで爆売れ　900枚以上売った出品者も  強い海外ニーズ",
+      "saved": "2026-07-03-shu-dian-te-dian-nohasuka-ji-ying-she-metakira-ebaytebao-mai-re-900mei-yi-shang-.md",
+      "ts": 1783047495
+    },
+    "f80c3750bda04454932cc916a2dfa94da7b6aea738b874f4493843cb9581773d": {
+      "link": "https://www.bbc.com/japanese/articles/cy491mj1w7xo?at_medium=RSS&at_campaign=rss",
+      "title": "コウモリに顔に乗られ、狂犬病で死亡　カナダの11歳少年",
+      "saved": "2026-07-03-koumoriniyan-nicheng-rare-kuang-quan-bing-tesi-wang-kanatano11sui-shao-nian.md",
+      "ts": 1783047495
+    },
+    "d21a7d1be0f435e55181b0663c3a36b254dc5b5f11d0b409656cd7a5394841d2": {
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xLW9pWGVWQkVxTnd5VzdzS2NySlNaQmwzTDVaWHlJQVVJc05HR1JRQnh4OW5fNnd0OXpGcWVoNzh1LWRIYjZLLWx4bEYxYjFxbWc?oc=5",
+      "title": "オープンAI、トランプ政権に株式5％譲渡で協議 FT報道 - CNN.co.jp",
+      "saved": "2026-07-03-ohunai-toranhuzheng-quan-nizhu-shi-5-rang-du-texie-yi-ftbao-dao-cnn-co-jp.md",
+      "ts": 1783047495
+    },
+    "0dcd1e469eecd537752cd637ce46c750dfea46eea46fbe5759029554dc64e1e0": {
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43SGhrY29qVWtjenBfZ3FrY1NycmctTzk1QUVYVVBCOGE1OFM3RWtfQmZ3TmNRNk1TZldsbEtMblBxQ0JyUlVGb3RadUxQR2dCMXV3?oc=5",
+      "title": "イラン、協議を一時停止 ハメネイ師の葬儀控え - CNN.co.jp",
+      "saved": "2026-07-03-iran-xie-yi-woyi-shi-ting-zhi-hameneishi-nozang-yi-kong-e-cnn-co-jp.md",
+      "ts": 1783047495
+    },
+    "ea52af07fba37e42903b700a85424224fa36e283cc5fd9cea06dea8c373f174c": {
+      "link": "https://www.itmedia.co.jp/business/articles/2607/03/news024.html",
+      "title": "25％が「AIにすでに仕事を奪われている」　どんな業務が当てはまる？",
+      "saved": "2026-07-03-25-ka-ainisutenishi-shi-woduo-wareteiru-tonnaye-wu-kadang-tehamaru.md",
+      "ts": 1783047495
+    },
+    "656daf45b21aae10faed3900aa46a9d5b5a38ecb9f81d9ebe0928423fc6011cb": {
+      "link": "https://www.itmedia.co.jp/business/articles/2607/03/news017.html",
+      "title": "アルファードでもノアでもない　三菱「デリカD:5」はなぜ19年目に過去最高を更新したのか",
+      "saved": "2026-07-03-aruhuatotemonoatemonai-san-ling-terikad-5-hanase19nian-mu-niguo-qu-zui-gao-wogen.md",
+      "ts": 1783047495
+    },
+    "b6232bcad90bec0ed2b24fee367b12c01dd02b9a44b9814cf85177e54d23bc12": {
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZRmFxU1dOdFVhWmFYQS04Q1RYc3JKMi1BLUpVMG5YNDh0MGhETG04SlVlMVQzZlZFQ2dvQ2FDY2ZUUlVrUFJCY01lOTk0TXJLUVlLRQ?oc=5",
+      "title": "ウクライナとの戦争で命を落としたロシア軍人が眠るドネツク郊外の墓地＝4月19日撮影/Alexander Ermochenko/Reuters - CNN.co.jp",
+      "saved": "2026-07-02-ukurainatonozhan-zheng-teming-woluo-tositarosiajun-ren-kamian-rutonetukujiao-wai.md",
+      "ts": 1783047495
     }
   }
 }
