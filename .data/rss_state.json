@@ -1,179 +1,5 @@
 {
   "done": {
-    "4f64243d141fd0b1ceba66c479081598ffd39ba233060e10b60cd55fe054d302": {
-      "link": "http://www3.nhk.or.jp/news/html/20260608/k10015144431000.html",
-      "title": "高市首相 “中傷動画”報道めぐり 「流儀でない」と重ねて否定",
-      "saved": "2026-06-08-gao-shi-shou-xiang-zhong-shang-dong-hua-bao-dao-mekuri-liu-yi-tenai-tozhong-nete.md",
-      "ts": 1780916095
-    },
-    "aa0385222e81df9db25009959faaf441cba82e2b08813e6f594ec46ff665a10a": {
-      "link": "https://www.itmedia.co.jp/news/articles/2606/08/news134.html",
-      "title": "ポケカ30周年記念商品の抽選販売でマイナカード活用の本人確認　当選数の大半は「本人確認済みの方」に",
-      "saved": "2026-06-08-hokeka30zhou-nian-ji-nian-shang-pin-nochou-xuan-fan-mai-temainakatohuo-yong-nobe.md",
-      "ts": 1780916095
-    },
-    "686871afd02cd298bffc5804b72bd1528caac1a778e2733920f52ec9f6ead782": {
-      "link": "http://www3.nhk.or.jp/news/html/20260608/k10015144101000.html",
-      "title": "各党支持率 「自民党」35.7％ 「支持なし」34.7％ NHK世論調査",
-      "saved": "2026-06-08-ge-dang-zhi-chi-lu-zi-min-dang-35-7-zhi-chi-nasi-34-7-nhkshi-lun-diao-cha.md",
-      "ts": 1780916095
-    },
-    "0bc37f719a32f5cf7e329d351406755c16b9f10d04c5adab9516464fa6df7981": {
-      "link": "http://www3.nhk.or.jp/news/html/20260608/k10015143611000.html",
-      "title": "【詳しく】皇位継承 とりまとめ案 与野党7党“おおむね賛同”",
-      "saved": "2026-06-08-xiang-siku-huang-wei-ji-cheng-torimatomean-yu-ye-dang-7dang-oomunezan-tong.md",
-      "ts": 1780916095
-    },
-    "45d6170c3b6a01209aa0183c314462fa5417a975945b7dbc80d6ff5d076a25b0": {
-      "link": "http://www3.nhk.or.jp/news/html/20260608/k10015144091000.html",
-      "title": "高市内閣支持率60％ 不支持26％ NHK世論調査",
-      "saved": "2026-06-08-gao-shi-nei-ge-zhi-chi-lu-60-bu-zhi-chi-26-nhkshi-lun-diao-cha.md",
-      "ts": 1780916095
-    },
-    "dd3b802bfa75276011054f59f262efdcbe3e23fe9d036e1fcc44845b2466db6c": {
-      "link": "https://www.itmedia.co.jp/news/articles/2606/08/news132.html",
-      "title": "「エアコン2027年問題」駆け込み需要に冷静な対応呼び掛け　経産相「今の機器使える」",
-      "saved": "2026-06-08-eakon2027nian-wen-ti-qu-keip-mixu-yao-nileng-jing-nadui-ying-hu-higua-ke-jing-ch.md",
-      "ts": 1780916095
-    },
-    "ba322d214d4242677392a11091ddef4103dc0c840c695f9afee0ee6b9fb089c7": {
-      "link": "https://www.bbc.com/japanese/articles/cy8w07wx395o?at_medium=RSS&at_campaign=rss",
-      "title": "ラミー英副首相、ヴァンス米副大統領に「間違いだ」と伝えたと　英学生刺殺事件めぐる発言について",
-      "saved": "2026-06-08-ramiying-fu-shou-xiang-uansumi-fu-da-tong-ling-ni-jian-wei-ita-tochuan-etato-yin.md",
-      "ts": 1780916095
-    },
-    "05e8475bc6bb89221c7b263ebb08ac31ba00e0876de784b2c22f5ce95061860c": {
-      "link": "https://www.itmedia.co.jp/news/articles/2606/08/news131.html",
-      "title": "パナソニックエナジー、28年度に売上高2兆円目指す　AIデータセンター向けに主力転換",
-      "saved": "2026-06-08-hanasonitukuenasi-28nian-du-nimai-shang-gao-2zhao-yuan-mu-zhi-su-aitetasentaxian.md",
-      "ts": 1780916095
-    },
-    "3c19deb34ca31ade71150d92ed1d7c4be7cd57349345c8f4558b6778394d6f0d": {
-      "link": "http://www3.nhk.or.jp/news/html/20260608/k10015144341000.html",
-      "title": "プロ野球 バット直撃の審判員 家族が容体について現状を報告",
-      "saved": "2026-06-08-huroye-qiu-hatutozhi-ji-noshen-pan-yuan-jia-zu-karong-ti-nituitexian-zhuang-woba.md",
-      "ts": 1780916095
-    },
-    "d4645540e8b22e57043a61151de285b2ac6790e55d587891319351513c604574": {
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LV01uWHRVQ1otYzRtVEZBdzE4eFNhaHRNbE9UZ2MxY1VRZzVuSUUwNXB4dmdxLWhtZkJpM0dJUl9sUWJITk9FSFZkYklDOVZNaUtEbw?oc=5",
-      "title": "女性は男性よりも謝りがち その理由は想像以上に複雑だった - CNN",
-      "saved": "2026-06-08-nu-xing-hanan-xing-yorimoxie-rikati-sonoli-you-haxiang-xiang-yi-shang-nifu-za-ta.md",
-      "ts": 1780916095
-    },
-    "8caac8cdb417813b8262767a1b15c2cfd321e7bb1c9a47d7ddd0b909db8e8f24": {
-      "link": "http://www3.nhk.or.jp/news/html/20260608/k10015144251000.html",
-      "title": "ラグビーリーグワン スティーラーズのレタリックがMVP",
-      "saved": "2026-06-08-rakuhirikuwan-suteirasunoretaritukukamvp.md",
-      "ts": 1780916095
-    },
-    "e8d210b8a83d164f594b948a39ffcaf2369101420924694ca499e002ad440bfa": {
-      "link": "https://www.bbc.com/japanese/articles/cp8lmnmz1kyo?at_medium=RSS&at_campaign=rss",
-      "title": "トランプ氏、米NBCインタビューをいきなり打ち切る　「仕組まれた選挙」めぐるやりとりの後",
-      "saved": "2026-06-08-toranhushi-mi-nbcintahiyuwoikinarida-tiqie-ru-shi-zu-maretaxuan-ju-mekuruyaritor.md",
-      "ts": 1780916095
-    },
-    "0849a8068eaa7b5ab378186670d922e9e83f75df2a5d630e3a4ba64b881d9a0b": {
-      "link": "http://www3.nhk.or.jp/news/html/20260608/k10015144271000.html",
-      "title": "大相撲 元関脇 長谷川の長谷川勝敏さん がんで死去 81歳",
-      "saved": "2026-06-08-da-xiang-pu-yuan-guan-xie-chang-gu-chuan-nochang-gu-chuan-sheng-min-san-kantesi-.md",
-      "ts": 1780916095
-    },
-    "920cb3b81cd543aa3b0eb36d3d40817ea45a39dad74eca2607953b3e671d5ef0": {
-      "link": "http://www3.nhk.or.jp/news/html/20260608/k10015144261000.html",
-      "title": "プロ野球 阪神 対 楽天 天候不良のため7日に続き中止に",
-      "saved": "2026-06-08-huroye-qiu-ban-shen-dui-le-tian-tian-hou-bu-liang-notame7ri-nisok-kizhong-zhi-ni.md",
-      "ts": 1780916095
-    },
-    "417de5c42e88f222aca9a3bf9ddcc5df8fea7a4e5ca6ccbbdb61549fbacad3fa": {
-      "link": "https://www.bbc.com/japanese/articles/c79yn14z07lo?at_medium=RSS&at_campaign=rss",
-      "title": "【2026年サッカー男子W杯】 イラン代表チーム、メキシコに到着　米国とビザ問題で揺れるなか",
-      "saved": "2026-06-08-2026nian-satukanan-zi-wbei-irandai-biao-timu-mekisikonidao-zhao-mi-guo-tohisawen.md",
-      "ts": 1780916095
-    },
-    "020dffad063dbf4595daa7613fd42b1bc6d403e892cc2bdc50b54916706269e2": {
-      "link": "https://www.bbc.com/japanese/articles/cpq3zd0024yo?at_medium=RSS&at_campaign=rss",
-      "title": "遭難したエヴェレストの山岳ガイド、6日後に救出　氷をかじって生き延びたと",
-      "saved": "2026-06-08-zao-nan-sitaeueresutonoshan-yue-kaito-6ri-hou-nijiu-chu-bing-wokasitutesheng-kiy.md",
-      "ts": 1780916095
-    },
-    "6a407acda9beb5bcbf9f25f5973c2986f50dddc3f86450b2df3a03d329f378e0": {
-      "link": "http://www3.nhk.or.jp/news/html/20260608/k10015144221000.html",
-      "title": "サッカーW杯日本代表 事前合宿打ち上げ 森保監督が評価",
-      "saved": "2026-06-08-satukawbei-ri-ben-dai-biao-shi-qian-he-su-da-tishang-ke-sen-bao-jian-du-kaping-j.md",
-      "ts": 1780916095
-    },
-    "ad591c18dca767d21f6f68f9d60bae9a3f914e22c59609b9aba63a0ffb2462af": {
-      "link": "https://www.itmedia.co.jp/news/articles/2606/08/news108.html",
-      "title": "KADOKAWA、公取委の調査「事実」と認める　フリーランス法違反に関する報道受け",
-      "saved": "2026-06-08-kadokawa-gong-qu-wei-nodiao-cha-shi-shi-toren-meru-huriransufa-wei-fan-niguan-su.md",
-      "ts": 1780916095
-    },
-    "2bc0b26391210142898e2ede3e26e31fb970e23a365c0fbfdb4ddcc5fa657054": {
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4Vnh0ektJRmtfRFdHaDUxakMzb0NXM2UtejRVUEUyYnM3eGhhWGhuYWx0OUJnMkR4VmUzdVZFbFU3RGg5N19CaFBOT25WMDNxbGI0?oc=5",
-      "title": "女性首長が歴史を変える――現職初の産休めぐる論議、旧態依然の制度浮き彫りに(1/2) - CNN",
-      "saved": "2026-06-08-nu-xing-shou-chang-kali-shi-wobian-eru-xian-zhi-chu-nochan-xiu-mekurulun-yi-jiu-.md",
-      "ts": 1780916095
-    },
-    "fe9e7a271db4c39a10b5133371344c9d7189fb292231654949d4868b5109bca4": {
-      "link": "https://www.itmedia.co.jp/news/articles/2606/08/news111.html",
-      "title": "「エアコン修理が安い」ネット広告にご用心　高額請求、しかも直らず　相談件数4年で2倍超",
-      "saved": "2026-06-08-eakonxiu-li-kaan-i-netutoguang-gao-nikoyong-xin-gao-e-qing-qiu-sikamozhi-rasu-xi.md",
-      "ts": 1780916095
-    },
-    "75bc809c9cc6626175329fd4dc63e32bc80433d8a8739730d91cab74a30f18e4": {
-      "link": "http://www3.nhk.or.jp/news/html/20260608/k10015144171000.html",
-      "title": "カブス 鈴木誠也 5試合連続安打もチームは延長戦で敗れる",
-      "saved": "2026-06-08-kahusu-ling-mu-cheng-ye-5shi-he-lian-sok-an-da-motimuhayan-chang-zhan-tebai-reru.md",
-      "ts": 1780916095
-    },
-    "ab5170f2f4010a3991745cd03a9db2e796312182076ed59e34f1e7f7f543fae1": {
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5fN2I4aWRrV0d6Y1BseDY4Z0ZOVUdoWDBSeVo4Yk9LVnJ2b0p3YVkzQi04YTdZTkhCMTRBWVItN2g5LXJLV0c1TkVBeC05VC1VZV9FRg?oc=5",
-      "title": "拡大画像 - CNN",
-      "saved": "2026-06-08-kuo-da-hua-xiang-cnn.md",
-      "ts": 1780916095
-    },
-    "50db207ab8ce3ee25302a436c0ff6518e35fe7a17948c24556fd7845ec0e202f": {
-      "link": "https://www.itmedia.co.jp/news/articles/2606/08/news100.html",
-      "title": "LINEのAIエージェントにメモリ機能　ツンデレや執事など“口調”も変更可能に",
-      "saved": "2026-06-08-linenoaiesientonimemoriji-neng-tuntereyazhi-shi-nato-kou-diao-mobian-geng-ke-nen.md",
-      "ts": 1780916095
-    },
-    "36c3ed9a46f44de48e68b39aab61bcf0a7a43eb9c85e259eb1d0eacb0124e05a": {
-      "link": "https://www.bbc.com/japanese/articles/cwy0lx2242lo?at_medium=RSS&at_campaign=rss",
-      "title": "【解説】米株式市場はAIバブルの中にあるのか　崩壊の可能性は？",
-      "saved": "2026-06-08-jie-shuo-mi-zhu-shi-shi-chang-haaihahurunozhong-niarunoka-beng-huai-noke-neng-xi.md",
-      "ts": 1780916095
-    },
-    "525e6f26420453bf6cb113899c11669311074d804322bfd56fa7c9e93e3b28c5": {
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jbWF3aTNzYmZLeE8tUU5xT25XdVViRW9INm51WXBVakVqaU5LMExFTmJlNGNfRDlUaWIxMTM2QV9XTzJaT3M2WTJhLW5XTlNC?oc=5",
-      "title": "偽の搭乗券で忍び込んだ男を機内のトイレで発見 航空機はゲートに引き返す事態に 米 - CNN",
-      "saved": "2026-06-08-wei-noda-cheng-quan-teren-hiip-ntanan-woji-nei-notoiretefa-jian-hang-kong-ji-hak.md",
-      "ts": 1780916095
-    },
-    "7920f8a7f75cf4b2a3f5009814d643530235d991592423225e324f0fc58236f0": {
-      "link": "https://www.itmedia.co.jp/news/articles/2606/08/news101.html",
-      "title": "ビジュアルアーティストの“作風”を保護する米国「CREATOR法案」とは？　その建て付けと生成AI時代の課題",
-      "saved": "2026-06-08-hisiyuaruateisutono-zuo-feng-wobao-hu-surumi-guo-creatorfa-an-toha-sonojian-tefu.md",
-      "ts": 1780916095
-    },
-    "84d98b76a1fc4b9dff02a554e8b7d480184013a1110c41a33a0ae8c7d8e7c2c2": {
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jbzBPODNucFh6Q0lhQ19EY3B5T1JNSjlKeEg1VW5RUzVaQzMwdVBhNWdzMlBvVGJkSlRnYlpKZDZCbUR0SVRDZnBQM0tZaWg0NWZz?oc=5",
-      "title": "クルーズ船に乗船の８０代女性、島に取り残されて死亡 オーストラリア - CNN",
-      "saved": "2025-10-30-kurusuchuan-nicheng-chuan-no80dai-nu-xing-dao-niqu-rican-saretesi-wang-osutorari-3.md",
-      "ts": 1780916095
-    },
-    "7f04b2f1b3d6a2b4d3e422bc7fe31566c693feac72d81af080eb255ed52ecb02": {
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWWUt5Mkt2amlXSEpUV3pGU1BHRmpjNkZCMklIZUZUY25WU19QS1NwRDE0M0NzbmxaWXppZzN3YThhWElsYXBTQXlBNW9iMEk?oc=5",
-      "title": "ロシアの爆撃機、滑走路で炎上 - CNN",
-      "saved": "2025-06-02-rosianobao-ji-ji-hua-zou-lu-teyan-shang-cnn-2.md",
-      "ts": 1780916095
-    },
-    "c022ed3935435b873305e4084bd7b080844ce99e757b8ae1e5e1250f539212e7": {
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LZG03d2F5MEpyQXZlbS1NTXNNc2Y0b0M0NEljR2habll6dEdfbW81LUhheHk4X21hOGYxLW9fcEhTSkZ2WEc5YWFWUGdsRWhia3BheUdR?oc=5",
-      "title": "故ジーン・ハックマンさんの地所の離れ家でネズミの死骸と巣発見、ハンタウイルスのリスク検証中 - CNN",
-      "saved": "2025-04-15-gu-sinhatukumansannodi-suo-noli-rejia-tenesuminosi-hai-tochao-fa-jian-hantauirus.md",
-      "ts": 1780916095
-    },
     "314a70cf87ddf9b222f72b2c7c38b4ae77e235de734c0b2bea0615f424c70d84": {
       "link": "http://www3.nhk.or.jp/news/html/20260609/k10015144591000.html",
       "title": "フィリピン沖大地震で30人以上死亡 行方不明者の救助活動続く",
@@ -15365,6 +15191,186 @@
       "title": "地球の内核が回転停止か、逆回転の可能性も 新研究 - CNN.co.jp",
       "saved": "2023-01-26-di-qiu-nonei-he-kahui-zhuan-ting-zhi-ka-ni-hui-zhuan-noke-neng-xing-mo-xin-yan-j.md",
       "ts": 1783505873
+    },
+    "0f819f9bc951e8070caf808d2e1f3768ade00a6b80a9c2af7497ead37f595f44": {
+      "link": "http://www3.nhk.or.jp/news/html/20260709/k10015172241000.html",
+      "title": "「線状降水帯直前予測」的中率は約3割 発生まで平均約1時間",
+      "saved": "2026-07-09-xian-zhuang-jiang-shui-dai-zhi-qian-yu-ce-de-zhong-lu-hayue-3ge-fa-sheng-matepin.md",
+      "ts": 1783552018
+    },
+    "1953e23814cece7385cb9ea16a1e63cd849db67efb5feb5dcb0a2580fc776126": {
+      "link": "http://www3.nhk.or.jp/news/html/20260709/k10015172301000.html",
+      "title": "台風9号 10～11日非常に強い勢力で沖縄・先島諸島に接近へ",
+      "saved": "2026-07-09-tai-feng-9hao-10-11ri-fei-chang-niqiang-ishi-li-techong-nawa-xian-dao-zhu-dao-ni.md",
+      "ts": 1783552018
+    },
+    "f064522057eea9bd6875a7ffb1a74d43126262ebdc6da9591d903bff2296ee70": {
+      "link": "https://www.itmedia.co.jp/news/articles/2607/09/news068.html",
+      "title": "Apple、Broadcomとの新契約は「300億ドル超」──米国製チップ150億個以上を生産へ",
+      "saved": "2026-07-09-apple-broadcomtonoxin-qi-yue-ha-300yi-toruchao-mi-guo-zhi-tituhu150yi-ge-yi-shan.md",
+      "ts": 1783552018
+    },
+    "ff430b9158571a78926b2f22bd31313af203a627aee6f77afb82e1ae9088df9c": {
+      "link": "https://www.itmedia.co.jp/business/articles/2607/09/news036.html",
+      "title": "ボーダフォン、iPhone、Arm、OpenAI　ソフトバンク「最強の相方」が導いた成長戦略",
+      "saved": "2026-07-09-hotahuon-iphone-arm-openai-sohutohanku-zui-qiang-noxiang-fang-kadao-itacheng-cha.md",
+      "ts": 1783552018
+    },
+    "93e25bd3c94e38ca28517258b4d1bee6498e8487bf2b66e8b973fb5ab6f8e8ed": {
+      "link": "https://www.itmedia.co.jp/business/articles/2607/09/news022.html",
+      "title": "CEOの利用額も「全社員に丸見え」　LayerXがAI予算を「第二の人件費」にした真意",
+      "saved": "2026-07-09-ceonoli-yong-e-mo-quan-she-yuan-niwan-jian-e-layerxkaaiyu-suan-wo-di-er-noren-ji.md",
+      "ts": 1783552018
+    },
+    "6080ae2c526c9b7f476d977894ee645f36f81270086a742073b2d52bfa686d03": {
+      "link": "https://www.itmedia.co.jp/business/articles/2607/09/news028.html",
+      "title": "孫正義は「“利益生む神の手”を持つ」　シリコンバレーにとどろく才能、米投資家が絶賛",
+      "saved": "2026-07-09-sun-zheng-yi-ha-li-yi-sheng-mushen-noshou-wochi-tu-sirikonharenitotorokucai-neng.md",
+      "ts": 1783552018
+    },
+    "7a122468d821c40cc60a55034f9e2d0ce23d3878d9886188a8a8eb0022cee8c9": {
+      "link": "https://www.itmedia.co.jp/business/articles/2607/09/news048.html",
+      "title": "「AI作成のスライド」で発表する役員になんとなくモヤモヤするワケ",
+      "saved": "2026-07-09-aizuo-cheng-nosuraito-tefa-biao-suruyi-yuan-ninantonakumoyamoyasuruwake.md",
+      "ts": 1783552018
+    },
+    "841b9f1b91e7a19346f196d014cd0fb40006d37ada50356606b9e5c8371a57ef": {
+      "link": "https://www.itmedia.co.jp/business/articles/2607/09/news010.html",
+      "title": "「OpenAIの方が上」「Anthropic創業者は天才」　シリコンバレー投資家が明かすAI市場の勢力図",
+      "saved": "2026-07-09-openainofang-kashang-anthropicchuang-ye-zhe-hatian-cai-sirikonharetou-zi-jia-kam.md",
+      "ts": 1783552018
+    },
+    "127d36ed2a6f4771bf0194abf8440ba76225db030d3461ca1e651bbc9516a7f1": {
+      "link": "https://www.itmedia.co.jp/business/articles/2607/09/news017.html",
+      "title": "いまや「給与」だけでは選ばれない　働く人が会社選びで重視する意外な条件",
+      "saved": "2026-07-09-imaya-gei-yu-taketehaxuan-harenai-dong-kuren-kahui-she-xuan-hitezhong-shi-suruyi.md",
+      "ts": 1783552018
+    },
+    "f6138cac484de79e50035019b7161eec6e2a4b810b80bb274652f101f9b0a8e7": {
+      "link": "http://www3.nhk.or.jp/news/html/20260709/k10015172441000.html",
+      "title": "米中央軍 イランに対し追加攻撃 両国の協議いっそう不透明に",
+      "saved": "2026-07-09-mi-zhong-yang-jun-irannidui-sizhui-jia-gong-ji-liang-guo-noxie-yi-itusoubu-tou-m.md",
+      "ts": 1783552018
+    },
+    "9b9a82a6e1c68ca017fa28e2cdf63cd680e972d5d6a2fec21cdf02dac5f150b3": {
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1MV3hUSV9YdXd2UkpoamFpQ1NibG1WaUx1cWY5dXZEVG5TOFRoZEEyX2RBenh4QXRZaUxoLWFXSWhYRmc0VGc1dDlaamFHdkdWa0h4Xw?oc=5",
+      "title": "ネアンデルタール人の化石が見つかったのと同じ堆積層から出土したアフリカタモトと呼ばれる貝 - CNN.co.jp",
+      "saved": "2026-07-09-neanterutaruren-nohua-shi-kajian-tukatutanototong-sidui-ji-ceng-karachu-tu-sitaa.md",
+      "ts": 1783552018
+    },
+    "09a300703725b666996080784b48bac449b56697489569214a11db3b2818cf10": {
+      "link": "https://www.itmedia.co.jp/business/articles/2607/09/news013.html",
+      "title": "理系学生はなぜメーカー志向？　人気企業ランキングで見えた企業選びの変化",
+      "saved": "2026-07-09-li-xi-xue-sheng-hanasemekazhi-xiang-ren-qi-qi-ye-rankinkutejian-etaqi-ye-xuan-hi.md",
+      "ts": 1783552018
+    },
+    "3ea150a6c9e00130eac4d6e382afafdd12775500b3a51d4c4838603eaab12fc5": {
+      "link": "https://www.itmedia.co.jp/business/articles/2607/09/news019.html",
+      "title": "客単価が約1.5倍！　なぜディズニーは高価格路線にかじを切ったのか　「夢の国」から遠のく未来のファン",
+      "saved": "2026-07-09-ke-dan-jia-kayue-1-5bei-naseteisunihagao-jia-ge-lu-xian-nikasiwoqie-tutanoka-men.md",
+      "ts": 1783552018
+    },
+    "587f6bf6e3b2ecc5cbadf11d8993ba04a8d01296329515d46cbb4891fd835900": {
+      "link": "https://www.itmedia.co.jp/business/articles/2607/09/news035.html",
+      "title": "ITエンジニアの約5割、AIで「転職」を意識　強化したいスキル1位は？",
+      "saved": "2026-07-09-itensinianoyue-5ge-aite-zhuan-zhi-woyi-shi-qiang-hua-sitaisukiru1wei-ha.md",
+      "ts": 1783552018
+    },
+    "f148805e88f9abfc07c68058b3a2b1d7b34b14c940345db3a198407c88f0bd05": {
+      "link": "https://www.itmedia.co.jp/business/articles/2607/09/news021.html",
+      "title": "女性用下着のワコールが、なぜ「自動車業界」へ？　“綿菓子のように立体を作る技術”が車内に",
+      "saved": "2026-07-09-nu-xing-yong-xia-zhao-nowakoruka-nase-zi-dong-che-ye-jie-he-mian-guo-zi-noyounil.md",
+      "ts": 1783552018
+    },
+    "879432ce92f111e80b60d57e92c9da56ab5015ff691890ffc09b977ab078a286": {
+      "link": "http://www3.nhk.or.jp/news/html/20260709/k10015172271000.html",
+      "title": "衆院で法案審議再開へ 皇室典範改正案 あす審議入りで論戦へ",
+      "saved": "2026-07-09-zhong-yuan-tefa-an-shen-yi-zai-kai-he-huang-shi-dian-fan-gai-zheng-an-asushen-yi.md",
+      "ts": 1783552018
+    },
+    "0e9ebb16d3d3c5a03e2ed27d7b80eed3004f0317b4b08fe71ee65b7060318a99": {
+      "link": "http://www3.nhk.or.jp/news/html/20260709/k10015172291000.html",
+      "title": "臓器移植法違反事件 病院で手術を口外しないよう誓約か",
+      "saved": "2026-07-09-zang-qi-yi-zhi-fa-wei-fan-shi-jian-bing-yuan-teshou-shu-wokou-wai-sinaiyoushi-yu.md",
+      "ts": 1783552018
+    },
+    "7e79b647ebf0ac47bb8ef63c36a2ca489d9dd674d84ec4be39ce73a5d03dfc8b": {
+      "link": "http://www3.nhk.or.jp/news/html/20260709/k10015172391000.html",
+      "title": "同居女性の唇縫い付け事件“トラブルで怒りだした”被害者説明",
+      "saved": "2026-07-09-tong-ju-nu-xing-nochun-feng-ifu-keshi-jian-torahurutenu-ritasita-bei-hai-zhe-shu.md",
+      "ts": 1783552018
+    },
+    "92b97417159fe997663abb598eab003b82792272c08efd0af746c21062c47555": {
+      "link": "https://www.itmedia.co.jp/business/articles/2607/09/news059.html",
+      "title": "新幹線に“完全個室”　JR東海が公開した最上級クラス、その中身は？",
+      "saved": "2026-07-09-xin-gan-xian-ni-wan-quan-ge-shi-jrdong-hai-kagong-kai-sitazui-shang-ji-kurasu-so.md",
+      "ts": 1783552018
+    },
+    "2a6fa8f09f160c8b86f573693bcb4bf02c2de89037de3f34c165282967e9be66": {
+      "link": "http://www3.nhk.or.jp/news/html/20260709/k10015172421000.html",
+      "title": "元東京地検特捜部の男性検事 捜査対象の女性と不適切関係か",
+      "saved": "2026-07-09-yuan-dong-jing-di-jian-te-sou-bu-nonan-xing-jian-shi-sou-cha-dui-xiang-nonu-xing.md",
+      "ts": 1783552018
+    },
+    "c0d76f10d67c4d8f02e193656e182e10862fc5f73244225b4319d6629d5c329f": {
+      "link": "http://www3.nhk.or.jp/news/html/20260709/k10015172401000.html",
+      "title": "バレーボール女子 ネーションズリーグ 日本はブラジルに敗れる",
+      "saved": "2026-07-09-harehorunu-zi-nesiyonsuriku-ri-ben-hahurasirunibai-reru.md",
+      "ts": 1783552018
+    },
+    "e27a9ec040b9c59090ec663d9a27d3f5d72f5ae12b0003efe23853eb857ef1da": {
+      "link": "http://www3.nhk.or.jp/news/html/20260709/k10015172331000.html",
+      "title": "【プロ野球結果】広島が2試合連続のサヨナラ勝ち",
+      "saved": "2026-07-09-huroye-qiu-jie-guo-guang-dao-ka2shi-he-lian-sok-nosayonarasheng-ti.md",
+      "ts": 1783552018
+    },
+    "d70cbef6ea79048c543a26b5320adff7a1351a18769e1d571dccdb07ac6eea01": {
+      "link": "http://www3.nhk.or.jp/news/html/20260708/k10015172211000.html",
+      "title": "【随時更新】Ｗ杯 決勝トーナメント日程・結果 動画 4強進出は",
+      "saved": "2026-07-08-sui-shi-geng-xin-wbei-jue-sheng-tonamentori-cheng-jie-guo-dong-hua-4qiang-jin-ch.md",
+      "ts": 1783552018
+    },
+    "a6a3e5a022b3fe77056d6d3a17663ff39af2914886ac2edb1c4402274535d668": {
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1pdTliQ0RQZ25SQjVLVUpHVHBkbzFSZ3E0aGJWT3g3ZHFudVpTNkNVLVRKUVhZX3JwNGFBY0hZdDBUNUtpT1h1ME5mc2Z4Ykg5MFBzZw?oc=5",
+      "title": "金庫の中身はホテルの関係書類や小切手などだった - CNN.co.jp",
+      "saved": "2026-07-08-jin-ku-nozhong-shen-hahoterunoguan-xi-shu-lei-yaxiao-qie-shou-natotatuta-cnn-co-.md",
+      "ts": 1783552018
+    },
+    "d153930a5e0ad5dd7057ddc57d1e24260367074c913975517aae0b4add74fb64": {
+      "link": "http://www3.nhk.or.jp/news/html/20260708/k10015172201000.html",
+      "title": "サッカー日本代表監督人選「23日が1つのタイミング」宮本会長",
+      "saved": "2026-07-08-satukari-ben-dai-biao-jian-du-ren-xuan-23ri-ka1tunotaiminku-gong-ben-hui-chang.md",
+      "ts": 1783552018
+    },
+    "85014168d45668a634cb62c95e67207bdc590974db0842be2a02e181e98d15bb": {
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Vd2k5eVBobXEweDd1MVhkZElNVVdrRVZGZzdiMWtUMEFUWXg1MU80RElNMDkzLUF0YnJUTW5mT0xkd3BxbUFXTC03RmEwaGRoRHN0ZQ?oc=5",
+      "title": "ネアンデルタール人と現生人類が文化を共有か、洞窟での発見が示唆 トルコ(1/2) - CNN.co.jp",
+      "saved": "2026-07-08-neanterutaruren-toxian-sheng-ren-lei-kawen-hua-wogong-you-ka-dong-ku-tenofa-jian.md",
+      "ts": 1783552018
+    },
+    "c9be155742e581b0ee3bb6a512760a24edcc87f440a6b48714d9de937cc64713": {
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1DVkxLQkY1TEdHVVpzNUhucVN6WnFrM3ZzT0k0a1M3UHFhVGNkcDd6QndyN2hIcHQxVXRfRTJCLTFXTG1abTlWdWZYWnJZdW1qYXRXZw?oc=5",
+      "title": "夜間のロシアによるミサイル攻撃を受けた食料品店で、がれきの間を歩く従業員たち=8日 /Valentyn Ogirenko/Reuters - CNN.co.jp",
+      "saved": "2026-07-08-ye-jian-norosianiyorumisairugong-ji-woshou-ketashi-liao-pin-dian-te-karekinojian.md",
+      "ts": 1783552018
+    },
+    "79cce369af3bc09bc4a1f91c5583164f813f4efe63baa4c740135d59dffcefad": {
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1TMUNoNlFDWURBdXFmaElKUkx5UEd0d015V3FhTllaOVhDS0hWbDR1MnYwY2Y1T2xEbFhLOWU2NzltNXFHcFpwa2s4amotSGU2MVJPag?oc=5",
+      "title": "デンマーク首都コペンハーゲンが最も住みやすい都市ランキングで2年連続首位に輝いた - CNN.co.jp",
+      "saved": "2026-07-08-tenmakushou-du-kohenhakenkazui-mozhu-miyasuidu-shi-rankinkute2nian-lian-sok-shou.md",
+      "ts": 1783552018
+    },
+    "f464fb457bbe08a11697d8f670cca1d1afb760ff11550a7a02a40b97cb970250": {
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1rY1Y0alFNaE9PbXpSbTFqTWNkdzJTRmVTZm9OMkpiZXVpdDlHZnFfLWVwY0x3UVdoNmczaWF6NUN1SllRMTJ3M2xHcmFxNVV0aTZLeg?oc=5",
+      "title": "今年のスーパーエルニーニョ、1950年以降で最強になる可能性 - CNN.co.jp",
+      "saved": "2026-07-08-jin-nian-nosuhaeruniniyo-1950nian-yi-jiang-tezui-qiang-ninaruke-neng-xing-cnn-co-2.md",
+      "ts": 1783552018
+    },
+    "2148e7153c6b1a0f7743dcfa8c2e0a38fa677b90c1416595a6806f4d626da1c5": {
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1JMkJTTXpodFd1WVBKV1BpbEN6VEhmSnpFNW84bm9oTWthdE40VjlnM29tYUllaWtLM2pKLTBWeFdSUVY0TmpncmZxNHRlYzhRbzBzcFVuNA?oc=5",
+      "title": "水質めぐりパリ五輪で物議を醸したセーヌ川、今や人気の遊泳スポットに(2/2) - CNN.co.jp",
+      "saved": "2026-07-05-shui-zhi-mekurihariwu-lun-tewu-yi-woniang-sitasenuchuan-jin-yaren-qi-noyou-yong--2.md",
+      "ts": 1783552018
     }
   }
 }
