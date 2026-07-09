@@ -1,107 +1,5 @@
 {
   "done": {
-    "609ca10eb6f4feff8a876d24dda6967743ecec774aebb7f64f6eaa5759e76670": {
-      "link": "https://www.itmedia.co.jp/news/articles/2606/09/news130.html",
-      "title": "企業の口座を狙うボイスフィッシングが巧妙化　日本サイバー犯罪対策センターが注意喚起",
-      "saved": "2026-06-09-qi-ye-nokou-zuo-woju-uhoisuhuitusinkukaqiao-miao-hua-ri-ben-saihafan-zui-dui-ce-.md",
-      "ts": 1781003706
-    },
-    "dc5e69d00a7a56b83f0fed14904b22e3de501d6ab2277aed93de82e390795383": {
-      "link": "http://www3.nhk.or.jp/news/html/20260609/k10015144781000.html",
-      "title": "米国防総省 中国軍と関わりある企業に百度・アリババなど追加",
-      "saved": "2026-06-09-mi-guo-fang-zong-sheng-zhong-guo-jun-toguan-wariaruqi-ye-nibai-du-arihahanatozhu.md",
-      "ts": 1781003706
-    },
-    "fb9155b734e8b705242cc82410c0ef8853a5279e84481d5cdaac1c4b5f62da3b": {
-      "link": "https://www.itmedia.co.jp/news/articles/2606/09/news129.html",
-      "title": "三菱UFJ、PPAP廃止計画「以前からあった」　今になって実施の経緯は",
-      "saved": "2026-06-09-san-ling-ufj-ppapfei-zhi-ji-hua-yi-qian-karaatuta-jin-ninatuteshi-shi-nojing-wei.md",
-      "ts": 1781003706
-    },
-    "0577db5a47e0f618afa5b93f43cfb1b20bd94ca993137b22f1723ca042d2676c": {
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8xRms4Mlc1aXBVTlBGeFpRSVpHcDYwZ2lWRGkzWnlyaHVhS0ZUM3hONHRzNm01ellXZ0xyZVBtRGJJWkQyb1ZzS3I0MHRITzNqOWdOSA?oc=5",
-      "title": "5300年前に死亡した「エッツィ」の再現画像/Augustin Ochsenreiter/South Tyrol Museum of Archaeology - CNN",
-      "saved": "2026-06-09-5300nian-qian-nisi-wang-sita-etutui-nozai-xian-hua-xiang-augustin-ochsenreiter-s.md",
-      "ts": 1781003706
-    },
-    "3edbdaae010b3612372368d01966686e999624508020f85e64859c59aed63621": {
-      "link": "https://www.itmedia.co.jp/business/articles/2606/09/news110.html",
-      "title": "「Siri AI」発表したApple幹部、競合AI企業を“暗に批判”　対Gemini巻き返しの戦略は",
-      "saved": "2026-06-09-siri-ai-fa-biao-sitaapplegan-bu-jing-he-aiqi-ye-wo-an-nipi-pan-dui-geminijuan-ki.md",
-      "ts": 1781003706
-    },
-    "92ff23e4bda0b687db81e58536315b8a5574a47c96bac4fe22e4389537a7e80a": {
-      "link": "http://www3.nhk.or.jp/news/html/20260609/k10015145231000.html",
-      "title": "中傷動画報道で高市首相秘書の参考人招致を要求 立民",
-      "saved": "2026-06-09-zhong-shang-dong-hua-bao-dao-tegao-shi-shou-xiang-mi-shu-nocan-kao-ren-zhao-zhi-.md",
-      "ts": 1781003706
-    },
-    "65eb10f80dfaff3e7e5855ece9527b9567a3ebd7330abf99b7f023054b940dc2": {
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1aSklLQ2M4YVZpY3o4Y0JSR1R5NVVCWjNqWFI3aUpZbHZZNmkzYmtHa0NnV0h2OFhtN2xBdFBoZTRwSDFGTC1WVzh0UWtpRi02WUZ3?oc=5",
-      "title": "冬眠明けのクマによる襲撃増加、目撃情報受け約100校が休校 宇都宮 - CNN",
-      "saved": "2026-06-09-dong-mian-ming-kenokumaniyoruxi-ji-zeng-jia-mu-ji-qing-bao-shou-keyue-100xiao-ka.md",
-      "ts": 1781003706
-    },
-    "a256b2d4a24e361b438dd7f3c2e58f9b52afe74b445520e5b5264dcdc441426f": {
-      "link": "http://www3.nhk.or.jp/news/html/20260609/k10015145181000.html",
-      "title": "JR東日本 来春に磁気付き切符を廃止しQRコードの切符に",
-      "saved": "2026-06-09-jrdong-ri-ben-lai-chun-nici-qi-fu-kiqie-fu-wofei-zhi-siqrkotonoqie-fu-ni.md",
-      "ts": 1781003706
-    },
-    "fb8731ae6a1d7045b3b7e208286e94c5c8bc8a84204cbdaf2c12a02c1c93c504": {
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtazEydjMxUkthVGtpN09PWWZCNzEzWjFEYUNYQUJyVl94LWpsV1NTLUZHaUwyYmhraGJhUFkwMXpTSzhNeG9iZWs4UFpLUWY5aXc?oc=5",
-      "title": "小型ながらも本格的な「パックマン」アーケードゲーム、郷愁誘う父の日ギフトにいいかも - CNN",
-      "saved": "2026-06-09-xiao-xing-nakaramoben-ge-de-na-hatukuman-aketokemu-xiang-chou-you-ufu-nori-kihut.md",
-      "ts": 1781003706
-    },
-    "368d074fb87ca92e19b59fc284f1381fbf461848df1d070eb71bbcb243a16250": {
-      "link": "http://www3.nhk.or.jp/news/html/20260609/k10015145031000.html",
-      "title": "中東情勢 エアコン取り付けや酪農用資材に影響 調達に懸念の声",
-      "saved": "2026-06-09-zhong-dong-qing-shi-eakonqu-rifu-keyaluo-nong-yong-zi-cai-niying-xiang-diao-da-n.md",
-      "ts": 1781003706
-    },
-    "95d2707db661f0daebf9e229a10e6b6a9eba9e300c2bda27aee8aaad3e41f820": {
-      "link": "https://www.itmedia.co.jp/news/articles/2606/09/news123.html",
-      "title": "JR東、「QR乗車券」のイメージ公開　27年春から磁気を一部廃止に",
-      "saved": "2026-06-09-jrdong-qrcheng-che-quan-noimesigong-kai-27nian-chun-karaci-qi-woyi-bu-fei-zhi-ni.md",
-      "ts": 1781003706
-    },
-    "f276679f5e37b5b8c28f2edf8804e9df6ea4604a31ed9f99f868e60317c5476d": {
-      "link": "https://www.itmedia.co.jp/news/articles/2606/09/news119.html",
-      "title": "KADOKAWA・かわんご氏、“物言う株主”の夏野CEO解任提案に反論　「大混乱に陥る」",
-      "saved": "2026-06-09-kadokawakawankoshi-wu-yan-uzhu-zhu-noxia-ye-ceojie-ren-ti-an-nifan-lun-da-hun-lu.md",
-      "ts": 1781003706
-    },
-    "3f64803fdbd9fcd378ac48371baec444406bc28405ae3f9d4db925d833799eb6": {
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yemRrOTFJWE81bDJmbHhITWhwQ252UnFIZUVJUFVjc29Td2I0Rl92RWhQbU1ZR3BFSjZXYjJHZGtWNng5Y2lkM244UkdVcWt5LUtV?oc=5",
-      "title": "ホルムズ海峡付近でアパッチヘリが墜落との報道、「パイロットは無事」とトランプ氏 - CNN",
-      "saved": "2026-06-09-horumusuhai-xia-fu-jin-teahatutiherikazhui-luo-tonobao-dao-hairotutohawu-shi-tot.md",
-      "ts": 1781003706
-    },
-    "384f8bff4272d5c5d270ae32f67ea4c7a5f689851d5216149460a7aef8de7e5d": {
-      "link": "https://www.itmedia.co.jp/news/articles/2606/09/news121.html",
-      "title": "日本語能力試験「合格保証」うたう不正ビジネス疑惑　中国系SNS、カンニング機器を紹介",
-      "saved": "2026-06-09-ri-ben-yu-neng-li-shi-yan-he-ge-bao-zheng-utaubu-zheng-hisinesuyi-huo-zhong-guo-.md",
-      "ts": 1781003706
-    },
-    "9c89542a684d0455a280cd0221138ee5efc041a69db12a2ecd7b1b4cad299538": {
-      "link": "https://www.itmedia.co.jp/news/articles/2606/09/news117.html",
-      "title": "Apple、「Private Cloud Compute」（PCC）でGoogle Cloud上のNVIDIA GPUを活用",
-      "saved": "2026-06-09-apple-private-cloud-compute-pcc-tegoogle-cloudshang-nonvidia-gpuwohuo-yong.md",
-      "ts": 1781003706
-    },
-    "bc3a319b17aa49b39213ef8388f2952dbf75082b8127d5edf56766812e077cea": {
-      "link": "https://www.itmedia.co.jp/news/articles/2606/09/news116.html",
-      "title": "任天堂、フランス当局から約65億円の制裁金　初代SwitchのJoy-Conドリフト問題で",
-      "saved": "2026-06-09-ren-tian-tang-huransudang-ju-karayue-65yi-yuan-nozhi-cai-jin-chu-dai-switchnojoy.md",
-      "ts": 1781003706
-    },
-    "9c1aea6856701a5c50a4997811847e6ca164979e2d410bff7550ec40d6fc8ce0": {
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBnQUVXZTFMZHNOckhyUmYzeExRQ3pwV0FjaDVTUThtMURDNEJybVpFeVlIZzJJV1l0ZmtVZHN0TjdZZXZtajhCMHIyOHp4WFlVUTFoeQ?oc=5",
-      "title": "フィリピン南部ミンダナオ島沖で8日、マグニチュード（M）7.8の地震が発生した - CNN",
-      "saved": "2026-06-08-huirihinnan-bu-mintanaodao-chong-te8ri-makunitiyuto-m-7-8nodi-zhen-kafa-sheng-si.md",
-      "ts": 1781003706
-    },
     "06809ce885f24a41a4214aed6803498ff7ae1cf20e4cd1420d21d86f081fb4cb": {
       "link": "http://www3.nhk.or.jp/news/html/20260610/k10015145711000.html",
       "title": "サッカーW杯 日本が初戦で対戦 オランダがキャンプ地に入る",
@@ -15365,6 +15263,144 @@
       "title": "中国にあるヘビの養殖場から800匹を超えるヘビが逃げ出した/REUTERS - CNN.co.jp",
       "saved": "2026-07-09-zhong-guo-niaruhehinoyang-zhi-chang-kara800pi-wochao-eruhehikatao-kechu-sita-reu.md",
       "ts": 1783594750
+    },
+    "48d992e70f88a759210c85201b0f250753e9980a5c6177178bf13988697ee893": {
+      "link": "http://www3.nhk.or.jp/news/html/20260710/k10015173311000.html",
+      "title": "W杯 フランスがモロッコ破り準決勝進出 エムバペは8得点目",
+      "saved": "2026-07-10-wbei-huransukamorotukopo-rizhun-jue-sheng-jin-chu-emuhaheha8de-dian-mu.md",
+      "ts": 1783638674
+    },
+    "17c228233b318c32bcfdc85e67c361a49570d734677c91756bbe31ed87bf97f7": {
+      "link": "https://www.itmedia.co.jp/news/articles/2607/09/news090.html",
+      "title": "寝る前の「ベッドでスマホ」は睡眠時間を延ばす？　Apple Watchが示した意外な結果　欧州チームが研究発表",
+      "saved": "2026-07-10-qin-ruqian-no-hetutotesumaho-hashui-mian-shi-jian-woyan-hasu-apple-watchkashi-si.md",
+      "ts": 1783638674
+    },
+    "96db6d8fc9e8f0d05cde356dfb08629078be0cc37c2fecba1987805335b84bbd": {
+      "link": "https://www.itmedia.co.jp/news/articles/2607/10/news032.html",
+      "title": "「虚数」は量子力学に必須ではなかった？　「実数」だけで矛盾なく記述できる──ドイツの研究チームが物理学誌で発表",
+      "saved": "2026-07-10-xu-shu-haliang-zi-li-xue-nibi-xu-tehanakatuta-shi-shu-taketemao-dun-nakuji-shu-t.md",
+      "ts": 1783638674
+    },
+    "8f0ed35ce0d2a44a1a082a9ea43ceaf3cbb376b635e808ed55c2bbd3465e90ea": {
+      "link": "https://www.itmedia.co.jp/business/articles/2607/10/news055.html",
+      "title": "システム刷新でトラブル続きのANA　対応を丸投げされた現場を「見ていない」経営層の罪",
+      "saved": "2026-07-10-sisutemushua-xin-tetorahurusok-kinoana-dui-ying-wowan-tou-kesaretaxian-chang-wo-.md",
+      "ts": 1783638674
+    },
+    "c163121bdde9dcacdeb2159b15031b94ad784ff9bb0afa43b10e826b4acbdb61": {
+      "link": "https://www.itmedia.co.jp/business/articles/2607/10/news025.html",
+      "title": "「渡り鳥の研究者」がアマゾンのマーケトップに　行動学とAIで挑む「プライムデーの勝算」",
+      "saved": "2026-07-10-du-riniao-noyan-jiu-zhe-kaamasonnomaketotuhuni-xing-dong-xue-toaitetiao-mu-hurai.md",
+      "ts": 1783638674
+    },
+    "6b3a8b1828a4fa283dac352e1251e1dfe1134ac575d02eb798c484d423a24382": {
+      "link": "https://www.itmedia.co.jp/business/articles/2607/10/news046.html",
+      "title": "AIに企業理念を宿せるか？　スポーツ小売り・ヒマラヤ、接客ノウハウまで学習した「AI副店長」開発の舞台裏",
+      "saved": "2026-07-10-ainiqi-ye-li-nian-wosu-seruka-suhotuxiao-mai-rihimaraya-jie-ke-nouhaumatexue-xi-.md",
+      "ts": 1783638674
+    },
+    "9b5dcbf37651d496e35cde363372314e48b1d98dd0ca253f71532551b4b48198": {
+      "link": "https://www.itmedia.co.jp/business/articles/2607/10/news022.html",
+      "title": "「誰にも会わずに帰る店」の寂しさ　すかいらーくがロボット配膳の先に挑むAI接客",
+      "saved": "2026-07-10-shui-nimohui-wasunigui-rudian-noji-sisa-sukairakukarohotutopei-shan-noxian-nitia.md",
+      "ts": 1783638674
+    },
+    "5d910ec34e60ce7534474bcba376c7aab22d07f8aee62e714db9966f4e6753ed": {
+      "link": "http://www3.nhk.or.jp/news/html/20260710/k10015173061000.html",
+      "title": "台風9号 沖縄 先島諸島へ 暴風高波など厳重警戒 空の便欠航も",
+      "saved": "2026-07-10-tai-feng-9hao-chong-nawa-xian-dao-zhu-dao-he-bao-feng-gao-bo-natoyan-zhong-jing-.md",
+      "ts": 1783638674
+    },
+    "8fb61c685c1f6cb28b003013c1091008b626518ba424003c4eaf43a4a9bdd95c": {
+      "link": "http://www3.nhk.or.jp/news/html/20260710/k10015167661000.html",
+      "title": "米イラン攻撃応酬 ハメネイ師葬儀後の協議再開予断許さず",
+      "saved": "2026-07-10-mi-irangong-ji-ying-chou-hameneishi-zang-yi-hou-noxie-yi-zai-kai-yu-duan-xu-sasu.md",
+      "ts": 1783638674
+    },
+    "42461138627d3ae5402172178eca560acafe33187842705e3791dd9c21a92d36": {
+      "link": "http://www3.nhk.or.jp/news/html/20260710/k10015173071000.html",
+      "title": "大阪地検特捜部の特別公務員暴行陵虐事件 10日初公判",
+      "saved": "2026-07-10-da-ban-di-jian-te-sou-bu-note-bie-gong-wu-yuan-bao-xing-ling-nue-shi-jian-10ri-c.md",
+      "ts": 1783638674
+    },
+    "60aab2331a3805c6644b620e25d33829f174fbed2299cb56ed6e95031a404c4c": {
+      "link": "http://www3.nhk.or.jp/news/html/20260710/k10015173261000.html",
+      "title": "FIFA 決勝トーナメント エジプトのゴール取り消しを説明",
+      "saved": "2026-07-10-fifa-jue-sheng-tonamento-esihutonokoruqu-rixiao-siwoshuo-ming.md",
+      "ts": 1783638674
+    },
+    "12dd7d433b202f3451181812e351d66c42a636de08a1454c2f6fb15bd4c9b5f6": {
+      "link": "https://www.itmedia.co.jp/business/articles/2607/10/news020.html",
+      "title": "なぜすき家が「シェイク」を売るのか　牛丼・ピザチェーンで導入が広がる背景",
+      "saved": "2026-07-10-nasesukijia-ka-sieiku-womai-runoka-niu-jing-hisatientedao-ru-kaguang-karubei-jin.md",
+      "ts": 1783638674
+    },
+    "83db28357f6865bf5c53cbddcdac90fe68923cf1aa60b450a9c73b3c873e96f4": {
+      "link": "https://www.itmedia.co.jp/business/articles/2607/10/news024.html",
+      "title": "なぜライバルの「KDDI」と「ドコモ」は手を組むのか　5G「ミリ波」を広げる“割り勘作戦”とは",
+      "saved": "2026-07-10-naseraiharuno-kddi-to-tokomo-hashou-wozu-munoka-5g-miribo-woguang-keru-ge-rikan-.md",
+      "ts": 1783638674
+    },
+    "6d7db329ab40aaf61b3b47d544a39d792cfa096a6c98b0503031752ba32b4423": {
+      "link": "http://www3.nhk.or.jp/news/html/20260710/k10015173031000.html",
+      "title": "皇室典範改正案 10日衆議院通過へ 中道は質疑を見極め判断",
+      "saved": "2026-07-10-huang-shi-dian-fan-gai-zheng-an-10ri-zhong-yi-yuan-tong-guo-he-zhong-dao-hazhi-y.md",
+      "ts": 1783638674
+    },
+    "86fcf4ec79db639a4f0537a835ecad470b1885bce3898d9238297f1f3e8cb4c3": {
+      "link": "http://www3.nhk.or.jp/news/html/20260710/k10015173051000.html",
+      "title": "突然攻撃され相手を嫌いに 脳の働きマウス実験で解明 東大",
+      "saved": "2026-07-10-tu-ran-gong-ji-sarexiang-shou-woxian-ini-noy-nodong-kimausushi-yan-tejie-ming-do.md",
+      "ts": 1783638674
+    },
+    "9e1f9f17dbdb72f1b61dd1a2ebec67a66a85129c48e85b583602cf9ad8a75ce6": {
+      "link": "https://www.itmedia.co.jp/business/articles/2607/10/news010.html",
+      "title": "嫌がる飲食店に、AIが何度も予約の電話を……　「オートリザーブ問題」はなぜ起きてしまったのか",
+      "saved": "2026-07-10-xian-karuyin-shi-dian-ni-aikahe-du-moyu-yue-nodian-hua-wo-otorisahuwen-ti-hanase.md",
+      "ts": 1783638674
+    },
+    "c04f2e382a791185824bbb6a0174aa25c57fb2288d42a802d71c9657070d95f3": {
+      "link": "http://www3.nhk.or.jp/news/html/20260709/k10015173141000.html",
+      "title": "【プロ野球結果】ヤクルト勝利 継投でノーヒットノーラン達成",
+      "saved": "2026-07-09-huroye-qiu-jie-guo-yakurutosheng-li-ji-tou-tenohitutonoranda-cheng.md",
+      "ts": 1783638674
+    },
+    "14d4268bccbb311ca0ee29c08d89e441b04ca4f84fd8fd985effb7569af15ff8": {
+      "link": "http://www3.nhk.or.jp/news/html/20260709/k10015173171000.html",
+      "title": "ベネズエラ地震受け オリックス マチャド投手ら支援を呼びかけ",
+      "saved": "2026-07-09-henesueradi-zhen-shou-ke-oritukusu-matiyatotou-shou-razhi-yuan-wohu-hikake.md",
+      "ts": 1783638674
+    },
+    "e33bf44ba9ed92ff4ae2edab47a1dc6c00c36bebc8702431ed0306e8ba866235": {
+      "link": "http://www3.nhk.or.jp/news/html/20260709/k10015173161000.html",
+      "title": "大阪 寝屋川 流通促す「空き家税」導入へ 市内全域では全国初",
+      "saved": "2026-07-09-da-ban-qin-wu-chuan-liu-tong-cu-su-kong-kijia-shui-dao-ru-he-shi-nei-quan-yu-teh.md",
+      "ts": 1783638674
+    },
+    "44ee16516b4fac607afc8bc2e1126c32eae0c2399b23d30a1379a96428cdc87d": {
+      "link": "http://www3.nhk.or.jp/news/html/20260709/k10015173151000.html",
+      "title": "サッカー日本代表 森保監督の続投検討 短期間の契約を軸に調整",
+      "saved": "2026-07-09-satukari-ben-dai-biao-sen-bao-jian-du-nosok-tou-jian-tao-duan-qi-jian-noqi-yue-w.md",
+      "ts": 1783638674
+    },
+    "64af92ed4455dbb47ac8f34ed2c5e5dfce5c9b8a9029232daca72a08012cb656": {
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5obl9DRGFyOTJ6cUQ2VHN2V1I3Q2NBQUxYWFpwNHI5MzVMNDlfRXo4bTdDUFBZTC05NW42dV96RG15ZEwtdHFUU3Njd3NoSENO?oc=5",
+      "title": "【分析】トランプ氏はいかにイランへの判断ミスを重ねてきたか - CNN.co.jp",
+      "saved": "2026-07-09-fen-xi-toranhushi-haikaniiranhenopan-duan-misuwozhong-netekitaka-cnn-co-jp.md",
+      "ts": 1783638674
+    },
+    "a9383ea2bc137942a88fa5f5693f8b6ae37dd9b80f83ba8c26e22f21c2f5174f": {
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9MN1hMMVF2M1J6S2d5NjNXTWdHT3BxY1BWcGJva1RHUjYxNUozUUx4TVhSUU9NTEp2cFRyZFZ1SWlrdDNwV29WNU5HY0paRFV0dE1xV1FPcw?oc=5",
+      "title": "古代の騎馬民族「スキタイ人」、支配層は世襲だった DNA解析で判明(3/3) - CNN.co.jp",
+      "saved": "2026-07-09-gu-dai-noqi-ma-min-zu-sukitairen-zhi-pei-ceng-hashi-xi-tatuta-dnajie-xi-tepan-mi-2.md",
+      "ts": 1783638674
+    },
+    "c4a0cb5b1cf61d1dd6b6b23bed2b7fa5a381e3f751c8f8d9158061d96194be76": {
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9YMlV4emI2WW0tODNPVHZMT3ZOVVBPMmpnVVVab244RE5scW9rWTJqQ09qdjBrQkFSWENqWVpNNmxzM2tvVGVYak1nOGZIeDNvTDFTS3NJSV84dElkT1BlZUZRTGQ?oc=5",
+      "title": "極細の超高層マンションに「数千カ所のひび割れ」、管理組合が提訴 ＮＹ - CNN.co.jp",
+      "saved": "2025-05-16-ji-xi-nochao-gao-ceng-mansiyonni-shu-qian-kasuo-nohihige-re-guan-li-zu-he-kati-s.md",
+      "ts": 1783638674
     }
   }
 }
