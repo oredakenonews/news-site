@@ -1,95 +1,5 @@
 {
   "done": {
-    "15722e0957396b6c63bbfb0f932069b85b5063d5eae3ab0a0140be182fc1c876": {
-      "link": "http://www3.nhk.or.jp/news/html/20260609/k10015145171000.html",
-      "title": "“ナフサ由来製品 足りていると発信続けること大事” 経産相",
-      "saved": "2026-06-09-nahusayou-lai-zhi-pin-zu-riteirutofa-xin-sok-kerukotoda-shi-jing-chan-xiang.md",
-      "ts": 1780991365
-    },
-    "ef4b71d59ef3b31af730ec463a8628843d056bd4f5482d03dd02e723e85a6aca": {
-      "link": "http://www3.nhk.or.jp/news/html/20260609/k10015145141000.html",
-      "title": "日銀 利上げを最終判断へ 来週の金融政策決定会合で",
-      "saved": "2026-06-09-ri-yin-li-shang-kewozui-zhong-pan-duan-he-lai-zhou-nojin-rong-zheng-ce-jue-ding-.md",
-      "ts": 1780991365
-    },
-    "df18d8d3e04cea702002ad64ca90c4fe44abf287b26e45663aee95661c1f2c36": {
-      "link": "https://www.bbc.com/japanese/articles/cy4e3epyx4no?at_medium=RSS&at_campaign=rss",
-      "title": "トランプ氏、ネタニヤフ氏は「自分の意向に逆らっていない」　BBC編集長との電話で語る",
-      "saved": "2026-06-09-toranhushi-netaniyahushi-ha-zi-fen-noyi-xiang-nini-ratuteinai-bbcbian-ji-chang-t.md",
-      "ts": 1780991365
-    },
-    "2724eb97e310933114504d44dd691c2201db136895ff55bc7d654f99b7c4bd52": {
-      "link": "https://www.bbc.com/japanese/articles/cy9r4r70pd9o?at_medium=RSS&at_campaign=rss",
-      "title": "米アップル、SiriのAI機能刷新を発表　クックCEOの退任を前に",
-      "saved": "2026-06-09-mi-atuhuru-sirinoaiji-neng-shua-xin-wofa-biao-kutukuceonotui-ren-woqian-ni.md",
-      "ts": 1780991365
-    },
-    "895c8e2b9c0c7cabf1b6702a71d260b90a3092c2d7281d0f9a40c4a34345fe0d": {
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8tX09sMlYtUm1kaGVJdzJmbGphVXhzR2RHQVBGM3FlV292TTJxMlFMV1dwZk8zUW4teGc4Y2lIYUlvbmRNS3RvR3cxV3NreENW?oc=5",
-      "title": "トランプ氏がイランとの合意は近いと主張した回数、「37回」 - CNN",
-      "saved": "2026-06-09-toranhushi-kairantonohe-yi-hajin-itozhu-zhang-sitahui-shu-37hui-cnn.md",
-      "ts": 1780991365
-    },
-    "91af8ed8e9e08550a9769db0817207643f54049097a7f4b1db7f1a8eea444726": {
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XeW9VbnZrSzNnWTNjbGU4ZWNRZWh4Yk4zNnA5QVBDbG1uQVJCZzM3VHZWVFhQS3ZKV0NJTFNFa2hhWmpadmdjYzZOTC0ydVBTNngzeQ?oc=5",
-      "title": "5300年前の「アイスマン」、ミイラ化した体から今も生き続ける微生物を検出(1/2) - CNN",
-      "saved": "2026-06-09-5300nian-qian-no-aisuman-miirahua-sitati-karajin-mosheng-kisok-keruwei-sheng-wu-.md",
-      "ts": 1780991365
-    },
-    "c93589a0f3f609fc3119cc43496e89f6ee3b34cc952b74b5fe08c7a416a1b14c": {
-      "link": "http://www3.nhk.or.jp/news/html/20260609/k10015145041000.html",
-      "title": "森衆院議長 皇位継承権発言 “現在の皇室典範の解釈述べた”",
-      "saved": "2026-06-09-sen-zhong-yuan-yi-chang-huang-wei-ji-cheng-quan-fa-yan-xian-zai-nohuang-shi-dian.md",
-      "ts": 1780991365
-    },
-    "24de15ff1c0de8cc9bf50818b8bbf2eb6da7361072fe0af83163f95be8b36f06": {
-      "link": "http://www3.nhk.or.jp/news/html/20260609/k10015145091000.html",
-      "title": "天候悪化で延期のH3ロケット 6月12日打ち上げへ",
-      "saved": "2026-06-09-tian-hou-e-hua-teyan-qi-noh3roketuto-6yue-12ri-da-tishang-kehe.md",
-      "ts": 1780991365
-    },
-    "1b751591cc6ff299f67f8f736f56526f2f355f2f6b657cd37b1e4436df6808aa": {
-      "link": "http://www3.nhk.or.jp/news/html/20260609/k10015145061000.html",
-      "title": "ブルージェイズ 岡本和真 7試合ぶり無安打 守備では好プレー",
-      "saved": "2026-06-09-hurusieisu-gang-ben-he-zhen-7shi-he-huriwu-an-da-shou-bei-tehahao-hure.md",
-      "ts": 1780991365
-    },
-    "a4e8f0fe0092a21446375705c186c8cd80b735969a609e03c1987a9e3ba08250": {
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83aVFYYTRrSWdRRXdJRzdTSVJYRkpvM2pFTEdLODdtbTFzWHZoN2hBZTQ5VlltSVFfODBSMEdrUm1nSnR2NlRRaUg1SmhQeE0wZXZwRzVn?oc=5",
-      "title": "W杯のソマリア人審判、米国への入国拒否される 「審査上の懸念」理由に - CNN",
-      "saved": "2026-06-09-wbei-nosomariaren-shen-pan-mi-guo-henoru-guo-ju-fou-sareru-shen-cha-shang-noxuan.md",
-      "ts": 1780991365
-    },
-    "64b9beeee520edef7e5cfb811b8aeaba32cf12d464a02e879d5be389ba6744be": {
-      "link": "https://www.bbc.com/japanese/articles/c1jyd2l361do?at_medium=RSS&at_campaign=rss",
-      "title": "トランプ氏はイラン戦争を制御できなくなりつつあるのか",
-      "saved": "2026-06-09-toranhushi-hairanzhan-zheng-wozhi-yu-tekinakunaritutuarunoka.md",
-      "ts": 1780991365
-    },
-    "e67ad03daca6e60b74f52ecaa0b9451d479ffe3a2d62875876d4207436ea08a7": {
-      "link": "http://www3.nhk.or.jp/news/html/20260609/k10015145011000.html",
-      "title": "アメリカ税関・国境警備局 Ｗ杯のソマリア出身審判の入国拒否",
-      "saved": "2026-06-09-amerikashui-guan-guo-jing-jing-bei-ju-wbei-nosomariachu-shen-shen-pan-noru-guo-j.md",
-      "ts": 1780991365
-    },
-    "53b678e134bbce20faf4fe325f026dfbd6c625dc9d758d1041ac6c0ce6f3d296": {
-      "link": "https://www.bbc.com/japanese/articles/cvgldzl10m4o?at_medium=RSS&at_campaign=rss",
-      "title": "習氏が7年ぶりに北朝鮮を訪問、その背景をBBC特派員が説明",
-      "saved": "2026-06-09-xi-shi-ka7nian-hurinibei-zhao-xian-wofang-wen-sonobei-jing-wobbcte-pai-yuan-kash.md",
-      "ts": 1780991365
-    },
-    "6167aeb8f0a6e5c7f07c147cfc47a51fe0cebaa207e0cb501097fcc31a0146c3": {
-      "link": "https://www.bbc.com/japanese/articles/cql1vp94xwlo?at_medium=RSS&at_campaign=rss",
-      "title": "【2026年サッカー男子W杯】 大会初のソマリア人審判、アメリカ入国を拒否される",
-      "saved": "2026-06-09-2026nian-satukanan-zi-wbei-da-hui-chu-nosomariaren-shen-pan-amerikaru-guo-woju-f.md",
-      "ts": 1780991365
-    },
-    "7a299bb5ff906838596963a0914e63a175db2aa3ead98be7f6fdf71bdb9fe275": {
-      "link": "https://www.itmedia.co.jp/news/articles/2606/09/news087.html",
-      "title": "RTX 5090のはずがRTX 3070？　GPU偽装PCを持ち込まれたショップが語る事件の詳細　「ネット売買もリスク高い」",
-      "saved": "2026-06-09-rtx-5090nohasukartx-3070-gpuwei-zhuang-pcwochi-tiip-maretasiyotuhukayu-rushi-jia.md",
-      "ts": 1780991365
-    },
     "609ca10eb6f4feff8a876d24dda6967743ecec774aebb7f64f6eaa5759e76670": {
       "link": "https://www.itmedia.co.jp/news/articles/2606/09/news130.html",
       "title": "企業の口座を狙うボイスフィッシングが巧妙化　日本サイバー犯罪対策センターが注意喚起",
@@ -15341,6 +15251,120 @@
       "title": "飛行中の小型機から飛び降りた教官のレアンドロ・アンドレス・ベルタッツォさん/From Leandro Bertazzo - CNN.co.jp",
       "saved": "2026-07-09-fei-xing-zhong-noxiao-xing-ji-karafei-hijiang-ritajiao-guan-noreantoroantoresuhe.md",
       "ts": 1783582568
+    },
+    "5d51a0e83295f5f1702e584cf65a77fbde3859d0ded31d54eb406b093df33cc9": {
+      "link": "http://www3.nhk.or.jp/news/html/20260709/k10015172661000.html",
+      "title": "「全東信」破産手続き 飲食店や地方銀行などに影響広がる",
+      "saved": "2026-07-09-quan-dong-xin-po-chan-shou-sok-ki-yin-shi-dian-yadi-fang-yin-xing-natoniying-xia.md",
+      "ts": 1783594750
+    },
+    "0692bfa15a1b01f71895459c4a885bb9683b9a906aa8cb138af512efb8075cfd": {
+      "link": "https://www.itmedia.co.jp/news/articles/2607/09/news167.html",
+      "title": "ヒト型ロボットがアキバの地下リングで殴り合い　米国発メカ格闘技「REK」日本上陸",
+      "saved": "2026-07-09-hitoxing-rohotutokaakihanodi-xia-rinkuteou-rihe-i-mi-guo-fa-mekage-dou-ji-rek-ri.md",
+      "ts": 1783594750
+    },
+    "b7058fff9e0beaf751b94a2e2ade6c9701cecaf38380505547d883543f914428": {
+      "link": "http://www3.nhk.or.jp/news/html/20260709/k10015172861000.html",
+      "title": "滋賀 男子高校生2人川に流される 男性2人川の中で見つかり搬送",
+      "saved": "2026-07-09-zi-he-nan-zi-gao-xiao-sheng-2ren-chuan-niliu-sareru-nan-xing-2ren-chuan-nozhong-.md",
+      "ts": 1783594750
+    },
+    "1fda3148ccdc41e55412809b36798a4cec6e9a9b2d4bbdab3985e323bef31884": {
+      "link": "http://www3.nhk.or.jp/news/html/20260709/k10015172281000.html",
+      "title": "「快活CLUB」運営会社にサイバー攻撃の疑い 元男子生徒を逮捕",
+      "saved": "2026-07-09-kuai-huo-club-yun-ying-hui-she-nisaihagong-ji-noyi-i-yuan-nan-zi-sheng-tu-wodai-.md",
+      "ts": 1783594750
+    },
+    "1852e9e625f082b9a8c7b1855ad5acbc6a83f33f0734dbb05e16815b652525f2": {
+      "link": "http://www3.nhk.or.jp/news/html/20260709/k10015172951000.html",
+      "title": "スポーツ基本計画の中間報告案 働き盛り世代などの運動促進を",
+      "saved": "2026-07-09-suhotuji-ben-ji-hua-nozhong-jian-bao-gao-an-dong-kisheng-rishi-dai-natonoyun-don.md",
+      "ts": 1783594750
+    },
+    "54e68ebbb0fdd865e852e39e4ce9fadd169288687c961605a7eafe391dda3de6": {
+      "link": "http://www3.nhk.or.jp/news/html/20260709/k10015172981000.html",
+      "title": "れいわ 山本代表 党代表を辞任する意向表明",
+      "saved": "2026-07-09-reiwa-shan-ben-dai-biao-dang-dai-biao-woci-ren-suruyi-xiang-biao-ming.md",
+      "ts": 1783594750
+    },
+    "fa6505c11170356f405bfeef41c782efaf8e30cfcc85e76cc4773fb95b604a1b": {
+      "link": "http://www3.nhk.or.jp/news/html/20260709/k10015172841000.html",
+      "title": "NTTドコモが銀行業に参入 店舗とデジタルサービス強化【QAも】",
+      "saved": "2026-07-09-ntttokomokayin-xing-ye-nican-ru-dian-pu-totesitarusahisuqiang-hua-qamo.md",
+      "ts": 1783594750
+    },
+    "b4546a75ffd820e729211821923906203f3c36833acc131a7c7f9fb1f3ba2532": {
+      "link": "https://www.itmedia.co.jp/news/articles/2607/09/news138.html",
+      "title": "NVIDIAが「セガとの歴史を祝うイベント」開催へ　“革ジャン”フアンCEOも来日",
+      "saved": "2026-07-09-nvidiaka-sekatonoli-shi-wozhu-uihento-kai-cui-he-ge-siyan-huanceomolai-ri.md",
+      "ts": 1783594750
+    },
+    "cb87d1129980002c436e17ae55cac07de466ef37286ffa7a1157de915c849d4f": {
+      "link": "http://www3.nhk.or.jp/news/html/20260709/k10015172881000.html",
+      "title": "プロ野球 球宴 選手間投票 阪神 高橋ら9人が新たに選出",
+      "saved": "2026-07-09-huroye-qiu-qiu-yan-xuan-shou-jian-tou-piao-ban-shen-gao-qiao-ra9ren-kaxin-tanixu.md",
+      "ts": 1783594750
+    },
+    "180cd22986ee48d0777047ae96bed8d6b9aefec59c0a63849e92ab1a8c583634": {
+      "link": "https://www.itmedia.co.jp/news/articles/2607/09/news132.html",
+      "title": "「ドコモの銀行」誕生へ　住信SBIネット銀行の社名変更で　法人向けは「NEOBANK」維持",
+      "saved": "2026-07-09-tokomonoyin-xing-dan-sheng-he-zhu-xin-sbinetutoyin-xing-noshe-ming-bian-geng-te-.md",
+      "ts": 1783594750
+    },
+    "660da0610178a50e8588494832fa628dc9b8a4923ba5ea6ff6493306fbda58c5": {
+      "link": "https://www.itmedia.co.jp/news/articles/2607/09/news130.html",
+      "title": "未来のバスは「スマホを出さずに」乗るだけ？　JCBらが「ハンズフリー決済」2028年度実用化へ",
+      "saved": "2026-07-09-wei-lai-nohasuha-sumahowochu-sasuni-cheng-rutake-jcbraka-hansuhurijue-ji-2028nia.md",
+      "ts": 1783594750
+    },
+    "1b099e7ad638933661e48f42509490dfdb74491f5a283e692cec80cbf54415b9": {
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB0dzl5YVJ6UVI5SXBzNG84T2RGWWg3UmJJVWx6eEpvQnBQdWFVNV9saGY3ZTEzYU5oQjF1ZzdmWWVmX1AtTmgwbjRURm1DYm1sdGFWaDFBVQ?oc=5",
+      "title": "【分析】イラン和平協議で「終わった」発言、トランプ氏が興じる経済の火遊び - CNN.co.jp",
+      "saved": "2026-07-09-fen-xi-iranhe-ping-xie-yi-te-zhong-watuta-fa-yan-toranhushi-kaxing-sirujing-ji-n.md",
+      "ts": 1783594750
+    },
+    "b84ab8c476f7a9c1f4657177c3da9d11efbf2d464b4666c7e81e4079f4f6c172": {
+      "link": "https://www.itmedia.co.jp/news/articles/2607/09/news125.html",
+      "title": "東京メトロ、クレカタッチ決済でキャッシュバック・ポイント還元　夏休みで“クレカ乗車”普及狙う",
+      "saved": "2026-07-09-dong-jing-metoro-kurekatatutijue-ji-tekiyatusiyuhatukuhointohuan-yuan-xia-xiu-mi.md",
+      "ts": 1783594750
+    },
+    "506891f83096f0a27ca356cb4ca0cf69f9f4c108f02db1b18fa27190a26c88a9": {
+      "link": "https://www.bbc.com/japanese/articles/c5yzm80041mo?at_medium=RSS&at_campaign=rss",
+      "title": "患者15人を殺害した医師に終身刑、余罪あるとみて当局は捜査継続　ドイツ",
+      "saved": "2026-07-09-huan-zhe-15ren-wosha-hai-sitayi-shi-nizhong-shen-xing-yu-zui-arutomitedang-ju-ha.md",
+      "ts": 1783594750
+    },
+    "147a7c293e8ef477a9e2b21f8f42e57df8b0fbe6e63d12af9fa41555b1f38045": {
+      "link": "https://www.bbc.com/japanese/articles/cvgdyn1y9nwo?at_medium=RSS&at_campaign=rss",
+      "title": "溺死と宣告された幼児、病院の安置室で生きているのが発見される　米アリゾナ",
+      "saved": "2026-07-09-ni-si-toxuan-gao-saretayou-er-bing-yuan-noan-zhi-shi-tesheng-kiteirunokafa-jian-.md",
+      "ts": 1783594750
+    },
+    "ce48ccb25d013b2963d0b6945c5fa337e2d5ce744346f6b360019b1639a7b8de": {
+      "link": "https://www.itmedia.co.jp/news/articles/2607/09/news116.html",
+      "title": "「懐かしい」　京急・上大岡駅の“デジタルパタパタ”話題　導入理由を聞いた　細やかなアップデートも",
+      "saved": "2026-07-09-huai-kasii-jing-ji-shang-da-gang-yi-no-tesitaruhatahata-hua-ti-dao-ru-li-you-wow.md",
+      "ts": 1783594750
+    },
+    "34a04fe6aff6cdb7b2156a04519de7d33314acc838e0cf4492c58ec1e84a8649": {
+      "link": "https://www.itmedia.co.jp/news/articles/2607/09/news123.html",
+      "title": "三菱自動車、国産ヒューマノイド量産へ　東大発スタートアップと合意　27年後半に月産1000台目指す",
+      "saved": "2026-07-09-san-ling-zi-dong-che-guo-chan-hiyumanoitoliang-chan-he-dong-da-fa-sutatoatuhutoh.md",
+      "ts": 1783594750
+    },
+    "e3d8340f05352004a1c6a5d3b2faab1e9822113f7e6853fea25ddeecbfcbfd35": {
+      "link": "https://www.itmedia.co.jp/news/articles/2607/09/news120.html",
+      "title": "サイバー攻撃被害のアサヒ、販促と新商品で反転攻勢へ　26年12月期は創業来初の売上収益3兆円突破狙う",
+      "saved": "2026-07-09-saihagong-ji-bei-hai-noasahi-fan-cu-toxin-shang-pin-tefan-zhuan-gong-shi-he-26ni.md",
+      "ts": 1783594750
+    },
+    "01cbaef1bb851b5af68cddd1232fee8c868434d72410c7e22bf7cdbbbf4b4ed8": {
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE96VER6MHNsZlR3NXd0V2JoVEMyTHpfTFJOelhBRFdaT1h5VmpLZUh1d3drdWtpTURYN1JXZ3RwQ1lQT1M1Y0s0cVZJUUxHa1VRQXY4Mg?oc=5",
+      "title": "中国にあるヘビの養殖場から800匹を超えるヘビが逃げ出した/REUTERS - CNN.co.jp",
+      "saved": "2026-07-09-zhong-guo-niaruhehinoyang-zhi-chang-kara800pi-wochao-eruhehikatao-kechu-sita-reu.md",
+      "ts": 1783594750
     }
   }
 }
