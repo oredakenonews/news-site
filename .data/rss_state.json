@@ -1,125 +1,5 @@
 {
   "done": {
-    "6ee2bed9f4249a66bdf1a9bcaf55ecf9dcf817b320cc9c075dd3f7a3906fd788": {
-      "link": "http://www3.nhk.or.jp/news/html/20260610/k10015146291000.html",
-      "title": "河野洋平 元衆議院議長が死去 89歳",
-      "saved": "2026-06-10-he-ye-yang-ping-yuan-zhong-yi-yuan-yi-chang-kasi-qu-89sui.md",
-      "ts": 1781096168
-    },
-    "fd49bb27ca5d3c616791082f70eb5258676bbbc56e2092185ec9460fb5fc7463": {
-      "link": "http://www3.nhk.or.jp/news/html/20260610/k10015146371000.html",
-      "title": "大阪 天王寺の地下街で女性刺される 襲った2人組は逃走",
-      "saved": "2026-06-10-da-ban-tian-wang-si-nodi-xia-jie-tenu-xing-ci-sareru-xi-tuta2ren-zu-hatao-zou.md",
-      "ts": 1781096168
-    },
-    "44f175ccd0fd4b3637d4c1cbadc27a40f5b17007dca847043614169908912324": {
-      "link": "http://www3.nhk.or.jp/news/html/20260610/k10015146301000.html",
-      "title": "日銀植田総裁が入院 来週の金融政策決定会合は欠席の見込み",
-      "saved": "2026-06-10-ri-yin-zhi-tian-zong-cai-karu-yuan-lai-zhou-nojin-rong-zheng-ce-jue-ding-hui-he-.md",
-      "ts": 1781096168
-    },
-    "8c9ef1c425787803cce9ee4ccfdf337a8b7a48840ceef2f18ecf07575cae1068": {
-      "link": "https://www.itmedia.co.jp/news/articles/2606/10/news128.html",
-      "title": "ChatGPTで広告表示へ　無料・Goプランが対象　6月22日にポリシー更新",
-      "saved": "2026-06-10-chatgptteguang-gao-biao-shi-he-wu-liao-gohurankadui-xiang-6yue-22ri-nihorisigeng.md",
-      "ts": 1781096168
-    },
-    "fddc67ac0bfd4586c107423dbff65de1ced712c0bcc9f39cce8e20cee2b97cc6": {
-      "link": "http://www3.nhk.or.jp/news/html/20260610/k10015120321000.html",
-      "title": "【歴史 名場面振り返り】サッカーワールドカップ 1930～2022",
-      "saved": "2026-06-10-li-shi-ming-chang-mian-zhen-rifan-ri-satukawarutokatuhu-1930-2022.md",
-      "ts": 1781096168
-    },
-    "baa9b4a01e5396c8aa00d8b0f33980c6e8da0bda21b97d917ba10a6ea27816c7": {
-      "link": "http://www3.nhk.or.jp/news/html/20260610/k10015146191000.html",
-      "title": "ラグビー日本代表 国際大会メンバー発表 上ノ坊駿介など初選出",
-      "saved": "2026-06-10-rakuhiri-ben-dai-biao-guo-ji-da-hui-menhafa-biao-shang-nofang-jun-jie-natochu-xu.md",
-      "ts": 1781096168
-    },
-    "8cf288c887a0d336140d17e07f0136c20314d0eb42e601ce5af263bcd6f5b5ae": {
-      "link": "https://www.itmedia.co.jp/news/articles/2606/10/news126.html",
-      "title": "AIエージェントもフィッシング詐欺に引っかかる？　米セキュリティ企業がOpenClawで検証　結果は……",
-      "saved": "2026-06-10-aiesientomohuitusinkuzha-qi-niyin-tukakaru-mi-sekiyuriteiqi-ye-kaopenclawtejian-.md",
-      "ts": 1781096168
-    },
-    "21c2de11bdb192afda2081b95a1f52a671a6ee451c33ac52ed68ee0001e0866f": {
-      "link": "http://www3.nhk.or.jp/news/html/20260610/k10015145791000.html",
-      "title": "サグラダ・ファミリア「イエスの塔」完成 今夜 記念のミサへ",
-      "saved": "2026-06-10-sakuratahuamiria-iesunota-wan-cheng-jin-ye-ji-nian-nomisahe.md",
-      "ts": 1781096168
-    },
-    "fa93a5d3b787eae55f7624390e6bb3ff1d89303d7b5d04ff4e4ff97ca45f66a2": {
-      "link": "http://www3.nhk.or.jp/news/html/20260610/k10015146261000.html",
-      "title": "カーリング日本選手権 ロコ・ソラーレ 1次リーグ敗退",
-      "saved": "2026-06-10-karinkuri-ben-xuan-shou-quan-rokosorare-1ci-rikubai-tui.md",
-      "ts": 1781096168
-    },
-    "211dd69a7e9f9a94a68330884ff1eb3aa14cb77a4f8de596fd2305727f205274": {
-      "link": "http://www3.nhk.or.jp/news/html/20260610/k10015146211000.html",
-      "title": "新名神高速6人死亡事故の初公判 検察「スマホ13秒脇見」",
-      "saved": "2026-06-10-xin-ming-shen-gao-su-6ren-si-wang-shi-gu-nochu-gong-pan-jian-cha-sumaho13miao-xi.md",
-      "ts": 1781096168
-    },
-    "41c1ac49290d0ce9d4e975a0a9819ff5c528c4b34a88ba21ab9437942f17497b": {
-      "link": "http://www3.nhk.or.jp/news/html/20260610/k10015144631000.html",
-      "title": "“すごイレブン” サッカーW杯 この11人に注目！ピックアップ",
-      "saved": "2026-06-10-sukoirehun-satukawbei-kono11ren-nizhu-mu-hitukuatuhu.md",
-      "ts": 1781096168
-    },
-    "992e405037dccaa88b8ff71ce47415e3ef49e315d51416dd798e2fe81c4e2226": {
-      "link": "https://www.itmedia.co.jp/business/articles/2606/10/news117.html",
-      "title": "Apple「Siri AI」、13億台超が“利用不能”か？　新機能の拡大阻む“弱点”とは",
-      "saved": "2026-06-10-apple-siri-ai-13yi-tai-chao-ka-li-yong-bu-neng-ka-xin-ji-neng-nokuo-da-zu-mu-ruo.md",
-      "ts": 1781096168
-    },
-    "b537d9a88fe825f74785682b52796e9e3b0736dd20360e7645add0789fecb667": {
-      "link": "https://www.itmedia.co.jp/news/articles/2606/10/news125.html",
-      "title": "H3ロケット打ち上げ時の“水蒸気”を再現するパブリックビューイング、日本科学未来館が開催",
-      "saved": "2026-06-10-h3roketutoda-tishang-keshi-no-shui-zheng-qi-wozai-xian-suruhahuritukuhiyuinku-ri.md",
-      "ts": 1781096168
-    },
-    "e7ffef71e0bff72e196323df962410a87c2e5681988486e6a0700d9efde51c69": {
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IZjVHQU1OVVRlQ2xVckJOdzFKbEo2UGY3MXVVU2JfUUR6ZVlqVTFrb3BlUl9VSjhVbTgzdkxHNEp2SDNZS2s4Ump6b0VPcjlBcGUwd1Jn?oc=5",
-      "title": "いよいよ開幕、北中米W杯 グループステージを盛り上げる必見の試合10選(1/3) - CNN",
-      "saved": "2026-06-10-iyoiyokai-mu-bei-zhong-mi-wbei-kuruhusutesiwosheng-rishang-kerubi-jian-noshi-he-.md",
-      "ts": 1781096168
-    },
-    "6f5beeb575930bac5a8aeef38cff132320c51da9fa0075ffe5d4d2cea540b88f": {
-      "link": "https://www.itmedia.co.jp/news/articles/2606/10/news123.html",
-      "title": "NTT、800億円規模のAIファンド「IOWN AI Fund」組成　シリコンバレーと東京に新会社拠点",
-      "saved": "2026-06-10-ntt-800yi-yuan-gui-mo-noaihuanto-iown-ai-fund-zu-cheng-sirikonharetodong-jing-ni.md",
-      "ts": 1781096168
-    },
-    "132d53d48fd463d8dcf0e89801ab83c473145d3ffa41578e13036662b09cd101": {
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5oYm1fU1dycGNVbDVnTXNfcXJRVDQyLWt4cVhLcVJmT245ZVRPbncxeksyV3RJaEJjZDNZS25ybnZQajh5MzVsOE1LcFd2ZTdUQXFn?oc=5",
-      "title": "エア・カナダの元機長、偽のパイロットライセンスで17年間フライト - CNN",
-      "saved": "2026-06-10-eakanatanoyuan-ji-chang-wei-nohairotutoraisensute17nian-jian-huraito-cnn.md",
-      "ts": 1781096168
-    },
-    "4ff9873e0cd0a47e0e49bbb424b1679500cc05042f4b9c1e8f238f705f7e3541": {
-      "link": "http://www3.nhk.or.jp/news/html/20260610/k10015146181000.html",
-      "title": "パドレス松井裕樹 決勝ホームラン打たれ 今季初めて負け投手に",
-      "saved": "2026-06-10-hatoresusong-jing-yu-shu-jue-sheng-homuranda-tare-jin-ji-chu-metefu-ketou-shou-n.md",
-      "ts": 1781096168
-    },
-    "be218ffb7de77684dbc9957b0242cde5fb25d96d6327219270a2fc5035c39c68": {
-      "link": "https://www.itmedia.co.jp/news/articles/2606/10/news122.html",
-      "title": "「Siri AI」の進化に「Geminiそのまま」の誤解――現地取材で見えた“新生Apple Intelligence”の全貌",
-      "saved": "2026-06-10-siri-ai-nojin-hua-ni-geminisonomama-nowu-jie-xian-di-qu-cai-tejian-eta-xin-sheng.md",
-      "ts": 1781096168
-    },
-    "6cd18d23845221f9b8ba44473f85c1ff698e60e9acf863083dbb419a699b827d": {
-      "link": "https://www.itmedia.co.jp/news/articles/2606/10/news118.html",
-      "title": "「思い込み」で緊急時システムへのデータ送信停止　伊方原発　4月に起きた点検トラブルの原因報告",
-      "saved": "2026-06-10-si-iip-mi-tejin-ji-shi-sisutemuhenotetasong-xin-ting-zhi-yi-fang-yuan-fa-4yue-ni.md",
-      "ts": 1781096168
-    },
-    "6f5b6a43583b5b7dab152d06761509580738ab801cd4f2710b59bc597687a60f": {
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1pbUZsNkIzNnR4bDItZmNPV2dGT0s4bXFRMHpPY05rNEhWdDg2SkJlNDRPV1FRaFRxM0FFX0pkMl91amhWbmJtcWhLTTVvaUFtQ2I1OA?oc=5",
-      "title": "次のジェームズ・ボンド役の候補として名前が挙がるイドリス・エルバ - CNN",
-      "saved": "2026-06-10-ci-nosiemusuhontoyi-nohou-bu-tositeming-qian-kaju-karuitorisueruha-cnn.md",
-      "ts": 1781096168
-    },
     "3cec05746b781ddb68c69f729f94f59dae9a5e5c7ee86b20429e98bfce36c77f": {
       "link": "http://www3.nhk.or.jp/news/html/20260611/k10015146671000.html",
       "title": "アメリカ中央軍「イラン国内の複数の標的に攻撃開始」",
@@ -15287,6 +15167,102 @@
       "title": "米国の複数の州で、寄生虫が原因で激しい下痢の症状を引き起こすサイクロスポラ症の感染者が増え続けている - CNN.co.jp",
       "saved": "2026-07-10-mi-guo-nofu-shu-nozhou-te-ji-sheng-chong-kayuan-yin-teji-siixia-li-nozheng-zhuan.md",
       "ts": 1783680789
+    },
+    "e0e1d150efc85353ae92e0c70ea4303d31535de3a8dc546816c4bf39c4cea7f0": {
+      "link": "http://www3.nhk.or.jp/news/html/20260711/k10015174131000.html",
+      "title": "W杯 スペインが4大会ぶりベスト4へ ベルギーとの接戦制す",
+      "saved": "2026-07-11-wbei-suheinka4da-hui-hurihesuto4he-herukitonojie-zhan-zhi-su.md",
+      "ts": 1783724309
+    },
+    "b5eb4995a02988970f4aad9684b2c0793b81389a0b27ef36836f35adca81042b": {
+      "link": "https://www.itmedia.co.jp/business/articles/2607/11/news003.html",
+      "title": "行列店「コナズ珈琲」にも“課題”があった　社長が明かす次の一手は？",
+      "saved": "2026-07-11-xing-lie-dian-konasujia-bei-nimo-ke-ti-kaatuta-she-chang-kaming-kasuci-noyi-shou.md",
+      "ts": 1783724309
+    },
+    "8670fb74c6a4e0a29b0c815168b7f5e07bca684645af00573102ea7234fbcde4": {
+      "link": "http://www3.nhk.or.jp/news/html/20260711/k10015174261000.html",
+      "title": "【台風9号最新情報】沖縄 先島諸島に最接近 厳重警戒を",
+      "saved": "2026-07-11-tai-feng-9hao-zui-xin-qing-bao-chong-nawa-xian-dao-zhu-dao-nizui-jie-jin-yan-zho.md",
+      "ts": 1783724309
+    },
+    "2125fc2ba37d54933845780cc6373994c9765e55457e260bfaf412c4a8a55004": {
+      "link": "http://www3.nhk.or.jp/news/html/20260711/k10015174271000.html",
+      "title": "大谷翔平 左ひざ違和感でオールスター辞退 11日の先発登板回避",
+      "saved": "2026-07-11-da-gu-xiang-ping-zuo-hisawei-he-gan-teorusutaci-tui-11ri-noxian-fa-deng-ban-hui-.md",
+      "ts": 1783724309
+    },
+    "53cbd37febe04e60fe7d66931a176da20eabac4ece2eb8c57f37bebc94fb6378": {
+      "link": "http://www3.nhk.or.jp/news/html/20260711/k10015174241000.html",
+      "title": "西・東日本できょうも気温上昇 九州は危険な暑さのおそれ",
+      "saved": "2026-07-11-xi-dong-ri-ben-tekiyoumoqi-wen-shang-sheng-jiu-zhou-hawei-xian-nashu-sanoosore.md",
+      "ts": 1783724309
+    },
+    "c582dfa4340d96e95a0ad76e83db6467c42a72caccb208e45aadd999b37b63a3": {
+      "link": "https://www.itmedia.co.jp/business/articles/2607/11/news005.html",
+      "title": "ワークマンの580円Tシャツ、80万枚突破　人気の理由は？",
+      "saved": "2026-07-11-wakumanno580yuan-tsiyatu-80mo-mei-tu-po-ren-qi-noli-you-ha.md",
+      "ts": 1783724309
+    },
+    "06a4c18127b729ee8b3f769077f8df1955b7e2eae47dbc1cbe136b7caa2dda49": {
+      "link": "http://www3.nhk.or.jp/news/html/20260711/k10015174231000.html",
+      "title": "アメリカは状況次第で攻撃する考え イランは対抗する姿勢",
+      "saved": "2026-07-11-amerikahazhuang-kuang-ci-di-tegong-ji-surukao-e-iranhadui-kang-suruzi-shi.md",
+      "ts": 1783724309
+    },
+    "3259ed35d35db0ded7963e2c2a460c2b9a8b05f99856d042920defbff1b3e3b1": {
+      "link": "http://www3.nhk.or.jp/news/html/20260711/k10015174111000.html",
+      "title": "五輪コンサート 五輪・パラリンピックのメダリストが思い語る",
+      "saved": "2026-07-11-wu-lun-konsato-wu-lun-hararinhitukunometarisutokasi-iyu-ru.md",
+      "ts": 1783724309
+    },
+    "5b24a211cde3f9a4ec4ecec0767bfe65aeb34350dac587ca5bc4296ff1d04c83": {
+      "link": "http://www3.nhk.or.jp/news/html/20260711/k10015174171000.html",
+      "title": "皇室典範改正案 今国会で成立の見通し 参議院審議の日程調整へ",
+      "saved": "2026-07-11-huang-shi-dian-fan-gai-zheng-an-jin-guo-hui-techeng-li-nojian-tong-si-can-yi-yua.md",
+      "ts": 1783724309
+    },
+    "a143d4a78e7e7fa203f10fe0f344e233580d88f88f6b44fb20c4761f7b7b988b": {
+      "link": "http://www3.nhk.or.jp/news/html/20260710/k10015174101000.html",
+      "title": "【プロ野球結果】ヤクルト 高橋奎二が好投 阪神に競り勝つ",
+      "saved": "2026-07-11-huroye-qiu-jie-guo-yakuruto-gao-qiao-kui-er-kahao-tou-ban-shen-nijing-risheng-tu.md",
+      "ts": 1783724309
+    },
+    "19516fa04a1e0eb1641ac33ccade4aecc3a1dc49b2139b336aec7c1fe4f79ffe": {
+      "link": "http://www3.nhk.or.jp/news/html/20260710/k10015174141000.html",
+      "title": "宮古島・八重山地方 11日明け方～夕方 線状降水帯発生のおそれ",
+      "saved": "2026-07-10-gong-gu-dao-ba-zhong-shan-di-fang-11ri-ming-kefang-xi-fang-xian-zhuang-jiang-shu.md",
+      "ts": 1783724309
+    },
+    "4370bed97b96575303c69275558d162c80003009e89b0ad5a684aa00470b2835": {
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1HNFA0YlFIazFxZmc0U2pfMzZ4V2dvU0o0YnNNMlZUMUFzUENULVJMdHlqMHlyYU9jaHZ3NGdPSDl4cUJXWHVhdDg2anZEbHhDMHNjUg?oc=5",
+      "title": "左向きに湾曲した化石は、実際の動物が右側へ好んで曲がっていたことを示す。これは現代の動物で言う右利きの傾向に相当する - CNN.co.jp",
+      "saved": "2026-07-10-zuo-xiang-kiniwan-qu-sitahua-shi-ha-shi-ji-nodong-wu-kayou-ce-hehao-ntequ-katute.md",
+      "ts": 1783724309
+    },
+    "e192045e2fc5cefbe4467b8f82aa7218d93639504fa8055e8d61adbcae6d41dc": {
+      "link": "https://www.itmedia.co.jp/news/articles/2607/10/news157.html",
+      "title": "テスラ車内で「Grok」と会話、日本でも展開へ　ナビ設定やルート確認を音声で",
+      "saved": "2026-07-10-tesurache-nei-te-grok-tohui-hua-ri-ben-temozhan-kai-he-nahishe-ding-yarutoque-re.md",
+      "ts": 1783724309
+    },
+    "84f353af7760e6a5b34e2f08e977e02cb14963ef23322e7943af2bce3eaa549c": {
+      "link": "https://www.itmedia.co.jp/news/articles/2607/10/news149.html",
+      "title": "2日連続の「モバイルSuica」障害、JR東が原因を公表　別途負担の運賃は払い戻しへ",
+      "saved": "2026-07-10-2ri-lian-sok-no-mohairusuica-zhang-hai-jrdong-kayuan-yin-wogong-biao-bie-tu-fu-d.md",
+      "ts": 1783724309
+    },
+    "84ffa6e3993c307764bea98973de656a8f99b885e213cd7d676b6dde89c52309": {
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ScENhZGRxSGdMdlVadnhSX3VtZmZGWENEaUF0dXJZbWlZRWtKcC1MSVZIcDNnRFdfZVpyQ2xSWnlvRElMZFFMdUhGbGVPeldGZC04bg?oc=5",
+      "title": "ジャクソン郡保安官事務所が公開したノーラン・ウェルズさん（18）の写真 - CNN.co.jp",
+      "saved": "2026-07-10-siyakusonjun-bao-an-guan-shi-wu-suo-kagong-kai-sitanoranuerususan-18-noxie-zhen-.md",
+      "ts": 1783724309
+    },
+    "70d4623d5dc79cc0c0b0cbf46e2cafe726cbce65cbee8bfb655d9448209de6ca": {
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwUUNnQS01SWRQNDVCSzl6MDhjellUVjlHXy1EZXJOQzllR3RURzVBcW96Ul9Ya0V0dzFSNGt1OEd2b1EzcjJhcXcwbjZLLXph?oc=5",
+      "title": "トランプ氏、安全上の懸念生じ旧型大統領専用機でトルコを出発 カタール寄贈の新型機に乗らず - CNN.co.jp",
+      "saved": "2026-07-10-toranhushi-an-quan-shang-noxuan-nian-sheng-sijiu-xing-da-tong-ling-zhuan-yong-ji-2.md",
+      "ts": 1783724309
     }
   }
 }
