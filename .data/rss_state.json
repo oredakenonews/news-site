@@ -1,197 +1,5 @@
 {
   "done": {
-    "61931e0dbac98916cfc596e290edbd796d80a6aed8d6e56a2b689780b3a1dec6": {
-      "link": "http://www3.nhk.or.jp/news/html/20260615/k10015150631000.html",
-      "title": "イラン情勢 茂木外相 パキスタン外相と電話会談 連携で一致",
-      "saved": "2026-06-15-iranqing-shi-mao-mu-wai-xiang-hakisutanwai-xiang-todian-hua-hui-tan-lian-xi-teyi.md",
-      "ts": 1781525614
-    },
-    "8c461a84119e65b219f5b6023e09db5043fe67aee5f227f4018ec6e41d24a4bc": {
-      "link": "http://www3.nhk.or.jp/news/html/20260615/k10015150351000.html",
-      "title": "高市首相 メローニ首相と日伊首脳会談 米イランの合意歓迎",
-      "saved": "2026-06-15-gao-shi-shou-xiang-meronishou-xiang-tori-yi-shou-noy-hui-tan-mi-irannohe-yi-huan.md",
-      "ts": 1781525614
-    },
-    "0144521f4ef2252025902a77d3089a4088b67573ae6bf9421900bbae5baa1c8a": {
-      "link": "https://www.itmedia.co.jp/news/articles/2606/15/news119.html",
-      "title": "データセンターの見回り業務をロボットに　自在に伸びるカメラでくまなく点検できる「ugo mini」",
-      "saved": "2026-06-15-tetasentanojian-hui-riye-wu-worohotutoni-zi-zai-nishen-hirukameratekumanakudian-.md",
-      "ts": 1781525614
-    },
-    "7eaf096c56d18534491c9ea4c75dd2e3da93ba4b214e85c7b2548686dca4cf49": {
-      "link": "https://www.itmedia.co.jp/news/articles/2606/15/news120.html",
-      "title": "イギリス、16歳未満のSNS利用を禁止に　「子どもを不幸にしている」",
-      "saved": "2026-06-15-ikirisu-16sui-wei-man-nosnsli-yong-wojin-zhi-ni-zi-tomowobu-xing-nisiteiru.md",
-      "ts": 1781525614
-    },
-    "2ae93936b29dfbdea2ba9aa15bad829e209c5f48f4b51f8e0f2b97588060bf3d": {
-      "link": "http://www3.nhk.or.jp/news/html/20260615/k10015150581000.html",
-      "title": "自民税制調査会 食料品の消費税減税めぐり意見交換",
-      "saved": "2026-06-15-zi-min-shui-zhi-diao-cha-hui-shi-liao-pin-noxiao-fei-shui-jian-shui-mekuriyi-jia.md",
-      "ts": 1781525614
-    },
-    "79f26161a0ded44913fed5eedb94e8f5ec435d531ef31f9aaf8eec9c466e9ce9": {
-      "link": "http://www3.nhk.or.jp/news/html/20260615/k10015150561000.html",
-      "title": "W杯ゴールの鎌田大地 小学生時代の指導者「何か持ってる」",
-      "saved": "2026-06-15-wbei-korunolian-tian-da-di-xiao-xue-sheng-shi-dai-nozhi-dao-zhe-he-kachi-tuteru.md",
-      "ts": 1781525614
-    },
-    "c73f54ae578e79adbf900e82e3ab76f5d5f604e904a0641072fff0eeab634f6d": {
-      "link": "http://www3.nhk.or.jp/news/html/20260615/k10015150551000.html",
-      "title": "赤い羽根共同募金などの寄付金約1億8000万円使途不明に 北海道",
-      "saved": "2026-06-15-chi-iyu-gen-gong-tong-mu-jin-natonoji-fu-jin-yue-1yi-8000mo-yuan-shi-tu-bu-ming-.md",
-      "ts": 1781525614
-    },
-    "611d843969d32e5b438d8bd3b0bf1dc4c8ff5f3175c15335166ff7c5544734b9": {
-      "link": "http://www3.nhk.or.jp/news/html/20260615/k10015150531000.html",
-      "title": "巨人 阿部前監督を起訴猶予に 東京地検",
-      "saved": "2026-06-15-ju-ren-a-bu-qian-jian-du-woqi-su-you-yu-ni-dong-jing-di-jian.md",
-      "ts": 1781525614
-    },
-    "c765e770230bc15f6fe1c72709c826e7395a8e38504585a6e8d40f80d9cedcff": {
-      "link": "http://www3.nhk.or.jp/news/html/20260615/k10015150481000.html",
-      "title": "W杯イラン代表がアメリカ到着「私たちはサッカーに専念」",
-      "saved": "2026-06-15-wbei-irandai-biao-kaamerikadao-zhao-si-tatihasatukanizhuan-nian.md",
-      "ts": 1781525614
-    },
-    "955c4f667e60e83127196cb21eaa4eca144fb690f0b3537ca5e4fd7c300155f2": {
-      "link": "https://www.itmedia.co.jp/news/articles/2606/15/news114.html",
-      "title": "ANAのシンプル運賃って「そういうプラン」なの？　ネットで囁かれる“後回し”の臆測を広報は全否定",
-      "saved": "2026-06-15-ananosinhuruyun-ren-tute-souiuhuran-nano-netutotenie-kareru-hou-hui-si-noyi-ce-w.md",
-      "ts": 1781525614
-    },
-    "9fae2c22631a9fddc042be1259322e3d11e04998d03d2833c091083f25335eeb": {
-      "link": "https://www.bbc.com/japanese/articles/cly8jgv2djqo?at_medium=RSS&at_campaign=rss",
-      "title": "ロシアがキーウ攻撃、世界遺産の大聖堂で火災　ウクライナとロシアで死傷者",
-      "saved": "2026-06-15-rosiakakiugong-ji-shi-jie-yi-chan-noda-sheng-tang-tehuo-zai-ukurainatorosiatesi-.md",
-      "ts": 1781525614
-    },
-    "8c0a896c501773e2abaaa7ed25fffd34d92b6e61b347dc65a680189b346a594f": {
-      "link": "http://www3.nhk.or.jp/news/html/20260615/k10015150301000.html",
-      "title": "サッカーW杯 スウェーデンがチュニジアに快勝 日本と同じ組",
-      "saved": "2026-06-15-satukawbei-suuetenkatiyunisianikuai-sheng-ri-ben-totong-sizu.md",
-      "ts": 1781525614
-    },
-    "e4c9ad7327e7ee61f369bbcb5c4eafcf0c0d6cae1b9717375a3867345de58213": {
-      "link": "http://www3.nhk.or.jp/news/html/20260615/k10015150401000.html",
-      "title": "Ｗ杯でゴールの活躍 中村敬斗恩師 “これからも攻撃けん引を”",
-      "saved": "2026-06-15-wbei-tekorunohuo-yue-zhong-cun-jing-dou-en-shi-korekaramogong-ji-kenyin-wo.md",
-      "ts": 1781525614
-    },
-    "ce0133e4e3a5fe6f4bb5d3803618a49ceb025ab2c24c9a4d3696522dd0cec2b4": {
-      "link": "http://www3.nhk.or.jp/news/html/20260615/k10015150181000.html",
-      "title": "日本代表 “4年の成長示す” 勝ち点「1」【解説】",
-      "saved": "2026-06-15-ri-ben-dai-biao-4nian-nocheng-chang-shi-su-sheng-tidian-1-jie-shuo.md",
-      "ts": 1781525614
-    },
-    "39b61066571acee680d05e10444a3f8ad8892fa943deb911c417b31468975cff": {
-      "link": "http://www3.nhk.or.jp/news/html/20260615/k10015150391000.html",
-      "title": "陸上 高校2年の後藤大樹 アジア大会「びっくりさせる走りを」",
-      "saved": "2026-06-15-lu-shang-gao-xiao-2nian-nohou-teng-da-shu-asiada-hui-hitukurisaseruzou-riwo.md",
-      "ts": 1781525614
-    },
-    "b144e0ea1b8f63d3dc96929d6e8a40506b834351f98ba7aa602e6578b2a15945": {
-      "link": "https://www.bbc.com/japanese/articles/c2eyrwwwm8no?at_medium=RSS&at_campaign=rss",
-      "title": "英海兵隊が作戦映像を公開、ロシア「影の艦隊」の石油タンカーを拿捕",
-      "saved": "2026-06-15-ying-hai-bing-dui-kazuo-zhan-ying-xiang-wogong-kai-rosia-ying-nojian-dui-noshi-y.md",
-      "ts": 1781525614
-    },
-    "ce020319a16a386453dea20d663638f29e6cbd6355b942e7943370da0af6f4fa": {
-      "link": "https://www.bbc.com/japanese/articles/c5yz0r8rr5do?at_medium=RSS&at_campaign=rss",
-      "title": "【2026年サッカー男子W杯】 日本は今大会のダークホースになるか",
-      "saved": "2026-06-15-2026nian-satukanan-zi-wbei-ri-ben-hajin-da-hui-notakuhosuninaruka.md",
-      "ts": 1781525614
-    },
-    "b0d7f87f090570d6e30db385abbc3710d222319f16c7e78d305a1922129d9816": {
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hZEQ3V21kNW52S19xUklyVXFiTDQ2bHFrWlBQdi1WTTN1S2E0aVoxTWtnSllCTl8xdmY5RWVZVWJFZVFYRGRadUJHTElBLV9PQmc?oc=5",
-      "title": "アマゾン「Kindle Scribe Colorsoft」を1週間試してみた 11万円超に見合う価値はある？ - CNN",
-      "saved": "2026-06-15-amason-kindle-scribe-colorsoft-wo1zhou-jian-shi-sitemita-11mo-yuan-chao-nijian-h.md",
-      "ts": 1781525614
-    },
-    "886136e89b4621669dfc3297b116c2d918b41900526511eb3e3b6935cea4f14a": {
-      "link": "https://www.bbc.com/japanese/articles/cvg5pp39krgo?at_medium=RSS&at_campaign=rss",
-      "title": "英海兵隊がロシア「影の艦隊」の石油タンカーを拿捕　英仏海峡で",
-      "saved": "2026-06-15-ying-hai-bing-dui-karosia-ying-nojian-dui-noshi-you-tankawona-bu-ying-fo-hai-xia.md",
-      "ts": 1781525614
-    },
-    "ed24d97a8fd8f80259713f16b6bd6578003dd3d506c23dd93c75a727a47add98": {
-      "link": "https://www.bbc.com/japanese/articles/c5yz00nn75zo?at_medium=RSS&at_campaign=rss",
-      "title": "【2026年サッカー男子W杯】 FIFA、ソマリアのアルタン審判に報酬全額支払いへ　アメリカが入国拒否",
-      "saved": "2026-06-15-2026nian-satukanan-zi-wbei-fifa-somarianoarutanshen-pan-nibao-chou-quan-e-zhi-fu.md",
-      "ts": 1781525614
-    },
-    "6d16d92ffe08affd59404f3981119faeb506bcb745bae47d8999407d50391bfb": {
-      "link": "https://www.itmedia.co.jp/news/articles/2606/15/news063.html",
-      "title": "DAZNへの“擁護ゼロ”が物語る「積年の恨み」　W杯980円問題が物語ること",
-      "saved": "2026-06-15-daznheno-yong-hu-sero-kawu-yu-ru-ji-nian-nohen-mi-wbei-980yuan-wen-ti-kawu-yu-ru.md",
-      "ts": 1781525614
-    },
-    "17403a5a40ec0dc70007747cb4d61be78eff2e158bc0d94ab8a6cb1bd99025ea": {
-      "link": "http://www3.nhk.or.jp/news/html/20260615/k10015149971000.html",
-      "title": "サッカーW杯 見どころ【6月16日】優勝をねらうスペインの初戦",
-      "saved": "2026-06-15-satukawbei-jian-tokoro-6yue-16ri-you-sheng-wonerausuheinnochu-zhan.md",
-      "ts": 1781525614
-    },
-    "317a006f5710ede4fdbf20f4e30de3f05050739094b284ecc9703ab7150af614": {
-      "link": "http://www3.nhk.or.jp/news/html/20260615/k10015150321000.html",
-      "title": "Ｗ杯日本初戦の現地 米の会場 日本サポーターが声援送り続ける",
-      "saved": "2026-06-15-wbei-ri-ben-chu-zhan-noxian-di-mi-nohui-chang-ri-ben-sahotakasheng-yuan-song-ris.md",
-      "ts": 1781525614
-    },
-    "0f9a3ffdf15a4964c1c5dda17912a4079d333a25d9fd86345505c0b1605cff40": {
-      "link": "https://www.bbc.com/japanese/articles/cy4el8wq0zzo?at_medium=RSS&at_campaign=rss",
-      "title": "【解説】 米・イラン合意で不透明性は緩和、しかし課題山積",
-      "saved": "2026-06-15-jie-shuo-mi-iranhe-yi-tebu-tou-ming-xing-hahuan-he-sikasike-ti-shan-ji.md",
-      "ts": 1781525614
-    },
-    "3fb6ed27b60828ce05350bfb382c76b9f8a3b69d9c483e0a7b88302a9ea65dbb": {
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQQnYwOHhIcTlhdXY3OFl1UHpnbVZEdzFGY1hwTWl3WHNYTkR4ZG13VmZXLWlGNUtQSjhtT003enRxZzlmYVVCdG1ISmhpeUJ1U0R2X2Fn?oc=5",
-      "title": "「立つ鳥跡を濁さず」――W杯の日本人観客席が必ずきれいになっている理由(1/2) - CNN",
-      "saved": "2026-06-15-li-tuniao-ji-wozhuo-sasu-wbei-nori-ben-ren-guan-ke-xi-kabi-sukireininatuteiruli-.md",
-      "ts": 1781525614
-    },
-    "ae28f6b0880cdd21dc8e64c1f61f38a8f75672fdc64df4146f7de4c35dcab4c7": {
-      "link": "https://www.itmedia.co.jp/news/articles/2606/15/news087.html",
-      "title": "NEC、能動的サイバー防御で英防衛大手と協業　政府への導入を共同支援",
-      "saved": "2026-06-15-nec-neng-dong-de-saihafang-yu-teying-fang-wei-da-shou-toxie-ye-zheng-fu-henodao-.md",
-      "ts": 1781525614
-    },
-    "5da30e279138a00deeb42c91a8463219bdf5f838f2546094568e30b31ce8be62": {
-      "link": "https://www.itmedia.co.jp/news/articles/2606/15/news090.html",
-      "title": "「二段階式フィッシングメール」に注意　1通目を見破った人を2通目でだます　警視庁",
-      "saved": "2026-06-15-er-duan-jie-shi-huitusinkumeru-nizhu-yi-1tong-mu-wojian-po-tutaren-wo2tong-mu-te.md",
-      "ts": 1781525614
-    },
-    "21e7e2af06e9a58fb41b0f2119f89e25c9ea3a3c70a29bde30c9acce9741e5b6": {
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1HMWFmS1pINF9mUmxCTUpDeV80cTE2emZiallnWWlqUU5CdXlBTFFjSGFLbnB6ZDVIWXZnQ2V1RkV2Y21KQVBKWmk4N2kwcHFKM3dycw?oc=5",
-      "title": "大規模な夜間攻撃により、火災が発生したウクライナ首都キーウのキーウ・ペチェールシク大修道院では消火活動が続けられている＝15日/Ukrainian Culture Ministry/Handout/Reuters - CNN",
-      "saved": "2026-06-15-da-gui-mo-naye-jian-gong-ji-niyori-huo-zai-kafa-sheng-sitaukurainashou-du-kiunok.md",
-      "ts": 1781525614
-    },
-    "30b51d411b1eb4a052ee2478cf015bbcf6a3ac7ae8628775eae372d54f112bd6": {
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9IaWJkSEJXZURoR2txY1RfTXhnbGkwWjBHLTcxMkRIT1JEbFVReHNndUdqSFh0aVNNZDh6V2lFaHVSRHJMVEdhaXlEbmwxdU1lbndTRA?oc=5",
-      "title": "「奇妙」が支配する世界、海のトワイライトゾーンの謎に迫る(1/3) - CNN",
-      "saved": "2026-06-14-qi-miao-kazhi-pei-surushi-jie-hai-notowairaitosonnomi-nipo-ru-1-3-cnn.md",
-      "ts": 1781525614
-    },
-    "f1e727ffcc1c82f75defca92101017c819a163a03d329df4f2b369c52168c937": {
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1RUHJ6UFhGZ0NNX01tZU5DRWdFOGJmLURPbEt6VldYM09laW9ma0lwa1d6WDVvWDNsWVZfVjgyVnViWmt4TmduUDJDd2ZGcWM4OVNZTA?oc=5",
-      "title": "北大西洋の海流を可視化した図。色は海面水温を表しており、オレンジ色と黄色は水温が高く、緑色と青色は水温が低いことを示している/NASA Goddard Space Flight Center - CNN",
-      "saved": "2026-04-17-bei-da-xi-yang-nohai-liu-woke-shi-hua-sitatu-se-hahai-mian-shui-wen-wobiao-siteo-2.md",
-      "ts": 1781525614
-    },
-    "defcafa46df9ccab7c3de471ede7f60a579bf4e2f6bc864a2009591df8bbce8e": {
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTRjZXdENueFBvWlFQeEVFSFhsbFYwMzJ6RFMtMXBTRnZGZlFsZmYtRG54YjViS2J5eWNWdVAzT2ptSXNoTXo3UFN5OVRmUTVTZmhCdQ?oc=5",
-      "title": "ニュージーランド航空、エコノミークラスに「三段ベッド」を導入 - CNN",
-      "saved": "2026-04-15-niyusirantohang-kong-ekonomikurasuni-san-duan-hetuto-wodao-ru-cnn.md",
-      "ts": 1781525614
-    },
-    "c65df8f9147fa61bf94d05f047a06962d51a646e2b35498522174300b5ae90af": {
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BbUxHbzlSUm56aFJsT3ViUGdhQk5td3JMd1VVV3RZWnFFUF9ZRlZmT3VaMlRrSzRqWVp1RTJISmhXNXI3RmhXTVB6a05yZU9sQmRsZw?oc=5",
-      "title": "「世界一危険」な湖？ 毎年５０００人が死亡 ビクトリア湖(1/4) - CNN",
-      "saved": "2013-01-19-shi-jie-yi-wei-xian-nahu-mei-nian-5000ren-kasi-wang-hikutoriahu-1-4-cnn.md",
-      "ts": 1781525614
-    },
     "97637a0be65ca548c4d852a868e02d3f33a13e88b294857c5bc5b1ef1424a345": {
       "link": "http://www3.nhk.or.jp/news/html/20260616/k10015150731000.html",
       "title": "イギリス 16歳未満のSNS利用を禁止する方針",
@@ -14645,6 +14453,174 @@
       "title": "ラブラドル犬の「トーキョー」が山岳救助隊の助けで下山する様子/ Lochaber Mountain Rescue Team/Facebook - CNN.co.jp",
       "saved": "2026-07-15-rahuratoruquan-no-tokiyo-kashan-yue-jiu-zhu-dui-nozhu-ketexia-shan-suruyang-zi-l.md",
       "ts": 1784109725
+    },
+    "bdcdca1778bb920506785f85d465a89d9ff075f41947037820d4d64aa77b61aa": {
+      "link": "http://www3.nhk.or.jp/news/html/20260716/k10015178071000.html",
+      "title": "佐々木麟太郎 大リーグ マーリンズに入団する意向固める",
+      "saved": "2026-07-16-zuo-mu-lin-tai-lang-da-riku-marinsuniru-tuan-suruyi-xiang-gu-meru.md",
+      "ts": 1784156256
+    },
+    "5da1ae8defb8e71062a4f5505630ffe36110eea1250b175a91775134c96a018b": {
+      "link": "http://www3.nhk.or.jp/news/html/20260716/k10015177261000.html",
+      "title": "W杯 アルゼンチン 2大会連続決勝へ メッシ2アシスト【速報中】",
+      "saved": "2026-07-16-wbei-arusentin-2da-hui-lian-sok-jue-sheng-he-metusi2asisuto-su-bao-zhong.md",
+      "ts": 1784156256
+    },
+    "9b48051dd84ff1e5925afa5e510dc74f243b4a4f88c0c4b14c261601d74a6be8": {
+      "link": "http://www3.nhk.or.jp/news/html/20260716/k10015178081000.html",
+      "title": "利根川進さん死去 86歳 日本人初のノーベル生理学・医学賞受賞",
+      "saved": "2026-07-16-li-gen-chuan-jin-sansi-qu-86sui-ri-ben-ren-chu-nonoherusheng-li-xue-yi-xue-shang.md",
+      "ts": 1784156256
+    },
+    "9f70b144a749b8827aafa5bf90cecea5819ac876266ea9c3c28a776fbaf799e0": {
+      "link": "http://www3.nhk.or.jp/news/html/20260716/k10015178061000.html",
+      "title": "米軍 イランに5日連続の攻撃 イラン「国益を最後まで守る」",
+      "saved": "2026-07-16-mi-jun-iranni5ri-lian-sok-nogong-ji-iran-guo-yi-wozui-hou-mateshou-ru.md",
+      "ts": 1784156256
+    },
+    "a1d7194a204deda3abc0f834e2109fa23ad0b95dc9933e86a9edf86cd56ab988": {
+      "link": "https://www.itmedia.co.jp/news/articles/2607/15/news124.html",
+      "title": "防衛装備庁、テラドローンなど4社の迎撃ドローン検証へ　国産機の早期調達プログラムで採択",
+      "saved": "2026-07-16-fang-wei-zhuang-bei-ting-teratoronnato4she-noying-ji-toronjian-zheng-he-guo-chan.md",
+      "ts": 1784156256
+    },
+    "dd6ec6dcddf4523c053377bd2460c145153f84c5f73e4d613529ba406a0dca1c": {
+      "link": "https://www.itmedia.co.jp/business/articles/2607/16/news022.html",
+      "title": "離職率83％、赤字1200万円からの逆転劇　非IT社長がYouTubeで独学→「自作アプリ」でかなえた訪問介護DX",
+      "saved": "2026-07-16-li-zhi-lu-83-chi-zi-1200mo-yuan-karanoni-zhuan-ju-fei-itshe-chang-kayoutubetedu-.md",
+      "ts": 1784156256
+    },
+    "3d4fe8e64c402289293d4f007989daf911ce02b260e64f5fea551c2f1ac4039d": {
+      "link": "https://www.itmedia.co.jp/business/articles/2607/16/news008.html",
+      "title": "フィギュアや推しグッズ、なぜ家に置かない？　預ける人が増えている理由",
+      "saved": "2026-07-16-huikiyuayatui-sikutusu-nasejia-nizhi-kanai-yu-keruren-kazeng-eteiruli-you.md",
+      "ts": 1784156256
+    },
+    "8768f176138386acefd2b1266e5df87f63ac6ea9deb6c313d8662883a4299e1e": {
+      "link": "https://www.itmedia.co.jp/business/articles/2607/16/news018.html",
+      "title": "伊勢名物「赤福」が売れない……ピンチ救った“白餅・黒餅”が生まれるまで",
+      "saved": "2026-07-16-yi-shi-ming-wu-chi-fu-kamai-renai-hintijiu-tuta-bai-bing-hei-bing-kasheng-mareru.md",
+      "ts": 1784156256
+    },
+    "0ca2bde45f0bab6af9427d821b8f090749a85189945a1a0d08c1a18e3bee5352": {
+      "link": "https://www.itmedia.co.jp/business/articles/2607/16/news025.html",
+      "title": "Anthropicと組んだNEC　それでも森田社長が「4つの主権」にこだわる真意",
+      "saved": "2026-07-16-anthropictozu-ntanec-soretemosen-tian-she-chang-ka-4tunozhu-quan-nikotawaruzhen-.md",
+      "ts": 1784156256
+    },
+    "6b2d6b8d5bcc76fe6c87ac2c5254c32109964b0cdf5ad93273ffc8f9ed9310cb": {
+      "link": "http://www3.nhk.or.jp/news/html/20260716/k10015177931000.html",
+      "title": "きょうも各地で気温上昇 猛烈な暑さに 熱中症対策の徹底を",
+      "saved": "2026-07-16-kiyoumoge-di-teqi-wen-shang-sheng-meng-lie-nashu-sani-re-zhong-zheng-dui-ce-noch.md",
+      "ts": 1784156256
+    },
+    "7e35845d4b67b9eabcc8231f25e6ce1a18724a591ebf102b612f9ac807738892": {
+      "link": "https://www.itmedia.co.jp/news/articles/2607/16/news054.html",
+      "title": "マスク氏「Xの全コードを例外なくオープンソース化」　本番環境との一致も第三者が検証へ",
+      "saved": "2026-07-16-masukushi-xnoquan-kotowoli-wai-nakuohunsosuhua-ben-fan-huan-jing-tonoyi-zhi-modi.md",
+      "ts": 1784156256
+    },
+    "a7cdbfa3c68352ee141f2a789ddb9bc701f8bc2a75f7863970eb55c2dcf70538": {
+      "link": "http://www3.nhk.or.jp/news/html/20260716/k10015177901000.html",
+      "title": "消費税減税「国民会議」中間とりまとめで方向性出せるか不透明",
+      "saved": "2026-07-16-xiao-fei-shui-jian-shui-guo-min-hui-yi-zhong-jian-torimatometefang-xiang-xing-ch.md",
+      "ts": 1784156256
+    },
+    "16fa276a928b8b91540a4da252770c46f4f05b6e6c36c6505246e61dc0277293": {
+      "link": "https://www.itmedia.co.jp/business/articles/2607/16/news004.html",
+      "title": "約1000枠の広告を“たった4人”で管理　受注件数2倍、ビックカメラの広告事業「営業しなくても売れる」DX",
+      "saved": "2026-07-16-yue-1000waku-noguang-gao-wo-tatuta4ren-teguan-li-shou-zhu-jian-shu-2bei-hitukuka.md",
+      "ts": 1784156256
+    },
+    "9b2dc7f1b8a605aabf5fa408b7cf16679437fe6fbb781fb86c338eb91135a385": {
+      "link": "https://www.itmedia.co.jp/business/articles/2607/16/news014.html",
+      "title": "検索結果上記に「非公式ツール」が表示される……「偽AIサービス」に騙されないために確認すべきこと",
+      "saved": "2026-07-16-jian-suo-jie-guo-shang-ji-ni-fei-gong-shi-turu-kabiao-shi-sareru-wei-aisahisu-ni.md",
+      "ts": 1784156256
+    },
+    "54d147f34812274952360a03c6120c6218406fcd942c7aafc10274f93735464c": {
+      "link": "http://www3.nhk.or.jp/news/html/20260716/k10015177981000.html",
+      "title": "大相撲名古屋場所 5日目見どころ “綱とり”霧島は平戸海と",
+      "saved": "2026-07-16-da-xiang-pu-ming-gu-wu-chang-suo-5ri-mu-jian-tokoro-gang-tori-wu-dao-haping-hu-h.md",
+      "ts": 1784156256
+    },
+    "2efcbb567764d1f450b6c64612e6edf2ac9b1a0cce52aafda94d7850b54e0483": {
+      "link": "http://www3.nhk.or.jp/news/html/20260716/k10015177911000.html",
+      "title": "ニチレイ サイバー攻撃 影響の広がりや原因究明など焦点",
+      "saved": "2026-07-16-nitirei-saihagong-ji-ying-xiang-noguang-kariyayuan-yin-jiu-ming-natojiao-dian.md",
+      "ts": 1784156256
+    },
+    "75c7d987832e541d5e439475f9165d0367eaa201696c55ba095f50ad9e87c6f7": {
+      "link": "http://www3.nhk.or.jp/news/html/20260716/k10015177891000.html",
+      "title": "皇室典範改正案 与党 会期末の成立図る 会期延長も検討",
+      "saved": "2026-07-16-huang-shi-dian-fan-gai-zheng-an-yu-dang-hui-qi-mo-nocheng-li-tu-ru-hui-qi-yan-ch.md",
+      "ts": 1784156256
+    },
+    "28d96accaac809f5a106089c299959acb30d1f66bea57a8b64cb340802957b5e": {
+      "link": "http://www3.nhk.or.jp/news/html/20260716/k10015178031000.html",
+      "title": "バレーボール男子 ネーションズリーグ 日本はファイナルR進出",
+      "saved": "2026-07-16-harehorunan-zi-nesiyonsuriku-ri-ben-hahuainarurjin-chu.md",
+      "ts": 1784156256
+    },
+    "658d7a7f1b12f1385eadd999d19a86cf34e116b78cfe1e241d2f10a3a8d5c3e6": {
+      "link": "https://www.itmedia.co.jp/news/articles/2607/15/news131.html",
+      "title": "セガのゲーム、NVIDIA「RTX Spark」で遊べるように　秋葉原で協業30周年を祝う",
+      "saved": "2026-07-15-sekanokemu-nvidia-rtx-spark-teyou-heruyouni-qiu-xie-yuan-texie-ye-30zhou-nian-wo.md",
+      "ts": 1784156256
+    },
+    "51cf515dce620051cb23631bf655c34425cdbbdab467e234aaab82572e78ceb9": {
+      "link": "http://www3.nhk.or.jp/news/html/20260715/k10015177991000.html",
+      "title": "【プロ野球結果】ソフトバンク 周東佑京 通算250盗塁を達成",
+      "saved": "2026-07-15-huroye-qiu-jie-guo-sohutohanku-zhou-dong-you-jing-tong-suan-250dao-toride-woda-c.md",
+      "ts": 1784156256
+    },
+    "d16e888476ffec5f468c56dcd4c5c8314db65dcf81a43734a5df5cdeb6a6e455": {
+      "link": "http://www3.nhk.or.jp/news/html/20260715/k10015177771000.html",
+      "title": "夏の全国高校野球 開会式と閉会式に初めて手話導入",
+      "saved": "2026-07-15-xia-noquan-guo-gao-xiao-ye-qiu-kai-hui-shi-tobi-hui-shi-nichu-meteshou-hua-dao-r.md",
+      "ts": 1784156256
+    },
+    "f9103c867e8c2478d5dd18b329441599c834de3c0aed9bc7371b7bbf0c979763": {
+      "link": "https://www.itmedia.co.jp/news/articles/2607/15/news121.html",
+      "title": "フィッシング被害で休講5日間　札幌国際大　ウイルス感染リスク解消せず",
+      "saved": "2026-07-15-huitusinkubei-hai-texiu-jiang-5ri-jian-zha-huang-guo-ji-da-uirusugan-ran-risukuj.md",
+      "ts": 1784156256
+    },
+    "99d4a146399c404d4d1b8bd420a2472c862222606dc2da71d14d8d69e770f90f": {
+      "link": "https://www.itmedia.co.jp/news/articles/2607/15/news127.html",
+      "title": "ケンタッキー、くら寿司、やよい軒も……ニチレイ不正アクセス、外食・小売に影響拡大　解消のめどは",
+      "saved": "2026-07-15-kentatuki-kurashou-si-yayoixuan-mo-nitireibu-zheng-akusesu-wai-shi-xiao-mai-niyi.md",
+      "ts": 1784156256
+    },
+    "1bf8ca84001e5685cd86b8ce63c32231bb9bc975811ef006543363c7d8c81890": {
+      "link": "http://www3.nhk.or.jp/news/html/20260715/k10015177741000.html",
+      "title": "W杯 決勝前にトム・クルーズさんら出演のセレモニー FIFA",
+      "saved": "2026-07-15-wbei-jue-sheng-qian-nitomukurususanrachu-yan-noseremoni-fifa.md",
+      "ts": 1784156256
+    },
+    "0e3ea59072fd5d7c91e56efccc702f40fd81824e457217b33745a0e9c5f061fe": {
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9uZ2x0dWNqZXlBc2tWTF9IYUlCck83dWxKVnpkMks4eXpEY1VYMmVOY092bzVOaGJDMkJyNEhEeWdmai1LZklxcFVVTms3UXllNFN6ZHl6dw?oc=5",
+      "title": "希少なTレックスの化石が競売に、史上最高額の81億円で落札 NY(2/2) - CNN.co.jp",
+      "saved": "2026-07-15-xi-shao-natretukusunohua-shi-kajing-mai-ni-shi-shang-zui-gao-e-no81yi-yuan-teluo.md",
+      "ts": 1784156256
+    },
+    "839ce1a23eee0ec832af1eb80e012b3c52b191b4a475a64d093d0c243fb7e818": {
+      "link": "https://www.itmedia.co.jp/news/articles/2607/15/news122.html",
+      "title": "「bokete」アプリ、サービス終了へ　システム老朽化やサーバ費高騰で　18年で1億超のボケ",
+      "saved": "2026-07-15-bokete-ahuri-sahisuzhong-liao-he-sisutemulao-xiu-hua-yasahafei-gao-teng-te-18nia.md",
+      "ts": 1784156256
+    },
+    "657ae32b85177769405bd4d5930d65e3b387980435c7c7023c1bdb4ecb6ae781": {
+      "link": "https://www.itmedia.co.jp/news/articles/2607/15/news120.html",
+      "title": "ニチレイ、システム障害はサイバー攻撃によるものと公表　17日から出荷業務など順次再開へ",
+      "saved": "2026-07-15-nitirei-sisutemuzhang-hai-hasaihagong-ji-niyorumonotogong-biao-17ri-karachu-he-y.md",
+      "ts": 1784156256
+    },
+    "e94ba02a444dad8d784219c150cc7a31a0869c53a42ca16ba3b477f355b5ba87": {
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1uV1NYcTJpTmxlODlWLS1FNnY3bFR3R0ljQzhkSHJyeERQdEZhZ0JwRkU3RzB6T2xPQ3FwQW9HcGV3NWp4Y3RpQ21HRVhJMzA?oc=5",
+      "title": "トランプ氏、女性記者に「ブタ、静かに」 - CNN.co.jp",
+      "saved": "2025-11-19-toranhushi-nu-xing-ji-zhe-ni-huta-jing-kani-cnn-co-jp-2.md",
+      "ts": 1784156256
     }
   }
 }
