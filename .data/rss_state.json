@@ -1,593 +1,5 @@
 {
   "done": {
-    "1e129cb7bb0f08898a6f00afd308fbd49940d5d3aebe2a7b4e0cf72c5e7840f1": {
-      "link": "http://www3.nhk.or.jp/news/html/20260706/k10015169661000.html",
-      "title": "W杯 FIFA 米代表選手の出場停止を猶予 トランプ氏が電話で要請",
-      "saved": "2026-07-06-wbei-fifa-mi-dai-biao-xuan-shou-nochu-chang-ting-zhi-woyou-yu-toranhushi-kadian-.md",
-      "ts": 1783308754
-    },
-    "08a663b748852d9f6d32071c9b07496e1766d0a0381ba87ef42213efa6493873": {
-      "link": "https://www.bbc.com/japanese/articles/c9822wr613no?at_medium=RSS&at_campaign=rss",
-      "title": "【2026 年ウィンブルドン】 大坂、世界1位のサバレンカ破る　初の準々決勝進出",
-      "saved": "2026-07-06-2026-nian-uinhuruton-da-ban-shi-jie-1wei-nosaharenkapo-ru-chu-nozhun-jue-sheng-j.md",
-      "ts": 1783308754
-    },
-    "06e717b1701fea1c167c097e2c06b389f95fec30bacb19aeb1cf0dea7c6f5c5b": {
-      "link": "http://www3.nhk.or.jp/news/html/20260706/k10015169621000.html",
-      "title": "サッカーW杯 ノルウェーがハーランド2得点でブラジル破る",
-      "saved": "2026-07-06-satukawbei-noruuekaharanto2de-dian-tehurasirupo-ru.md",
-      "ts": 1783308754
-    },
-    "22fffe3dce8eecdf840dea4d420b664fbf812484c28d6c01336c6468f5262a75": {
-      "link": "http://www3.nhk.or.jp/news/html/20260706/k10015169841000.html",
-      "title": "西日本豪雨8年 甚大な浸水被害の倉敷市真備町で犠牲者を追悼",
-      "saved": "2026-07-06-xi-ri-ben-hao-yu-8nian-shen-da-najin-shui-bei-hai-nocang-fu-shi-zhen-bei-ting-te.md",
-      "ts": 1783308754
-    },
-    "4cd3fa052e6880b770cd1c5851576c86906704f0643adf5c370318f0b05a3ad6": {
-      "link": "http://www3.nhk.or.jp/news/html/20260706/k10015169771000.html",
-      "title": "コメ価格の見通し示す指数 過去最低に並ぶ水準に",
-      "saved": "2026-07-06-komejia-ge-nojian-tong-sishi-suzhi-shu-guo-qu-zui-di-nibing-hushui-zhun-ni.md",
-      "ts": 1783308754
-    },
-    "8babd42ee7784b20b8aa3caba051df2d322f86aac49fd37188cbb7b0dab77fe5": {
-      "link": "http://www3.nhk.or.jp/news/html/20260706/k10015169811000.html",
-      "title": "高市首相 国会の求めあれば集中審議や党首討論出席する意向",
-      "saved": "2026-07-06-gao-shi-shou-xiang-guo-hui-noqiu-mearehaji-zhong-shen-yi-yadang-shou-tao-lun-chu.md",
-      "ts": 1783308754
-    },
-    "7673c58ffb8e7b3cf42314061febf96ca24d9db5e7e43c747f8f06315e4dd418": {
-      "link": "https://www.itmedia.co.jp/news/articles/2607/06/news075.html",
-      "title": "「ChatGPTで不正プログラム自作」　バンダイチャンネル4万6800人を勝手に退会させた疑い、15歳を再逮捕　報道",
-      "saved": "2026-07-06-chatgpttebu-zheng-hurokuramuzi-zuo-hantaitiyanneru4mo-6800ren-wosheng-shou-nitui.md",
-      "ts": 1783308754
-    },
-    "c32dbfeaa664ff14a2ca6ccba29165a8bdff10d0cc0476b44b32ff47642fc275": {
-      "link": "http://www3.nhk.or.jp/news/html/20260706/k10015169761000.html",
-      "title": "大相撲 先場所優勝の関脇 若隆景 左足手術で名古屋場所休場",
-      "saved": "2026-07-06-da-xiang-pu-xian-chang-suo-you-sheng-noguan-xie-ruo-long-jing-zuo-zu-shou-shu-te.md",
-      "ts": 1783308754
-    },
-    "7c403160655a2c45141f6644b40604c2d3bd061871aac94e8f853c059a15d42c": {
-      "link": "http://www3.nhk.or.jp/news/html/20260706/k10015169491000.html",
-      "title": "九州北部で激しい雨 大気不安定続く 土砂災害・浸水に十分注意",
-      "saved": "2026-07-06-jiu-zhou-bei-bu-teji-siiyu-da-qi-bu-an-ding-sok-ku-tu-sha-zai-hai-jin-shui-nishi.md",
-      "ts": 1783308754
-    },
-    "88e06057b30501c74b157371549e7254f24658b92477c6cf05f7a38d9b2d8e47": {
-      "link": "https://www.itmedia.co.jp/business/articles/2607/06/news072.html",
-      "title": "AI推進にブレーキ？　AWS「コスト抑制の動きある」　“トークン消費問題”への有効策は",
-      "saved": "2026-07-06-aitui-jin-nihureki-aws-kosutoyi-zhi-nodong-kiaru-tokunxiao-fei-wen-ti-henoyou-xi.md",
-      "ts": 1783308754
-    },
-    "e0e6b17084918796d00f99af8ba9b32206aabf36e4e710139e0a990893cd8758": {
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oUEFyM0ZldlZ0eXEtZ3NBMlNZMi1Wbi00bmZqckt6blhtcmFQMmxLZXhuRG12LVA4TTRhYnR0RlBxcWZCcGs2dWstVnZ1M3RoTlRSUzlTNGxYc1U?oc=5",
-      "title": "数百人の若者が集う「ティーンテイクオーバー」で銃撃、10代男性1人死亡 米独立記念日 - CNN.co.jp",
-      "saved": "2026-07-06-shu-bai-ren-noruo-zhe-kaji-u-teinteikuoha-techong-ji-10dai-nan-xing-1ren-si-wang.md",
-      "ts": 1783308754
-    },
-    "da4b12e98e9f765dbb6191f219fe76990f113b6f92f5fe397e4cc7a01aeb4efb": {
-      "link": "http://www3.nhk.or.jp/news/html/20260705/k10015169231000.html",
-      "title": "【随時更新】Ｗ杯得点ランキング スーパースターのゴール動画",
-      "saved": "2026-07-06-sui-shi-geng-xin-wbei-de-dian-rankinku-suhasutanokorudong-hua.md",
-      "ts": 1783308754
-    },
-    "edac3e023ebf14beeb06ffb01ec9c8588c2a545e9e5d8cbdfa1e8d0d636ee5ff": {
-      "link": "http://www3.nhk.or.jp/news/html/20260706/k10015169721000.html",
-      "title": "男子ゴルフ 米ツアー 最終ラウンド 久常涼が9位",
-      "saved": "2026-07-06-nan-zi-koruhu-mi-tua-zui-zhong-raunto-jiu-chang-liang-ka9wei.md",
-      "ts": 1783308754
-    },
-    "0486cfcf223c93b76900510b459a5fb854d7d974df1704c3388765318487e29c": {
-      "link": "https://www.bbc.com/japanese/articles/czj88kz3wk8o?at_medium=RSS&at_campaign=rss",
-      "title": "イラン前最高指導者の葬儀に息子モジタバ師は不在　高官らは参列",
-      "saved": "2026-07-06-iranqian-zui-gao-zhi-dao-zhe-nozang-yi-nixi-zi-mositahashi-habu-zai-gao-guan-rah.md",
-      "ts": 1783308754
-    },
-    "1049d2d1ce3d1cee418d0d77151ff6615cb0a35b286e7a27c2d2d66774675d7f": {
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sbHE4N0xWbU9NUjhLMXdKZWo0ZXF3WURCLXBNRGR6WHk0U2RZeXhYMEt5VlUzT2U2eFdaSkd4YmFuR2NHZ2UwZVQ2bmRTNVRrcERr?oc=5",
-      "title": "ロシア、弾道ミサイルでキーウを攻撃 重要なNATO首脳会議前に - CNN.co.jp",
-      "saved": "2026-07-06-rosia-dan-dao-misairutekiuwogong-ji-zhong-yao-nanatoshou-noy-hui-yi-qian-ni-cnn-.md",
-      "ts": 1783308754
-    },
-    "6551e7211553595d2684035c39df0efc4db21b16304c54e3e9b2e190e45b342b": {
-      "link": "http://www3.nhk.or.jp/news/html/20260706/k10015169701000.html",
-      "title": "W杯北中米大会 クリスチアーノ・ロナウド「最後になるだろう」",
-      "saved": "2026-07-06-wbei-bei-zhong-mi-da-hui-kurisutianoronauto-zui-hou-ninarutarou.md",
-      "ts": 1783308754
-    },
-    "247125b26f0b53df66fc6f569520f2ca7b7051c9d602d3c382edece5e5b9f3cd": {
-      "link": "https://www.itmedia.co.jp/news/articles/2607/06/news062.html",
-      "title": "ブロードコムによるVMware製品抱き合わせ販売疑惑、独占禁止法違反と認定されず　公取委の調査終了",
-      "saved": "2026-07-06-hurotokomuniyoruvmwarezhi-pin-bao-kihe-wasefan-mai-yi-huo-du-zhan-jin-zhi-fa-wei.md",
-      "ts": 1783308754
-    },
-    "f10976f9add24af8f816102a807ce3fb6776ab1a7d71885e58df34c220b92cfa": {
-      "link": "http://www3.nhk.or.jp/news/html/20260706/k10015169691000.html",
-      "title": "サイバー攻撃で4万人余を勝手に退会させたか 高校生を逮捕",
-      "saved": "2026-07-06-saihagong-ji-te4mo-ren-yu-wosheng-shou-nitui-hui-sasetaka-gao-xiao-sheng-wodai-b.md",
-      "ts": 1783308754
-    },
-    "720c98b0610769c14ba6b77bc036107c61ffd061242460bb88b19be403c9efff": {
-      "link": "https://www.itmedia.co.jp/news/articles/2607/06/news060.html",
-      "title": "AIサーバで稼ぐシャープ　2030年度の新規事業売上高の8割強目指す　鴻海と連携",
-      "saved": "2026-07-06-aisahatejia-kusiyahu-2030nian-du-noxin-gui-shi-ye-mai-shang-gao-no8ge-qiang-mu-z.md",
-      "ts": 1783308754
-    },
-    "197fcc3beb393a1fc12a027559459f55a5072de9c599d1cb5296f7ba8b0c0d3c": {
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE85RHdHNzFLWWpadlhMQk5KcGZwWWpGNnh5R2VBS1E2SmJLMXljcjM3NF9fWUpINzdiSmNQMWNOekFZbDV0Q2tyVGZZWkpyb3U5VW9XOA?oc=5",
-      "title": "トランプ氏、FIFA会長にレッドカード処分見直すよう要請か 米国FW、ベルギー戦出場へ(1/2) - CNN.co.jp",
-      "saved": "2026-07-06-toranhushi-fifahui-chang-niretutokatochu-fen-jian-zhi-suyouyao-qing-ka-mi-guo-fw.md",
-      "ts": 1783308754
-    },
-    "66332b4639b5d2201f52de9be5f6b064c5d732201f0a549acb749665c67599ac": {
-      "link": "https://www.itmedia.co.jp/news/articles/2607/06/news059.html",
-      "title": "キオクシア、新型メモリのサンプル出荷開始　岩手の工場の最先端設備活用",
-      "saved": "2026-07-06-kiokusia-xin-xing-memorinosanhuruchu-he-kai-shi-yan-shou-nogong-chang-nozui-xian.md",
-      "ts": 1783308754
-    },
-    "ed93bf428eeed63ea60060fbe2da85d1f9e9cc675585fa57b78e24b8569d9c8e": {
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTZEYtUXhDaW13V0MtdFZma0l4Q2V6ZjBtcFE1LXVnMS1NY2hDQkhoSk5sS0VKXzhUeExnQmhrc2J3cWd0MkhrakQ5dGZJWDJUTkhWdjln?oc=5",
-      "title": "ノルウェー、ブラジル下し初の8強入り ハーランドが圧巻の2得点 北中米W杯 - CNN.co.jp",
-      "saved": "2026-07-06-noruue-hurasiruxia-sichu-no8qiang-ru-ri-harantokaya-juan-no2de-dian-bei-zhong-mi.md",
-      "ts": 1783308754
-    },
-    "20b991e38e998105512b356278227468e4abd855b296087e5ab06c2f4b805877": {
-      "link": "http://www3.nhk.or.jp/news/html/20260706/k10015169681000.html",
-      "title": "ブルージェイズ岡本和真 2試合続けてノーヒット",
-      "saved": "2026-07-06-hurusieisugang-ben-he-zhen-2shi-he-sok-ketenohituto.md",
-      "ts": 1783308754
-    },
-    "ba3dc1f2183953351598b50a4c4a379747890680c8aeffff8b6c121b20335969": {
-      "link": "http://www3.nhk.or.jp/news/html/20260706/k10015169671000.html",
-      "title": "カブス 鈴木誠也 4打数ノーヒット チームは逆転勝ち",
-      "saved": "2026-07-06-kahusu-ling-mu-cheng-ye-4da-shu-nohituto-timuhani-zhuan-sheng-ti.md",
-      "ts": 1783308754
-    },
-    "a37cb22be977ce672184f0762e5a2477fdf6e8292cc92bcb02f11e440d3699c2": {
-      "link": "https://www.itmedia.co.jp/business/articles/2607/06/news015.html",
-      "title": "「普通に満足」だけでは、もう選ばれない？　ユニクロ、セコマの事例にみる「感動のツボ」の設計",
-      "saved": "2026-07-06-pu-tong-niman-zu-taketeha-mouxuan-harenai-yunikuro-sekomanoshi-li-nimiru-gan-don.md",
-      "ts": 1783308754
-    },
-    "0a2dad5884ed225b0cdd88b29d97c6ba644360ce1cd2b4904d912d5bce23c8a3": {
-      "link": "http://www3.nhk.or.jp/news/html/20260706/k10015169601000.html",
-      "title": "ウィンブルドン 望月慎太郎は世界1位シナーに敗れる",
-      "saved": "2026-07-06-uinhuruton-wang-yue-shen-tai-lang-hashi-jie-1wei-sinanibai-reru.md",
-      "ts": 1783308754
-    },
-    "486ad62dbd3ee0e6691d700a084b2bf9a266c901fe3787fa95cf4ac92c4a838d": {
-      "link": "https://www.itmedia.co.jp/business/articles/2607/06/news051.html",
-      "title": "「ペヤングをもっと大きくしたい」　異物混入騒動が転機だった、30歳の社長が語る決意",
-      "saved": "2026-07-06-heyankuwomotutoda-kikusitai-yi-wu-hun-ru-sao-dong-kazhuan-ji-tatuta-30sui-noshe-.md",
-      "ts": 1783308754
-    },
-    "0f13d405df3a888ab224963fdd6246653b4e8c97478d4e7b01ae07620f43a2ba": {
-      "link": "https://www.itmedia.co.jp/business/articles/2607/06/news050.html",
-      "title": "食品各社が\"猛暑向け\"商品続々　すっきりビール、シャリシャリめんつゆも",
-      "saved": "2026-07-06-shi-pin-ge-she-ka-meng-shu-xiang-ke-shang-pin-sok-sutukirihiru-siyarisiyarimentu.md",
-      "ts": 1783308754
-    },
-    "0cc51949aef41829722230af3aabf03e223aa63af7595af04c0345d2a0917fd0": {
-      "link": "https://www.itmedia.co.jp/business/articles/2607/06/news023.html",
-      "title": "「社長は君しかいない」　社会人2年目が廃業寸前の「老舗かまぼこ店」を黒字化できたワケ",
-      "saved": "2026-07-06-she-chang-hajun-sikainai-she-hui-ren-2nian-mu-kafei-ye-cun-qian-no-lao-pu-kamaho.md",
-      "ts": 1783308754
-    },
-    "3e94a89eb08d72fd3be84afe63064ca72695dc93f46307a0cc1e86ba6e9e3fca": {
-      "link": "https://www.itmedia.co.jp/business/articles/2607/06/news013.html",
-      "title": "社員を抱えきれない時代に　早期退職だけが答えではない、「シニア副業」という一手",
-      "saved": "2026-07-06-she-yuan-wobao-ekirenaishi-dai-ni-zao-qi-tui-zhi-takekada-etehanai-siniafu-ye-to.md",
-      "ts": 1783308754
-    },
-    "4297b6dfd6842abd0f442940e9b6b6ccb0666df727387f76dec498a05934c53c": {
-      "link": "https://www.itmedia.co.jp/news/articles/2607/06/news052.html",
-      "title": "「Amazon Mechanical Turk」、7月30日で新規受付終了──2005年開始のAWSのクラウドソーシング",
-      "saved": "2026-07-06-amazon-mechanical-turk-7yue-30ri-texin-gui-shou-fu-zhong-liao-2005nian-kai-shi-n.md",
-      "ts": 1783308754
-    },
-    "3136cf48881154c89a8601d05f0bf52691eec18baeef9ec5ece86ff8ae63242e": {
-      "link": "https://www.itmedia.co.jp/news/articles/2607/03/news044.html",
-      "title": "「労働時間を長くしたい」男性3％・女性6％……どんな人？　東大が調査",
-      "saved": "2026-07-06-lao-dong-shi-jian-wochang-kusitai-nan-xing-3-nu-xing-6-tonnaren-dong-da-kadiao-c.md",
-      "ts": 1783308754
-    },
-    "07e2cc0aae8fe132d3e0b0e347151e5ed58fea9f2bb0ae44d6ad20e2f4e862ec": {
-      "link": "https://www.itmedia.co.jp/business/articles/2607/06/news006.html",
-      "title": "オフィスの複数拠点化で陥る「2つの落とし穴」　総務の「用務員化」を防ぐ仕組みとは？",
-      "saved": "2026-07-06-ohuisunofu-shu-ju-dian-hua-texian-ru-2tunoluo-tosixue-zong-wu-no-yong-wu-yuan-hu.md",
-      "ts": 1783308754
-    },
-    "1dc1c691ec281746fd3cc9c13d4794d4fff7b7c09097e1b3022666918e4560ca": {
-      "link": "https://www.itmedia.co.jp/business/articles/2607/06/news014.html",
-      "title": "音楽のヤマハが「あえて聞こえにくくする」謎音声　オフィスや病院で導入進む、逆転の発想",
-      "saved": "2026-07-06-yin-le-noyamahaka-aetewen-koenikukusuru-mi-yin-sheng-ohuisuyabing-yuan-tedao-ru-.md",
-      "ts": 1783308754
-    },
-    "6b31f344dba775b1cb162949789fa230aeec24717a43b1aeea23e1ab0edb93fa": {
-      "link": "https://www.itmedia.co.jp/business/articles/2607/06/news019.html",
-      "title": "富裕層にいかに金を使わせる？　ダイナースとニューオータニ「18万円超カード」の真意",
-      "saved": "2026-07-06-fu-yu-ceng-niikanijin-woshi-waseru-tainasutoniyuotani-18mo-yuan-chao-kato-nozhen.md",
-      "ts": 1783308754
-    },
-    "06c890d10c99ef5018621f32901be2c763d2aa62a5775d290344127c2b4268dc": {
-      "link": "http://www3.nhk.or.jp/news/html/20260706/k10015169581000.html",
-      "title": "ウィンブルドン 大坂なおみが世界1位破り初の準々決勝進出",
-      "saved": "2026-07-06-uinhuruton-da-ban-naomikashi-jie-1wei-po-richu-nozhun-jue-sheng-jin-chu.md",
-      "ts": 1783308754
-    },
-    "f69ab38c02bf9852998417b576177a78036468a0d10c302fe9f8ef672b0f3c3d": {
-      "link": "https://www.itmedia.co.jp/business/articles/2607/06/news024.html",
-      "title": "仕事の連絡がAI文章だったら？　6割超が「見抜いた経験あり」、気付いた相手の本音は",
-      "saved": "2026-07-06-shi-shi-nolian-luo-kaaiwen-zhang-tatutara-6ge-chao-ka-jian-ba-itajing-yan-ari-qi.md",
-      "ts": 1783308754
-    },
-    "d9e62598e6db0474bbaabeb12360361370c16bbbf185843591308b8ee85a5d1e": {
-      "link": "http://www3.nhk.or.jp/news/html/20260705/k10015169541000.html",
-      "title": "【プロ野球結果】ソフトバンク 近藤が2本のスリーランHRの活躍",
-      "saved": "2026-07-06-huroye-qiu-jie-guo-sohutohanku-jin-teng-ka2ben-nosuriranhrnohuo-yue.md",
-      "ts": 1783308754
-    },
-    "2d077f146b555a04382bb21a0b07f0cad2cf0b9e7279726f385f42f1722bc90c": {
-      "link": "http://www3.nhk.or.jp/news/html/20260705/k10015169451000.html",
-      "title": "Xゲームズ スケートボード男子ストリート 小野寺吟雲が優勝",
-      "saved": "2026-07-05-xkemusu-suketohotonan-zi-sutorito-xiao-ye-si-yin-yun-kayou-sheng.md",
-      "ts": 1783308754
-    },
-    "e5abb1d7a6d4e88e291e8fc8dc76da0c85c468212b35d9345f566c7462c07bac": {
-      "link": "http://www3.nhk.or.jp/news/html/20260705/k10015169461000.html",
-      "title": "女子ゴルフ国内ツアー 倉林紅が初優勝 7人のプレーオフ制す",
-      "saved": "2026-07-05-nu-zi-koruhuguo-nei-tua-cang-lin-hong-kachu-you-sheng-7ren-nohureohuzhi-su.md",
-      "ts": 1783308754
-    },
-    "d295d39fd0375ac70af8b3789495454843a51b4f365b38530ce745763ac7ddff": {
-      "link": "http://www3.nhk.or.jp/news/html/20260705/k10015169431000.html",
-      "title": "陸上女子100mハードル 中島ひとみが12秒75で優勝",
-      "saved": "2026-07-05-lu-shang-nu-zi-100mhatoru-zhong-dao-hitomika12miao-75teyou-sheng.md",
-      "ts": 1783308754
-    },
-    "3fd52b1718ea75c5a293be5d38c539c6110afead10fa7764bb727191ee82ead0": {
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJYjhUcUh0alNPdHZJcHhmaGhDV29KMEF5MnNKNk1XVm1XWE5mX1BQdHdJNGJWTFNPejVtOHp5UnpjWDBzMGR4Q3RnWXpxNTJnYVBmbg?oc=5",
-      "title": "米テキサス州の動物園に戻ってきた双頭のヘビ「パンチョ・アンド・レフティー」 - CNN.co.jp",
-      "saved": "2026-07-05-mi-tekisasuzhou-nodong-wu-yuan-nili-tutekitashuang-tou-nohehi-hantiyoantorehutei.md",
-      "ts": 1783308754
-    },
-    "897904402266525bc6077def69adf9a94b9db00e6459c2428aec2c1c432d770e": {
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JNE9oWlhLQTMtRmdmeUdDa1BPUVVXNXdERmQ3S3BEckdXNXBPaTRSV0IzN0NKMEltcHhzeWktSGlTVEFqRXVHeEtJV2RySUdWTFZNZw?oc=5",
-      "title": "双頭のヘビ、動物園に復帰 左右の頭が別方向に向かい負傷 23年米テキサス州 - CNN.co.jp",
-      "saved": "2026-07-05-shuang-tou-nohehi-dong-wu-yuan-nifu-gui-zuo-you-notou-kabie-fang-xiang-nixiang-k.md",
-      "ts": 1783308754
-    },
-    "c646de35eaf4b6533d872f2b02dc8b33d41bcd9946145224f7c8d4690187ac3d": {
-      "link": "http://www3.nhk.or.jp/news/html/20260705/k10015169391000.html",
-      "title": "男子ゴルフ国内ツアー 岩崎亜久竜が逆転優勝 ツアー3勝目",
-      "saved": "2026-07-05-nan-zi-koruhuguo-nei-tua-yan-qi-ya-jiu-long-kani-zhuan-you-sheng-tua3sheng-mu.md",
-      "ts": 1783308755
-    },
-    "367f3441dbddfc38504fef92ec24ce19515fb28840ec94653b9ba03553f2dd67": {
-      "link": "http://www3.nhk.or.jp/news/html/20260705/k10015169291000.html",
-      "title": "カブス 今永昇太 5回途中2失点で7敗目 鈴木誠也はノーヒット",
-      "saved": "2026-07-05-kahusu-jin-yong-sheng-tai-5hui-tu-zhong-2shi-dian-te7bai-mu-ling-mu-cheng-ye-han.md",
-      "ts": 1783308755
-    },
-    "09bfdac7843303723a02a03baf7aa0f7f47b47f98f409235dba4d6dbf76c7619": {
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9lb3A3d3F1Qy1WdGgtb2dHc2wwaDNRUlhFclMxN3ppM0pBSWZaVHo1MW5ocTlmMnQycFZWTzJjYjhGcFQtSlR6YlM0bkxRNURPZnBLMA?oc=5",
-      "title": "水質めぐりパリ五輪で物議を醸したセーヌ川、今や人気の遊泳スポットに(1/2) - CNN.co.jp",
-      "saved": "2026-07-05-shui-zhi-mekurihariwu-lun-tewu-yi-woniang-sitasenuchuan-jin-yaren-qi-noyou-yong-.md",
-      "ts": 1783308755
-    },
-    "d783868a066ef7dac06a94a462443846605a586e7a9d19d5654fafde82dc5167": {
-      "link": "http://www3.nhk.or.jp/news/html/20260705/k10015169301000.html",
-      "title": "ドジャース 山本由伸 7回無失点9勝目 自己最多に並ぶ10奪三振",
-      "saved": "2026-07-05-tosiyasu-shan-ben-you-shen-7hui-wu-shi-dian-9sheng-mu-zi-ji-zui-duo-nibing-hu10d.md",
-      "ts": 1783308755
-    },
-    "8ef2adff1425f2c8df96de78bd1cfa7e26c57609dc698f18183dbc3e81272cb0": {
-      "link": "http://www3.nhk.or.jp/news/html/20260705/k10015169111000.html",
-      "title": "W杯 見どころ【7月6日】ブラジルとノルウェーが8強かけ対戦",
-      "saved": "2026-07-05-wbei-jian-tokoro-7yue-6ri-hurasirutonoruueka8qiang-kakedui-zhan.md",
-      "ts": 1783308755
-    },
-    "ba225ecb4dcae689951898b53d82c6420271d39d37037582c88b5a63657009a4": {
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1oZlBNSkR5d1VkekNvVHpCblZNWHNVOEZqU0c4cEtIYWNrdlFLY0VjWWJ3bkpLUVBySGFFVjBpMEZsYzk5WmhZSTl5M3ZVQS1h?oc=5",
-      "title": "トランプ氏、建国250年を記念する演説開始 天候による遅れ経て - CNN.co.jp",
-      "saved": "2026-07-05-toranhushi-jian-guo-250nian-woji-nian-suruyan-shuo-kai-shi-tian-hou-niyoruchi-re.md",
-      "ts": 1783308755
-    },
-    "729e7eea76624e968e047754ea29ef599d6a5cd36809f85a20529f49091a3d46": {
-      "link": "http://www3.nhk.or.jp/news/html/20260705/k10015169201000.html",
-      "title": "大リーグ オールスターゲーム 山本由伸が2年連続の選出",
-      "saved": "2026-07-05-da-riku-orusutakemu-shan-ben-you-shen-ka2nian-lian-sok-noxuan-chu.md",
-      "ts": 1783308755
-    },
-    "124e4e98172f7f9784261049b212dfd156cdc6611b2643308e2e675dcbd8f4dd": {
-      "link": "http://www3.nhk.or.jp/news/html/20260705/k10015169181000.html",
-      "title": "ロッキーズ 菅野智之 背中の張りでけが人リスト入り",
-      "saved": "2026-07-05-rotukisu-jian-ye-zhi-zhi-bei-zhong-nozhang-ritekekaren-risutoru-ri.md",
-      "ts": 1783308755
-    },
-    "92de376d7b00feb3e9a1dae46d6de0ae62f8ccbfc90ff8f6886d43db2e40b3a9": {
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5uUGFqbzYtcUxfdENHNV9IbldqMFN1Wk9ZUTFYbV9WVTZMQ2tnaFM2RU1BZWRIMUdyNUtVRFVoek90R2xlQks0OXBHSjhpbVBMeG9F?oc=5",
-      "title": "ハメネイ師の葬儀、1500万人参列の見通し イランメディア報道 - CNN.co.jp",
-      "saved": "2026-07-05-hameneishi-nozang-yi-1500mo-ren-can-lie-nojian-tong-si-iranmeteiabao-dao-cnn-co-.md",
-      "ts": 1783308755
-    },
-    "7a91973698f1de5248b9d8801a53ca39322b04032fbcb7877e8ea7236ee6495c": {
-      "link": "http://www3.nhk.or.jp/news/html/20260705/k10015169151000.html",
-      "title": "ブルージェイズ 岡本和真 3打数ノーヒット チームも大敗",
-      "saved": "2026-07-05-hurusieisu-gang-ben-he-zhen-3da-shu-nohituto-timumoda-bai.md",
-      "ts": 1783308755
-    },
-    "fbd10dd656e1fe63f93fde91e6d0c904c08c3399a5be6d6d3f1e0c57ef566339": {
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBpQ1d3WklsMF9vQUhON0psVU5lTDNFU3BHMG9PMldwY2RFZDllcGJVakpkemxoaERsWTNIVEpZZ0lqeWFmNDhkU0F5dTRCZVdJNmZKeA?oc=5",
-      "title": "違法な情報収集をめぐり英紙デイリー・メールの発行元を提訴した裁判のため1月に渡英した際のヘンリー王子 - CNN.co.jp",
-      "saved": "2026-07-05-wei-fa-naqing-bao-shou-ji-womekuriying-zhi-teirimerunofa-xing-yuan-woti-su-sitac.md",
-      "ts": 1783308755
-    },
-    "6c886186f8006f778e910406f24d39fe08e7fedba7e40a9b3b30f85a3ff4cba8": {
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HMjZXOU5kR2JZZmtoNzhheUR3UV9qSUcyVlhaWXI1YnBhVUMzdk54dmMydTh5RGFZd2xyYU1VaGhrUmN0Rmt2X0ZvVm5JQm9ZSVg4?oc=5",
-      "title": "ヘンリー王子の訪英、メーガン妃ら一家は同行せず 警護めぐり食い違い - CNN.co.jp",
-      "saved": "2026-07-05-henriwang-zi-nofang-ying-mekanfei-rayi-jia-hatong-xing-sesu-jing-hu-mekurishi-iw.md",
-      "ts": 1783308755
-    },
-    "9ec9bd0f4286d0ffe5947be6c1ac803fd2862aaec128de5677f3db0034a6894f": {
-      "link": "http://www3.nhk.or.jp/news/html/20260705/k10015169051000.html",
-      "title": "W杯 フランスがベスト8へ エムバペが今大会7点目 トップに並ぶ",
-      "saved": "2026-07-05-wbei-huransukahesuto8he-emuhahekajin-da-hui-7dian-mu-totuhunibing-hu.md",
-      "ts": 1783308755
-    },
-    "a44605af7f42bac8ec338bdb379da7c3f0f6fb366d2e55aab671fb935400477d": {
-      "link": "http://www3.nhk.or.jp/news/html/20260705/k10015169031000.html",
-      "title": "W杯 モロッコがベスト8一番乗り 開催国のカナダは敗退",
-      "saved": "2026-07-05-wbei-morotukokahesuto8yi-fan-cheng-ri-kai-cui-guo-nokanatahabai-tui.md",
-      "ts": 1783308755
-    },
-    "4555e720c4f178bad4e1a213530f286803253acfe8ae5f80f9220c9cad2dc869": {
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9yRDhTVUpmQjV2bEhrRzRuaDN4OWlidmpmaGczNWdCNUlGUDQ0aXhPaEQ5SjR0Q2ljLWtld0FVREF2SnRVcWNXNXJ2UGt5WkZS?oc=5",
-      "title": "米海軍「ブルーエンジェルス」、編隊飛行を披露 建国250周年の祝賀行事で - CNN.co.jp",
-      "saved": "2026-07-05-mi-hai-jun-huruensierusu-bian-dui-fei-xing-wopi-lu-jian-guo-250zhou-nian-nozhu-h.md",
-      "ts": 1783308755
-    },
-    "d0bd1248b5c3e73d731417fb5667f5ec1d85a1d42ab18b8be8e05fed511d56b4": {
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lMVN3QWhobjlTUWxlNkVNRUpxMHpLcEF2Y0s2aV90S3Ftdl80WWxuaW5wclFvSnJnMThBcFhaTzBWejNEVWhzdWRRc2RNbzRGSEdn?oc=5",
-      "title": "プーチン氏、米建国250周年に祝意 トランプ氏へ親しさ示すメッセージ - CNN.co.jp",
-      "saved": "2026-07-05-hutinshi-mi-jian-guo-250zhou-nian-nizhu-yi-toranhushi-heqin-sisashi-sumetusesi-c.md",
-      "ts": 1783308755
-    },
-    "2aab92c3fe48465d9d40769c6bb1cf0434c95da1dde1215a1ca1ca8c99c7f663": {
-      "link": "https://www.itmedia.co.jp/business/articles/2607/05/news002.html",
-      "title": "“夕日ビール”はなぜ蘇ったのか　シェア1割、アサヒ大逆転の舞台裏",
-      "saved": "2026-07-05-xi-ri-hiru-hanasesu-tutanoka-siea1ge-asahida-ni-zhuan-nowu-tai-li.md",
-      "ts": 1783308755
-    },
-    "b1dd2d6a92363deef1972ebdaad64d1df522983f56965a33a394ee5c2e65c94e": {
-      "link": "https://www.itmedia.co.jp/news/articles/2607/05/news009.html",
-      "title": "人気ホラーゲームの新作が発売中止？　告知投稿を見たマンガ家が感じた“モキュメンタリーの難しさ”",
-      "saved": "2026-07-05-ren-qi-horakemunoxin-zuo-kafa-mai-zhong-zhi-gao-zhi-tou-gao-wojian-tamankajia-ka.md",
-      "ts": 1783308755
-    },
-    "3e9783ac4086cce43c75fa2468c6ff6989a124e7fc35a44462d072c083dcf8c0": {
-      "link": "https://www.itmedia.co.jp/business/articles/2607/05/news005.html",
-      "title": "なぜ「皮だけ」「ガリだけ」が売れるのか　販売データで見えたドンキ「偏愛めし」の買われ方",
-      "saved": "2026-07-05-nase-pi-take-karitake-kamai-rerunoka-fan-mai-tetatejian-etatonki-pian-ai-mesi-no.md",
-      "ts": 1783308755
-    },
-    "6a04c227006ca1166051d0893b96f16b71dfb032c9dfa90e3457a24eadc40d89": {
-      "link": "https://www.itmedia.co.jp/business/articles/2607/05/news019.html",
-      "title": "建て替えより「放置」が増える？　老朽マンション再生の現実",
-      "saved": "2026-07-05-jian-teti-eyori-fang-zhi-kazeng-eru-lao-xiu-mansiyonzai-sheng-noxian-shi.md",
-      "ts": 1783308755
-    },
-    "49f402bc9c8b6cb60c055d4e3e9f9ce08d2cf3645e7e93717e2e3bce89b720ed": {
-      "link": "https://www.itmedia.co.jp/business/articles/2607/05/news020.html",
-      "title": "AQUOS、REGZA、BRAVIA……テレビブランドはどう変わっていくのか",
-      "saved": "2026-07-05-aquos-regza-bravia-terehihurantohatoubian-watuteikunoka.md",
-      "ts": 1783308755
-    },
-    "1c66fd389bf0077ed4370499e4e10480be67bd052e3455c5cb80ab540c8e3881": {
-      "link": "http://www3.nhk.or.jp/news/html/20260704/k10015169011000.html",
-      "title": "カボベルデ どんな国？W杯で大躍進 日本と意外なつながりも",
-      "saved": "2026-07-05-kahoherute-tonnaguo-wbei-teda-yue-jin-ri-ben-toyi-wai-natunakarimo.md",
-      "ts": 1783308755
-    },
-    "1c25e514c249ef9a3d62439a6647e2810ac7cef40ea5a17e2a5614ea5342b056": {
-      "link": "http://www3.nhk.or.jp/news/html/20260704/k10015168991000.html",
-      "title": "ラグビー日本代表 イタリアに勝利 新設の国際大会初戦で",
-      "saved": "2026-07-04-rakuhiri-ben-dai-biao-itarianisheng-li-xin-she-noguo-ji-da-hui-chu-zhan-te.md",
-      "ts": 1783308755
-    },
-    "3f8cd8ba4d72c160104c42d067c133800cea914e1623b8e575e1ac458b3864e7": {
-      "link": "http://www3.nhk.or.jp/news/html/20260704/k10015168931000.html",
-      "title": "【プロ野球結果】ソフトバンク 連勝6で止まる 新人が初登板も",
-      "saved": "2026-07-04-huroye-qiu-jie-guo-sohutohanku-lian-sheng-6tezhi-maru-xin-ren-kachu-deng-ban-mo.md",
-      "ts": 1783308755
-    },
-    "130e4cb3c8856f38c5bc14a88724ac0ace32e4d2efc083673619bddca52e04c4": {
-      "link": "http://www3.nhk.or.jp/news/html/20260704/k10015168791000.html",
-      "title": "W杯 見どころ【7月5日】ベスト8かけフランスはパラグアイと",
-      "saved": "2026-07-04-wbei-jian-tokoro-7yue-5ri-hesuto8kakehuransuhaharakuaito.md",
-      "ts": 1783308755
-    },
-    "9dfe673cad83245e1a19d72f102e517b4cebd98aad5e6eaa33dd460cc80bfdcd": {
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5CLUVDVXhwNExBZGVIYlgzZEZzMmFtZWt5b0F1Qnk5bld6T3ZSRTMydTgzdHVYZWVkYkRCUkJXT196QkV0M0JYeE9VYlNEV21fT212OQ?oc=5",
-      "title": "ダークチョコレートに基準値を超える量の鉛やカドミウムが含まれていたとする研究結果が発表された - CNN.co.jp",
-      "saved": "2026-07-04-takutiyokoretoniji-zhun-zhi-wochao-eruliang-noqian-yakatomiumukahan-mareteitatos.md",
-      "ts": 1783308755
-    },
-    "eacb4c6bfaa61e3d1d11dc0c86f21fd6cd939b5c24afea42d4cb8507cd6e3918": {
-      "link": "http://www3.nhk.or.jp/news/html/20260704/k10015168851000.html",
-      "title": "サッカーW杯 ベスト16出そろう メッシなどエースの活躍 際立つ",
-      "saved": "2026-07-04-satukawbei-hesuto16chu-sorou-metusinatoesunohuo-yue-ji-li-tu.md",
-      "ts": 1783308755
-    },
-    "e0b00f2fe2f19bdfd2119439dee482eb2ecb334a1d4eea19b734d04889bad9c0": {
-      "link": "https://www.bbc.com/japanese/articles/cy732x5n1ppo?at_medium=RSS&at_campaign=rss",
-      "title": "イラン前最高指導者ハメネイ師の葬儀始まる",
-      "saved": "2026-07-04-iranqian-zui-gao-zhi-dao-zhe-hameneishi-nozang-yi-shi-maru.md",
-      "ts": 1783308755
-    },
-    "0647deb45c362ddbf8de4f282a92d7cb5d043d76718ff23354d0bcb990d6d5b1": {
-      "link": "http://www3.nhk.or.jp/news/html/20260704/k10015168881000.html",
-      "title": "フィギュアスケート 中井亜美 千葉百音ら強化合宿で調整",
-      "saved": "2026-07-04-huikiyuasuketo-zhong-jing-ya-mei-qian-xie-bai-yin-raqiang-hua-he-su-tediao-zheng.md",
-      "ts": 1783308755
-    },
-    "02179973ded9f9e57c453c8206cde189aa5679fb13e5a2445cf988a3e2ed3ad7": {
-      "link": "http://www3.nhk.or.jp/news/html/20260704/k10015168751000.html",
-      "title": "ドジャース 大谷翔平 6回3失点で9勝目ならず チームは逆転勝ち",
-      "saved": "2026-07-04-tosiyasu-da-gu-xiang-ping-6hui-3shi-dian-te9sheng-mu-narasu-timuhani-zhuan-sheng.md",
-      "ts": 1783308755
-    },
-    "636d3aca6f4fb182de8aec018d183fcfa142b2faa5f151031c8048b283e4d41b": {
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5IYnluWTJrUlhSMEJuWkE0Q19Ob3hiT09wVF94OTJ1MUNBNFFnYjlqLThzNWtFYmlBeE40aEE1UVNwcEtxVFVCYTRZRTc1Vjdlbkl0OA?oc=5",
-      "title": "ダークチョコから有害な重金属を検出 24年米研究 - CNN.co.jp",
-      "saved": "2026-07-04-takutiyokokarayou-hai-nazhong-jin-shu-wojian-chu-24nian-mi-yan-jiu-cnn-co-jp.md",
-      "ts": 1783308755
-    },
-    "ae7e5b1ed1d15f36870f0db654db288af62bd49a352d642872cd68eed88c9a4b": {
-      "link": "http://www3.nhk.or.jp/news/html/20260704/k10015168801000.html",
-      "title": "ブルージェイズ 岡本和真 2試合連続ヒット チームは2連勝",
-      "saved": "2026-07-04-hurusieisu-gang-ben-he-zhen-2shi-he-lian-sok-hituto-timuha2lian-sheng.md",
-      "ts": 1783308755
-    },
-    "2dd85759d34bde16042d0b1af12519df92eb5adf86e288ae400e7fe174e8bd37": {
-      "link": "http://www3.nhk.or.jp/news/html/20260704/k10015168841000.html",
-      "title": "プロ野球 オリックス 対 西武 天候不良のため中止",
-      "saved": "2026-07-04-huroye-qiu-oritukusu-dui-xi-wu-tian-hou-bu-liang-notamezhong-zhi.md",
-      "ts": 1783308755
-    },
-    "8245c9d2763c2a48e9e858c50752aef92475d5dff034fc3ff295cba9cd7d9564": {
-      "link": "http://www3.nhk.or.jp/news/html/20260704/k10015168831000.html",
-      "title": "プロ野球 阪神 対 広島 天候不良のため中止",
-      "saved": "2026-07-04-huroye-qiu-ban-shen-dui-guang-dao-tian-hou-bu-liang-notamezhong-zhi.md",
-      "ts": 1783308755
-    },
-    "b259fbf7dbc4b3a5f4e5974516544e356a99fa56f9de480c6e5c5ee181958a41": {
-      "link": "http://www3.nhk.or.jp/news/html/20260704/k10015168761000.html",
-      "title": "サッカーW杯 コロンビアがガーナに勝利し2回戦へ",
-      "saved": "2026-07-04-satukawbei-koronhiakakananisheng-li-si2hui-zhan-he.md",
-      "ts": 1783308755
-    },
-    "6223fb37b8bcdf8b3db5d027cf6fa3f53dfc27a4d8f9bc77f59bb6d9f9a7e69e": {
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ERDVwZnlhYkZvc2tHaHR4WWZLT2RQczJFdmZyZkIwWF9RY3Z0c2l1VTZ4T1hESjZla0trZEh3bFJRSWhnRWs2ZkllQUJ5bnR1VWlj?oc=5",
-      "title": "殺害されたハメネイ師の葬儀に大勢の市民、響く嘆きの声 イラン - CNN.co.jp",
-      "saved": "2026-07-04-sha-hai-saretahameneishi-nozang-yi-nida-shi-noshi-min-xiang-kutan-kinosheng-iran.md",
-      "ts": 1783308755
-    },
-    "060156134a72e465fe33ad6ee809f19f29dc4d2f0dca7949d28e0a9ad46fb722": {
-      "link": "http://www3.nhk.or.jp/news/html/20260704/k10015168681000.html",
-      "title": "W杯 アルゼンチンがカボベルデに延長戦で勝利 2回戦へ",
-      "saved": "2026-07-04-wbei-arusentinkakahoheruteniyan-chang-zhan-tesheng-li-2hui-zhan-he.md",
-      "ts": 1783308755
-    },
-    "93e121354844dd1ec07618a2a5f67bd226d0e1cb1ee8ef090608c8e10990d708": {
-      "link": "http://www3.nhk.or.jp/news/html/20260704/k10015168771000.html",
-      "title": "メッツ 千賀滉大 リリーフ登板1失点 2回と2/3イニングを投げる",
-      "saved": "2026-07-04-metutu-qian-he-huang-da-ririhudeng-ban-1shi-dian-2hui-to2-3ininkuwotou-keru.md",
-      "ts": 1783308755
-    },
-    "3590f54f674b3433f5adca16a38adab95f1d2230716c7fd8e0f65dd8bcb5ad05": {
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1wc2Zxb1c1cXEtNHdPWnA4TlplbWFIMUctXzdCV1p0aDVaU2o5elhXT1NmZHAzd2dTMDFJT0pUOHBNbjNsbDc5a1Z6bzlkNzZZbkZQMA?oc=5",
-      "title": "欧州を襲った記録的な猛暑、数十年前なら「ほぼ起こり得ず」 その理由とは？(1/2) - CNN.co.jp",
-      "saved": "2026-07-04-ou-zhou-woxi-tutaji-lu-de-nameng-shu-shu-shi-nian-qian-nara-hohoqi-koride-su-son.md",
-      "ts": 1783308755
-    },
-    "f7ac6f825e3b0e240e2ac37fed5933a147ec54b7138c48e1cc6a684e0dc6c297": {
-      "link": "https://www.bbc.com/japanese/articles/cwy02722e6vo?at_medium=RSS&at_campaign=rss",
-      "title": "英で少女2人をレイプした少年2人に控訴審で拘禁刑　第一審の量刑が軽すぎると首相も批判",
-      "saved": "2026-07-04-ying-teshao-nu-2ren-woreihusitashao-nian-2ren-nikong-su-shen-teju-jin-xing-di-yi.md",
-      "ts": 1783308755
-    },
-    "fc059d0169efb709b25c79b3b52fb6ea32e26d4c9fe118bb8be3cd99b89c3b01": {
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA4SFJMZW1IVmNDZ3BTeWpZbDFTUGJuX1Y0X2dpbGYwM3NYM08zdXJZcjF0VkRhdG90cFFQSzlkZU5jLUZaS3BsQXpKTUM2V2RnalFaNg?oc=5",
-      "title": "ロシアのキーウ攻撃、異例の犠牲者数になった理由 ジェット推進ドローンが一因か(2/2) - CNN.co.jp",
-      "saved": "2026-07-04-rosianokiugong-ji-yi-li-noikenie-sheng-zhe-shu-ninatutali-you-sietutotui-jin-tor.md",
-      "ts": 1783308755
-    },
-    "2b96695b3f4b1e54a7d487fb09b9c568f3676ba591a3382f94843820ba694192": {
-      "link": "https://www.bbc.com/japanese/articles/cvgjzpv3m65o?at_medium=RSS&at_campaign=rss",
-      "title": "イラン前最高指導者ハメネイ師の遺体を安置、アメリカとの不安定な停戦の中",
-      "saved": "2026-07-04-iranqian-zui-gao-zhi-dao-zhe-hameneishi-noyi-ti-woan-zhi-amerikatonobu-an-ding-n.md",
-      "ts": 1783308755
-    },
-    "e40d44f7557170e31e5c592675d36790e421eb3d0138a68c54b9d9c879552e0e": {
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15RWVzbi1ORkVaTFptNnQ5cGtWWTVseG9EZ2RQRWdFcXRXVzlwSm9NbENTNlhJU0xYWkhTTU9ldEk3VTc1RDlTX3NnMkNKT1E?oc=5",
-      "title": "テイラー・スウィフトさん、トラビス・ケルシーさんと結婚 - CNN.co.jp",
-      "saved": "2026-07-04-teirasuuihutosan-torahisukerusisantojie-hun-cnn-co-jp.md",
-      "ts": 1783308755
-    },
-    "dbca651b067c31c215b82273daefb1efb228c63dd3826e293e9dbadf1ed50b58": {
-      "link": "https://www.bbc.com/japanese/articles/cqj1pd5815xo?at_medium=RSS&at_campaign=rss",
-      "title": "ポーランド首相、ロシアの脅威を念頭に警告　「今後数カ月が極めて重要」になり得ると",
-      "saved": "2026-07-04-horantoshou-xiang-rosianoxie-wei-wonian-tou-nijing-gao-jin-hou-shu-kayue-kaji-me.md",
-      "ts": 1783308755
-    },
-    "c2425afe5bea3a0f0c6400af500b8e7a62bf028629aadeba67d4ef803f0499b5": {
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NZWpvY3FFUDVVUF9pbEMyNjVRVTFXYWFDTEFELUIzSVhtSS02My1udmRPNUhVQk5rbk9HQW9BUklIMWhhWlpsREpsd19DWS00Um1RaEpR?oc=5",
-      "title": "テイラー・スウィフトさん、トラビス・ケルシーさんと結婚 NYの大型アリーナで挙式 - CNN.co.jp",
-      "saved": "2026-07-04-teirasuuihutosan-torahisukerusisantojie-hun-nynoda-xing-arinateju-shi-cnn-co-jp.md",
-      "ts": 1783308755
-    },
-    "2bac7557d42438813a89f9fc3b49063de9dcf0d6232b8fdc435b7e789363c1dc": {
-      "link": "http://www3.nhk.or.jp/news/html/20260704/k10015168701000.html",
-      "title": "カブス 鈴木誠也 7試合ぶりに無安打 チームも大敗",
-      "saved": "2026-07-04-kahusu-ling-mu-cheng-ye-7shi-he-huriniwu-an-da-timumoda-bai.md",
-      "ts": 1783308755
-    },
-    "91b748920ece31dcf7254bec264899292414faaf7a91562c78c867b67a86be02": {
-      "link": "https://www.itmedia.co.jp/news/articles/2607/03/news105.html",
-      "title": "ビッカメもヤマダもかなわんわ――開店ホヤホヤの「ヨドバシ池袋店」に潜入　元地元民が感じた“圧倒的な強み”とは",
-      "saved": "2026-07-04-hitukamemoyamatamokanawanwa-kai-dian-hoyahoyano-yotohasichi-dai-dian-niqian-ru-y.md",
-      "ts": 1783308755
-    },
-    "4dff2622101c54a03845e86e55fc8ee0ec6ed173c4b83cc748d932eb1efde8c7": {
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RNURtN0I0a0tTTTJyYWo3OWtuSVdVWkVvcjg1T09qNnVTZzZQc2NOdkMtVVdkLUFiUnpZVWg3WXNHNHpnZXBPQm1veE95Q0hKaDRj?oc=5",
-      "title": "モナコのウクライナ人富豪を狙った爆発、容疑者は男性装った女 ヘビとみられるタトゥー - CNN.co.jp",
-      "saved": "2026-07-04-monakonoukurainaren-fu-hao-woju-tutabao-fa-rong-yi-zhe-hanan-xing-zhuang-tutanu-.md",
-      "ts": 1783308755
-    },
-    "4a18b91b499fba162e87c2d352e810f175b6895e1e79499020426dab45dc7a17": {
-      "link": "https://www.itmedia.co.jp/business/articles/2607/04/news001.html",
-      "title": "サントリーは東京の会社ではない　知られざる大阪企業のルーツ",
-      "saved": "2026-07-04-santorihadong-jing-nohui-she-tehanai-zhi-raresaruda-ban-qi-ye-norutu.md",
-      "ts": 1783308755
-    },
-    "f64c1488a55cc3f358d679c25e432a2e55dcc45fbeb7f73063c5518879cddc07": {
-      "link": "https://www.itmedia.co.jp/business/articles/2607/04/news008.html",
-      "title": "新NISAの顧客満足度ランキング　証券会社・銀行の1位は？",
-      "saved": "2026-07-04-xin-nisanogu-ke-man-zu-du-rankinku-zheng-quan-hui-she-yin-xing-no1wei-ha.md",
-      "ts": 1783308755
-    },
-    "9a456d82b9be4a005d61b68635692a5fbbc9f0c637cc263399518d92f99f4579": {
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE40RVBwQWtIYXNhZVZYdVlqeFRoZGx3X3ZRREZvcWxZdjFJMnVPWVZWeXU1U1B1Z3BoMnY3UUVPWUtSWDdpSXh4NVpDVFltUVVpRm82Nw?oc=5",
-      "title": "「死んだ星」を周回する惑星、太陽が終わりを迎えたときに起きることを予告している可能性 新研究(1/2) - CNN.co.jp",
-      "saved": "2026-07-03-si-ntaxing-wozhou-hui-suruhuo-xing-tai-yang-kazhong-wariwoying-etatokiniqi-kiruk-2.md",
-      "ts": 1783308755
-    },
-    "22c8887f494b75bd6f8306abf44cd5e2fc50eec67b7e4e96be97250fbe866587": {
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAwbmVOcE5pWTI1SzRJNXk4LXRiT2ZBRFFuRVhWU2lqMHRNR0licENWM0x4dEhyM3pLanlod0p3aDhZR1Rhc0s4NGRLWFhDUi1OZmlNMlQyMA?oc=5",
-      "title": "引き出しに眠っていた骨、「南極大陸で見つかった最初の恐竜化石」と判明(3/3) - CNN.co.jp",
-      "saved": "2026-07-02-yin-kichu-sinimian-tuteitagu-nan-ji-da-lu-tejian-tukatutazui-chu-nokong-long-hua-2.md",
-      "ts": 1783308755
-    },
-    "6d461105a723e7327ba2cbc1410ad7c7ed0c1ac0d673a33e2222f2a315c6b9f3": {
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odHJ6aGhXbVdsMWpXeFRaaFpWZ1BmbG9rSFpPOGg5NzZIY1FXaWVwZFEzbFJsbm52a1JyZmtwd3hKNjB4T0RZRUx5cmFxUnJZZWVTZw?oc=5",
-      "title": "コーヒー摂取の「時間帯を限定」で早死にリスク低減 25年発表の研究 - CNN.co.jp",
-      "saved": "2026-04-26-kohishe-qu-no-shi-jian-dai-woxian-ding-tezao-si-nirisukudi-jian-25nian-fa-biao-n-2.md",
-      "ts": 1783308755
-    },
-    "7e92cefbc8883d1c3299d309612675fc86b68f489d6c3d884209f0e65164fe6b": {
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1wd3lBMTlfdWNCMEYyZ19SRnNEVUxMRTN3RnRkVlpLcjM0cFpuUVJIblJSNWQ4aHpxUHlocVB1Z2cxX0VTZklkalV5M3NaXzlpS0V3Yw?oc=5",
-      "title": "「はい、完全に裸にならなければなりません」 日本の温泉を実際に訪れた外国人が感じたこととは - CNN.co.jp",
-      "saved": "2025-10-22-hai-wan-quan-niluo-ninaranakerehanarimasen-ri-ben-nowen-quan-woshi-ji-nifang-ret-2.md",
-      "ts": 1783308755
-    },
-    "b7947bba31b9d11dc42c0369baba3164697538d853c8b6858c379946405d2ed5": {
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9la2xOM1BaMHVaZmRkbVNQWFZ3dFhoem9HNlh6dS05bUt1Z0JOTVlFY20yazhYOUtfNjMwTUVuSEtWeUxmMnFNZWkteXM?oc=5",
-      "title": "- CNN.co.jp",
-      "saved": "2013-04-11-cnn-co-jp.md",
-      "ts": 1783308755
-    },
     "6bc955995a20f6a63f8fb7cd800580580794f95e30d4304bcb44f3babdae7628": {
       "link": "https://www.bbc.com/japanese/articles/crkvv77gmpvo?at_medium=RSS&at_campaign=rss",
       "title": "【2026年サッカー男子W杯】 FIFA、アメリカFWバログンの出場停止処分を猶予　トランプ氏が処分の再考求めたか",
@@ -14141,6 +13553,132 @@
       "title": "ヘリウムを中心とする大気に包まれた系外惑星「LHS 1140b」（右）のイメージ図 - CNN.co.jp",
       "saved": "2026-08-04-heriumuwozhong-xin-tosuruda-qi-nibao-maretaxi-wai-huo-xing-lhs-1140b-you-noimesi.md",
       "ts": 1785896959
+    },
+    "a1bd22bc95fafb2efb104ca990751827519966702c7261fad75aea99f3df0eea": {
+      "link": "http://www3.nhk.or.jp/news/html/20260805/k10015197011000.html",
+      "title": "【ライブ配信中】日本製紙 地震のあと初めて社長ら記者会見",
+      "saved": "2026-08-05-raihupei-xin-zhong-ri-ben-zhi-zhi-di-zhen-noatochu-meteshe-chang-raji-zhe-hui-ji.md",
+      "ts": 1785911222
+    },
+    "6ef12549244411760aa4be59fc217912b70a201dca3b5c95540d1ac8a9978a49": {
+      "link": "http://www3.nhk.or.jp/news/html/20260805/k10015196851000.html",
+      "title": "【速報予定16:00～】夏の甲子園 まもなく開会式始まる",
+      "saved": "2026-08-05-su-bao-yu-ding-16-00-xia-nojia-zi-yuan-mamonakukai-hui-shi-shi-maru.md",
+      "ts": 1785911222
+    },
+    "21f27a7eaa3e3156416ba3f39a7ff1458a04660fb11f5e8015804e0e080bd658": {
+      "link": "http://www3.nhk.or.jp/news/html/20260805/k10015197241000.html",
+      "title": "山梨 中央道で乗用車など7台が関係する事故 7人けがで搬送",
+      "saved": "2026-08-05-shan-li-zhong-yang-dao-techeng-yong-che-nato7tai-kaguan-xi-surushi-gu-7ren-kekat.md",
+      "ts": 1785911222
+    },
+    "1d94333118dd272dd31002a0c66ab08c2ca7516f618178d31f7b4691fc8d1afe": {
+      "link": "http://www3.nhk.or.jp/news/html/20260805/k10015197001000.html",
+      "title": "自民 食料品の消費税減税 来年4月から2年間1％ 基本方針案了承",
+      "saved": "2026-08-05-zi-min-shi-liao-pin-noxiao-fei-shui-jian-shui-lai-nian-4yue-kara2nian-jian-1-ji-.md",
+      "ts": 1785911222
+    },
+    "58d8329bc1690c159070791996a6b8d7b2f864b9328e09a05ad1ec9a255ec044": {
+      "link": "http://www3.nhk.or.jp/news/html/20260805/k10015196931000.html",
+      "title": "九州新幹線 新水俣～鹿児島中央 7日から運行再開 交通への影響",
+      "saved": "2026-08-05-jiu-zhou-xin-gan-xian-xin-shui-yu-lu-er-dao-zhong-yang-7ri-karayun-xing-zai-kai-.md",
+      "ts": 1785911222
+    },
+    "464395a181375451c717c756f3b185a6f50e4baf76b101a3a0603e7c86557b38": {
+      "link": "http://www3.nhk.or.jp/news/html/20260805/k10015197161000.html",
+      "title": "メッツ 千賀滉大 リリーフ登板で1回無失点",
+      "saved": "2026-08-05-metutu-qian-he-huang-da-ririhudeng-ban-te1hui-wu-shi-dian.md",
+      "ts": 1785911222
+    },
+    "b2f052b19d6a31d4dc3038199a814071c4bb59c9bcdb504c50009292f74aadc4": {
+      "link": "http://www3.nhk.or.jp/news/html/20260805/k10015197121000.html",
+      "title": "ブルージェイズ岡本和真 4打数ノーヒット3三振 チームも敗れる",
+      "saved": "2026-08-05-hurusieisugang-ben-he-zhen-4da-shu-nohituto3san-zhen-timumobai-reru.md",
+      "ts": 1785911222
+    },
+    "4ecf6cf2a5205a460b05ed5e7470853525512dfc43cbeba95e25deed88881976": {
+      "link": "http://www3.nhk.or.jp/news/html/20260805/k10015197201000.html",
+      "title": "レッドソックス 吉田正尚2安打1打点 チームは6連勝",
+      "saved": "2026-08-05-retutosotukusu-ji-tian-zheng-shang-2an-da-1da-dian-timuha6lian-sheng.md",
+      "ts": 1785911222
+    },
+    "6a48d0d342c3f75ba6ccb0b533b0acfaa3c76375a16bfc32205b33fc78e52e6e": {
+      "link": "https://www.bbc.com/japanese/articles/cd9wk95y3nxo?at_medium=RSS&at_campaign=rss",
+      "title": "ウクライナの民間男性、ドローンに追い回される　ロシアの「人間狩り」攻撃映像",
+      "saved": "2026-08-05-ukurainanomin-jian-nan-xing-toronnizhui-ihui-sareru-rosiano-ren-jian-shou-ri-gon.md",
+      "ts": 1785911222
+    },
+    "265aa3975ebb103a78f56e4ec9d3e3bce0f49589ab52211507872b1de82108a2": {
+      "link": "https://www.bbc.com/japanese/articles/c3w09gndep2o?at_medium=RSS&at_campaign=rss",
+      "title": "EU、セウタ移民危機受け内相会合　スペインの「迅速な対応」を称賛",
+      "saved": "2026-08-05-eu-seutayi-min-wei-ji-shou-kenei-xiang-hui-he-suheinno-xun-su-nadui-ying-wocheng.md",
+      "ts": 1785911222
+    },
+    "7e69d407e6701e7728ed055c83eb63b992db2545584d17d5d4edbc82fdd588aa": {
+      "link": "http://www3.nhk.or.jp/news/html/20260805/k10015197101000.html",
+      "title": "カブス鈴木 タイムリーで2連勝に貢献 ドジャース大谷は1安打",
+      "saved": "2026-08-05-kahusuling-mu-taimurite2lian-sheng-nigong-xian-tosiyasuda-gu-ha1an-da.md",
+      "ts": 1785911222
+    },
+    "c8e4b0fd346956d497f7f2f1974f975117aaf0e86ea20fc8672c85f9d72cc4b6": {
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hNXpFQXBhM0ZSeU9EZmFEQUJVZ2dDNWIzNHh1bXloSlVtb1JUNlotR29jbGlsd0VILUo0Rkc2LUVMaEZjeWhsUUllN3piWFVs?oc=5",
+      "title": "トランプ氏、ホルムズ海峡は「近く」再開 さもなければイランは厳しい結果に直面 - CNN.co.jp",
+      "saved": "2026-08-05-toranhushi-horumusuhai-xia-ha-jin-ku-zai-kai-samonakerehairanhayan-siijie-guo-ni.md",
+      "ts": 1785911222
+    },
+    "35cacc5c74fdedf1ecc03f58346cc6d893e6cb19fca33ade24aad70ce6aeb260": {
+      "link": "https://www.itmedia.co.jp/news/article/2608/05/2000000392/",
+      "title": "東大、60代教授を懲戒処分　サイトのHTMLソースに“不適切な言葉”　「六四天安門」問題が理由と毎日報道",
+      "saved": "2026-08-05-dong-da-60dai-jiao-shou-wocheng-jie-chu-fen-saitonohtmlsosuni-bu-shi-qie-nayan-x.md",
+      "ts": 1785911222
+    },
+    "949c683939bcfda95b3b8a2b7e5fb538743139dfb5660e552796846daccf4865": {
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kMU96RGNVRW5YMHZfLUdfTE52OFRmSGVVdXhUZTdDNXNCcmp5Q2tQd0hyaFhLU2ZwdXVLbVhZR3dDM1hRZTRkX0RHdzR5YlRpVzdzOVZn?oc=5",
+      "title": "アリアナ・グランデ、活動休止の決断は「反応でも衝動でもない」 ファンに伝える - CNN.co.jp",
+      "saved": "2026-08-05-arianakurante-huo-dong-xiu-zhi-nojue-duan-ha-fan-ying-temochong-dong-temonai-hua.md",
+      "ts": 1785911222
+    },
+    "2b8f4d74ec3abf90d7dd1c6f068e26193f444e0c00e75b25c52e641de616ad00": {
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Oc2tYWHMxTUUzZ3hiSnRDZDRKa3dOY0p4YWRqU1UzVEI5Tmx3NW9zYmNBU2ZEVWJ4b2VlZldhSWMtSUZhOGpXLS1UdjFSU2cyVE9BRQ?oc=5",
+      "title": "スペースXのロケット、まもなく月に衝突へ - CNN.co.jp",
+      "saved": "2026-08-05-suhesuxnoroketuto-mamonakuyue-nichong-tu-he-cnn-co-jp.md",
+      "ts": 1785911222
+    },
+    "e558eb0fd0e61bb342530a675014e8ccbef3e1b5f2f1e643e418d1dd595301a9": {
+      "link": "https://www.bbc.com/japanese/articles/ckgekv0z0zeo?at_medium=RSS&at_campaign=rss",
+      "title": "ロシアが「人間狩り」攻撃、ドローンで野菜売りの男性を追い回し爆発　ゼレンスキー氏が動画公開",
+      "saved": "2026-08-05-rosiaka-ren-jian-shou-ri-gong-ji-toronteye-cai-mai-rinonan-xing-wozhui-ihui-siba.md",
+      "ts": 1785911222
+    },
+    "87160871be5a9bef4811d1b7d8e6b513354cc23a548e92f60c97598923f4559c": {
+      "link": "https://www.itmedia.co.jp/news/article/2608/05/2000000391/",
+      "title": "英AI研究所、評価中のAIが実在の開発者を標的に──偽アカウント使い悪意あるコードの承認迫る",
+      "saved": "2026-08-05-ying-aiyan-jiu-suo-ping-jia-zhong-noaikashi-zai-nokai-fa-zhe-wobiao-de-ni-wei-ak.md",
+      "ts": 1785911222
+    },
+    "fd33c83b5f4e54b1b95397bbf183cb5036ca1704bbc3a67e30d57049656aba93": {
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5tYkhnbWVWOFo3WGQ4Z0gxV21SdGlZV2x2UVJ4M2J0ci1ybkJIWnZLMkVtU1IyMGFEYkVKNmNWTXpnSWFmWkJuSWdDTDViY2Y1?oc=5",
+      "title": "米政府、ベネズエラ移民の送還便を再開 前回は直後の大地震で多数が死亡 - CNN.co.jp",
+      "saved": "2026-08-05-mi-zheng-fu-henesuerayi-min-nosong-huan-bian-wozai-kai-qian-hui-hazhi-hou-noda-d.md",
+      "ts": 1785911222
+    },
+    "41750298dc9e4d1f44977d20c39400af46423a7a805444e5a0eb38971ba645db": {
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9EeEt1LTFkc2o5R2hWVVZHUnVFR2tpSF9PT2F6WE9WLWhlQjRLNUJUWmthSjZuQ3FIYjF1UVdUTDVFZUFXWGdZMEpqc2JfaWR6?oc=5",
+      "title": "米軍、主要迎撃ミサイルの80％使い果たす 「危険な水準」と軍高官 - CNN.co.jp",
+      "saved": "2026-08-05-mi-jun-zhu-yao-ying-ji-misairuno80-shi-iguo-tasu-wei-xian-nashui-zhun-tojun-gao--2.md",
+      "ts": 1785911222
+    },
+    "69afa7f9a9dc09a1aed34548500c63240c2b1296e2800333a7cc585c82fa8d29": {
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1FSk9rNHVPMl9BYmFKWnNyZUZvRlR1MnhBU2t5cm1xWEJnbm5jSGNLVDRYb3dvZFVHaGlyNHVCSnhrQ2xzenFETEc1Y3dULXUz?oc=5",
+      "title": "トランプ氏のゴルフコースで武装した男を逮捕、本人の訪問前に 米カリフォルニア州 - CNN.co.jp",
+      "saved": "2026-08-05-toranhushi-nokoruhukosutewu-zhuang-sitanan-wodai-bu-ben-ren-nofang-wen-qian-ni-m-2.md",
+      "ts": 1785911222
+    },
+    "e35b94a0813308da6ad2d62447020fb8571841fee1553b0dac847eab69dca2d2": {
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01TDd5V3hxMXQzZUk4b3ZIR2Y5dVFORG1RbmFFUllDdXN6Ml90U0tiRUx2S2xJdzhCNHlKY21kU2ZNbUluenJ3blF3NU0tbFl1cHViRA?oc=5",
+      "title": "ハッブル宇宙望遠鏡が捉えた赤色矮星「プロキシマ・ケンタウリ」 - CNN.co.jp",
+      "saved": "2026-08-04-hatuhuruyu-zhou-wang-yuan-jing-kazhuo-etachi-se-ai-xing-hurokisimakentauri-cnn-c.md",
+      "ts": 1785911222
     }
   }
 }
