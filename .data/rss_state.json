@@ -1,215 +1,5 @@
 {
   "done": {
-    "1a9e217f92aff34c335370aa2c62cc68bab81f03378c513c03f617349f815f68": {
-      "link": "http://www3.nhk.or.jp/news/html/20260708/k10015171691000.html",
-      "title": "自民 定数削減法案審議見送り伝達 中道“集中審議開催を”",
-      "saved": "2026-07-08-zi-min-ding-shu-xue-jian-fa-an-shen-yi-jian-song-richuan-da-zhong-dao-ji-zhong-s.md",
-      "ts": 1783492053
-    },
-    "f2cad62a6caa2f500d9d2b14f70cf9f9f69b34365770e5ab13395c337749bbb6": {
-      "link": "http://www3.nhk.or.jp/news/html/20260708/k10015171601000.html",
-      "title": "コメめぐり「需要に応じた生産」明記の改正食糧法が成立",
-      "saved": "2026-07-08-komemekuri-xu-yao-niying-sitasheng-chan-ming-ji-nogai-zheng-shi-liang-fa-kacheng.md",
-      "ts": 1783492053
-    },
-    "4a2b4125617c8b0f22ed2331e4b439449934beefe143fa5969d636edf5fea70a": {
-      "link": "http://www3.nhk.or.jp/news/html/20260708/k10015171531000.html",
-      "title": "長期金利 2.865％まで上昇 1997年5月以来の高水準",
-      "saved": "2026-07-08-chang-qi-jin-li-2-865-mateshang-sheng-1997nian-5yue-yi-lai-nogao-shui-zhun.md",
-      "ts": 1783492053
-    },
-    "8e72da5b804af77bb474a73fce58240c809bcc78929950ff9fa9e629867d9889": {
-      "link": "http://www3.nhk.or.jp/news/html/20260708/k10015171801000.html",
-      "title": "ブルージェイズ 岡本和真 2試合連続ヒット チームは連敗止める",
-      "saved": "2026-07-08-hurusieisu-gang-ben-he-zhen-2shi-he-lian-sok-hituto-timuhalian-bai-zhi-meru.md",
-      "ts": 1783492053
-    },
-    "262127b26f29bd4f8626562684ad75c89940b1ee05ec0efb8dd1efb3b62f2349": {
-      "link": "http://www3.nhk.or.jp/news/html/20260708/k10015171791000.html",
-      "title": "メッツ 千賀滉大 リリーフ登板で3回5安打4失点 勝ち負けつかず",
-      "saved": "2026-07-08-metutu-qian-he-huang-da-ririhudeng-ban-te3hui-5an-da-4shi-dian-sheng-tifu-ketuka.md",
-      "ts": 1783492053
-    },
-    "de47ca75a19b426bbd56f047505391a91fb7af0ab67f53b6a2fff59fee9f5eb5": {
-      "link": "https://www.itmedia.co.jp/news/articles/2607/08/news107.html",
-      "title": "「GPT-5.6」木曜に一般公開へ　米政府と調整→限定プレビュー経て",
-      "saved": "2026-07-08-gpt-5-6-mu-yao-niyi-ban-gong-kai-he-mi-zheng-fu-todiao-zheng-xian-ding-hurehiyuj.md",
-      "ts": 1783492053
-    },
-    "3a8fc3ecb7495632a78670cee9a1177d4bd12a62dc249b06a689de42868cf597": {
-      "link": "http://www3.nhk.or.jp/news/html/20260708/k10015171761000.html",
-      "title": "アストロズ 今井達也 4回途中2失点 勝ち負けつかず",
-      "saved": "2026-07-08-asutorosu-jin-jing-da-ye-4hui-tu-zhong-2shi-dian-sheng-tifu-ketukasu.md",
-      "ts": 1783492053
-    },
-    "81e9726ce46b37d18ea62ad7ed6da51ac31171843715dcc967b6164481280bfa": {
-      "link": "https://www.itmedia.co.jp/news/articles/2607/08/news104.html",
-      "title": "三重県、庁内のUSBメモリ調査でマルウェア47個検知　私物USBは全面禁止へ　陸自でのウイルス感染受け",
-      "saved": "2026-07-08-san-zhong-xian-ting-nei-nousbmemoridiao-cha-temaruuea47ge-jian-zhi-si-wu-usbhaqu.md",
-      "ts": 1783492053
-    },
-    "29bad2521b0d19717ec0fd120ac8ed01e73958cfdb80052e943134e758de0be1": {
-      "link": "http://www3.nhk.or.jp/news/html/20260708/k10015171751000.html",
-      "title": "カブス 鈴木誠也 4打数ノーヒット チームは2連勝",
-      "saved": "2026-07-08-kahusu-ling-mu-cheng-ye-4da-shu-nohituto-timuha2lian-sheng.md",
-      "ts": 1783492053
-    },
-    "ad628e6fc76caff748b3fcfe5be6490dccdc584affe6e64c2e99c813cea34bfa": {
-      "link": "http://www3.nhk.or.jp/news/html/20260708/k10015171741000.html",
-      "title": "「はじめてのおつかい」 絵本作家の林明子さん死去 81歳",
-      "saved": "2026-07-08-hasimetenootukai-hui-ben-zuo-jia-nolin-ming-zi-sansi-qu-81sui.md",
-      "ts": 1783492053
-    },
-    "fa3c3e5ba1898a69cfc19f09c6d15d983e2258e0508cf153ac10d62ce205fea6": {
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBuX0l0YWhqR1hReDJ0VEFkYWxYVVUtTF9XeVltMVY3eng0cDYwNDd5SWNUSHE2cGxuSW1CSTNmYXlaaTIxX2did0RyZ3dUN0NqU0NEag?oc=5",
-      "title": "インターポールが公開したベレゾフスカ容疑者の画像/Interpol - CNN.co.jp",
-      "saved": "2026-07-08-intahorukagong-kai-sitaheresohusukarong-yi-zhe-nohua-xiang-interpol-cnn-co-jp.md",
-      "ts": 1783492053
-    },
-    "52eb054f5098f6f013af7483ec3ada334a07898f31ffab8f38e24031d26aa211": {
-      "link": "https://www.itmedia.co.jp/news/articles/2607/08/news097.html",
-      "title": "参考資料を自ら探す画像生成AI、Metaが開発　“長考”でクオリティー向上も",
-      "saved": "2026-07-08-can-kao-zi-liao-wozi-ratan-suhua-xiang-sheng-cheng-ai-metakakai-fa-chang-kao-tek.md",
-      "ts": 1783492053
-    },
-    "ae3c06e92683ef47735dfd82fb4e6d554dc1ab19cfc2c60f7667db2fd7edfad9": {
-      "link": "https://www.itmedia.co.jp/news/articles/2607/08/news098.html",
-      "title": "ゲーム会社「ガンホー」元システム本部長を逮捕、架空発注で4000万円背任疑い　警視庁",
-      "saved": "2026-07-08-kemuhui-she-kanho-yuan-sisutemuben-bu-chang-wodai-bu-jia-kong-fa-zhu-te4000mo-yu.md",
-      "ts": 1783492053
-    },
-    "dd5a9235dfcdf30a565ec78e934ac61404c58b83afa0b2a9d49535df6a3ceb43": {
-      "link": "https://www.bbc.com/japanese/articles/cx2wkl1erp7o?at_medium=RSS&at_campaign=rss",
-      "title": "仏大統領訪問中のシリア首都で爆発、18人負傷",
-      "saved": "2026-07-08-fo-da-tong-ling-fang-wen-zhong-nosiriashou-du-tebao-fa-18ren-fu-shang.md",
-      "ts": 1783492053
-    },
-    "3f04e81821cc1ca6a28288adb166f604de7fb8b630807a9c256e5023bec600d9": {
-      "link": "https://www.bbc.com/japanese/articles/c621qr1r9n5o?at_medium=RSS&at_campaign=rss",
-      "title": "ゼレンスキー氏、NATOに防空システムの提供求める　ロシアの大規模攻撃受け",
-      "saved": "2026-07-08-serensukishi-natonifang-kong-sisutemunoti-gong-qiu-meru-rosianoda-gui-mo-gong-ji.md",
-      "ts": 1783492053
-    },
-    "91b9adfe473227e094a3b854154c5cdd3c278fb84a7fa62ddf321af0a92fc4bb": {
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80UTZjUW1maHpNLVhkb3UxVG13UExydGNvc3psMWVwZEJsTWR4UGpMVFF5UGpDWll1WWExVHQ4T2hEeUQ0U1p4b0FWMlBfSUU5cGxZ?oc=5",
-      "title": "国際救助犬の英雄たち、ベネズエラ地震の被災地で命救う活動支える(1/2) - CNN.co.jp",
-      "saved": "2026-07-08-guo-ji-jiu-zhu-quan-noying-xiong-tati-henesueradi-zhen-nobei-zai-di-teming-jiu-u.md",
-      "ts": 1783492053
-    },
-    "6544fd58221eb47ccc38b7259230bc6f578cb764f79ff0cfef4c2bf6c3ae4fba": {
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZUTFRdEJUb01paml4UU4wRjJ3anVEYkdXUi1mc3NuNnNjSUE0LXA4aUFTaTNqRXVaeHQyekhGVmg4WVUzc0hQek1iWHpURzQ?oc=5",
-      "title": "ネタニヤフ氏、米国によるトルコへのF35売却に反対 - CNN.co.jp",
-      "saved": "2026-07-08-netaniyahushi-mi-guo-niyorutorukohenof35mai-que-nifan-dui-cnn-co-jp.md",
-      "ts": 1783492053
-    },
-    "afb4a6c320012a9a0c845793c5b09522b0526c58ca4df847e4ec3c2db4a2c578": {
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBXOGhtejN4dlg5N09Gc0pUa1FjUjZvMVJobE8xeC14Vzg1dzRWMmZYeXR4WGlxVXJmUkVsM2tSMXRId2V3VUFOU0ljX3R6NU43?oc=5",
-      "title": "トランプ政権、イラン人亡命希望者の機密情報をイラン政府に共有か 強制送還進める中 - CNN.co.jp",
-      "saved": "2026-07-08-toranhuzheng-quan-iranren-wang-ming-xi-wang-zhe-noji-mi-qing-bao-woiranzheng-fu-.md",
-      "ts": 1783492053
-    },
-    "165c346f717b267f2b69231380e34ae378180c573e8c33c26329dc9f15c1a289": {
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqeVVPZFdkVTB0cFk3VXc4VHlGeFE2eTlKc21NbUo1OEVHQ2laMlNtMHlpYk9RV0M0RklHTTFSRHhzcXhkMVZFbGk2SE1MNFU?oc=5",
-      "title": "市街を突き進む巨大な竜巻、中国湖北省 - CNN.co.jp",
-      "saved": "2026-07-08-shi-jie-wotu-kijin-muju-da-nalong-juan-zhong-guo-hu-bei-sheng-cnn-co-jp.md",
-      "ts": 1783492053
-    },
-    "2cf25fea787f0044f84daad110f23235613e00ecaa3b0be5273849b921f86c44": {
-      "link": "https://www.bbc.com/japanese/articles/c70yg9777jeo?at_medium=RSS&at_campaign=rss",
-      "title": "右翼ル・ペン氏、仏大統領選への立候補を表明　有罪判決について上告の意向",
-      "saved": "2026-07-08-you-yi-ruhenshi-fo-da-tong-ling-xuan-henoli-hou-bu-wobiao-ming-you-zui-pan-jue-n.md",
-      "ts": 1783492053
-    },
-    "aa1961d257fd2fab4cdc54ea1907965a306284721349eb6679eb4a23addf21c3": {
-      "link": "http://www3.nhk.or.jp/news/html/20260708/k10015171621000.html",
-      "title": "Ｗ杯 準々決勝へ ベスト8出そろう 各チームのエースの活躍光る",
-      "saved": "2026-07-08-wbei-zhun-jue-sheng-he-hesuto8chu-sorou-ge-timunoesunohuo-yue-guang-ru.md",
-      "ts": 1783492053
-    },
-    "9a36936839d99139bad506ced5eee3c9846cbf7af358e153460207ab91a6d705": {
-      "link": "https://www.bbc.com/japanese/articles/cql1xke13peo?at_medium=RSS&at_campaign=rss",
-      "title": "英野党リフォームUKのファラージ党首、議員辞職し補選に出ると表明　政治資金問題の渦中",
-      "saved": "2026-07-08-ying-ye-dang-rihuomuuknohuarasidang-shou-yi-yuan-ci-zhi-sibu-xuan-nichu-rutobiao.md",
-      "ts": 1783492053
-    },
-    "a0501e0d6ac4d867cabc31cebbc7f90b117bfec82a03009cec8def9898632eab": {
-      "link": "http://www3.nhk.or.jp/news/html/20260708/k10015171571000.html",
-      "title": "クロマグロ国際会議が開幕 新ルール合意で増枠できるか焦点",
-      "saved": "2026-07-08-kuromakuroguo-ji-hui-yi-kakai-mu-xin-ruruhe-yi-tezeng-waku-tekirukajiao-dian.md",
-      "ts": 1783492053
-    },
-    "9c643fc6473faf8dcd0e9f5159208f676a60f352af1a7c0c9eba4fdb7798992c": {
-      "link": "https://www.itmedia.co.jp/news/articles/2607/08/news089.html",
-      "title": "BOOTH、0円出品で「セールはこちら」きょうから禁止　新着通知を使った“宣伝ハック”に終止符",
-      "saved": "2026-07-08-booth-0yuan-chu-pin-te-seruhakotira-kiyoukarajin-zhi-xin-zhao-tong-zhi-woshi-tut.md",
-      "ts": 1783492053
-    },
-    "516304844bd230b88d7d029eda93922288e5d8505df854d4c2263a20be238fef": {
-      "link": "https://www.itmedia.co.jp/news/articles/2607/08/news088.html",
-      "title": "女性声優にXの“青バッジ”を勝手に送り付ける怪事案が相次ぐ　津田美波さん、黒木ほの香さん、土屋李央さんなど",
-      "saved": "2026-07-08-nu-xing-sheng-you-nixno-qing-hatusi-wosheng-shou-nisong-rifu-keruguai-shi-an-kax.md",
-      "ts": 1783492053
-    },
-    "3747b28eccafb155f744166215a2af638a777bdf2eb93f86756f2bf94931d2a4": {
-      "link": "https://www.itmedia.co.jp/news/articles/2607/08/news087.html",
-      "title": "Metaの新AI「Muse Image」公開に伴う注意点　Instagram公開アカウントのコンテンツ再利用を防ぐには",
-      "saved": "2026-07-08-metanoxin-ai-muse-image-gong-kai-niban-uzhu-yi-dian-instagramgong-kai-akauntonok.md",
-      "ts": 1783492053
-    },
-    "71e55bb7f9dd0ba3a2e613a184cf4b811baedc16e101ebb6cd5d620afa5dbe62": {
-      "link": "https://www.itmedia.co.jp/news/articles/2607/06/news031.html",
-      "title": "テスラ車が住宅に突っ込み高齢女性が死亡　遺族は「運転支援システムに欠陥」と訴えも、マスク氏らは反論　米国",
-      "saved": "2026-07-08-tesurache-kazhu-zhai-nitu-tuip-migao-ling-nu-xing-kasi-wang-yi-zu-ha-yun-zhuan-z.md",
-      "ts": 1783492053
-    },
-    "7a1b784ca5e4686c680f41c7cfb18368405a3771c72ff4977709ae15f42f6518": {
-      "link": "https://www.itmedia.co.jp/news/articles/2607/08/news086.html",
-      "title": "スクエニ、ECサイトが1週間以上使えず　決済など重要機能の不具合でメンテ長期化",
-      "saved": "2026-07-08-sukueni-ecsaitoka1zhou-jian-yi-shang-shi-esu-jue-ji-natozhong-yao-ji-neng-nobu-j.md",
-      "ts": 1783492053
-    },
-    "25823d55bdb77b501d99bd083c3db125163f5bd15188194d753af8b267dbec7a": {
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yWHlLVUgzZDhxaTZBMkVUdzZ2Y2F6Y0lYSzBjR3N5NVB5eXlwSzJVR29rdFBXdGc3Wk1uSGZzMjUtd3E0aU1GQlVXbFgzU1FnNVV3?oc=5",
-      "title": "ネタニヤフ氏、米国によるトルコへのF35売却に反対 トランプ氏との亀裂は重大視せず CNN EXCLUSIVE - CNN.co.jp",
-      "saved": "2026-07-08-netaniyahushi-mi-guo-niyorutorukohenof35mai-que-nifan-dui-toranhushi-tonogui-lie.md",
-      "ts": 1783492053
-    },
-    "b6a38d5f2f629d927084bc80a1edf09786c3688176d32b478a9c37cc724a5e81": {
-      "link": "https://www.itmedia.co.jp/news/articles/2607/08/news082.html",
-      "title": "note上方修正　「AI活用、想定以上」で人件費率低下　2Q累計営業益は「20倍超」に",
-      "saved": "2026-07-08-noteshang-fang-xiu-zheng-aihuo-yong-xiang-ding-yi-shang-teren-jian-fei-lu-di-xia.md",
-      "ts": 1783492053
-    },
-    "ff9f1324d66a08c5336d80e81602f60af76781f7c903d9e04157774e8303396a": {
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZWWQwc3JBMVQ2YjZad3cyVmZGTTRUZkxhUDJZQ2xRbjlSUDBlaHpWYXppbHp4RmdXTk1DeFc4TUtiVWR2WjY1dHpad0RvbGF3V1lV?oc=5",
-      "title": "猛烈な竜巻が市街に襲来、マンションの12階から男性吹き飛ばす 中国中部 - CNN.co.jp",
-      "saved": "2026-07-08-meng-lie-nalong-juan-kashi-jie-nixi-lai-mansiyonno12jie-karanan-xing-chui-kifei-.md",
-      "ts": 1783492053
-    },
-    "75caf242453e7dd8075a4acdddcf63862d2e20d93be5d014b68708a1006652cf": {
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sa24yWmNzTXZpOUVLZ0ZMWnA3OFBpZTFtWUI5QVVrX2Z1bzF0OV8zZC0yWTktVXpkTXhxSzFkQ0RDd1RhanVyWlYzZHBDcWFPZkd3?oc=5",
-      "title": "【分析】米国がイランを攻撃、脆弱な停戦は今回の事態を持ちこたえるか - CNN.co.jp",
-      "saved": "2026-07-08-fen-xi-mi-guo-kairanwogong-ji-cui-ruo-nating-zhan-hajin-hui-noshi-tai-wochi-tiko-2.md",
-      "ts": 1783492053
-    },
-    "ca4c1c68f7c72432492e143748e7c01d8b90d52037dfb31ca379786670ac88ed": {
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Ucl9PSHl0UHVTYnM3SEtYNlJGOU1mcmItczlqcTFIUWRwSEs5bWhTRUtSRGdWX2FaVHFnY0pMR0tFRHB2SzluZmg5eDRBa1pNc3lmbXpB?oc=5",
-      "title": "モナコ爆弾事件の容疑者、ウクライナで銃撃され死亡しているのが見つかる 当局が発表(2/2) - CNN.co.jp",
-      "saved": "2026-07-08-monakobao-dan-shi-jian-norong-yi-zhe-ukurainatechong-ji-saresi-wang-siteirunokaj-2.md",
-      "ts": 1783492053
-    },
-    "87a38943e15e7696676f071540cd0453347e108662896292d9b66a6919038516": {
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HNTRwaGh5R2ZaRnVMX1hSMW5adktHMk5lMEd3bGlGVU5SLVhNcURadExUc01fbHVSWjU4MTVjbzdaczNidk84bmE0dHpUV3RwOE9DSjdOSDMwSXlLN1BqSlJ6OVpaRll4dmc?oc=5",
-      "title": "モナコのウクライナ人富豪を狙った爆発、容疑者は男性装った女 ヘビとみられるタトゥー - CNN.co.jp",
-      "saved": "2026-07-04-monakonoukurainaren-fu-hao-woju-tutabao-fa-rong-yi-zhe-hanan-xing-zhuang-tutanu--2.md",
-      "ts": 1783492053
-    },
-    "ccd1df26543fe9074d3095e928fa945ac38d5d3f1f5404520acd2fec2bbc8fe2": {
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13dU5EQU91ZDR2VGNmaXAyT0hnbFZNRVcyek9HZVNxNm9kUndBVDItUXVJYVd2S3Job0V5djFFSHFHMVV1UkpNcEFqd3JOY0F3dU5F?oc=5",
-      "title": "マックに強盗、特殊部隊員１１人が食事中と知らず フランス(1/2) - CNN.co.jp",
-      "saved": "2016-06-10-matukuniqiang-dao-te-shu-bu-dui-yuan-11ren-kashi-shi-zhong-tozhi-rasu-huransu-1--2.md",
-      "ts": 1783492053
-    },
     "66389c4391363b6f5f031815e45fd933d6174123380bcc592af54a0f1d951748": {
       "link": "http://www3.nhk.or.jp/news/html/20260708/k10015172011000.html",
       "title": "プロ野球 巨人 好調の戸郷翔征 左太もも裏の肉離れで離脱",
@@ -13613,6 +13403,84 @@
       "title": "トランプ氏、弾薬枯渇の報道に怒り募らす イランとの交渉で立場弱まると懸念(1/2) - CNN.co.jp",
       "saved": "2026-08-07-toranhushi-dan-yao-ku-ke-nobao-dao-ninu-rimu-rasu-irantonojiao-she-teli-chang-ru.md",
       "ts": 1786076718
+    },
+    "674ef04c13038704cb848cf6d4989c242e6c058f180d85cd660d0e81816d1260": {
+      "link": "https://www.bbc.com/japanese/articles/cvgxjm7vzy8o?at_medium=RSS&at_campaign=rss",
+      "title": "トランプ氏、「出生地主義」を再び制限　新たな大統領令に署名",
+      "saved": "2026-08-07-toranhushi-chu-sheng-di-zhu-yi-wozai-hizhi-xian-xin-tanada-tong-ling-ling-nishu-.md",
+      "ts": 1786086845
+    },
+    "73d35693bab924ee3e1251030c1f49e32017dae4a5af9f2b7ab48a3887c871ef": {
+      "link": "https://www.bbc.com/japanese/articles/cn5n64g70q5o?at_medium=RSS&at_campaign=rss",
+      "title": "ライブ配信で人気のハクトウワシ、ジャッキーが「重体」に　米カリフォルニア",
+      "saved": "2026-08-07-raihupei-xin-teren-qi-nohakutouwasi-siyatukika-zhong-ti-ni-mi-karihuorunia.md",
+      "ts": 1786086845
+    },
+    "ab03a80bc76681eea5b342eb1c309a6c6f3daf911eb018bf29d334f43fc9664a": {
+      "link": "http://www3.nhk.or.jp/news/html/20260807/k10015199111000.html",
+      "title": "食料自給率 過去最低 ここにも“米騒動”の影響が【Q＆A】",
+      "saved": "2026-08-07-shi-liao-zi-gei-lu-guo-qu-zui-di-kokonimo-mi-sao-dong-noying-xiang-ka-q-a.md",
+      "ts": 1786086845
+    },
+    "ae9ff840f2219e87c213b71fc8114451182e10d6c924612fdfb347cc1d8770e6": {
+      "link": "https://www.itmedia.co.jp/news/article/2608/07/2000000448/",
+      "title": "「配信システムをAIで自作したアイドル」こと宮本佳林さん、Cloudflare Workersの開発者イベントに登壇へ",
+      "saved": "2026-08-07-pei-xin-sisutemuwoaitezi-zuo-sitaaitoru-kotogong-ben-jia-lin-san-cloudflare-work.md",
+      "ts": 1786086845
+    },
+    "a2355572d07d1d4fde2216d8b00cad22f14d132b7e2de0ff217dfbc1e9fa06a9": {
+      "link": "http://www3.nhk.or.jp/news/html/20260807/k10015199201000.html",
+      "title": "高校野球 夏の甲子園 健大高崎が八幡商をリード",
+      "saved": "2026-08-07-gao-xiao-ye-qiu-xia-nojia-zi-yuan-jian-da-gao-qi-kaba-fan-shang-worito.md",
+      "ts": 1786086845
+    },
+    "7e1418907a3bb5fffa89b8d45793eb14a22c296bad1c13d469b7d256eb090242": {
+      "link": "http://www3.nhk.or.jp/news/html/20260807/k10015198971000.html",
+      "title": "熊本地震の被害を「激甚災害」に指定 自治体の復旧費用支援へ",
+      "saved": "2026-08-07-xiong-ben-di-zhen-nobei-hai-wo-ji-shen-zai-hai-nizhi-ding-zi-zhi-ti-nofu-jiu-fei.md",
+      "ts": 1786086845
+    },
+    "34fdb722503c737a03b48ae362c2413be8fd28b934aa0c3e19326a816c4a583a": {
+      "link": "http://www3.nhk.or.jp/news/html/20260807/k10015199131000.html",
+      "title": "北海道 江別 強盗致死事件裁判 当時18歳被告に無期懲役の判決",
+      "saved": "2026-08-07-bei-hai-dao-jiang-bie-qiang-dao-zhi-si-shi-jian-cai-pan-dang-shi-18sui-bei-gao-n.md",
+      "ts": 1786086845
+    },
+    "3866299c30cd200bcf1a946b25d49a760629d2cc354100da444bad3c37a3aaca": {
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9meUowZDBwNDAxWElONmxxUXB6bHByVUstSU8wa2k3VWVLdE1UenFqUUFsVEdFWGRWMEoxTW90cEt0ZGJoWFMyNDBiVzZkaERDMl9UYzJB?oc=5",
+      "title": "FIFA会長の謝罪、辞任要求は収まらず UEFAはボイコットの方針維持 - CNN.co.jp",
+      "saved": "2026-08-07-fifahui-chang-noxie-zui-ci-ren-yao-qiu-hashou-marasu-uefahahoikotutonofang-zhen-.md",
+      "ts": 1786086845
+    },
+    "4dca57dd4610bdce983b63c45a9cd262481f2f40d72ae98ec092369130067ddf": {
+      "link": "http://www3.nhk.or.jp/news/html/20260807/k10015199101000.html",
+      "title": "レッドソックス吉田正尚 2安打1打点の活躍 チームは8連勝",
+      "saved": "2026-08-07-retutosotukusuji-tian-zheng-shang-2an-da-1da-dian-nohuo-yue-timuha8lian-sheng.md",
+      "ts": 1786086845
+    },
+    "564b313cff6eddabfffcb0fe902fc81b2a0a7c155e2ee59c417bfca8ac4e1233": {
+      "link": "https://www.itmedia.co.jp/news/article/2608/07/2000000445/",
+      "title": "ドコモ・バイクシェアのシステム障害、いまだ全面復旧ならず　8月1日以降の利用者には「全額返金」へ",
+      "saved": "2026-08-07-tokomohaikusieanosisutemuzhang-hai-imataquan-mian-fu-jiu-narasu-8yue-1ri-yi-jian.md",
+      "ts": 1786086845
+    },
+    "b05eb7fb5a9ed58eb4d1ada4fab1b777e1b70ae1b04a8d6382aadd488645f69a": {
+      "link": "https://www.bbc.com/japanese/articles/c86nvwgz8zno?at_medium=RSS&at_campaign=rss",
+      "title": "トランプ氏、アメリカの兵器不足を否定　情報「漏えい者」を「追い詰める」と宣言",
+      "saved": "2026-08-07-toranhushi-amerikanobing-qi-bu-zu-wofou-ding-qing-bao-lou-eizhe-wo-zhui-ijie-mer.md",
+      "ts": 1786086845
+    },
+    "a0f340359a5da288297dd2960fc3c7c7bcde841508aa40925ee6f36a85c3b02e": {
+      "link": "https://www.itmedia.co.jp/news/article/2608/07/2000000444/",
+      "title": "西鉄福岡（天神）駅などで意図しない駅構内放送　第三者が有名YouTuberの音声を不正に流したか",
+      "saved": "2026-08-07-xi-tie-fu-gang-tian-shen-yi-natoteyi-tu-sinaiyi-gou-nei-fang-song-di-san-zhe-kay.md",
+      "ts": 1786086845
+    },
+    "80c8807189bc61ceb37d75bf74a54832ca27c62e2d17835f62d3a9580ae965b2": {
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93MTAwSFB4YUgtaVhBYzV0VmJDak54X2ZwR2xsMUd5QWwzWG1DUlVNT1JueFRyRUg0UjhRVkRHNUVhZjBvYlJPcDJmTnp3aWhzdTRBRlp3?oc=5",
+      "title": "AIで入試の不正を防ごうとしたメキシコの名門大学、満点が続出 数千件の不正(2/2) - CNN.co.jp",
+      "saved": "2026-08-04-aiteru-shi-nobu-zheng-wofang-koutositamekisikonoming-men-da-xue-man-dian-kasok-c-2.md",
+      "ts": 1786086845
     }
   }
 }
