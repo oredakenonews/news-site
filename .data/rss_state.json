@@ -1,113 +1,5 @@
 {
   "done": {
-    "39ddf9f4106684de8f49a42d5946d41f6594f9607b7fde370741d5212771c716": {
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SU0FvN2hwZnZaSDdPOXNiOTJTZDlETGpzTmtGSGVOVzZOME1HT1FwRExCRkI1SVlMUUMyRFczdnFaVE81WTRqczZmSm8wQUYxU09ON0djQQ?oc=5",
-      "title": "トランプ氏、ホルムズ海峡通過の安全提供に20％の手数料要求 具体的な仕組みは - CNN.co.jp",
-      "saved": "2026-07-14-toranhushi-horumusuhai-xia-tong-guo-noan-quan-ti-gong-ni20-noshou-shu-liao-yao-q.md",
-      "ts": 1784023062
-    },
-    "120ba5ce87a6c752bf2de25585aaad5901feed75e8c91584a11cc5d1c9c80469": {
-      "link": "http://www3.nhk.or.jp/news/html/20260714/k10015176661000.html",
-      "title": "クロマグロ国際会議 漁獲枠拡大めぐり合意に至らず",
-      "saved": "2026-07-14-kuromakuroguo-ji-hui-yi-yu-huo-waku-kuo-da-mekurihe-yi-nizhi-rasu.md",
-      "ts": 1784023062
-    },
-    "5b7ebe5b86d6c1b64e529a9e351e98f808d78d61a8d1cb9f360a1fa241a44ff5": {
-      "link": "http://www3.nhk.or.jp/news/html/20260714/k10015176381000.html",
-      "title": "自民・維新・みらい「副首都」法案修正合意 みらいは賛成へ",
-      "saved": "2026-07-14-zi-min-wei-xin-mirai-fu-shou-du-fa-an-xiu-zheng-he-yi-miraihazan-cheng-he.md",
-      "ts": 1784023062
-    },
-    "eefa80041155b15c3e68a42805945dbeb52b3bdf3d6bad9b8d741249eec6f094": {
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FaXhVY3dSaWtxajh3OG5UbGVMeG5qTUJXbUp6NXI4blBIMmF1SE4tUzU1LWgyYTAydWI5aktpbE02V0xBeDViazZoWDdodjZNZndB?oc=5",
-      "title": "米軍、イラン攻撃で無人水上艇を初めて実戦投入 分かっていること - CNN.co.jp",
-      "saved": "2026-07-14-mi-jun-irangong-ji-tewu-ren-shui-shang-ting-wochu-meteshi-zhan-tou-ru-fen-katute.md",
-      "ts": 1784023062
-    },
-    "ab3714ca45a08489a181505da12f7cd9f66e37631694dd2bc722caccfbdf7055": {
-      "link": "http://www3.nhk.or.jp/news/html/20260714/k10015176741000.html",
-      "title": "JR東日本 新たな検査専用車両「SOAR」発表 2029年度中に導入へ",
-      "saved": "2026-07-14-jrdong-ri-ben-xin-tanajian-cha-zhuan-yong-che-liang-soar-fa-biao-2029nian-du-zho.md",
-      "ts": 1784023062
-    },
-    "69eb5b5aae228771caac8757b9336d191f81601816e7946cc157b9ae05808b84": {
-      "link": "https://www.itmedia.co.jp/business/articles/2607/14/news108.html",
-      "title": "1円玉、11年ぶり量産へ　キャッシュレス時代になぜ復活したのか",
-      "saved": "2026-07-14-1yuan-yu-11nian-huriliang-chan-he-kiyatusiyuresushi-dai-ninasefu-huo-sitanoka.md",
-      "ts": 1784023062
-    },
-    "faf3ba80ec05badcd71311af989140d060fa7c2da7e81042829a7c1a1da4d7ad": {
-      "link": "https://www.itmedia.co.jp/news/articles/2607/14/news105.html",
-      "title": "ピカピカの一円玉流通へ、11年ぶり量産　キャッシュレス化で減少も、“アレ”でまさかの需要増",
-      "saved": "2026-07-14-hikahikanoyi-yuan-yu-liu-tong-he-11nian-huriliang-chan-kiyatusiyuresuhua-tejian-.md",
-      "ts": 1784023062
-    },
-    "485e839bdcd7b448c725e35117c59f57d205763859d092c085f2d813d0f19840": {
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Zd1N0V2tiVFNLeXk3TGZIR1NKazl1NUlkcGZUM2RNNHlhVW0xZW9rZlJPR2UtajVSejZCOERnNnJpdENwa29rX0tHb3FVamc?oc=5",
-      "title": "バイソンが突進、男性を高々と跳ね上げる 米国立公園 - CNN.co.jp",
-      "saved": "2026-07-14-haisonkatu-jin-nan-xing-wogao-totiao-neshang-keru-mi-guo-li-gong-yuan-cnn-co-jp.md",
-      "ts": 1784023062
-    },
-    "b3a39daae3d5f5493e89b855c754aac244a109e3cbb0fd004fb8423b91b4695c": {
-      "link": "https://www.itmedia.co.jp/news/articles/2607/14/news104.html",
-      "title": "上半期「情報サービス業」過去10年で最多　生成AIやノーコード普及が零細に逆風",
-      "saved": "2026-07-14-shang-ban-qi-qing-bao-sahisuye-guo-qu-10nian-tezui-duo-sheng-cheng-aiyanokotopu-.md",
-      "ts": 1784023062
-    },
-    "1c7933c9cc48dda90506f4a93bc14d33b8d5bfe8fb4a715024df6ae3094dce65": {
-      "link": "https://www.itmedia.co.jp/news/articles/2607/14/news101.html",
-      "title": "ワンフェス「3Dスキャン禁止」中国語や韓国語でも告知　“デジタル万引き”対策",
-      "saved": "2026-07-14-wanhuesu-3dsukiyanjin-zhi-zhong-guo-yu-yahan-guo-yu-temogao-zhi-tesitarumo-yin-k.md",
-      "ts": 1784023062
-    },
-    "4a56ddc4eff29e48f61f57ebbd7dc0528015dc81c6213e0490d627d09b911fcd": {
-      "link": "https://www.itmedia.co.jp/news/articles/2607/14/news098.html",
-      "title": "富士急ハイランド、“分身”が代わりに並んでくれる　新チケット「分身くん」　通常料金＋2000円で",
-      "saved": "2026-07-14-fu-shi-ji-hairanto-fen-shen-kadai-warinibing-ntekureru-xin-tiketuto-fen-shen-kun.md",
-      "ts": 1784023062
-    },
-    "c3bb87ab22eb59bb09ecafdd3c6d139ee3336e1e694aac6340b0893081d8379c": {
-      "link": "https://www.bbc.com/japanese/articles/c5yzyeykn1lo?at_medium=RSS&at_campaign=rss",
-      "title": "トランプ氏とIRSの和解、無効と米地裁　2800億円超の基金設立や税務調査免除の付帯条項に影響か",
-      "saved": "2026-07-14-toranhushi-toirsnohe-jie-wu-xiao-tomi-di-cai-2800yi-yuan-chao-noji-jin-she-li-ya.md",
-      "ts": 1784023062
-    },
-    "5bbd543fedbf9eb1a23d852dc2c9cecf9c662f9d0787a18630307c03e422bdbe": {
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwR3MzN0trMEdmZW4wWmJjb2JmaHpqTXNzYTJ0TXBxZnduWGFoRy00cnZDUzNNNUd2dkVwOUlBeUxvbjNOTUZieUdpQlR2VkN6Rmdz?oc=5",
-      "title": "ウクライナの水陸両用攻撃ロボット、上陸作戦を実施 映像公開 - CNN.co.jp",
-      "saved": "2026-07-14-ukurainanoshui-lu-liang-yong-gong-ji-rohotuto-shang-lu-zuo-zhan-woshi-shi-ying-x.md",
-      "ts": 1784023062
-    },
-    "cfa40b6dd965c6bede0783fb205f3710b760dec550d72a8cdc07257e88f0c565": {
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TSmdNRE9EZGdrTjlyd3ltWWxTckNxZGIxS0hmeEJCdFRUdjV3ZHEtWlNOVHVIcjgwMGR4aEl3SzlxNm5KaTNmUE5oei1OSFk?oc=5",
-      "title": "ウクライナの水陸両用攻撃ロボット、上陸作戦を実施 - CNN.co.jp",
-      "saved": "2026-07-14-ukurainanoshui-lu-liang-yong-gong-ji-rohotuto-shang-lu-zuo-zhan-woshi-shi-cnn-co.md",
-      "ts": 1784023062
-    },
-    "fc28dd4ff11b85d56e2fadc63a5e2d003f15a312652f2ccb610e4e6fc08683d3": {
-      "link": "https://www.itmedia.co.jp/news/articles/2607/14/news093.html",
-      "title": "セブン-イレブン、テスラの「スーパーチャージャー」導入へ　26年度中に約10店舗",
-      "saved": "2026-07-14-sehun-irehun-tesurano-suhatiyasiya-dao-ru-he-26nian-du-zhong-niyue-10dian-pu.md",
-      "ts": 1784023062
-    },
-    "8ff68e70c81170e77317b68621fa33b59865f6a249dfb9457b27da9e295bdfb2": {
-      "link": "https://www.bbc.com/japanese/articles/c70y0ejl05vo?at_medium=RSS&at_campaign=rss",
-      "title": "【2026年サッカー男子W杯】 決定力、創造性、空中戦で優れているのは　ベスト4をデータ比較",
-      "saved": "2026-07-14-2026nian-satukanan-zi-wbei-jue-ding-li-chuang-zao-xing-kong-zhong-zhan-teyou-ret.md",
-      "ts": 1784023062
-    },
-    "dbf05bb60a8cf40866fb00ee7c399136900210ad661ad5152ce815f9b33fa215": {
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE93Q3dab3V6UTRfaTVXVWt3NmtsaUd4TTF4X1R2NU5HTlRucm1BTFZmUjhPVXVoMXJwRmxWSXE0bU5WRl9lNkk0alE2M3UzQUFK?oc=5",
-      "title": "突進するバイソンに跳ね飛ばされた男性、手術受け回復中 米イエローストーン国立公園(1/2) - CNN.co.jp",
-      "saved": "2026-07-14-tu-jin-suruhaisonnitiao-nefei-hasaretanan-xing-shou-shu-shou-kehui-fu-zhong-mi-i.md",
-      "ts": 1784023062
-    },
-    "4b6375f0600eaeb8300ff284ad7aaedadec984c00c60d5523b3028fbe8fd0e82": {
-      "link": "https://www.bbc.com/japanese/articles/cx2j2pv8l17o?at_medium=RSS&at_campaign=rss",
-      "title": "パリ近郊の森で火事、空からも消火　馬は避難",
-      "saved": "2026-07-14-harijin-jiao-nosen-tehuo-shi-kong-karamoxiao-huo-ma-habi-nan.md",
-      "ts": 1784023062
-    },
     "ff336c6680dbae7ee7aa1cef885457feec0f5b2d839a3d002c29b612cb6cea10": {
       "link": "https://www.itmedia.co.jp/news/articles/2607/14/news115.html",
       "title": "AIで「人間が頂点の時代終わる」――孫正義氏が考える2040年　人類が生きる道は“スーパーヒューマン化”",
@@ -12791,6 +12683,42 @@
       "title": "赤い塗料が付着したような状態の猫が、米テキサス州で見つかった/LEAGUE CITY ANIMAL CARE - CNN.co.jp",
       "saved": "2026-08-13-chi-itu-liao-kafu-zhao-sitayounazhuang-tai-nomao-ka-mi-tekisasuzhou-tejian-tukat.md",
       "ts": 1786612253
+    },
+    "f481a32715ebfd6f423a94b8a33f26f85fe9f52dcd0a2f4ed61e0a6c33e2034e": {
+      "link": "https://www.itmedia.co.jp/news/article/2608/13/2000000532/",
+      "title": "ドコモ・バイクシェア、全エリアでサービス再開　全面停止から9日ぶり",
+      "saved": "2026-08-13-tokomohaikusiea-quan-eriatesahisuzai-kai-quan-mian-ting-zhi-kara9ri-huri.md",
+      "ts": 1786618790
+    },
+    "751d6d8b12e92e53bdde6320e604090c47b5e850112f12082789a274279b25d6": {
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41c0xYTW1nRjg4emZKOXhlS25mRTBEQmQtM04yWWtOTkVncGVRZzJCd3dsRHRGb25TRERIUmhMbXp2bmN0ZmdMeWR5bklIa2lvNVQ4?oc=5",
+      "title": "在韓米軍基地の近くでスパイ行為か、中国退役軍人の男2人を逮捕 通信傍受も - CNN.co.jp",
+      "saved": "2026-08-13-zai-han-mi-jun-ji-di-nojin-kutesuhaixing-wei-ka-zhong-guo-tui-yi-jun-ren-nonan-2.md",
+      "ts": 1786618790
+    },
+    "f688e549bef9561bb3ba897fcf51d876ba1d752ae3b944ecb4a23beec6604ba0": {
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxVjR4dmZnV2toczBlcGNINWVKYnMwdVQ1Mzk2dzVqNXZrNnpXa21DY2hLcVFHVUU4d1JocWZpT0t0bFBlamJHUTh6TUVHYklqVm8zTw?oc=5",
+      "title": "米パワーボールで1650億円の大当たり、イリノイ州で当選券 - CNN.co.jp",
+      "saved": "2026-08-13-mi-hawahorute1650yi-yuan-noda-dang-tari-irinoizhou-tedang-xuan-quan-cnn-co-jp.md",
+      "ts": 1786618790
+    },
+    "fbc3ee24fa797e27b320f9a529f7408c4ae2179f9278d74667f561d51f85950b": {
+      "link": "https://www.itmedia.co.jp/business/articles/2608/13/news089.html",
+      "title": "すかいらーく、なぜ「ゴーストレストラン」？　外食離れをどう防ぐ",
+      "saved": "2026-08-13-sukairaku-nase-kosutoresutoran-wai-shi-li-rewotoufang-ku.md",
+      "ts": 1786618790
+    },
+    "0a59eb705a35d1d50963f1b182029a8d0016a0f859d91323f3f6751730352485": {
+      "link": "https://www.itmedia.co.jp/news/article/2608/13/2000000531/",
+      "title": "東京ガス子会社、社員が飲酒後にPCを紛失　個人情報約2万件を保存",
+      "saved": "2026-08-13-dong-jing-kasuzi-hui-she-she-yuan-kayin-jiu-hou-nipcwofen-shi-ge-ren-qing-bao-yu.md",
+      "ts": 1786618790
+    },
+    "42935e9621ce0398081b7f278610bb40b38ad1df256694061fdf389e99912694": {
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8wbjgxYXhYSGZPdGJIOW9tQzVPVDVyaHF0RjlhY0s0TE1TRHpKOG1CZGo5NGNuM2pScnkzN3dzalk4dkV2b2lVYzRYaDV1RzJp?oc=5",
+      "title": "【分析】トランプ氏による専用機の極秘乗り換え劇、どこが問題なのか - CNN.co.jp",
+      "saved": "2026-08-13-fen-xi-toranhushi-niyoruzhuan-yong-ji-noji-mi-cheng-rihuan-eju-tokokawen-ti-nano-2.md",
+      "ts": 1786618790
     }
   }
 }
