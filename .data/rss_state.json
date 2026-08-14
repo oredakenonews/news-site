@@ -1,161 +1,5 @@
 {
   "done": {
-    "25b1f425cac0b66d8a929e41658d96b958379303f18f5e0fba5a4e2a8c7e7cd1": {
-      "link": "https://www.itmedia.co.jp/news/articles/2607/15/news039.html",
-      "title": "「査読前論文は信用できない」はどこまで本当か？　査読前後での内容の変化、7万件の分析結果は",
-      "saved": "2026-07-15-cha-du-qian-lun-wen-haxin-yong-tekinai-hatokomateben-dang-ka-cha-du-qian-hou-ten.md",
-      "ts": 1784069762
-    },
-    "03e585b0f65f7f2e7eb05ebc335c05b66518686c207ddb57b4b5f11adeea6849": {
-      "link": "https://www.itmedia.co.jp/news/articles/2607/14/news103.html",
-      "title": "IT系上場企業の平均年収を業種別にみてみた：2026年版　ソフトウェア／サービス系、SI／システム開発系、クラウド／通信キャリア編",
-      "saved": "2026-07-15-itxi-shang-chang-qi-ye-noping-jun-nian-shou-woye-zhong-bie-nimitemita-2026nian-b.md",
-      "ts": 1784069762
-    },
-    "43813cf76efc0da5a538cbadbf31ec4158383cb2f5f0b87af1bfaf25d989cf3d": {
-      "link": "https://www.itmedia.co.jp/news/articles/2607/14/news097.html",
-      "title": "IT系上場企業の平均年収を業種別にみてみた：2026年版　ネットベンチャー、ゲーム、メディア編",
-      "saved": "2026-07-15-itxi-shang-chang-qi-ye-noping-jun-nian-shou-woye-zhong-bie-nimitemita-2026nian-b-2.md",
-      "ts": 1784069762
-    },
-    "64429d61e2015ec61f3d15c53d804a7634cf4d3b909635b962463d9557ea16e0": {
-      "link": "https://www.itmedia.co.jp/business/articles/2607/15/news014.html",
-      "title": "NEC森田社長が語る「脱・人月商売」の行方　組織の壁を破るAI人材育成法",
-      "saved": "2026-07-15-necsen-tian-she-chang-kayu-ru-tuo-ren-yue-shang-mai-noxing-fang-zu-zhi-nobi-wopo.md",
-      "ts": 1784069762
-    },
-    "72e1907de23573535ee0aa3dbc53667be1d5dab43e4325501b3e75b1893e1b38": {
-      "link": "https://www.itmedia.co.jp/business/articles/2607/15/news018.html",
-      "title": "「中国人観光客が原因」は誤解だった？　京都を苦しめる“観光集中”の正体",
-      "saved": "2026-07-15-zhong-guo-ren-guan-guang-ke-kayuan-yin-hawu-jie-tatuta-jing-du-woku-simeru-guan-.md",
-      "ts": 1784069762
-    },
-    "89ffaa08e8c76ed7d08e25b6b91220753472e48b22ac1cc19260cdc330f9d692": {
-      "link": "https://www.itmedia.co.jp/business/articles/2607/15/news012.html",
-      "title": "形骸化する障害者雇用、出社回帰、消えない男女格差……制度を変えても職場にはびこる「昔の価値観」",
-      "saved": "2026-07-15-xing-hai-hua-suruzhang-hai-zhe-gu-yong-chu-she-hui-gui-xiao-enainan-nu-ge-chai-z.md",
-      "ts": 1784069762
-    },
-    "3d1c348b0ccabe1fd2b0f901acc5c9a10eacc25eb8ffaba87bf58a6f8078025a": {
-      "link": "https://www.itmedia.co.jp/business/articles/2607/15/news054.html",
-      "title": "「申し訳なさはあるが……」　新卒3割が“内々定辞退予備軍”、現役学生の“ホンネ”",
-      "saved": "2026-07-15-shen-siyi-nasahaaruka-xin-zu-3ge-ka-nei-ding-ci-tui-yu-bei-jun-xian-yi-xue-sheng.md",
-      "ts": 1784069762
-    },
-    "ac5e722356d0f509c87b694e908d39b003fa7ac6589653398870644b15506d7d": {
-      "link": "https://www.itmedia.co.jp/business/articles/2607/15/news041.html",
-      "title": "「ピースサインで勤怠打刻」　Joshinが全事業所に導入した顔認証が“従業員から絶賛”のワケ",
-      "saved": "2026-07-15-hisusainteqin-dai-da-ke-joshinkaquan-shi-ye-suo-nidao-ru-sitayan-ren-zheng-ka-co.md",
-      "ts": 1784069762
-    },
-    "3d43175c546208603ddb22a1b4519da7cce1ea078c178252a685c819ec2671d7": {
-      "link": "https://www.itmedia.co.jp/business/articles/2607/15/news017.html",
-      "title": "「JAL史上最大のプロジェクト」　足かけ7年、費用は800億円──旅客システム刷新を成功させたマネジメント術とは",
-      "saved": "2026-07-15-jalshi-shang-zui-da-nohurosiekuto-zu-kake7nian-fei-yong-ha800yi-yuan-lu-ke-sisut.md",
-      "ts": 1784069762
-    },
-    "fd7f19d01bcfdbb8f69c44e65d9872f3d65fec120ec4928d9ace7fe6599f3542": {
-      "link": "http://www3.nhk.or.jp/news/html/20260715/k10015177181000.html",
-      "title": "W杯 スペイン 4大会ぶり決勝進出 フランス3大会連続決勝ならず",
-      "saved": "2026-07-15-wbei-suhein-4da-hui-hurijue-sheng-jin-chu-huransu3da-hui-lian-sok-jue-sheng-nara.md",
-      "ts": 1784069762
-    },
-    "9280276a65385c185e9e37fc66c6a0302c7e863120722745edab5d27e25ac9ec": {
-      "link": "http://www3.nhk.or.jp/news/html/20260715/k10015177201000.html",
-      "title": "大リーグオールスター 村上・山本がレッドカーペットに登場",
-      "saved": "2026-07-15-da-rikuorusuta-cun-shang-shan-ben-karetutokahetutonideng-chang.md",
-      "ts": 1784069762
-    },
-    "0ae32178f5a3dbf6a3adaaf3e697a0aced79261962b29cef0f74c5993c23127c": {
-      "link": "https://www.itmedia.co.jp/business/articles/2607/15/news047.html",
-      "title": "「社名は言えないが……」　半導体材料大手・富士フイルムのキーマンが語るチップ開発の裏側",
-      "saved": "2026-07-15-she-ming-hayan-enaika-ban-dao-ti-cai-liao-da-shou-fu-shi-huirumunokimankayu-ruti.md",
-      "ts": 1784069762
-    },
-    "3df711556db4db24e3e32f953509a963ed6f4356218cb2ebf2dcbec1c08950df": {
-      "link": "http://www3.nhk.or.jp/news/html/20260715/k10015176971000.html",
-      "title": "政府 ナフサの供給対策検討 イラン情勢による流通影響受け",
-      "saved": "2026-07-15-zheng-fu-nahusanogong-gei-dui-ce-jian-tao-iranqing-shi-niyoruliu-tong-ying-xiang.md",
-      "ts": 1784069762
-    },
-    "46bae260839626e1d76f68e3f777c9266c1332252c766c3343ed84fa2ea4da13": {
-      "link": "http://www3.nhk.or.jp/news/html/20260715/k10015177001000.html",
-      "title": "米がホルムズ海峡を再び封鎖 トランプ大統領 対価要求は撤回",
-      "saved": "2026-07-15-mi-kahorumusuhai-xia-wozai-hifeng-suo-toranhuda-tong-ling-dui-jia-yao-qiu-hache-.md",
-      "ts": 1784069762
-    },
-    "afb5dd10e7b6acd2f0f561249bac07fcab722512b4cdaf7e2cbb8b78b1514c1d": {
-      "link": "http://www3.nhk.or.jp/news/html/20260715/k10015176981000.html",
-      "title": "富山 新潟 山梨で38度の危険な暑さ予想 東北でも猛烈な暑さに",
-      "saved": "2026-07-15-fu-shan-xin-xi-shan-li-te38du-nowei-xian-nashu-sayu-xiang-dong-bei-temomeng-lie-.md",
-      "ts": 1784069762
-    },
-    "3f14b0738c333730e968bebfaaf49559b2b30217e7053cd7b79eae5357a59038": {
-      "link": "https://www.itmedia.co.jp/business/articles/2607/15/news019.html",
-      "title": "日本企業の美徳「守破離」、外国人にどう映る？　台湾出身デザイナーが来日して驚いたこと",
-      "saved": "2026-07-15-ri-ben-qi-ye-nomei-de-shou-po-li-wai-guo-ren-nitouying-ru-tai-wan-chu-shen-tesai.md",
-      "ts": 1784069762
-    },
-    "a450852d6919831cc697c059b08a1b8e5d2d896bf0df5330fcfebb00290fd6f4": {
-      "link": "http://www3.nhk.or.jp/news/html/20260715/k10015177091000.html",
-      "title": "大相撲名古屋場所 4日目見どころ 大の里は平幕の豪ノ山と",
-      "saved": "2026-07-15-da-xiang-pu-ming-gu-wu-chang-suo-4ri-mu-jian-tokoro-da-noli-haping-mu-nohao-nosh.md",
-      "ts": 1784069762
-    },
-    "4858d82b29e6c4bcef2c18717230b5ee01cdbf59568639df724c74b89e6f18bf": {
-      "link": "https://www.itmedia.co.jp/business/articles/2607/15/news016.html",
-      "title": "病院内のコンビニ、なぜ「ローソン」が最も多いのか　約350店を支える“病院専門チーム”の正体",
-      "saved": "2026-07-15-bing-yuan-nei-nokonhini-nase-roson-kazui-moduo-inoka-yue-350dian-wozhi-eru-bing-.md",
-      "ts": 1784069762
-    },
-    "edeff3c7685e3ab0b2bcccc74bc5a36194094d18ba98848235cc7011413b75c2": {
-      "link": "http://www3.nhk.or.jp/news/html/20260715/k10015177011000.html",
-      "title": "大阪・道頓堀ビル火災 出火の約15分前にたばこポイ捨てか",
-      "saved": "2026-07-15-da-ban-dao-dun-ku-hiruhuo-zai-chu-huo-noyue-15fen-qian-nitahakohoishe-teka.md",
-      "ts": 1784069762
-    },
-    "6d6cbbac91bb705e4377375b272ecd87cf4481be430c7ce75ad581f0fed97052": {
-      "link": "http://www3.nhk.or.jp/news/html/20260715/k10015176941000.html",
-      "title": "皇室典範改正案 きょう参院で審議入り 与党内で会期延長案も",
-      "saved": "2026-07-15-huang-shi-dian-fan-gai-zheng-an-kiyoucan-yuan-teshen-yi-ru-ri-yu-dang-nei-tehui-.md",
-      "ts": 1784069762
-    },
-    "b6a1563964e354c0dd8026c096e5bc90eca2f6fd4b8e4e217b345af824d561cf": {
-      "link": "http://www3.nhk.or.jp/news/html/20260715/k10015177161000.html",
-      "title": "山口北部や島根西部の一部にレベル4高潮危険警報 厳重警戒を",
-      "saved": "2026-07-15-shan-kou-bei-bu-yadao-gen-xi-bu-noyi-bu-nireheru4gao-chao-wei-xian-jing-bao-yan-.md",
-      "ts": 1784069762
-    },
-    "77433a408fe59f8d28dcf915de1be0a8214616f8017aedc65859fe353f55a8bf": {
-      "link": "http://www3.nhk.or.jp/news/html/20260714/k10015177051000.html",
-      "title": "【プロ野球結果】ソフトバンクが両リーグ1番乗りで50勝到達",
-      "saved": "2026-07-14-huroye-qiu-jie-guo-sohutohankukaliang-riku1fan-cheng-rite50sheng-dao-da.md",
-      "ts": 1784069762
-    },
-    "d418c239a6951e0dec1081dab4799e03a7dac190d2ef2da2228c33edeb9896c1": {
-      "link": "http://www3.nhk.or.jp/news/html/20260714/k10015177031000.html",
-      "title": "バドミントン ジャパンオープン開幕 期待の19歳宮崎は初戦敗退",
-      "saved": "2026-07-14-hatominton-siyahanohunkai-mu-qi-dai-no19sui-gong-qi-hachu-zhan-bai-tui.md",
-      "ts": 1784069762
-    },
-    "f193ba4ad3f2b2408ee1131945e959ec4ad01387c1f98c94da6c890c8e7e2711": {
-      "link": "http://www3.nhk.or.jp/news/html/20260714/k10015177021000.html",
-      "title": "W杯 ノルウェー代表凱旋帰国「バイキング・ロウ」で祝福",
-      "saved": "2026-07-14-wbei-noruuedai-biao-kai-xuan-gui-guo-haikinkurou-tezhu-fu.md",
-      "ts": 1784069762
-    },
-    "43469b417805c0b615b6c940e24d4d882e8a420d4f3c95d038923ab18c98f454": {
-      "link": "http://www3.nhk.or.jp/news/html/20260714/k10015176811000.html",
-      "title": "フィギュアスケートアイスダンス 宇野・本田カップル 練習公開",
-      "saved": "2026-07-14-huikiyuasuketoaisutansu-yu-ye-ben-tian-katuhuru-lian-xi-gong-kai.md",
-      "ts": 1784069762
-    },
-    "a2ed3891fdb5a6ad5bf444d2e63baeb4f7cbdc84d8150b3a32a619c6a2f51b98": {
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9QS2Jfc1NsTEF6b3YxMURoeVRYeWwyLWRESDQwMjMteUo4NFdPWVE2NFRQWUUwRzRjSXBURnZvRU83YkJ5ZUpiSVdSbVBLdDMz?oc=5",
-      "title": "【分析】トランプ氏支持率、崩壊が始まった可能性(1/2) - CNN.co.jp",
-      "saved": "2026-04-22-fen-xi-toranhushi-zhi-chi-lu-beng-huai-kashi-matutake-neng-xing-1-2-cnn-co-jp.md",
-      "ts": 1784069762
-    },
     "c684def202d9a24aedc71faa4d567385dad00252702b130caf59f0007cfbc631": {
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKWF9RM1ZXOEwtRnNuUmpkbkpLYXUtaWlQR2tjajNMV0V0aFFMWGU4aS1DZlNzZXlNZS1DOHBPLUJTZUROYThsRXl6MkozMWYtQjN3?oc=5",
       "title": "トランプ氏、ホルムズ海峡通航料徴収計画を24時間で断念 背後に必死の働きかけ - CNN.co.jp",
@@ -12743,6 +12587,90 @@
       "title": "ヘルメットから見つかったマムシ/MAUMELLE ANIMAL SERVICES / DR. COLE BIERBAUM - CNN.co.jp",
       "saved": "2026-08-13-herumetutokarajian-tukatutamamusi-maumelle-animal-services-dr-cole-bierbaum-cnn-.md",
       "ts": 1786660827
+    },
+    "aa10273713468f4bc88d867b123df8aef16a9ae5ce2d30dcd6dfc75baa78457e": {
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Icm1HN0xOVzdGVUhRTU9RVTNJNWcxNkc5NDlUbUtRcURRZ0RldmhfUFMzWjZjNUxUQkZwTVVPdlRsNVVmUG5zVDNtcXNhNmY0?oc=5",
+      "title": "米首都の第2次大戦記念碑に落書き、噴水に石鹸の泡も トランプ政権が捜査(1/2) - CNN.co.jp",
+      "saved": "2026-08-14-mi-shou-du-nodi-2ci-da-zhan-ji-nian-bei-niluo-shu-ki-pen-shui-nishi-jian-nopao-m.md",
+      "ts": 1786672450
+    },
+    "bf0a8379eb96b8b7b121a52137baf7aa7fb77291c699a68af49331e55114bc1f": {
+      "link": "https://www.itmedia.co.jp/news/article/2608/14/2000000539/",
+      "title": "千葉の「通れた道」、JARTIC地図で確認可能に　トヨタやホンダなど5社のデータを集約",
+      "saved": "2026-08-14-qian-xie-no-tong-retadao-jarticdi-tu-teque-ren-ke-neng-ni-toyotayahontanato5she-.md",
+      "ts": 1786672450
+    },
+    "7729f78308662ae2f0e47fe094e3120d9a6e342496e9bd83cfee5b5c23507a8f": {
+      "link": "https://www.itmedia.co.jp/news/article/2608/14/2000000538/",
+      "title": "AIエージェント同士が“縄張り争い”、マルウェアで妨害も　Anthropicがマルチエージェント実験の結果を公開",
+      "saved": "2026-08-14-aiesientotong-shi-ka-nawa-zhang-rizheng-i-maruueatefang-hai-mo-anthropickamaruti.md",
+      "ts": 1786672450
+    },
+    "bf2daa3cbdf49f4ad5dadcf9499887dd0bbd31e5c46cbf18cc65a92a64159c0a": {
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13Y2xjNXFyNUo2ZFl1OUo4SHJGLUxmQng3YmZ4VHZtOHNzYzR3QjRGWFdtdGNGa3NWQ2I5cUJPZGJKU2VwYWxOdzZxczlOOV9qQjRR?oc=5",
+      "title": "オマーン沖で大規模な原油流出、1300平方キロに拡大 環境破壊に懸念も - CNN.co.jp",
+      "saved": "2026-08-14-omanchong-teda-gui-mo-nayuan-you-liu-chu-1300ping-fang-kironikuo-da-huan-jing-po.md",
+      "ts": 1786672450
+    },
+    "0adef6db5d7ce48e4fefedd85d67c69208e76ba74c72ebd6f9c5bab7ce593f81": {
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8tM1pyYTlpclZVd2VkWDh0Rzg4dnVYTm5hNUxqd0VQUjhWZUg1VWFUd0VaMkZCUUdnLWwwODBfYWljbGE4MTMzRUxGMjlnNmZw?oc=5",
+      "title": "米、中東に空母ジョージ・ワシントン派遣へ 配備長期化のエイブラハム・リンカーンと交代 - CNN.co.jp",
+      "saved": "2026-08-14-mi-zhong-dong-nikong-mu-siyosiwasintonpai-qian-he-pei-bei-chang-qi-hua-noeihurah.md",
+      "ts": 1786672450
+    },
+    "a269bf96d0f7ddc1c927840c466e573236e7847518633368d2679d86cd78dedb": {
+      "link": "https://www.itmedia.co.jp/news/article/2608/14/2000000537/",
+      "title": "Instagram、ワードマークを10年ぶりに刷新 筆記体をより太くシンプルに",
+      "saved": "2026-08-14-instagram-watomakuwo10nian-hurinishua-xin-bi-ji-ti-woyoritai-kusinhuruni.md",
+      "ts": 1786672450
+    },
+    "913ec08dcf3d9ebf9202b1dc5d45eddfcf9f9d87ecf470defa80076777533b3b": {
+      "link": "https://www.itmedia.co.jp/business/articles/2608/14/news015.html",
+      "title": "【ヒット記事】10月施行、同一労働同一賃金はこう変わる　企業がまずとるべき対策3選",
+      "saved": "2026-08-14-hitutoji-shi-10yue-shi-xing-tong-yi-lao-dong-tong-yi-ren-jin-hakoubian-waru-qi-y.md",
+      "ts": 1786672450
+    },
+    "0b0d64f0c5578c04dbdbf5c07dbaf5fb362fe8c52d659fcda62b84f03b9b21b9": {
+      "link": "https://www.itmedia.co.jp/business/articles/2608/14/news020.html",
+      "title": "日本発の「夢の電池」はどうなったのか　動き出した再生計画",
+      "saved": "2026-08-14-ri-ben-fa-no-meng-nodian-chi-hatounatutanoka-dong-kichu-sitazai-sheng-ji-hua.md",
+      "ts": 1786672450
+    },
+    "63a29756106d548b593936ec0ad0c79cd0e0479fd1273851b31f78a6610a1946": {
+      "link": "https://www.itmedia.co.jp/business/articles/2608/14/news010.html",
+      "title": "くら寿司「閉店間際、ネタ大量盛りサービス」の誤解と炎上　4000万回拡散された“神対応”の深層",
+      "saved": "2026-08-14-kurashou-si-bi-dian-jian-ji-netada-liang-sheng-risahisu-nowu-jie-toyan-shang-400.md",
+      "ts": 1786672450
+    },
+    "13e933af743cb3814f54b3e97bee5a44d5cb922355424da83206e8965e0b4e3b": {
+      "link": "https://www.itmedia.co.jp/business/articles/2608/14/news004.html",
+      "title": "上場企業の平均年収「1000万円」超えも、中堅・管理職層への恩恵は薄め　中核人材どう守る？",
+      "saved": "2026-08-14-shang-chang-qi-ye-noping-jun-nian-shou-1000mo-yuan-chao-emo-zhong-jian-guan-li-z.md",
+      "ts": 1786672450
+    },
+    "f94e4ab8fc7524737584f65f3d3e27390621e2ec882961d76685b6cc0abbaba8": {
+      "link": "https://www.itmedia.co.jp/news/article/2608/14/2000000536/",
+      "title": "豪雨被害の千葉で「通れた道マップ」トヨタが公開　直近3時間の通行実績が分かる",
+      "saved": "2026-08-14-hao-yu-bei-hai-noqian-xie-te-tong-retadao-matuhu-toyotakagong-kai-zhi-jin-3shi-j.md",
+      "ts": 1786672450
+    },
+    "c624c42d6523951ef769605757c115ed31f4e358dff9626a1b32b8d43f136d79": {
+      "link": "https://www.itmedia.co.jp/business/articles/2608/14/news040.html",
+      "title": "データセンターが“アツい”――「潜入レポート」「フジクラ取材」など注目記事5選（2026年前半版）",
+      "saved": "2026-08-14-tetasentaka-atui-qian-ru-rehoto-husikuraqu-cai-natozhu-mu-ji-shi-5xuan-2026nian-.md",
+      "ts": 1786672450
+    },
+    "a91475dde54632f5ce4db112a7fe214fd8093771a7208fb4ff8777ea158963cc": {
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBjMmh5V01DUEViNmFiMDlsU1hsNDhGWGlza05GY1Rjb1RQNEJleTIyVVFMc2ZXZlBKVEhfWHlEb2k0Tjdab19TU3lha0FhU0tLbUpQWA?oc=5",
+      "title": "バーガーキングの「ワッパー」は紙での包装から箱入りに変更された/Bold Man Media/500 Degrees - CNN.co.jp",
+      "saved": "2026-08-13-hakakinkuno-watuha-hazhi-tenobao-zhuang-karaxiang-ru-rinibian-geng-sareta-bold-m.md",
+      "ts": 1786672450
+    },
+    "2cfa198b9f71034347899296b6f524936b8ebde76e623d8396abe928a37c7112": {
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kclB6bkQxcXVUWkVrYjZ1RlFLVUhJRjlrdnRmeURLQWx2dTFESmJFemh4M3BTZDVRd3plVUJGYUpINmFtWmVRV1p3SWhWUVE5cm11NQ?oc=5",
+      "title": "バーガーさんとキングさん結婚、「バーガーキング」費用負担 - CNN.co.jp",
+      "saved": "2015-04-09-hakasantokinkusanjie-hun-hakakinku-fei-yong-fu-dan-cnn-co-jp.md",
+      "ts": 1786672450
     }
   }
 }
