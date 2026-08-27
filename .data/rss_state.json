@@ -1,317 +1,5 @@
 {
   "done": {
-    "caa23c840d6cbbd338335689c931eb6f6e5ab02d0282d8726e3e85ffb7bc6376": {
-      "link": "http://www3.nhk.or.jp/news/html/20260727/k10015187421000.html",
-      "title": "横綱審議委員会が二横綱に苦言 「横綱としての責任や自覚を」",
-      "saved": "2026-07-27-heng-gang-shen-yi-wei-yuan-hui-kaer-heng-gang-niku-yan-heng-gang-tositenoze-ren-.md",
-      "ts": 1785151207
-    },
-    "3d4cfe90a3f261e861f46e5b299d42d3368a23152054104c9f892d2e95f7bc81": {
-      "link": "http://www3.nhk.or.jp/news/html/20260727/k10015187381000.html",
-      "title": "なでしこジャパン アジア大会 代表メンバーに成宮唯ら22人選出",
-      "saved": "2026-07-27-natesikosiyahan-asiada-hui-dai-biao-menhanicheng-gong-wei-ra22ren-xuan-chu.md",
-      "ts": 1785151207
-    },
-    "b58dbb339e8de3d0e23808a4a146452ac87ae87b548c35353bfc1188a675278f": {
-      "link": "http://www3.nhk.or.jp/news/html/20260727/k10015187271000.html",
-      "title": "台風13号発生 今後勢力を強める予想",
-      "saved": "2026-07-27-tai-feng-13hao-fa-sheng-jin-hou-shi-li-woqiang-meruyu-xiang.md",
-      "ts": 1785151207
-    },
-    "8a002b00a748310f0c9611d4aad1baa95d48af4983d57a18ff63f8d09357fc29": {
-      "link": "http://www3.nhk.or.jp/news/html/20260727/k10015187261000.html",
-      "title": "“消費税減税 速やかに法案提出”高市首相会見 公約実現を強調",
-      "saved": "2026-07-27-xiao-fei-shui-jian-shui-su-yakanifa-an-ti-chu-gao-shi-shou-xiang-hui-jian-gong-y.md",
-      "ts": 1785151207
-    },
-    "a50a1c58673242e104b5eecbcbccc12c96f452a5e4d6a4dbc9d1c27ccb2528e9": {
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBvWVNmQkE3MUtWa2V3Z3NrUi16aVhuU1NTTG1FTFBrYlNsR3M1ZFRHcGczbWxkODlFZHJpVnBjMHhkWXFXNFNlRmVINVlROEJ3?oc=5",
-      "title": "【分析】イラン巡るあらゆる分岐点、トランプ氏の選択はことごとく裏目に(1/3) - CNN.co.jp",
-      "saved": "2026-07-27-fen-xi-iranxun-ruarayurufen-qi-dian-toranhushi-noxuan-ze-hakotokotokuli-mu-ni-1-.md",
-      "ts": 1785151207
-    },
-    "e34dc56c5f99900b8741fedc6d43ebe880a621e96bb3ff81d5f4310efa4c73de": {
-      "link": "https://www.itmedia.co.jp/news/articles/2607/27/news096.html",
-      "title": "警視庁がミストファンを導入　機動隊員の熱中症対策で",
-      "saved": "2026-07-27-jing-shi-ting-kamisutohuanwodao-ru-ji-dong-dui-yuan-nore-zhong-zheng-dui-ce-te.md",
-      "ts": 1785151207
-    },
-    "1559f41278edbf35a15ec266733587db83d4b0904494254dc123be2c279ba818": {
-      "link": "https://www.itmedia.co.jp/news/articles/2607/27/news095.html",
-      "title": "有識者はGoogleやX、Meta、ドワンゴを名指しで批判……総務省、偽広告や誹謗中傷に発信・拡散前の対策求める",
-      "saved": "2026-07-27-you-shi-zhe-hagoogleyax-meta-towankowoming-zhi-sitepi-pan-zong-wu-sheng-wei-guan.md",
-      "ts": 1785151207
-    },
-    "9a299207efc6c1fd6ad89b50e3b46de08a24021460f3ed87380e76028114316a": {
-      "link": "https://www.itmedia.co.jp/news/articles/2607/27/news092.html",
-      "title": "Z世代に聞く次の流行、「AIイラスト」が1位に　「Claude Code」も上位",
-      "saved": "2026-07-27-zshi-dai-niwen-kuci-noliu-xing-aiirasuto-ka1wei-ni-claude-code-moshang-wei.md",
-      "ts": 1785151207
-    },
-    "2f6c188d1e0410b81b81d360b1a76d2620cc9b463745f81cc60f14924879cd17": {
-      "link": "https://www.itmedia.co.jp/news/articles/2607/27/news076.html",
-      "title": "検索結果に「詐欺ではありません」と表示させる詐欺手口、警視庁が注意喚起　AI要約も餌食に",
-      "saved": "2026-07-27-jian-suo-jie-guo-ni-zha-qi-tehaarimasen-tobiao-shi-saseruzha-qi-shou-kou-jing-sh.md",
-      "ts": 1785151207
-    },
-    "ed1a57503e3079300cdb3ae0833fba5c04672c988fb5de332666f6217af93eb9": {
-      "link": "https://www.itmedia.co.jp/news/articles/2607/27/news090.html",
-      "title": "ポケカ直営店に顔認証導入　「同一人物が何度も整理券受け取り・入店」に対策",
-      "saved": "2026-07-27-hokekazhi-ying-dian-niyan-ren-zheng-dao-ru-tong-yi-ren-wu-kahe-du-mozheng-li-qua.md",
-      "ts": 1785151207
-    },
-    "a0a49d9f7261812ebe59285f124c628bf948fd384d94d46123da114a7bd45b35": {
-      "link": "https://www.bbc.com/japanese/articles/clyq5qvw0yvo?at_medium=RSS&at_campaign=rss",
-      "title": "ヨルダン川西岸でイスラエル人入植者がパレスチナ人の村へ……催涙ガス立ち込める現場でBBC取材",
-      "saved": "2026-07-27-yorutanchuan-xi-an-teisuraeruren-ru-zhi-zhe-kaharesutinaren-nocun-he-cui-lei-kas.md",
-      "ts": 1785151207
-    },
-    "e1520fc4ef2e37d86969c1dfd50c7c8b508131b969d82f056163d0543bc60c5d": {
-      "link": "https://www.bbc.com/japanese/articles/cj4k5pe1kgdo?at_medium=RSS&at_campaign=rss",
-      "title": "バーナム英首相、「イギリスにとって正しい」ならトランプ氏批判もするとBBCに　早期の解散総選挙は否定",
-      "saved": "2026-07-27-hanamuying-shou-xiang-ikirisunitotutezheng-sii-naratoranhushi-pi-pan-mosurutobbc.md",
-      "ts": 1785151207
-    },
-    "5b2556319b2a15ff1fc004e4baa66e49b729dbdbbaf976fd865b71443e44e7ef": {
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9sSVF5Sldzc19CaTZNQUVIbGJzbVFleXY3eGtDTVdwM25YVFVCWG53ZlZGMHB1V2JuYmNlNmFJZzYwbllrRWlpMGZtdmJ4VlFHS1VFaw?oc=5",
-      "title": "「オイスター」が置き去りにされたのは、霊長類の飼育を免許制とするイングランドの新法が原因だと動物福祉の専門家らは考えている/RSPCA - CNN.co.jp",
-      "saved": "2026-07-25-oisuta-kazhi-kiqu-rinisaretanoha-ling-chang-lei-nosi-yu-womian-xu-zhi-tosuruinku.md",
-      "ts": 1785151207
-    },
-    "e57593b314f06f9c5485549614cb398e7ea136d90c43b93590d4ce3454dc8978": {
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15amtMZWN2Z3RRQi1CZkpocHFpUHNPY1ZIX3huODNNLV83ejMwUlp1M1hTZmNKeHhMRUN3d2xGc2NPRTk2d1RjREQtUzJ1THJtMUdBcA?oc=5",
-      "title": "購入した座席と違う、航空機で座席を「格下げ」された場合の対応とは(1/2) - CNN.co.jp",
-      "saved": "2025-10-19-gou-ru-sitazuo-xi-towei-u-hang-kong-ji-tezuo-xi-wo-ge-xia-ke-saretachang-he-nodu.md",
-      "ts": 1785151207
-    },
-    "844779f57e2b9b0f104e4af93e49450345fa5205a9124423c75a4a149399ec2a": {
-      "link": "https://www.itmedia.co.jp/news/articles/2607/28/news061.html",
-      "title": "Amazon Leo、スマホと直接つながる衛星5105基をFCCに申請　2028年配備へ",
-      "saved": "2026-07-28-amazon-leo-sumahotozhi-jie-tunakaruwei-xing-5105ji-wofccnishen-qing-2028nian-pei.md",
-      "ts": 1785193255
-    },
-    "3bff01b040b397010ba86c69c930be009d802742eb0f0ab8c048bcbc2db86b5c": {
-      "link": "http://www3.nhk.or.jp/news/html/20260728/k10015187571000.html",
-      "title": "米大統領「合意の可能性ある」 イランは妥協しない姿勢",
-      "saved": "2026-07-28-mi-da-tong-ling-he-yi-noke-neng-xing-aru-iranhatuo-xie-sinaizi-shi.md",
-      "ts": 1785193255
-    },
-    "37ba389f343271fb8533549ebf849c02eb8b47ccc5658af0e5c684eb3fb54f83": {
-      "link": "https://www.itmedia.co.jp/news/articles/2607/28/news059.html",
-      "title": "NVIDIAやMicrosoftなど30社超、オープンAIの防御ツール共同開発の「Open Secure AI Alliance」設立",
-      "saved": "2026-07-28-nvidiayamicrosoftnato30she-chao-ohunainofang-yu-turugong-tong-kai-fa-no-open-sec.md",
-      "ts": 1785193255
-    },
-    "99b4f4950de0de7e2594b9c5a0103c769a028ef874a70c215152c3dcebd141da": {
-      "link": "http://www3.nhk.or.jp/news/html/20260728/k10015187661000.html",
-      "title": "英首相「ウクライナと100％共にある」支援継続を強調",
-      "saved": "2026-07-28-ying-shou-xiang-ukurainato100-gong-niaru-zhi-yuan-ji-sok-woqiang-diao.md",
-      "ts": 1785193255
-    },
-    "3b47bc1396994afc80f68f2269e869c612570a0a07b9f49689574c3c1344efdd": {
-      "link": "https://www.itmedia.co.jp/business/articles/2607/28/news017.html",
-      "title": "老舗ホテル「川六」、DXで「3.4万時間」削減　年商30億円超の経理を「週3日・パート1人」で回す自動化の仕組み",
-      "saved": "2026-07-28-lao-pu-hoteru-chuan-liu-dxte-3-4mo-shi-jian-xue-jian-nian-shang-30yi-yuan-chao-n.md",
-      "ts": 1785193255
-    },
-    "39a138c21861f8f422b638180dfba57533220f42df6989c98f25252cbc5300b7": {
-      "link": "https://www.itmedia.co.jp/business/articles/2607/28/news032.html",
-      "title": "「すし職人をAI開発の輪に入れろ」──オードリー・タンに聞く、米中AI競争で日本が勝つ道",
-      "saved": "2026-07-28-susizhi-ren-woaikai-fa-nolun-niru-rero-otoritanniwen-ku-mi-zhong-aijing-zheng-te.md",
-      "ts": 1785193255
-    },
-    "8b74bcf4465734f7beb025c76e6b09f70b120008f9e8117fb535233b1e48a808": {
-      "link": "https://www.itmedia.co.jp/business/articles/2607/28/news049.html",
-      "title": "Google親会社「四半期で純利益18兆円」のカラクリ　AIでも検索でもない“本当の主役”",
-      "saved": "2026-07-28-googleqin-hui-she-si-ban-qi-techun-li-yi-18zhao-yuan-nokarakuri-aitemojian-suo-t.md",
-      "ts": 1785193255
-    },
-    "cc485d2d34a12ac29121f95e7782409f4ed928789b122792691fac541c5382f8": {
-      "link": "https://www.itmedia.co.jp/business/articles/2607/28/news042.html",
-      "title": "「バイト出身の22歳社長」から3年──ココイチFCトップが年商100億円を「絶対できる」と言い切るワケ",
-      "saved": "2026-07-28-haitochu-shen-no22sui-she-chang-kara3nian-kokoitifctotuhukanian-shang-100yi-yuan.md",
-      "ts": 1785193255
-    },
-    "940d8816747edc9a2f7eea03537263cd6ae5382dd2c7518fc7bcd92d3e01c6d5": {
-      "link": "http://www3.nhk.or.jp/news/html/20260728/k10015187521000.html",
-      "title": "エディオン会長 ヤマダHDとの統合「対等の精神は譲れない」",
-      "saved": "2026-07-28-eteionhui-chang-yamatahdtonotong-he-dui-deng-nojing-shen-harang-renai.md",
-      "ts": 1785193255
-    },
-    "f870f831d9fa92430d2c8c1a11d5b4022b2c86ae6ad52bda81a1098b3309fccb": {
-      "link": "http://www3.nhk.or.jp/news/html/20260728/k10015187531000.html",
-      "title": "スマホ法に基づきグーグルとアップルが公取委提出の報告書公表",
-      "saved": "2026-07-28-sumahofa-niji-tukikukurutoatuhurukagong-qu-wei-ti-chu-nobao-gao-shu-gong-biao.md",
-      "ts": 1785193255
-    },
-    "6a7cd56cc83fccd168424ffab61ec1b85970579cc6b389acb10f44f27813c249": {
-      "link": "http://www3.nhk.or.jp/news/html/20260728/k10015187561000.html",
-      "title": "東北～九州 局地的に非常に激しい雨 西日本中心に危険な暑さ",
-      "saved": "2026-07-28-dong-bei-jiu-zhou-ju-di-de-nifei-chang-niji-siiyu-xi-ri-ben-zhong-xin-niwei-xian.md",
-      "ts": 1785193255
-    },
-    "613e14828e46c8527d27feb91116e50489fd11e506023b27f45494fe3b4e612b": {
-      "link": "https://www.itmedia.co.jp/business/articles/2607/28/news018.html",
-      "title": "「ジャムは瓶」の常識を変えた　アヲハタ「ボトル型」が3年で3倍売れた理由",
-      "saved": "2026-07-28-siyamuhaping-nochang-shi-wobian-eta-awohata-hotoruxing-ka3nian-te3bei-mai-retali.md",
-      "ts": 1785193255
-    },
-    "76b50d7bb75bc392edda46b5ebde6befb7bbfeeb8dfbaea4e37c056774027625": {
-      "link": "https://www.itmedia.co.jp/business/articles/2607/28/news023.html",
-      "title": "AIで自分の顔を「ビックリマン風キャラ」に　ロッテ、名刺やTシャツを販売　6万円超の大人買いプランも",
-      "saved": "2026-07-28-aitezi-fen-noyan-wo-hitukurimanfeng-kiyara-ni-rotute-ming-ci-yatsiyatuwofan-mai-.md",
-      "ts": 1785193255
-    },
-    "ccf0a7afc7adb2418c0695ad0ba15bb6696ab5bd75c73d791c0ea026036b0571": {
-      "link": "https://www.itmedia.co.jp/business/articles/2607/28/news029.html",
-      "title": "「暑すぎて外出したくない！」　ローソンのデリバリー売り上げ4割増　コンビニならではの勝ち筋とは",
-      "saved": "2026-07-28-shu-sukitewai-chu-sitakunai-rosonnoteriharimai-rishang-ke4ge-zeng-konhininarateh.md",
-      "ts": 1785193255
-    },
-    "a7ba70de5ae225c992a696cb4b479bbbf9a53301b54ca6c0053eb4c671f0b59d": {
-      "link": "http://www3.nhk.or.jp/news/html/20260728/k10015187631000.html",
-      "title": "フェンシング世界選手権 女子フルーレ個人 上野優佳が銅メダル",
-      "saved": "2026-07-28-huensinkushi-jie-xuan-shou-quan-nu-zi-hururege-ren-shang-ye-you-jia-katong-metar.md",
-      "ts": 1785193255
-    },
-    "8a6fd90b5588acb98759b376b58336f8b91c5f1acd066307baaa17836a1bd818": {
-      "link": "http://www3.nhk.or.jp/news/html/20260728/k10015187551000.html",
-      "title": "作家 東野圭吾さん死去 読者や関係者から悼む声",
-      "saved": "2026-07-28-zuo-jia-dong-ye-gui-wu-sansi-qu-du-zhe-yaguan-xi-zhe-karadao-musheng.md",
-      "ts": 1785193255
-    },
-    "a6d75e5ba8597366d581126c759b4702bcf6a229241f42be0aeb83c3e67937d2": {
-      "link": "http://www3.nhk.or.jp/news/html/20260728/k10015187501000.html",
-      "title": "消費税減税 自民内税率1％案で進めるべきの意見も 首相判断へ",
-      "saved": "2026-07-28-xiao-fei-shui-jian-shui-zi-min-nei-shui-lu-1-an-tejin-meruhekinoyi-jian-mo-shou-.md",
-      "ts": 1785193255
-    },
-    "3334b46605c3b3ab305ff82b21aabe60b9734691660aa4af30a070acc0771889": {
-      "link": "http://www3.nhk.or.jp/news/html/20260728/k10015187401000.html",
-      "title": "プロ野球 西武 NPBで初のインド出身の選手獲得「希望の星に」",
-      "saved": "2026-07-28-huroye-qiu-xi-wu-npbtechu-nointochu-shen-noxuan-shou-huo-de-xi-wang-noxing-ni.md",
-      "ts": 1785193255
-    },
-    "07ced6e65d2d790268791893fa72f11826683a58994908daaf17ae8455c7d6e6": {
-      "link": "http://www3.nhk.or.jp/news/html/20260727/k10015187491000.html",
-      "title": "球宴前に 阪神 森下翔太「一番喜んでもらえるホームランを」",
-      "saved": "2026-07-27-qiu-yan-qian-ni-ban-shen-sen-xia-xiang-tai-yi-fan-xi-ntemoraeruhomuranwo.md",
-      "ts": 1785193255
-    },
-    "0fa92763f80452649fcc76a2aa865b5c23ecb3354ba5a618876b7cb4348c0af5": {
-      "link": "https://www.itmedia.co.jp/news/articles/2607/27/news099.html",
-      "title": "「こんなのに追われたら……」急斜面もやすやす爆走、中国製の車輪付き四足ロボのデモ動画が話題　最高時速20km超",
-      "saved": "2026-07-27-konnanonizhui-waretara-ji-xie-mian-moyasuyasubao-zou-zhong-guo-zhi-noche-lun-fu-.md",
-      "ts": 1785193255
-    },
-    "2d351f88c65ffee7385a2e620228567ee38f9ac88f3d81c8960a5fe6bc06d074": {
-      "link": "https://www.itmedia.co.jp/news/articles/2607/27/news097.html",
-      "title": "東野圭吾さん死去、Xなどで追悼相次ぐ　「ガリレオ」など数々の人気作、エンジニアから転身",
-      "saved": "2026-07-27-dong-ye-gui-wu-sansi-qu-xnatotezhui-dao-xiang-ci-ku-karireo-natoshu-noren-qi-zuo.md",
-      "ts": 1785193255
-    },
-    "2665be839b947f72ba307f489f00c869448b8ec50ec921a903728e497f910e43": {
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE81VmZtSVozSldMeHFlUzZtblZUZks2c2VpMVNUUGo1VndIalE3aFpOY2JfbUNOd1NmVDNwUGVQTURpR2dJYUZoMFFSd0VUM1F1OHZJ?oc=5",
-      "title": "「私は歩く死人」 サウジアラビアで死刑を待つエチオピア移民、執行は年間数百人(1/2) - CNN.co.jp",
-      "saved": "2026-07-26-si-habu-kusi-ren-sausiarahiatesi-xing-wodai-tuetiohiayi-min-zhi-xing-hanian-jian-2.md",
-      "ts": 1785193255
-    },
-    "78e346c86eb95c6d8e5e1e14ed73bb6736ba0705134d5da07ef06ecd553f2fa1": {
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54UWljTXAyUFdKdThFMlkyZFF1WlhHY2JDQ3BDTk9WT01xY1NoNExrbXFJQVM5VWxGdmxGbEl1SVkzUmJHQWcyRUpyTnAyTWJYS3Qxdk53?oc=5",
-      "title": "中国船、CNN取材班乗せたフィリピン船に放水砲発射 緊張高まる南シナ海の環礁付近で(2/2) - CNN.co.jp",
-      "saved": "2026-07-24-zhong-guo-chuan-cnnqu-cai-ban-cheng-setahuirihinchuan-nifang-shui-pao-fa-she-jin-2.md",
-      "ts": 1785193255
-    },
-    "82f880c703c49da4e240db706ad805275a29417995ec670449e69e5dafdd2cfa": {
-      "link": "http://www3.nhk.or.jp/news/html/20260728/k10015187771000.html",
-      "title": "政府 高木美帆さんに国民栄誉賞授与決定 五輪でメダル10個獲得",
-      "saved": "2026-07-28-zheng-fu-gao-mu-mei-fan-sanniguo-min-rong-yu-shang-shou-yu-jue-ding-wu-lun-temet.md",
-      "ts": 1785205859
-    },
-    "419cc935a01fe60268a9dda4524d1a4867418c7072184599ad2fb8ee43e29129": {
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rdmJZbkM0Z3N2R3ZEdzZYTEUwQ05XcnhxQnFZajFrR1V0eDJqU29IRktCeXl0Z0VObzkxam9CcGd1T0tSYnlrWkI4NVZ2c2tISkxHZ0Rn?oc=5",
-      "title": "英俳優トム・ホランド、過去の出演作こき下ろす 最新2作は「嘘なしで」宣伝 - CNN.co.jp",
-      "saved": "2026-07-28-ying-pai-you-tomuhoranto-guo-qu-nochu-yan-zuo-kokixia-rosu-zui-xin-2zuo-ha-xu-na.md",
-      "ts": 1785205859
-    },
-    "19f185d4b78b11a9f5c8097bbd31a2461759cb4266aec29c058f56ad5a24f5ca": {
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VODlUVTBFc0YzaHQtTXlWUnZQSmF2MktIX2NaYlZGakw3WTZkSjFwME5sZDZldVBjZ281X2t0ZGRxU3Y3X1FvRHg2TkNzNFJZ?oc=5",
-      "title": "南北戦争時代の砦から盗まれた砲弾、預け入れ荷物の保安検査で発見 米アラバマ州 - CNN.co.jp",
-      "saved": "2026-07-28-nan-bei-zhan-zheng-shi-dai-nozhai-karadao-maretapao-dan-yu-keru-rehe-wu-nobao-an.md",
-      "ts": 1785205859
-    },
-    "0bb7a49d7fd00256cb4350435e88214cb5b7d5cfd7e30f0f19251abbf6944003": {
-      "link": "http://www3.nhk.or.jp/news/html/20260728/k10015187751000.html",
-      "title": "石川 輪島 門前町仁岸・阿岸の全域496世帯848人に避難指示",
-      "saved": "2026-07-28-shi-chuan-lun-dao-men-qian-ting-ren-an-a-an-noquan-yu-496shi-dai-848ren-nibi-nan.md",
-      "ts": 1785205859
-    },
-    "2dbb07b0385be1df84448c60764c200b808924aa6861c834525a2b094f659c2a": {
-      "link": "http://www3.nhk.or.jp/news/html/20260728/k10015187721000.html",
-      "title": "辺野古沖転覆事故 遺族の告訴受け 海保が同志社国際高校を捜索",
-      "saved": "2026-07-28-bian-ye-gu-chong-zhuan-fu-shi-gu-yi-zu-nogao-su-shou-ke-hai-bao-katong-zhi-she-g.md",
-      "ts": 1785205859
-    },
-    "160a5fd2a4fea6c11e5ccd9cadc6d627791a7adcd52522031ac83218fc3162ba": {
-      "link": "http://www3.nhk.or.jp/news/html/20260728/k10015187711000.html",
-      "title": "株価 一時2600円以上値下がり NY市場 半導体関連の値下がりで",
-      "saved": "2026-07-28-zhu-jia-yi-shi-2600yuan-yi-shang-zhi-xia-kari-nyshi-chang-ban-dao-ti-guan-lian-n.md",
-      "ts": 1785205859
-    },
-    "f4e1e6a9f7cb61596924ffeb29c2819aa3739472f87f8264500a66ce766b8bf9": {
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3TGtwcEhzczh0OXpxVEVMeDN4S1FMcEpQZnlaRXZ0RmpTM0NtU1NrRzhtYnFxQkZyVXZvdFljYV9yVUVxa1Qxd0tudDdFelU?oc=5",
-      "title": "シアトルのフェス会場銃撃、発生の瞬間 - CNN.co.jp",
-      "saved": "2026-07-28-siatorunohuesuhui-chang-chong-ji-fa-sheng-noshun-jian-cnn-co-jp.md",
-      "ts": 1785205859
-    },
-    "a3a8e32dfac5f72f7b73ca4d58713bdaaecc2cf7cbc55e84919d15aa38a8e7b8": {
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBydkRvXzhLV0lTb19lQ0VCaEFoazFrZEZfdWZ6QU0zb3lRMzM3N2M3NlVoOHRBazJoNlk0bVRwTktaNGdmU2ZpUWRIVTVBLTNW?oc=5",
-      "title": "フェスティバル会場で銃撃戦、15歳容疑者を拘束 3人死亡、3人が銃撃に関与か 米シアトル - CNN.co.jp",
-      "saved": "2026-07-28-huesuteiharuhui-chang-techong-ji-zhan-15sui-rong-yi-zhe-woju-shu-3ren-si-wang-3r.md",
-      "ts": 1785205859
-    },
-    "df56e979a9caeae5315e11d6d29b761b99e9e0cdcbbae911f062ed97114645c7": {
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA0S1NNRUd2S0YwXzNicUlQZUdRdlVsNGJ2d3lqUWRJODZWUDNTNWhQZ0tTWXpwelNDZkJWS3pSaGpEOUlORGxTWGozY2ZUYkVL?oc=5",
-      "title": "トランプ氏、28日にゼレンスキー氏とネタニヤフ氏と会談へ - CNN.co.jp",
-      "saved": "2026-07-28-toranhushi-28ri-niserensukishi-tonetaniyahushi-tohui-tan-he-cnn-co-jp.md",
-      "ts": 1785205859
-    },
-    "7080be303e0aa2aea1f5092714e5e1a47d2163f5eb5b69b89561d55b786dabc9": {
-      "link": "https://www.itmedia.co.jp/business/articles/2607/28/news036.html",
-      "title": "なぜ藤原竜也がレタスに？　夏の“野菜余り”を防ぐ、意外すぎる仕掛け",
-      "saved": "2026-07-28-naseteng-yuan-long-ye-karetasuni-xia-no-ye-cai-yu-ri-wofang-ku-yi-wai-sukirushi-.md",
-      "ts": 1785205859
-    },
-    "2b205bfa40c44e07fa38e6df507c7e12a45b9fe311056d35eb1696fd07ae2df7": {
-      "link": "https://www.itmedia.co.jp/business/articles/2607/28/news006.html",
-      "title": "英No.2のドラッグストアがECを伸ばして「店舗も拡大」できるワケ　 “Z世代特有”の消費行動をどう攻略？",
-      "saved": "2026-07-28-ying-no-2notoratukusutoakaecwoshen-hasite-dian-pu-mokuo-da-tekiruwake-zshi-dai-t.md",
-      "ts": 1785205859
-    },
-    "4751d48c7b6898a839c5a1c4dbfd31cf5d4848393724f4a0a174393a81573380": {
-      "link": "https://www.itmedia.co.jp/business/articles/2607/28/news021.html",
-      "title": "20代は出世したい、でも残業はしたくない　調査で分かった若手社員の本音",
-      "saved": "2026-07-28-20dai-hachu-shi-sitai-temocan-ye-hasitakunai-diao-cha-tefen-katutaruo-shou-she-y.md",
-      "ts": 1785205859
-    },
-    "f5e3b819e45643dfcfef4c2378805820ba49824b304347bffbc5ed9e7bddbd27": {
-      "link": "https://www.itmedia.co.jp/news/articles/2607/28/news033.html",
-      "title": "「あ、その情報メモしたい！」を叶えるワイヤレスイヤフォン、Nothing「Ear (3a)」",
-      "saved": "2026-07-28-a-sonoqing-bao-memositai-woxie-eruwaiyaresuiyahuon-nothing-ear-3a.md",
-      "ts": 1785205859
-    },
-    "b9ed7594681490791141ab6919aa5752f28ec8fc0b8f2c742bad28b78a15d682": {
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE53UVc2ZW1ManVrU3BXZWlUbmNMWjJXTjNrdUxiQkRDSG16bU05LXNfWWZrSVhZd2ViRFlib1RoWGpXU1Z1Q2huNUxiMmxTam1Q?oc=5",
-      "title": "米、イランへの攻撃を一時停止 和平協議の再開要請受け - CNN.co.jp",
-      "saved": "2026-07-28-mi-iranhenogong-ji-woyi-shi-ting-zhi-he-ping-xie-yi-nozai-kai-yao-qing-shou-ke-c.md",
-      "ts": 1785205859
-    },
-    "21103ee3a71e4dee18e87ee09eac3d75fac078543aae597abe9cb15c6be54804": {
-      "link": "https://www.itmedia.co.jp/business/articles/2607/28/news019.html",
-      "title": "「レトルト専用魔法瓶」が人気　開発のヒントは意外にも「昼休みの行列」だった",
-      "saved": "2026-07-28-retorutozhuan-yong-mo-fa-ping-karen-qi-kai-fa-nohintohayi-wai-nimo-zhou-xiu-mino.md",
-      "ts": 1785205859
-    },
     "9bd7603a4d2f33693b8d7aa43a0bce91333e5b07ac074128c1ca1176d4f48dc2": {
       "link": "http://www3.nhk.or.jp/news/html/20260728/k10015188111000.html",
       "title": "カブス 鈴木誠也 3試合連続ヒット チームの勝利に貢献",
@@ -10715,6 +10403,234 @@
       "title": "アメリカ、亡命申請した短期滞在者のビザを取り消す方針",
       "saved": "2026-08-26-amerika-wang-ming-shen-qing-sitaduan-qi-zhi-zai-zhe-nohisawoqu-rixiao-sufang-zhe.md",
       "ts": 1787740429
+    },
+    "27286723af6bc82dd5e898ec1570f059342a978c41844e1a883eb89288eeac53": {
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKQ3VUYVY5clFPbjZuRlVseU5jS0xzMXNwZGRKMGZLY1lyVllZNG4xc3Izd1ZIbE1RX3BURFIzenFvNVdzYjE4bWJiWTNNbDI4eTRN?oc=5",
+      "title": "ネパール洪水の原因は？ これまでに分かっていること - CNN.co.jp",
+      "saved": "2026-08-27-neharuhong-shui-noyuan-yin-ha-korematenifen-katuteirukoto-cnn-co-jp.md",
+      "ts": 1787799462
+    },
+    "62fb1e5b38e3c66f2dd90908b5c95921b8a0af4c99bd708653128593412b5a98": {
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jYVdTREphYjlUOEZMWE1uak1lMFN3NmdLN1dueVY4eGk4R0JKNnFLNDBpd084SXlndm9oUFhvT3VaSXZ2VlRaX091R3lwdGhnSWc?oc=5",
+      "title": "ビル・ゲイツ氏、AIに対する世界的制限を提唱 恩恵を圧倒する人間への危害に警鐘 - CNN.co.jp",
+      "saved": "2026-08-27-hirukeitushi-ainidui-surushi-jie-de-zhi-xian-woti-chang-en-hui-woya-dao-sururen-.md",
+      "ts": 1787799462
+    },
+    "1651568e495203ec02523490e32c4a8cf0aa87482f7365627d8bfc73cda0c89a": {
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LTVdzNFJsa1BqMFRuYXk1ZHFzNmtlQjZmeXAtUVNQTWE1ZTBFNy03ZjJFZXBVc3lvUEU2Y3kxcUlrRnRXSG83eGY5X1RyR3BrRk1Na2J3?oc=5",
+      "title": "英俳優ティム・カリーさんが80歳で死去 「ロッキー・ホラー・ショー」などで人気博す - CNN.co.jp",
+      "saved": "2026-08-27-ying-pai-you-teimukarisanka80sui-tesi-qu-rotukihorasiyo-natoteren-qi-bo-su-cnn-c.md",
+      "ts": 1787799462
+    },
+    "1ff67161700305c83f8e52754619ec107ff194913e8eb255e23912d511964a58": {
+      "link": "https://www.bbc.com/japanese/articles/cpd0qpygx6vo?at_medium=RSS&at_campaign=rss",
+      "title": "ネパール・中国の国境地帯で大規模な土石流　少なくとも150人死亡、400人以上が行方不明",
+      "saved": "2026-08-27-neharuzhong-guo-noguo-jing-di-dai-teda-gui-mo-natu-shi-liu-shao-nakutomo150ren-s.md",
+      "ts": 1787799462
+    },
+    "2d50a91d8783802fb099595492e4c5718ba554d6698c4123c1b2e71a853bd45d": {
+      "link": "https://www.itmedia.co.jp/news/article/2608/27/2000000833/",
+      "title": "「マイナアプリ」一部端末でログインできない不具合　リリースから2日",
+      "saved": "2026-08-27-mainaahuri-yi-bu-duan-mo-terokuintekinaibu-ju-he-ririsukara2ri.md",
+      "ts": 1787799462
+    },
+    "4abf0e7a05a1aab598fd7da3734b2da774a50e545b6976d395214bb6c3d23975": {
+      "link": "https://www.itmedia.co.jp/news/article/2608/27/2000000832/",
+      "title": "指輪型の「たまごっち」誕生　カラー液晶搭載で30種以上のたまごっちに成長",
+      "saved": "2026-08-27-zhi-lun-xing-no-tamakotuti-dan-sheng-karaye-jing-da-zai-te30zhong-yi-shang-notam.md",
+      "ts": 1787799462
+    },
+    "51d9cb27afd99b7a086c9b5d2d43f11b30900e204dfd3d47507b8f96e8517ec2": {
+      "link": "https://www.itmedia.co.jp/business/articles/2608/27/news057.html",
+      "title": "ローソンはなぜ「店を運ぶ」？　出店コスト3分の1のトレーラーハウス店舗",
+      "saved": "2026-08-27-rosonhanase-dian-woyun-hu-chu-dian-kosuto3fen-no1notorerahausudian-pu.md",
+      "ts": 1787799462
+    },
+    "462df378e7111f5a5df28f9c33f234d9375f739b6929108d4730e4b5b4bf1194": {
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZZGhrNDQ4VzlSSmZ4cDZZbTVOV29VRUI0RlY1Q2NhTUtvYllTSXhhVEx6UDJ4N1FabzlfWkRacmJnd2VsYTdObFdJc2h2MHkyamh4Y1l3?oc=5",
+      "title": "欧州サッカー連盟がボイコット撤回へ、FIFAは一息つく余裕 AP通信 - CNN.co.jp",
+      "saved": "2026-08-27-ou-zhou-satukalian-meng-kahoikotutoche-hui-he-fifahayi-xi-tukuyu-yu-aptong-xin-c.md",
+      "ts": 1787799462
+    },
+    "499191b0c6e02f019bf840db18e9a14c63e147d010104c7797d8632badabc394": {
+      "link": "https://www.itmedia.co.jp/news/article/2608/27/2000000831/",
+      "title": "MCPの新たなロードマップ公開　今後はAIエージェント対応、HTTP通信への統一などに注力",
+      "saved": "2026-08-27-mcpnoxin-tanarotomatuhugong-kai-jin-hou-haaiesientodui-ying-httptong-xin-henoton.md",
+      "ts": 1787799462
+    },
+    "485efbb53b313828b3f29e72553b244b238b186e048d096b6f6445c0e0597d78": {
+      "link": "https://www.itmedia.co.jp/news/article/2608/27/2000000830/",
+      "title": "「Yahoo!天気」石川・富山に“謎の赤丸”……線状降水帯エリア、3年前開始の機能",
+      "saved": "2026-08-27-yahoo-tian-qi-shi-chuan-fu-shan-ni-mi-nochi-wan-xian-zhuang-jiang-shui-dai-eria-.md",
+      "ts": 1787799462
+    },
+    "28f973b0b7b2487c89c797c7d9f0256fd9f2f4ba5b809714214c1eae443b450e": {
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOdXVDNS1YMDgxcElHYkplSHlyRTQ1NVJZMl9LVTk2SjM0UUpTM09hRE84WnFzSlo3MDZDT2VQYlJzeTF1RF85NHBWTHBMUUk2?oc=5",
+      "title": "アメリカン航空機、離陸前にタイヤ2本破裂 シカゴ・オヘア空港 - CNN.co.jp",
+      "saved": "2026-08-27-amerikanhang-kong-ji-li-lu-qian-nitaiya2ben-po-lie-sikakooheakong-gang-cnn-co-jp.md",
+      "ts": 1787799462
+    },
+    "fd19a5a5e1875ce6c04e97baffda75afb791637c0927972749d35b050bffd8fc": {
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFM080MWFpN1hua3U3cmtURkVGaEg3VjVoTEhZWHlybHBvcjFLNkZETHFHb0NtR2dJZXoybFVYb0pNWDdxVlJFYXVKS29hT00?oc=5",
+      "title": "ネパール洪水、人々に襲いかかる濁流 - CNN.co.jp",
+      "saved": "2026-08-27-neharuhong-shui-ren-nixi-ikakaruzhuo-liu-cnn-co-jp.md",
+      "ts": 1787799462
+    },
+    "08ec5d1d3eebbaa4d0a9e6ad46257926558fdbf526bacec19aa6bd7e6733dca4": {
+      "link": "https://www.itmedia.co.jp/news/article/2608/27/2000000825/",
+      "title": "風速15mでも裏返らない晴雨兼用傘、アンベル「タフネス アンチフリップ」開発者に聞く「全天候での安心感」を支える技術",
+      "saved": "2026-08-27-feng-su-15mtemoli-fan-ranaiqing-yu-jian-yong-san-anheru-tahunesu-antihurituhu-ka.md",
+      "ts": 1787799462
+    },
+    "a6c770702e362df008aeb458d9415ed4486cb5817c2382c505b9479f59b6df4b": {
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zTHVGQzRCSWZyRllUV05fRVZ0ZFBVUnpDOGlONTdhZjhfT1Q1bEZHYllhdFJYa2F0ZkE0SGRkdENSWE1xUmJNbTJ6d2xQbGJHTHpF?oc=5",
+      "title": "ネパール洪水、死者157人に 中国でも3人死亡 捜索・救助活動続く - CNN.co.jp",
+      "saved": "2026-08-27-neharuhong-shui-si-zhe-157ren-ni-zhong-guo-temo3ren-si-wang-sou-suo-jiu-zhu-huo-.md",
+      "ts": 1787799462
+    },
+    "4891a60fd3ba9a813b624c3ff56e74de2e764d245cd99c053fc37544724cb7a5": {
+      "link": "https://www.itmedia.co.jp/business/articles/2608/27/news003.html",
+      "title": "「辞めてほしいシニア」と「残ってほしいシニア」　企業はどこを見ているのか",
+      "saved": "2026-08-27-ci-metehosiisinia-to-can-tutehosiisinia-qi-ye-hatokowojian-teirunoka.md",
+      "ts": 1787799462
+    },
+    "82bef30ed9f63a600d92eb663bb2ab966765300894ba02241c6e669d8d5e713d": {
+      "link": "https://www.itmedia.co.jp/business/articles/2608/27/news015.html",
+      "title": "「AI使ってやりました」でシゴデキ認定？　企業のAI活用が“自己目的化”するワケ",
+      "saved": "2026-08-27-aishi-tuteyarimasita-tesikotekiren-ding-qi-ye-noaihuo-yong-ka-zi-ji-mu-de-hua-su.md",
+      "ts": 1787799462
+    },
+    "6620a07a359fd2a7cfcefc82b27d00137169df42587254efbe241eb4aa34d2d4": {
+      "link": "https://www.itmedia.co.jp/business/articles/2608/27/news004.html",
+      "title": "「台風でも出社しろ」は違法なのか？　社労士が教える、社員の自己判断任せにしないBCP体制の作り方",
+      "saved": "2026-08-27-tai-feng-temochu-she-siro-hawei-fa-nanoka-she-lao-shi-kajiao-eru-she-yuan-nozi-j.md",
+      "ts": 1787799462
+    },
+    "523b9768556ace5e0b6c5a0bea13f08c394776dc0d4b7876a58e4e65ed595701": {
+      "link": "https://www.itmedia.co.jp/business/articles/2608/27/news051.html",
+      "title": "「仕入れ金がない」「入金がずれた」　銀行が断る“突発ニーズ”を救う「AIファクタリング」の勝算",
+      "saved": "2026-08-27-shi-ru-rejin-kanai-ru-jin-kasureta-yin-xing-kaduan-ru-tu-fa-nisu-wojiu-u-aihuaku.md",
+      "ts": 1787799462
+    },
+    "8537f575b6697ffadb2952d06bed32f3ee8d10b522d02418b28255e7f220dc27": {
+      "link": "https://www.itmedia.co.jp/news/article/2608/27/2000000827/",
+      "title": "個人で契約したChatGPTに、会社の情報を入力していいの？　超初心者向けAI解説",
+      "saved": "2026-08-27-ge-ren-teqi-yue-sitachatgptni-hui-she-noqing-bao-woru-li-siteiino-chao-chu-xin-z.md",
+      "ts": 1787799462
+    },
+    "2d506520e94b630f1470b33f6ace37b2b5169b7ac5da4ba0317adff879972f33": {
+      "link": "https://www.itmedia.co.jp/business/articles/2608/27/news025.html",
+      "title": "「静かな退職」は“悪”か？　それとも“賢い選択”か？　職場のモヤモヤを整理する4つのチェックリスト",
+      "saved": "2026-08-27-jing-kanatui-zhi-ha-e-ka-soretomo-xian-ixuan-ze-ka-zhi-chang-nomoyamoyawozheng-l.md",
+      "ts": 1787799462
+    },
+    "7c5c03ee2a091bbf9ec1b8c2412e89a0290c746b55447a6b19b93aa4bbb0f332": {
+      "link": "https://www.itmedia.co.jp/business/articles/2608/27/news013.html",
+      "title": "“1週間で消える番組”どう届ける？　膨大過ぎる「TVerの視聴データ」を、「お薦め作品」にすぐ反映できるワケ",
+      "saved": "2026-08-27-1zhou-jian-texiao-erufan-zu-toujie-keru-peng-da-guo-kiru-tvernoshi-ting-teta-wo-.md",
+      "ts": 1787799462
+    },
+    "c1584fbe9923a48f9793ae0467a9ffe7ba6f128edbd3abae27f4c4909f19ad41": {
+      "link": "https://www.itmedia.co.jp/business/articles/2608/27/news024.html",
+      "title": "羽田空港に新施設、何が変わる？　木造の空間にカフェ一体型ラウンジ",
+      "saved": "2026-08-27-yu-tian-kong-gang-nixin-shi-she-he-kabian-waru-mu-zao-nokong-jian-nikahueyi-ti-x.md",
+      "ts": 1787799462
+    },
+    "8c227e2d53f710e11b5085be99b64761b04ff68e73642bcbe5c8fb29bd6377dc": {
+      "link": "https://www.itmedia.co.jp/business/articles/2608/27/news018.html",
+      "title": "「騒音」「ゴミの不法投棄」で迫る限界　Airbnb新社長が描く「ヤミ民泊一掃」の勝算",
+      "saved": "2026-08-27-sao-yin-kominobu-fa-tou-qi-tepo-ruxian-jie-airbnbxin-she-chang-kamiao-ku-yamimin.md",
+      "ts": 1787799462
+    },
+    "f801a92046b68dabd76003af24dadf61a7e2c287efb1d827c2c91226efb4852d": {
+      "link": "https://www.itmedia.co.jp/business/articles/2608/27/news009.html",
+      "title": "“現場一筋”の社員がAIツールを開発　「生産性24％アップ」実現した、自動車部品メーカーのDX推進",
+      "saved": "2026-08-27-xian-chang-yi-jin-noshe-yuan-kaaituruwokai-fa-sheng-chan-xing-24-atuhu-shi-xian-.md",
+      "ts": 1787799462
+    },
+    "c924109ac227ef31a314b2ec0eb3c9c530c9300b6f6a7747ad762cf23bc07011": {
+      "link": "https://www.itmedia.co.jp/business/articles/2608/27/news019.html",
+      "title": "「Claude Fable 5」で“キャリアの棚卸し”に挑戦　AIは「盛った実績」まで見抜いてくれた【プロンプト解説】",
+      "saved": "2026-08-27-claude-fable-5-te-kiyarianopeng-xie-si-nitiao-zhan-aiha-sheng-tutashi-ji-matejia.md",
+      "ts": 1787799462
+    },
+    "51e0dd309ea755466e4a893f4a3783fe632a03584b54f4c49b36b66e779439ad": {
+      "link": "https://www.itmedia.co.jp/business/articles/2608/27/news016.html",
+      "title": "トヨタやNTT、東急が「マッチングアプリ」を福利厚生に　なぜ企業が社員の恋愛を支援するのか",
+      "saved": "2026-08-27-toyotayantt-dong-ji-ka-matutinkuahuri-wofu-li-hou-sheng-ni-naseqi-ye-kashe-yuan-.md",
+      "ts": 1787799462
+    },
+    "19c1d680f29a5015f705701359fc068328d3cd8e269ba2183b0e8a6d31bf1b08": {
+      "link": "https://www.itmedia.co.jp/business/articles/2608/27/news010.html",
+      "title": "「犬猿の仲」も昔の話？　ANAとJALが初のダイヤ調整に乗り出した、納得のワケ",
+      "saved": "2026-08-27-quan-yuan-nozhong-moxi-nohua-anatojalkachu-notaiyadiao-zheng-nicheng-richu-sita-.md",
+      "ts": 1787799462
+    },
+    "5f09a99f4c4b1922320e84c0f3974e7a8c28ac7deb4b552f1f94f4a4f96b0aaa": {
+      "link": "https://www.itmedia.co.jp/business/articles/2608/27/news006.html",
+      "title": "単なる「原価上昇→価格転嫁」では失敗する！　“納得感”のある値上げと、客離れを起こす値上げの本質的な違い",
+      "saved": "2026-08-27-dan-naru-yuan-jia-shang-sheng-jia-ge-zhuan-jia-tehashi-bai-suru-na-de-gan-noaruz.md",
+      "ts": 1787799462
+    },
+    "a2dc178763c0011f5ab7a6178641ba87c3251698ea7f892540f851d59b9d6b12": {
+      "link": "https://www.itmedia.co.jp/business/articles/2608/27/news005.html",
+      "title": "熊本地震で「イオン」と「日本製紙」に“決定的”な差が出た理由　広報対応の分かれ目はどこに？",
+      "saved": "2026-08-27-xiong-ben-di-zhen-te-ion-to-ri-ben-zhi-zhi-ni-jue-ding-de-nachai-kachu-tali-you-.md",
+      "ts": 1787799462
+    },
+    "7e8c392a7a05405f0d86982518c1542edadb366c955a411a8448f70fe09a0bb5": {
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhdjBjeTh4R2lVcEtyUF9vT2xhWmMyRFA0M3djOUVLQUc0elp6eXNrMnJNYjhfdFMzUnhNWUhBRWZHU084VEJMaEdqY05lMjQtRTZz?oc=5",
+      "title": "英ヘンリー王子とメーガン妃、英国へ帰国 王室離脱から6年ぶり - CNN.co.jp",
+      "saved": "2026-08-27-ying-henriwang-zi-tomekanfei-ying-guo-hegui-guo-wang-shi-li-tuo-kara6nian-huri-c.md",
+      "ts": 1787799462
+    },
+    "31b658bfe6f85e91ddb41823d8a64479c7ccb41120caf6089464644ba3976bd2": {
+      "link": "https://www.bbc.com/japanese/articles/cvgyxq710evo?at_medium=RSS&at_campaign=rss",
+      "title": "米カントリー歌手ドリー・パートンさん死去、トランプ氏は7日間の半旗掲揚を発表",
+      "saved": "2026-08-26-mi-kantorige-shou-torihatonsansi-qu-toranhushi-ha7ri-jian-noban-qi-jie-yang-wofa.md",
+      "ts": 1787799462
+    },
+    "b5c71b89785c47148f5fc0277edb6f692b8f8ea26888115f9f1ae873fcf799bc": {
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5hSENhRTZHRWlmcVdLZGRaSm5mR0tiQWE1ell3QTF4XzJKTkdXQlZXbUxlQ0FKdEZZcDNVYmljaVE4bXFKUXdrdFVKeDJSWi1ycXRzcg?oc=5",
+      "title": "8月16日にアイルランドで逆走車が正面衝突した事故現場/Niall Carson/PA - CNN.co.jp",
+      "saved": "2026-08-26-8yue-16ri-niairurantoteni-zou-che-kazheng-mian-chong-tu-sitashi-gu-xian-chang-ni.md",
+      "ts": 1787799462
+    },
+    "665b3a2aa59ef45e6465886fa9f24e8de61922572e05a47964a690243795c46a": {
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wMUI4bVJYeEYya05OM252dlVQbGx5a1NvbktZdlFvcmlfeC0xcHh1RV8wVmJJLXNlZ040RFNmNllaMzBMankxaEw5ZndCT1I0Z0RORQ?oc=5",
+      "title": "米ユタ州での実験で極めて高エネルギーの宇宙線が観測された様子を示すイメージ図 - CNN.co.jp",
+      "saved": "2026-08-26-mi-yutazhou-tenoshi-yan-teji-metegao-enerukinoyu-zhou-xian-kaguan-ce-saretayang-.md",
+      "ts": 1787799462
+    },
+    "f98f2ec54399323866294b03d81b98bebfb2700b3b713ebcc7728e547812300a": {
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12aFF4U3lyQlN4Wkh2R2tzWVdyV3BIN3NLM0dtOHBMRGFMd2M4eTgxSjl3b1ptVXRtQUk2UWVKdXJ6eWlUeXI5RS1neEhrNDQzVnU0?oc=5",
+      "title": "病院で火災発生、新生児ら13人死亡 パキスタン首都 - CNN.co.jp",
+      "saved": "2026-08-26-bing-yuan-tehuo-zai-fa-sheng-xin-sheng-er-ra13ren-si-wang-hakisutanshou-du-cnn-c-2.md",
+      "ts": 1787799462
+    },
+    "9dc5cb712d1899889b758614ee24f23e0c452172da3a322fdeb72fdcc7f084c6": {
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sQTlSSE5nb3lJTG10cUdJRXFNbWcxSUV6MXliLWM0VXB6Ykp1Qk5vclFfWndTOTFjN1hSZzN5ZzhIajVEc05hckNBZEhOMzg0NEoxbUVR?oc=5",
+      "title": "英、ウクライナへのミサイル技術の機密開示認める 戦況に変化をもたらすか(3/3) - CNN.co.jp",
+      "saved": "2026-08-25-ying-ukurainahenomisairuji-shu-noji-mi-kai-shi-ren-meru-zhan-kuang-nibian-hua-wo-2.md",
+      "ts": 1787799462
+    },
+    "e48ee5501b47431db81e4c5a319ec043a7ed00f76e20514a55bc13eb36a4c07f": {
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XdTBmUTBMc2xQSHkzWmhvZ1pNVFVNbDJaYWxzMmxQbEtTMVJXZ1RVUXhmLUU2U0JzQzhfeklFSk9wOHo5WWpZVjNVMVpSaDNOYzVmeFp3?oc=5",
+      "title": "紛争や経済危機の中でもヒジャブを強要する強硬派 公然と無視するイラン女性たち(2/2) - CNN.co.jp",
+      "saved": "2026-08-24-fen-zheng-yajing-ji-wei-ji-nozhong-temohisiyahuwoqiang-yao-suruqiang-ying-pai-go-2.md",
+      "ts": 1787799462
+    },
+    "1fd97675e48dae0eb1d455e13ef28219ad9cb753896588d16ce99c24ce53e246": {
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBmY2N6aVQ5MDdZSGFtSFVoeWIxSVR2bVZnclJSYVBLbjRnQ21KLU5fdWktemFNUktSQ1NmQnloblRLeDUtOFRGdFM1OFdMR0xm?oc=5",
+      "title": "10代の黒人男性、白人の友人たちと出かけ遺体で発見 事件性なしとの発表に疑念高まる 米(1/2) - CNN.co.jp",
+      "saved": "2026-07-10-10dai-nohei-ren-nan-xing-bai-ren-noyou-ren-tatitochu-kakeyi-ti-tefa-jian-shi-jia-2.md",
+      "ts": 1787799462
+    },
+    "e94ba02a444dad8d784219c150cc7a31a0869c53a42ca16ba3b477f355b5ba87": {
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1uV1NYcTJpTmxlODlWLS1FNnY3bFR3R0ljQzhkSHJyeERQdEZhZ0JwRkU3RzB6T2xPQ3FwQW9HcGV3NWp4Y3RpQ21HRVhJMzA?oc=5",
+      "title": "トランプ氏、女性記者に「ブタ、静かに」 - CNN.co.jp",
+      "saved": "2025-11-19-toranhushi-nu-xing-ji-zhe-ni-huta-jing-kani-cnn-co-jp-3.md",
+      "ts": 1787799462
     }
   }
 }
