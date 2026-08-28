@@ -1,431 +1,5 @@
 {
   "done": {
-    "3e5a048169920168b50d5aa83e11b84ac56ec5eacc60027faad384bd09578e1c": {
-      "link": "http://www3.nhk.or.jp/news/html/20260729/k10015189351000.html",
-      "title": "熊本出身 ホワイトソックス村上宗隆 “自分の命を第一に”投稿",
-      "saved": "2026-07-29-xiong-ben-chu-shen-howaitosotukusucun-shang-zong-long-zi-fen-noming-wodi-yi-ni-t.md",
-      "ts": 1785279486
-    },
-    "8aa79ce075fd68d95479e24fda5ef7cc7e4a78d8502610cd65b7d421f15c3ba8": {
-      "link": "http://www3.nhk.or.jp/news/html/20260729/k10015189271000.html",
-      "title": "広い範囲で厳しい暑さ 熊本など地震の被災地でも熱中症対策を",
-      "saved": "2026-07-29-guang-ifan-wei-teyan-siishu-sa-xiong-ben-natodi-zhen-nobei-zai-di-temore-zhong-z.md",
-      "ts": 1785279486
-    },
-    "0009311bf463604a4df829fd84dd4095ac459d449c1eb0af3e7aa80c8c6cc3e2": {
-      "link": "http://www3.nhk.or.jp/news/html/20260728/k10015188691000.html",
-      "title": "熊本 八代 日本製紙の工場 2人が心肺停止 9人が安否不明",
-      "saved": "2026-07-29-xiong-ben-ba-dai-ri-ben-zhi-zhi-nogong-chang-2ren-kaxin-fei-ting-zhi-9ren-kaan-f.md",
-      "ts": 1785279486
-    },
-    "827a91235362712defe2f86cdde730512bc684cbd2deae4e21ba5f4633a41b3c": {
-      "link": "http://www3.nhk.or.jp/news/html/20260729/k10015189321000.html",
-      "title": "【自衛隊ヘリ映像】熊本 八代 広範囲で土砂崩れ",
-      "saved": "2026-07-29-zi-wei-dui-heriying-xiang-xiong-ben-ba-dai-guang-fan-wei-tetu-sha-beng-re.md",
-      "ts": 1785279486
-    },
-    "e755a4ba0494edaf9ea911d054c0fe4f53470b020ca2b07cbd0546ce44fdb6d1": {
-      "link": "https://www.itmedia.co.jp/news/article/2607/29/2000000255/",
-      "title": "OpenAIやAnthropicなどの従業員、米政府に「AI開発のペース調整を」と提言",
-      "saved": "2026-07-29-openaiyaanthropicnatonocong-ye-yuan-mi-zheng-fu-ni-aikai-fa-nohesudiao-zheng-wo-.md",
-      "ts": 1785279486
-    },
-    "c01313f4f0a81660ae7c0d3b7149fffde93d775bc4b5ad3a4666b45b24022085": {
-      "link": "https://www.itmedia.co.jp/news/article/2607/29/2000000226/",
-      "title": "“脳のゴミ”は鼻から捨てられていた？　老化で詰まる排出路、薬を鼻から投与で改善　韓国主導チーム研究",
-      "saved": "2026-07-29-noy-nokomi-habi-karashe-terareteita-lao-hua-tejie-marupai-chu-lu-yao-wobi-karato.md",
-      "ts": 1785279486
-    },
-    "578f3b690ab8819d82aa4f941546d31b537de5d9d16c0edbc80ef84934b4c0ab": {
-      "link": "https://www.itmedia.co.jp/news/article/2607/29/2000000225/",
-      "title": "海外売上3倍超！　とあるラミネーターメーカーが挑んだ日米「商慣習の壁」",
-      "saved": "2026-07-29-hai-wai-mai-shang-3bei-chao-toaruraminetamekakatiao-ntari-mi-shang-guan-xi-nobi.md",
-      "ts": 1785279486
-    },
-    "4857e2e4434afa61b0e812e7e582d1fbf65b699f6c51361205690f17af2bc94c": {
-      "link": "https://www.itmedia.co.jp/business/articles/2607/29/news012.html",
-      "title": "「トランプ関税」は終わらない　“自国第一主義”が当たり前になった世界で、企業が直面する危機",
-      "saved": "2026-07-29-toranhuguan-shui-hazhong-waranai-zi-guo-di-yi-zhu-yi-kadang-tariqian-ninatutashi.md",
-      "ts": 1785279486
-    },
-    "1d029c9bd3b904577eb7a6dcbfaa6ef59fb18f37225cbab0f18c91e564bbc13a": {
-      "link": "https://www.itmedia.co.jp/business/articles/2607/29/news033.html",
-      "title": "「トヨタ式」が食品小売りを救う？　セブン、マクドナルドが挑む「需要を先につかむ」店舗経営",
-      "saved": "2026-07-29-toyotashi-kashi-pin-xiao-mai-riwojiu-u-sehun-makutonarutokatiao-mu-xu-yao-woxian.md",
-      "ts": 1785279486
-    },
-    "b718f66f42a1976d2d345e6da1ede0635b827b75a3b2e5c058a12c9b50b8a89f": {
-      "link": "https://www.itmedia.co.jp/business/articles/2607/29/news044.html",
-      "title": "オニツカタイガーが“新宿ど真ん中”で描く世界戦略　プラダやロエベと競う「売上1365億円の先」",
-      "saved": "2026-07-29-onitukataikaka-xin-su-tozhen-nzhong-temiao-kushi-jie-zhan-lue-huratayaroehetojin.md",
-      "ts": 1785279486
-    },
-    "105f67522188b8266df180502278954a9e6c4363d3feab090f02a27ad7f83363": {
-      "link": "https://www.itmedia.co.jp/business/articles/2607/29/news016.html",
-      "title": "「AI役員、導入しました」のウソ・ホント　運用中のSMBC、キリンHDが“AIに委ねなかったもの”とは",
-      "saved": "2026-07-29-aiyi-yuan-dao-ru-simasita-nousohonto-yun-yong-zhong-nosmbc-kirinhdka-ainiwei-nen.md",
-      "ts": 1785279486
-    },
-    "a71c11df2de34f6c5e0ec8f7e9e21c9e9cbfbff1a9b9d02757e9bccdc897a65f": {
-      "link": "https://www.itmedia.co.jp/business/articles/2607/29/news025.html",
-      "title": "「IT化か、水道を止めるか」　“ブラック部署”と呼ばれた曽於市水道課が挑んだ、金なし・人なしの現場DX",
-      "saved": "2026-07-29-ithua-ka-shui-dao-wozhi-meruka-huratukubu-shu-tohu-haretaceng-yu-shi-shui-dao-ke.md",
-      "ts": 1785279486
-    },
-    "b78f92180ee38afe8934e865e97af0bd6ded8b2dc405a72a34963907e116f82b": {
-      "link": "http://www3.nhk.or.jp/news/html/20260729/k10015189311000.html",
-      "title": "伊豆諸島南部 線状降水帯発生のおそれ 直前予測を発表",
-      "saved": "2026-07-29-yi-dou-zhu-dao-nan-bu-xian-zhuang-jiang-shui-dai-fa-sheng-noosore-zhi-qian-yu-ce.md",
-      "ts": 1785279486
-    },
-    "eca1e04bb66b52f8dd683efdb4f179e95ff43f7c7a82471622828b45e4a35344": {
-      "link": "https://www.itmedia.co.jp/business/articles/2607/29/news023.html",
-      "title": "悪天候でも出社する？　テレワーク経験者1000人超に聞いた結果",
-      "saved": "2026-07-29-e-tian-hou-temochu-she-suru-terewakujing-yan-zhe-1000ren-chao-niwen-itajie-guo.md",
-      "ts": 1785279486
-    },
-    "11fb29b2259c1b42cdc59111d9f927d3c6fad8b3c58ff01fca9c28c4c7001423": {
-      "link": "http://www3.nhk.or.jp/news/html/20260728/k10015188851000.html",
-      "title": "熊本県内の各病院にけが人多数搬送 停電で機能停止の病院も",
-      "saved": "2026-07-29-xiong-ben-xian-nei-noge-bing-yuan-nikekaren-duo-shu-ban-song-ting-dian-teji-neng.md",
-      "ts": 1785279486
-    },
-    "00088636ad97b01aeebd99e81a851f14813d67c40ec7cf71726b24374bbdb636": {
-      "link": "https://www.itmedia.co.jp/business/articles/2607/29/news009.html",
-      "title": "なぜ日産の株主総会で“異例の事態”が起きたのか　いま社外取締役と企業に求められる「ガバナンス意識」とは？",
-      "saved": "2026-07-29-naseri-chan-nozhu-zhu-zong-hui-te-yi-li-noshi-tai-kaqi-kitanoka-imashe-wai-qu-di.md",
-      "ts": 1785279486
-    },
-    "66f055f5e4ef12bd8895c3ca67fdd1b74d4d4b9f8128333cf4a8f31e4d107e08": {
-      "link": "http://www3.nhk.or.jp/news/html/20260729/k10015189181000.html",
-      "title": "サッカー ジダン氏がフランス代表の新監督に就任へ",
-      "saved": "2026-07-29-satuka-sitanshi-kahuransudai-biao-noxin-jian-du-nijiu-ren-he.md",
-      "ts": 1785279486
-    },
-    "0f3b67d2bc8f78ffacb71d1a4e925c7070df3a7858020bbc65829ec79c3ddff8": {
-      "link": "http://www3.nhk.or.jp/news/html/20260729/k10015189061000.html",
-      "title": "フェンシング世界選手権 男子フルーレ団体 日本4位 メダル逃す",
-      "saved": "2026-07-29-huensinkushi-jie-xuan-shou-quan-nan-zi-hururetuan-ti-ri-ben-4wei-metarutao-su.md",
-      "ts": 1785279486
-    },
-    "5a2f352f7ccb41ba1b5f7b6dbaa22a733c3207de7fd5febc353882a1b41da80f": {
-      "link": "http://www3.nhk.or.jp/news/html/20260729/k10015189111000.html",
-      "title": "サッカー元日本代表 岡崎慎司さん 夏の暑さ対策の必要性訴える",
-      "saved": "2026-07-29-satukayuan-ri-ben-dai-biao-gang-qi-shen-si-san-xia-noshu-sadui-ce-nobi-yao-xing-.md",
-      "ts": 1785279486
-    },
-    "12334ad36baf78d701484defea62129434de4f2ce4a25c3e5ab1a50ce398888a": {
-      "link": "http://www3.nhk.or.jp/news/html/20260729/k10015189041000.html",
-      "title": "サッカー 谷口彰悟 ベルギー1部 シントトロイデンと再契約",
-      "saved": "2026-07-29-satuka-gu-kou-zhang-wu-heruki1bu-sintotoroitentozai-qi-yue.md",
-      "ts": 1785279486
-    },
-    "2ba4c6304a2cb6f18b97d2cc637cb981a40be711d8bf9be09cdb667d464fdeae": {
-      "link": "http://www3.nhk.or.jp/news/html/20260729/k10015189161000.html",
-      "title": "熊本 宇城市や氷川町 避難所開設できず車中泊に駐車場など開放",
-      "saved": "2026-07-29-xiong-ben-yu-cheng-shi-yabing-chuan-ting-bi-nan-suo-kai-she-tekisuche-zhong-bo-n.md",
-      "ts": 1785279486
-    },
-    "2f2d0fff9ca5009d390a3d82c06d22e2d5edbc38f0a9b3913d89760b8fe3794f": {
-      "link": "https://www.itmedia.co.jp/news/article/2607/29/2000000253/",
-      "title": "熊本地震の緊急支援募金、「Yahoo!ネット募金」が受付開始　PayPayやVポイント、クレカに対応",
-      "saved": "2026-07-29-xiong-ben-di-zhen-nojin-ji-zhi-yuan-mu-jin-yahoo-netutomu-jin-kashou-fu-kai-shi-.md",
-      "ts": 1785279486
-    },
-    "967091b66e81dfb5a7d7c8da6d2e2cee5c0c29eac71b6cc61177f10a7b965c0e": {
-      "link": "http://www3.nhk.or.jp/news/html/20260728/k10015189081000.html",
-      "title": "プロ野球オールスターゲーム 第1戦 全パが打ち合いを制す",
-      "saved": "2026-07-28-huroye-qiu-orusutakemu-di-1zhan-quan-hakada-tihe-iwozhi-su.md",
-      "ts": 1785279486
-    },
-    "c10d59d8b980acbdbe382f6d662539a7027ecb2189d2b97c907de832a594aa5e": {
-      "link": "https://www.itmedia.co.jp/news/article/2607/28/2000000247/",
-      "title": "携帯各社、熊本の一部で通信障害　震度7の地震で　他社回線につながる「JAPANローミング」開始【追記】",
-      "saved": "2026-07-28-xi-dai-ge-she-xiong-ben-noyi-bu-tetong-xin-zhang-hai-zhen-du-7nodi-zhen-te-ta-sh.md",
-      "ts": 1785279486
-    },
-    "dd2b2175602e617aa44c97cc9f41624c97bc8673b1ee139e89b6be350090762e": {
-      "link": "https://www.bbc.com/japanese/articles/cly8z48p78vo?at_medium=RSS&at_campaign=rss",
-      "title": "熊本でM7.1の地震、広範囲に被害　イオンモールで多くの人が閉じ込められたか",
-      "saved": "2026-07-28-xiong-ben-tem7-1nodi-zhen-guang-fan-wei-nibei-hai-ionmoruteduo-kunoren-kabi-siip.md",
-      "ts": 1785279486
-    },
-    "d516b4fe98bcd996da6bd07b2ac8b5116dab1cc6dad51f667390ac6d5f794d54": {
-      "link": "https://www.itmedia.co.jp/news/article/2607/28/2000000250/",
-      "title": "NHKのネットサービスが受信契約なしで閲覧可能に　熊本地震受け緊急対応",
-      "saved": "2026-07-28-nhknonetutosahisukashou-xin-qi-yue-nasiteyue-lan-ke-neng-ni-xiong-ben-di-zhen-sh.md",
-      "ts": 1785279486
-    },
-    "0539ab043fec87a98510e8d576bfc5c3d4c284348028727a3b2bf5ff5bfbdcdf": {
-      "link": "https://www.itmedia.co.jp/news/article/2607/28/2000000246/",
-      "title": "熊本で非常時Wi-Fi「00000JAPAN」発動中　KDDIが無料開放、他社ユーザーも利用可",
-      "saved": "2026-07-28-xiong-ben-tefei-chang-shi-wi-fi-00000japan-fa-dong-zhong-kddikawu-liao-kai-fang-.md",
-      "ts": 1785279486
-    },
-    "6d6a3a0673e5011360b5dc4071815823fddcd7fce8a3c131e6bcf3e9fef9383b": {
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzd0lzLUxiWmg0N0VMcWtDdTAzZGxtNFRzYTdxYzhKeE13R2RkRXZlZVBXakpnTjRmOXVKLWpfQnE0YjRlMGV5WWtqYllkeVE?oc=5",
-      "title": "熊本でM7.1の地震、ショッピングモール一部崩落 - CNN.co.jp",
-      "saved": "2026-07-28-xiong-ben-tem7-1nodi-zhen-siyotuhinkumoruyi-bu-beng-luo-cnn-co-jp.md",
-      "ts": 1785279486
-    },
-    "9b9249207cc26549c73f3efebead3ba1dee907e991a0de85a42f3479a646c9a7": {
-      "link": "http://www3.nhk.or.jp/news/html/20260728/k10015188941000.html",
-      "title": "野球殿堂 栗山英樹氏表彰式「チャンスくれた人のおかげ」",
-      "saved": "2026-07-28-ye-qiu-dian-tang-li-shan-ying-shu-shi-biao-zhang-shi-tiyansukuretaren-nookake.md",
-      "ts": 1785279486
-    },
-    "4e8493f89302bfd4f80011670dbcab215103e7811096c41f6d61094b766a1526": {
-      "link": "https://www.itmedia.co.jp/news/article/2607/28/2000000249/",
-      "title": "「Xが情報収集に役立たない……」熊本地震で不満の声続出　「Twitterを返して」",
-      "saved": "2026-07-28-xkaqing-bao-shou-ji-niyi-li-tanai-xiong-ben-di-zhen-tebu-man-nosheng-sok-chu-twi.md",
-      "ts": 1785279486
-    },
-    "479524a16c76968700ed3bc64beca17cdc9a530d6af520bd83a660f9af6bd582": {
-      "link": "https://www.itmedia.co.jp/news/article/2607/28/2000000248/",
-      "title": "CAMPFIRE、令和8年熊本地震の義援金をクラウドファンディングで募集",
-      "saved": "2026-07-28-campfire-ling-he-8nian-xiong-ben-di-zhen-noyi-yuan-jin-wokurautohuanteinkutemu-j.md",
-      "ts": 1785279486
-    },
-    "365a7697769733a53eaffaa004ee8ecf801f43261d6c69bb00afacc49dc1005e": {
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1GWmlYZHNrSVdicWpXc05TcW90bHd6VmlNejZGdWJVU2ZTc2hEVWJ0M2o0MG05dWNxemROUEhka2NRd3RCQS1DZ3NYaHZyUTVIWFRz?oc=5",
-      "title": "熊本でM7.1の地震、ショッピングモール一部崩落 多数の人々が取り残されたとの報道 - CNN.co.jp",
-      "saved": "2026-07-28-xiong-ben-tem7-1nodi-zhen-siyotuhinkumoruyi-bu-beng-luo-duo-shu-noren-kaqu-rican.md",
-      "ts": 1785279486
-    },
-    "8d551fe3d4f5cd9a45bd88885c781a5568049f65dbdc99e38f6ffa6d16ee507d": {
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9VWXJYaWVZVjM0d21ELU5FVk9RbkhJRzNrazBGNUszMlkwQ0xNbGhOaTVtU2NqR3RqT1MtNXFJVFl5bG1vQkMtSWtXM1Jla0xTNWdrRUpPRFpTZzkzSHc?oc=5",
-      "title": "熊本でM7.1の地震、ショッピングモール一部崩落 複数人が取り残されたとの報道 - CNN.co.jp",
-      "saved": "2026-07-28-xiong-ben-tem7-1nodi-zhen-siyotuhinkumoruyi-bu-beng-luo-fu-shu-ren-kaqu-rican-sa.md",
-      "ts": 1785279486
-    },
-    "4ff200daeb59b03d1fbeb008c54173af4cb7df6bfb83defc2338b200251f3f34": {
-      "link": "http://www3.nhk.or.jp/news/html/20260728/k10015188861000.html",
-      "title": "プロ野球選手会 球団オーナーと初会談“連携と協力深める”",
-      "saved": "2026-07-28-huroye-qiu-xuan-shou-hui-qiu-tuan-onatochu-hui-tan-lian-xi-toxie-li-shen-meru.md",
-      "ts": 1785279486
-    },
-    "d6269d8b9aa1ddf986484b82c5f3d5098f81e43df59e23f8d410e1659270c74e": {
-      "link": "https://www.itmedia.co.jp/business/articles/2607/28/news100.html",
-      "title": "自販機は1つの店舗──ダイドードリンコが創業以来初の“ブランド全面刷新”に打って出た理由",
-      "saved": "2026-07-28-zi-fan-ji-ha1tunodian-pu-taitotorinkokachuang-ye-yi-lai-chu-no-hurantoquan-mian-.md",
-      "ts": 1785279486
-    },
-    "a28a16414faee38a91eddda0a933b6d2e0cb0a36dea5274306ea436df46e5a4a": {
-      "link": "http://www3.nhk.or.jp/news/html/20260728/k10015188551000.html",
-      "title": "プロ野球選手会 来季からの「ピッチクロック」導入を要望へ",
-      "saved": "2026-07-28-huroye-qiu-xuan-shou-hui-lai-ji-karano-hitutikurotuku-dao-ru-woyao-wang-he.md",
-      "ts": 1785279486
-    },
-    "cb9d870b91adb92557f2eefbe5972143151b42d927b41af21d51733deb4c878f": {
-      "link": "https://www.itmedia.co.jp/news/article/2607/28/2000000242/",
-      "title": "CHARGESPOT、熊本県84カ所でバッテリー無料開放　震度7の地震受け　Ankerも支援表明",
-      "saved": "2026-07-28-chargespot-xiong-ben-xian-84kasuo-tehatuteriwu-liao-kai-fang-zhen-du-7nodi-zhen-.md",
-      "ts": 1785279486
-    },
-    "efc0e3603cce3dc715bc6244a601652476bb1324fe66a1bc2a88027374bab0b4": {
-      "link": "https://www.itmedia.co.jp/news/article/2607/28/2000000245/",
-      "title": "「子供の目に触れぬよう」……国民・玉木氏、エロ広告規制の意義強調も「表現の自由は党是」",
-      "saved": "2026-07-28-zi-gong-nomu-nihong-renuyou-guo-min-yu-mu-shi-eroguang-gao-gui-zhi-noyi-yi-qiang.md",
-      "ts": 1785279486
-    },
-    "bdb9971c58c3d777421bb9b63c0b4496c160d811384bbd7b774734ba72d2c40f": {
-      "link": "https://www.itmedia.co.jp/news/article/2607/28/2000000244/",
-      "title": "堀場製作所、熊本県西原村の工場「大きな人的、物的被害ない」　半導体製品でシェア首位",
-      "saved": "2026-07-28-ku-chang-zhi-zuo-suo-xiong-ben-xian-xi-yuan-cun-nogong-chang-da-kinaren-de-wu-de.md",
-      "ts": 1785279486
-    },
-    "1b99945d6a0a1345a45fb106bfb26c44b46cc7361f92657d929da45cffeaff36": {
-      "link": "https://www.itmedia.co.jp/news/article/2607/28/2000000243/",
-      "title": "台湾半導体大手TSMC、熊本工場の状況確認中、従業員は屋外避難　所在エリアは震度5強",
-      "saved": "2026-07-28-tai-wan-ban-dao-ti-da-shou-tsmc-xiong-ben-gong-chang-nozhuang-kuang-que-ren-zhon.md",
-      "ts": 1785279486
-    },
-    "b2dfa14365c5d98a8869251d5f42891f383f06fb1f6aebb47014400311d4b319": {
-      "link": "http://www3.nhk.or.jp/news/html/20260728/k10015188741000.html",
-      "title": "夏の全国高校野球 49の代表校が出そろう 初出場は4校",
-      "saved": "2026-07-28-xia-noquan-guo-gao-xiao-ye-qiu-49nodai-biao-xiao-kachu-sorou-chu-chu-chang-ha4xi.md",
-      "ts": 1785279486
-    },
-    "a98005a42061efb4845e542c6f5ce51a57135e2fc98649da375c6e9006316573": {
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9VLXBsTWxCdTJQNWJiMERuWnJiLXdYbUg1elF4SmxOM1lQT2FkR3UxQVJfVjBMeEhJM3dRdDhJbzRWLTFXZjVMTDNuSE96Nlk5dW12Tw?oc=5",
-      "title": "鉄道車内での言動に対する怒りの声を受け、謝罪するイタリア人学生ら（画像の一部は加工されています） - CNN.co.jp",
-      "saved": "2026-07-28-tie-dao-che-nei-tenoyan-dong-nidui-surunu-rinosheng-woshou-ke-xie-zui-suruitaria.md",
-      "ts": 1785279486
-    },
-    "c5c688828fdce2436683c70ed4a822771ac3685c2ad26d575a37c9f4327dea7a": {
-      "link": "http://www3.nhk.or.jp/news/html/20260729/k10015189291000.html",
-      "title": "イオンモール熊本で爆発 地震でガス漏れか 2人死亡1人心肺停止",
-      "saved": "2026-07-29-ionmoruxiong-ben-tebao-fa-di-zhen-tekasulou-reka-2ren-si-wang-1ren-xin-fei-ting-.md",
-      "ts": 1785292546
-    },
-    "53c9be2d590ad0265ef8582714ba30f5f98f8b457cc176954d66f7ebeb6ee47c": {
-      "link": "https://www.itmedia.co.jp/news/article/2607/29/2000000266/",
-      "title": "TSMC熊本工場、段階的に通常操業へ　熊本の地震で一時中断、従業員の無事確認　台湾報道",
-      "saved": "2026-07-29-tsmcxiong-ben-gong-chang-duan-jie-de-nitong-chang-cao-ye-he-xiong-ben-nodi-zhen-.md",
-      "ts": 1785292546
-    },
-    "f0d060c12e2ee32e3e0729c453cbdf78f164c2df63ea403ae340d381e7b5e151": {
-      "link": "http://www3.nhk.or.jp/news/html/20260729/k10015189221000.html",
-      "title": "【熊本県まとめ】3人死亡 5人心肺停止 少なくとも7人安否不明",
-      "saved": "2026-07-29-xiong-ben-xian-matome-3ren-si-wang-5ren-xin-fei-ting-zhi-shao-nakutomo7ren-an-fo.md",
-      "ts": 1785292546
-    },
-    "7dcc3e186890226e2d956fa89ad0f452614acbcaf641ac4bea940fa22272661f": {
-      "link": "http://www3.nhk.or.jp/news/html/20260729/k10015189461000.html",
-      "title": "高市首相 「熊本地震との関連調査中を含め死者13人」明らかに",
-      "saved": "2026-07-29-gao-shi-shou-xiang-xiong-ben-di-zhen-tonoguan-lian-diao-cha-zhong-wohan-mesi-zhe.md",
-      "ts": 1785292546
-    },
-    "a46c1f7e07303299b32d2270c0852d72bfa27937377110b011288e6460d675a6": {
-      "link": "http://www3.nhk.or.jp/news/html/20260729/k10015189251000.html",
-      "title": "【29日】熊本 震度7 同程度の地震に1週間ほど注意を",
-      "saved": "2026-07-29-29ri-xiong-ben-zhen-du-7-tong-cheng-du-nodi-zhen-ni1zhou-jian-hotozhu-yi-wo.md",
-      "ts": 1785292546
-    },
-    "813b4936829a8ab8fe8f2add16dc5d3a849355d984b6c39178522e170931f77a": {
-      "link": "http://www3.nhk.or.jp/news/html/20260729/k10015189511000.html",
-      "title": "【動画】イオンモール熊本の内部映像を公開 警察庁",
-      "saved": "2026-07-29-dong-hua-ionmoruxiong-ben-nonei-bu-ying-xiang-wogong-kai-jing-cha-ting.md",
-      "ts": 1785292546
-    },
-    "38cb6f46beeedc122e8659bfad666cd91dcc785f07fd6f37156ff0584ab42605": {
-      "link": "https://www.itmedia.co.jp/news/article/2607/29/2000000264/",
-      "title": "熊本の地震で約84センチの地殻変動　国土地理院が観測",
-      "saved": "2026-07-29-xiong-ben-nodi-zhen-teyue-84sentinodi-que-bian-dong-guo-tu-di-li-yuan-kaguan-ce.md",
-      "ts": 1785292546
-    },
-    "0c228625e1001a3f24a84be475465a5e93049b509fae1b57ce4b78782d4c3f50": {
-      "link": "https://www.itmedia.co.jp/news/article/2607/29/2000000265/",
-      "title": "Meta、エルパソのデータセンターをBlackRockと共同開発　総額140億ドル、Metaの出資比率は20％",
-      "saved": "2026-07-29-meta-eruhasonotetasentawoblackrocktogong-tong-kai-fa-zong-e-140yi-toru-metanochu.md",
-      "ts": 1785292546
-    },
-    "86e9d3367b1a4b93d14f999e6a113ece42316268304a2fa61a6a5fbe1a44fb48": {
-      "link": "https://www.bbc.com/japanese/articles/c70gngp5qqzo?at_medium=RSS&at_campaign=rss",
-      "title": "城の石垣が崩れ、ショッピングセンターで夜通し捜索続く……熊本で震度7の地震",
-      "saved": "2026-07-29-cheng-noshi-yuan-kabeng-re-siyotuhinkusentateye-tong-sisou-suo-sok-ku-xiong-ben-.md",
-      "ts": 1785292546
-    },
-    "0474cdb4254ce72459ccb72bb06f519a639d57fed8f28932526eac03528862b0": {
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1xOW1zZnhJbkN5V0lOLTNpV0R6ZzJVQmxmWXZfcHJaLVJpeTJEdU9BUHBwVUhHTmVIMGhfT01JdXRRX1FUdTNPV1ZmdW5qNVdjb2tV?oc=5",
-      "title": "熊本地震、13人の死亡確認 高市首相 - CNN.co.jp",
-      "saved": "2026-07-29-xiong-ben-di-zhen-13ren-nosi-wang-que-ren-gao-shi-shou-xiang-cnn-co-jp.md",
-      "ts": 1785292546
-    },
-    "9f6c3a4104f6e3726629d96b5fad0ed211fa9d5b3d93bf670004c24b29d42083": {
-      "link": "https://www.bbc.com/japanese/articles/c5y6267j5p6o?at_medium=RSS&at_campaign=rss",
-      "title": "熊本地震、死者13人と首相　イオンモールや日本製紙工場で複数人が死亡や心肺停止",
-      "saved": "2026-07-29-xiong-ben-di-zhen-si-zhe-13ren-toshou-xiang-ionmoruyari-ben-zhi-zhi-gong-chang-t.md",
-      "ts": 1785292546
-    },
-    "2c3c3e3c2261df77ba8dc9861ee99a69c6ab92ee4c8599d9b7dd252687bbd14a": {
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5wd1JiR2ZKN18zZFdQd2gyN28yOGp0d3Z6TGV5QmFIZHpBZTZ3Vm1xTG5kcU84TFJyS0czYndJTmNmbmI3bzNiNmwtaWxqT0JB?oc=5",
-      "title": "米とサウジ、イラクで親イラン勢力の施設を攻撃 米中央軍 - CNN.co.jp",
-      "saved": "2026-07-29-mi-tosausi-irakuteqin-iranshi-li-noshi-she-wogong-ji-mi-zhong-yang-jun-cnn-co-jp.md",
-      "ts": 1785292546
-    },
-    "9d9168d17a615abb03323bd2955751876a2a26163023cfba88dd09d8b2add7ca": {
-      "link": "https://www.itmedia.co.jp/news/article/2607/29/2000000258/",
-      "title": "熊本「通れた道」マップ、トヨタが公開　ホンダも「通行実績情報マップ」",
-      "saved": "2026-07-29-xiong-ben-tong-retadao-matuhu-toyotakagong-kai-hontamo-tong-xing-shi-ji-qing-bao.md",
-      "ts": 1785292546
-    },
-    "92de56fe343355aff74864bae365fd4894eeeb9efa1a55a3d68c2f37ec107ec1": {
-      "link": "https://www.itmedia.co.jp/news/article/2607/29/2000000232/",
-      "title": "企業が広告を「早く、安全に、大量に」作るAI　アドビの新ツールが向かう先は“代理店いらず”か",
-      "saved": "2026-07-29-qi-ye-kaguang-gao-wo-zao-ku-an-quan-ni-da-liang-ni-zuo-ruai-atohinoxin-turukaxia.md",
-      "ts": 1785292546
-    },
-    "c991a0556e5fd3c6216891f58695edcc6f387ee415a036a2108ad6b93832c788": {
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9CdFl5czJkZGFsaTZhU1FZbjEwNlJ6bHJlOEdfd3ZKLW04NVYxblJyXzVlbVZBeFA1SEtyS0V4R3JKQ1NZMmt1bEN4dk9HQTJjNHJPNg?oc=5",
-      "title": "7月の満月は「バックムーン」、米北部で赤みがかって見える理由は - CNN.co.jp",
-      "saved": "2026-07-29-7yue-noman-yue-ha-hatukumun-mi-bei-bu-techi-mikakatutejian-eruli-you-ha-cnn-co-j.md",
-      "ts": 1785292546
-    },
-    "233462711ac3799a16b55a28fce5c6f0cda0cfac3365edcea35e1892b8cd7c6a": {
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9naDNsQXg4bWhvV05FRDNwYS1GSDFlZjhFYkZ2SlZ2S1Z3OVR3cWkzYXZwckZSZHJTTHFrNWxBY0N0VEtIX3UxV2VzeXI5aVV2Q0pv?oc=5",
-      "title": "ゼレンスキー氏、トランプ氏と会談 防空体制と外交の再開について協議 - CNN.co.jp",
-      "saved": "2026-07-29-serensukishi-toranhushi-tohui-tan-fang-kong-ti-zhi-towai-jiao-nozai-kai-nituitex.md",
-      "ts": 1785292546
-    },
-    "85ef03db2942936fba2fb6bea636d96cd0a7f043382a9da34fa5564490964463": {
-      "link": "https://www.itmedia.co.jp/news/article/2607/29/2000000262/",
-      "title": "熊本地震、ふるさと納税で支援受付スタート　ふるさとチョイスや楽天で",
-      "saved": "2026-07-29-xiong-ben-di-zhen-hurusatona-shui-tezhi-yuan-shou-fu-sutato-hurusatotiyoisuyale-.md",
-      "ts": 1785292546
-    },
-    "7ecae827b9a9f60d4b2ff1fcf20eb477b9a42506a91d87e72661fbe6e8f40baa": {
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5iQmtnd01MR1FiVjNkVFdZZGhXZ2VyekFxMG55azk0RWhDY1NaNzVTSHNkZmxlQ1Q2blhfdmdLWUdmTXpQOXUyemtHNHFnRy1HbWlr?oc=5",
-      "title": "トランプ氏とネタニヤフ氏が会談、「非常に前向き」とイスラエル当局者 - CNN.co.jp",
-      "saved": "2026-07-29-toranhushi-tonetaniyahushi-kahui-tan-fei-chang-niqian-xiang-ki-toisuraerudang-ju.md",
-      "ts": 1785292546
-    },
-    "639a744af11b5e8721574fb0682b949a7d8e74ac7ed26e6ef7e413b555209c5c": {
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxRlAzZWM5WXNGZ0w2VmhfRXNla0hiX0dJSHZmd2NpTGZlS0Z2bDhyS2xJeHh3SDhGLVhuNlB4N0pWaWN5ekdVVmdkcFJadVhwMjdN?oc=5",
-      "title": "熊本地震、ショッピングモール崩落で2人死亡 NHK - CNN.co.jp",
-      "saved": "2026-07-29-xiong-ben-di-zhen-siyotuhinkumorubeng-luo-te2ren-si-wang-nhk-cnn-co-jp.md",
-      "ts": 1785292546
-    },
-    "baae42ec7f1a22ed91039b9bee1ab1fdd9a99fa79ed19ae883ea407aac8b9acc": {
-      "link": "https://www.itmedia.co.jp/business/articles/2607/29/news062.html",
-      "title": "10年断ってきたヤマダとの統合　エディオン会長が受け入れた理由",
-      "saved": "2026-07-29-10nian-duan-tutekitayamatatonotong-he-eteionhui-chang-kashou-keru-retali-you.md",
-      "ts": 1785292546
-    },
-    "ef3449e8faf054dbdc94d7d0e880548fbe98cd11e43903538039858e34c54fa0": {
-      "link": "https://www.itmedia.co.jp/business/articles/2607/29/news059.html",
-      "title": "ファイターズの“熱狂を逃さない”データマーケティング　エスコンフィールドに顧客が「試合＋1.5時間」も滞在するワケ",
-      "saved": "2026-07-29-huaitasuno-re-kuang-wotao-sanai-tetamaketeinku-esukonhuirutonigu-ke-ka-shi-he-1-.md",
-      "ts": 1785292546
-    },
-    "cce8e181ebe59a3b0915ccdca6d1bfca02e01dedf43f0494cff12f61210b407f": {
-      "link": "https://www.itmedia.co.jp/news/article/2607/29/2000000259/",
-      "title": "MetaのザッカーバーグCEO、WSJ寄稿で「超知能は全員のものであるべき」",
-      "saved": "2026-07-29-metanosatukahakuceo-wsjji-gao-te-chao-zhi-neng-haquan-yuan-nomonotearuheki.md",
-      "ts": 1785292546
-    },
-    "67c2893f1b83526cd819967931ce1f58ee42b3edb98903c645b2679d5c76c698": {
-      "link": "https://www.itmedia.co.jp/business/articles/2607/29/news019.html",
-      "title": "「午後6時から葬儀、午後7時に火葬」　新サービス「夕刻葬」は“火葬待ち”を解決できるか",
-      "saved": "2026-07-29-wu-hou-6shi-karazang-yi-wu-hou-7shi-nihuo-zang-xin-sahisu-xi-ke-zang-ha-huo-zang.md",
-      "ts": 1785292546
-    },
-    "ff8839ee814945ce13dc5fc32d2b4c8587bc6a98813efd1b429d6f06a0040cab": {
-      "link": "https://www.itmedia.co.jp/business/articles/2607/29/news020.html",
-      "title": "“AIっぽい”メール返信はもう卒業　自分らしい文体を再現するカスタムGPT作成方法",
-      "saved": "2026-07-29-aituhoi-merufan-xin-hamouzu-ye-zi-fen-rasiiwen-ti-wozai-xian-surukasutamugptzuo-.md",
-      "ts": 1785292546
-    },
-    "a40ab66ee202983b6e101d83b5dc40687c1875bb40be3d218cc80f5165fe14ed": {
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE56Zi1XWUtoaVBpY19hLVpzSlRTUm84YWVWdFM0djdEMkpkUXFJWVZSLTFwakNHWUg1VTJoR2hwbFJkSDhNejdicmxsT0VVYWJ4?oc=5",
-      "title": "米軍、イランの「奇襲攻撃」を迎撃 弾道ミサイル数発発射か - CNN.co.jp",
-      "saved": "2026-07-29-mi-jun-iranno-qi-xi-gong-ji-woying-ji-dan-dao-misairushu-fa-fa-she-ka-cnn-co-jp.md",
-      "ts": 1785292546
-    },
-    "cf1ddaa15a01aae4032e03095c1d92ec27e62c97d47a768a57505bfba65697ed": {
-      "link": "https://www.itmedia.co.jp/news/article/2607/29/2000000257/",
-      "title": "熊本地震でTeslaのスーパーチャージャー無料開放　熊本、福岡など九州10カ所",
-      "saved": "2026-07-29-xiong-ben-di-zhen-teteslanosuhatiyasiyawu-liao-kai-fang-xiong-ben-fu-gang-natoji.md",
-      "ts": 1785292546
-    },
-    "1305bdbfdd82bc087d2a16362d5866c8eb09fe3d46d86e25665c19b32e11acbc": {
-      "link": "https://www.itmedia.co.jp/business/articles/2607/29/news031.html",
-      "title": "「○時間しか寝ていない」「ストレスで体を壊した」――自己犠牲エピソードは、なぜ若者たちに響かないのか？",
-      "saved": "2026-07-29-shi-jian-sikaqin-teinai-sutoresuteti-wohuai-sita-zi-ji-ikenie-sheng-ehisotoha-na.md",
-      "ts": 1785292546
-    },
-    "ba5ca3abc029318b56613d2efceeb0c55b1f38be5cd7bcf11762fd4bbd2125b2": {
-      "link": "https://www.itmedia.co.jp/business/articles/2607/29/news036.html",
-      "title": "「困ったらググる」から「AIに聞く」へ　LIXILがFAQを「AIの一次情報データベース」に作り替える理由",
-      "saved": "2026-07-29-kun-tutarakukuru-kara-ainiwen-ku-he-lixilkafaqwo-ainoyi-ci-qing-bao-tetahesu-niz.md",
-      "ts": 1785292546
-    },
-    "bdd839d90149704a174e4828b9a8edcb172668c8effb7385de608c01244cd47d": {
-      "link": "https://www.itmedia.co.jp/news/article/2607/29/2000000256/",
-      "title": "Anthropicのミュトス、暗号アルゴリズムの新たな攻撃法を発見――耐量子署名「HAWK」の強度を半減",
-      "saved": "2026-07-29-anthropicnomiyutosu-an-hao-arukorisumunoxin-tanagong-ji-fa-wofa-jian-nai-liang-z.md",
-      "ts": 1785292546
-    },
     "cb252530e5f4128edae94c965ee9ac13eea18f28e67d6153abfb8b04fa26b466": {
       "link": "http://www3.nhk.or.jp/news/html/20260729/k10015189751000.html",
       "title": "地震の揺れの影響とみられる線路の変形を確認 国交省",
@@ -10541,6 +10115,288 @@
       "title": "中国・ネパール国境で洪水が発生し157人が死亡、外国人を含む数百人が行方不明となっている/Prakash MATHEMA/AFP - CNN.co.jp",
       "saved": "2026-08-27-zhong-guo-neharuguo-jing-tehong-shui-kafa-sheng-si157ren-kasi-wang-wai-guo-ren-w.md",
       "ts": 1787842823
+    },
+    "8196065ffc88fbf0fabee6dace5482402021ce14d7e6fd14324b9edb97fd3c65": {
+      "link": "https://www.bbc.com/japanese/articles/cvgyxnklxv2o?at_medium=RSS&at_campaign=rss",
+      "title": "旧ユーゴのムラディッチ受刑者が死亡、ボスニアでの虐殺で終身刑",
+      "saved": "2026-08-28-jiu-yukonomurateitutishou-xing-zhe-kasi-wang-hosuniatenonue-sha-tezhong-shen-xin.md",
+      "ts": 1787896698
+    },
+    "2b5af8e39060fa2f7176caf52b0b54c9c17543090f6947e22a85c74b31076734": {
+      "link": "https://www.itmedia.co.jp/news/article/2608/28/2000000897/",
+      "title": "Anthropic、AIで物理機器を制御する共通規格「MHS」発表　将来オープンソース化へ",
+      "saved": "2026-08-28-anthropic-aitewu-li-ji-qi-wozhi-yu-surugong-tong-gui-ge-mhs-fa-biao-jiang-lai-oh.md",
+      "ts": 1787896698
+    },
+    "cb4a3dcb489ff6306ffc77e2075ac55ad4cddc233f42c8a0f61f076f90c8d5a5": {
+      "link": "https://www.itmedia.co.jp/news/article/2608/28/2000000896/",
+      "title": "「5G SAにしたら圏外」──povo、一部スマホで接続不能に　KDDI「誤った設定だった」と謝罪",
+      "saved": "2026-08-28-5g-sanisitaraquan-wai-povo-yi-bu-sumahotejie-sok-bu-neng-ni-kddi-wu-tutashe-ding.md",
+      "ts": 1787896698
+    },
+    "f4bf5f0e7da52fc555a6bce49dc1ec4e370cc7733ef9cf252bb7d4069e75393d": {
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44ZkYyT1poRkhMd2ZsUDdtX0hrV3FhcHB6SGo3UWs1VUZUWW1jTF8tNURtcE1RU1B4ZUpYdU9JQWZuQkpjTVJPYjBaaEZtMDFpTHJ3dGk0VUxWdHM?oc=5",
+      "title": "CIA長官のモスクワ訪問、NATO攻撃を控えるよう警告する目的 イラン支援停止も促す - CNN.co.jp",
+      "saved": "2026-08-28-ciachang-guan-nomosukuwafang-wen-natogong-ji-wokong-eruyoujing-gao-surumu-de-ira.md",
+      "ts": 1787896698
+    },
+    "d6aaa74f7f7bbee239dc7385a1ad79c59a5cba9267dc930ddde833222826fd6c": {
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBKX1MzNWVuVTMyMWR2Y1lpR3RjcEZ0eWNTUTc1SzZOUVBmcWZTQ19oXzJ0XzQwbUl0THRTc1lxd0RQVDFZTm5KeVBPTGRJV0k?oc=5",
+      "title": "「ボスニアの虐殺者」、ムラジッチ受刑者が死亡 - CNN.co.jp",
+      "saved": "2026-08-28-hosunianonue-sha-zhe-murasitutishou-xing-zhe-kasi-wang-cnn-co-jp.md",
+      "ts": 1787896698
+    },
+    "8d3330e22434ee9e165c1d9c5751998165489e16aee6a00e61e89f46a38d1a3a": {
+      "link": "https://www.itmedia.co.jp/news/article/2608/28/2000000895/",
+      "title": "アイドルの宮本佳林さんが登壇したCloudflare開発者イベント、アーカイブ配信中",
+      "saved": "2026-08-28-aitorunogong-ben-jia-lin-sankadeng-tan-sitacloudflarekai-fa-zhe-ihento-akaihupei.md",
+      "ts": 1787896698
+    },
+    "133341848e208fb5e25c0231ec99dd4cfa440972e3d1115cf8af11ff7af41bb6": {
+      "link": "https://www.itmedia.co.jp/news/article/2608/28/2000000890/",
+      "title": "大学入試センター、公式サイトの資料一覧ページが公開状態に　非公開化は「誤解を避けるため」",
+      "saved": "2026-08-28-da-xue-ru-shi-senta-gong-shi-saitonozi-liao-yi-lan-hesikagong-kai-zhuang-tai-ni-.md",
+      "ts": 1787896698
+    },
+    "639dac84fc9143afb9a7a374e8f79d653c3229e387c490aa34d4c949eb979992": {
+      "link": "https://www.itmedia.co.jp/news/article/2608/28/2000000893/",
+      "title": "Google、「Gemini Notebook」に購入済み電子書籍を追加できる「Expert Intelligence」",
+      "saved": "2026-08-28-google-gemini-notebook-nigou-ru-ji-midian-zi-shu-ji-wozhui-jia-tekiru-expert-int.md",
+      "ts": 1787896698
+    },
+    "0e5a2d965ac7c6b54479e48e9a82f24182430d4f959e0233f30623b336715254": {
+      "link": "https://www.itmedia.co.jp/news/article/2608/28/2000000892/",
+      "title": "「ライザAI」、配信開始2日で不正利用を警告　生成AIによる“偽画像”拡散も",
+      "saved": "2026-08-28-raisaai-pei-xin-kai-shi-2ri-tebu-zheng-li-yong-wojing-gao-sheng-cheng-ainiyoru-w.md",
+      "ts": 1787896698
+    },
+    "c31a4b7b6491148d246c0eeb1406f0d66ed8abadbe74c46181b223e0e9e28b99": {
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZUm1KWG85WnN2bnJxeUZSZVdGT2tGdU9mQmlndEhvR2tkdWRSZkNUd0Vxb1lORm5RVVlkV0hKb3c3eDlGYlE4X2NLUGZOeDNvd2t1SjdTLUx6SjQ?oc=5",
+      "title": "旅客機と消防車の衝突事故、当日夜は管制官2人が早退 米NYラガーディア空港 - CNN.co.jp",
+      "saved": "2026-08-28-lu-ke-ji-toxiao-fang-che-nochong-tu-shi-gu-dang-ri-ye-haguan-zhi-guan-2ren-kazao.md",
+      "ts": 1787896698
+    },
+    "5e9a05db63e805cccfbb975d1fc46fda15578482f00f2756b94ba3db964b72c2": {
+      "link": "https://www.itmedia.co.jp/news/article/2608/28/2000000891/",
+      "title": "NISA口座「もぬけの殻」に　不正アクセス被害者らが証券4社に原状回復求め調停",
+      "saved": "2026-08-28-nisakou-zuo-monukenoque-ni-bu-zheng-akusesubei-hai-zhe-rakazheng-quan-4she-niyua.md",
+      "ts": 1787896698
+    },
+    "28e2f30fa847804788a96e54868c8a45cdaf62d49355a51a66e29bc64da867c5": {
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1nNy1TX2NKQVRERzhlRE5tQjBoanVYVlpjak5ZbFExcXBPdGI1X0lmbGlfci0xUWtLTDl4Z0VIcHBoWmxORFR1UGlZNVNJRl9EclpV?oc=5",
+      "title": "「ボスニアの虐殺者」、ムラジッチ受刑者が84歳で死亡 ボスニア系セルビア人の元司令官 - CNN.co.jp",
+      "saved": "2026-08-28-hosunianonue-sha-zhe-murasitutishou-xing-zhe-ka84sui-tesi-wang-hosuniaxi-seruhia.md",
+      "ts": 1787896698
+    },
+    "99f187f1ca2fe289265488b21476acf622a94d7d5105d3a7af1b6a40202cab00": {
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1MaDQyTVI0bnc5VExBYlQ5aU8wYWRuOHotX2wzdXhaWHEyX0xqYzBoNnFzVWVQOXJsajBCcmwxbVprSjNydTVzX3lwM2c5cERNcXNyNA?oc=5",
+      "title": "中国・ネパール国境の「ギロン港」を捉えた画像。洪水に襲われた後の様子 - CNN.co.jp",
+      "saved": "2026-08-28-zhong-guo-neharuguo-jing-no-kirongang-wozhuo-etahua-xiang-hong-shui-nixi-waretah.md",
+      "ts": 1787896698
+    },
+    "21deb9ffb93127dcfa661ba8e8f98b0dcb0d11429ad22a78c84bda9bac995d8b": {
+      "link": "https://www.itmedia.co.jp/news/article/2608/28/2000000633/",
+      "title": "避けるのか、とことん使いこなすのか──明治のCMに生成AIを取り入れた映像監督の本音",
+      "saved": "2026-08-28-bi-kerunoka-tokotonshi-ikonasunoka-ming-zhi-nocmnisheng-cheng-aiwoqu-riru-retayi.md",
+      "ts": 1787896698
+    },
+    "0f55b620de296d054e542a1f3c29a795a449cfe3a309e9d8a9072c254620f409": {
+      "link": "https://www.bbc.com/japanese/articles/c1dlpezr4yeo?at_medium=RSS&at_campaign=rss",
+      "title": "ネパール・中国国境で新たな洪水の恐れ　土石流の死者数470人超、行方不明者は計1450人以上に",
+      "saved": "2026-08-28-neharuzhong-guo-guo-jing-texin-tanahong-shui-nokong-re-tu-shi-liu-nosi-zhe-shu-4.md",
+      "ts": 1787896698
+    },
+    "42c9d9ba01a3a2963403fff6726acf047a5d84f93bcff00bfdd9cfbaed0c36b0": {
+      "link": "https://www.bbc.com/japanese/articles/cx2zd72le3no?at_medium=RSS&at_campaign=rss",
+      "title": "泥の中から救出される人々……ネパール北部の土石流被災地",
+      "saved": "2026-08-28-ni-nozhong-karajiu-chu-sareruren-neharubei-bu-notu-shi-liu-bei-zai-di.md",
+      "ts": 1787896698
+    },
+    "943b992a20d08ae2c3e6bfd80a9f5d145448635e237ee7da7a4b2cd8f1f60a40": {
+      "link": "https://www.itmedia.co.jp/news/article/2608/28/2000000888/",
+      "title": "チューリッヒ保険、最大1668件の個人情報漏えいか　ドラレコデータのシステムに不正アクセス",
+      "saved": "2026-08-28-tiyurituhibao-xian-zui-da-1668jian-noge-ren-qing-bao-lou-eika-torarekotetanosisu.md",
+      "ts": 1787896698
+    },
+    "ac77f5d085a9e4584ebae967786fded2105b08f82797bf5f77bfb234c2252b0f": {
+      "link": "https://www.itmedia.co.jp/business/articles/2608/28/news058.html",
+      "title": "「雑材料一式 1万円」──年4650時間を無駄にしていた建設現場の“ブラックボックスな購買”　Amazonはどう変えた？",
+      "saved": "2026-08-28-za-cai-liao-yi-shi-1mo-yuan-nian-4650shi-jian-wowu-tuo-nisiteitajian-she-xian-ch.md",
+      "ts": 1787896698
+    },
+    "5f3de19a10612a9921ef0d7eb94a3bd1fe4763b75c5d6e0f57cfaf448c79e9eb": {
+      "link": "https://www.bbc.com/japanese/articles/cx2zmev8pg1o?at_medium=RSS&at_campaign=rss",
+      "title": "AIのリアルタイム支援による世界初の脳外科手術、腫瘍摘出に成功　ロンドンの病院で",
+      "saved": "2026-08-28-ainoriarutaimuzhi-yuan-niyorushi-jie-chu-nonoy-wai-ke-shou-shu-zhong-yang-zhai-c.md",
+      "ts": 1787896698
+    },
+    "d1dce0e60b18c6ccc76600c4939b84ed7c1d20e1785bc30fd8b3779a162fb06d": {
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DZ0lKaHMtOWROdnNYczJBcjNuR1g0a2tZV1FCdUZsZDhmbjdUMW54WmlmR0JWaXNJcEhwSVU4M05xUVByNG9HMGQ5VFczbzU3OGFV?oc=5",
+      "title": "「空港マラリア」で職員2人が死亡、航空機で持ち込まれた蚊が媒介か ドイツ - CNN.co.jp",
+      "saved": "2026-08-28-kong-gang-mararia-tezhi-yuan-2ren-kasi-wang-hang-kong-ji-techi-tiip-maretawen-ka.md",
+      "ts": 1787896698
+    },
+    "ada8c60fce3f1c273cbcf58207f4b6b23af84f0000c10f9daf2522d976a1e08d": {
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00U2RrZno3WGpwRGE3eEVjY3ZTR0ZPVU5iOWdqVVQwWDBoZVZ6a0ViY3RmZW8xNGZsUGJxWVVUNGVBbGJpVVpMc0pfRmFETVpqczJ6dEk4bGdtSllDTUE?oc=5",
+      "title": "「空港マラリア」で職員2人が死亡、航空機で持ち込まれた蚊が媒介か ドイツ - CNN.co.jp",
+      "saved": "2026-08-28-kong-gang-mararia-tezhi-yuan-2ren-kasi-wang-hang-kong-ji-techi-tiip-maretawen-ka-2.md",
+      "ts": 1787896698
+    },
+    "88731f45daa6458e763617c8cc10569b6a7666e0f7d367de1f87b13b5a3f6969": {
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xZ3ZYbTFKVXBNa0x5U0hScjF2dVhVMGlYTk8zekNKbnlGSjNWTnYzN0d4T0Z5VWxua1EwUUFDcGhFZUJYQ2g4T3hYdHJwMjRnMkdR?oc=5",
+      "title": "滑落事故から生還の86歳男性、氷河に捨てたバックパックと63年ぶり再会 - CNN.co.jp",
+      "saved": "2026-08-28-hua-luo-shi-gu-karasheng-huan-no86sui-nan-xing-bing-he-nishe-tetahatukuhatukuto6.md",
+      "ts": 1787896698
+    },
+    "8563f95e1409d46746fa17517f7834bba8a41b6996ba5eb88cb7d45c54197328": {
+      "link": "https://www.itmedia.co.jp/news/article/2608/28/2000000883/",
+      "title": "「週刊ダイヤモンド」紙の発行終了　114年目で幕　完全デジタル化へ",
+      "saved": "2026-08-28-zhou-kan-taiyamonto-zhi-nofa-xing-zhong-liao-114nian-mu-temu-wan-quan-tesitaruhu.md",
+      "ts": 1787896698
+    },
+    "08522319a51e4ee8b6c2bc99361ec4d9f10d7b4d85f6eae41e9aeb314e02c692": {
+      "link": "https://www.itmedia.co.jp/business/articles/2608/28/news076.html",
+      "title": "キオクシア、2032年までに日本に「5兆円投資」　岩手・北上に製造拠点増築も【注目ニュース】",
+      "saved": "2026-08-28-kiokusia-2032nian-mateniri-ben-ni-5zhao-yuan-tou-zi-yan-shou-bei-shang-nizhi-zao.md",
+      "ts": 1787896698
+    },
+    "3d7d6412ec70b1d33d580f0fe48075ff0c8a806e0c7c453c139ab752d72db40d": {
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9QSWtuVFRVOEp0QVRYX3ZPNXBsc3dnV053N0JocUFteGVBQS1UNHgwVFBmZDBIVHZMNEgzT1JBRDVlYk91V29MblBBVTRQUUZwNERGXw?oc=5",
+      "title": "中国・ネパール国境の「ギロン港」を捉えた画像。洪水に襲われる前の様子 - CNN.co.jp",
+      "saved": "2026-08-28-zhong-guo-neharuguo-jing-no-kirongang-wozhuo-etahua-xiang-hong-shui-nixi-wareruq.md",
+      "ts": 1787896698
+    },
+    "5127a3cb70f435bd1458352e2939b368f82a3d23c308ccdb8229402ee906bc93": {
+      "link": "https://www.itmedia.co.jp/news/article/2608/28/2000000881/",
+      "title": "R-18ゲームをiPhoneでも……DMM GAMES、iOS向け独自ストアを31日に公開",
+      "saved": "2026-08-28-r-18kemuwoiphonetemo-dmm-games-iosxiang-kedu-zi-sutoawo31ri-nigong-kai.md",
+      "ts": 1787896698
+    },
+    "4f55bbb46e67494ffde9e686f47859e27fe957d4e02753519f7df88cb2724e43": {
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lZDg1OTRnZTBkUlgxdS1LaldZMUozNXdIeXU5TkxsTGltVHBtUTluaWdteTh1T0lhclhqMWhKZERUdFZfQm9HM0RobXdjMkZKLUww?oc=5",
+      "title": "ネパール・中国の国境施設、洪水で跡形もなく消失 航空写真が前後の様子を捉える - CNN.co.jp",
+      "saved": "2026-08-28-neharuzhong-guo-noguo-jing-shi-she-hong-shui-teji-xing-monakuxiao-shi-hang-kong-.md",
+      "ts": 1787896698
+    },
+    "8df5013e40a4593f44a7495d49cadae4f313a24fb065b8969dfb2ee5c2fdfe6c": {
+      "link": "https://www.itmedia.co.jp/news/article/2608/28/2000000879/",
+      "title": "キオクシアとSanDisk、日本に約5兆円投資へ　フラッシュメモリ増産　政府の支援前提",
+      "saved": "2026-08-28-kiokusiatosandisk-ri-ben-niyue-5zhao-yuan-tou-zi-he-huratusiyumemorizeng-chan-zh.md",
+      "ts": 1787896698
+    },
+    "e007e6f481904906de67aa44026bc19104a2281ae65a99204b9f60256acb2d9c": {
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5WTdmOTlzX2pvMHVGY2hiWVl6TXcwU3NoS1VlbXNHLWF5clptNFJQWExPd2ZrMnh1cE5IMmlWVWE5dGpuR2FfamQ5dXR5QnNh?oc=5",
+      "title": "トランプ氏、オンタリオ湖を「アメリカ湖」に改称する大統領令に署名 - CNN.co.jp",
+      "saved": "2026-08-28-toranhushi-ontariohu-wo-amerikahu-nigai-cheng-suruda-tong-ling-ling-nishu-ming-c.md",
+      "ts": 1787896698
+    },
+    "77e227b201611cc29b653d757f89f99dac5a4df1d70e037203af39f04dcd8101": {
+      "link": "https://www.itmedia.co.jp/business/articles/2608/28/news071.html",
+      "title": "東京駅前に何ができる？　「YAESU CORE」に1300席の劇場、八重洲に100店舗超の商業空間",
+      "saved": "2026-08-28-dong-jing-yi-qian-nihe-katekiru-yaesu-core-ni1300xi-noju-chang-ba-zhong-zhou-ni1.md",
+      "ts": 1787896698
+    },
+    "0485f1435d6388b674fa0f46f2c50030a2fd48350b01f4cdd1cb97a1ea9b90a7": {
+      "link": "https://www.itmedia.co.jp/business/articles/2608/28/news019.html",
+      "title": "「ChatGPTを配るだけ」のAI活用は95％が失敗――ナレッジワーク麻野CEOが語る、営業生産性を上げる方法とは",
+      "saved": "2026-08-28-chatgptwopei-rutake-noaihuo-yong-ha95-kashi-bai-naretusiwakuma-ye-ceokayu-ru-yin.md",
+      "ts": 1787896698
+    },
+    "9a7ee9af79d4ebc9f2a6386fbce3dddaffd1c26708a08bed29777ce7695d860c": {
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTbjYzWTF1dnM4cjZ1NXpmTGdmbG1WZzlBSkhOTTM0RElCSDdzTlZndUp4NlVzalRESE50MURrd2RYa2N3OXdzWHQ1TGV5cU1IZ3pNSg?oc=5",
+      "title": "濁流に飲み込まれ、崩落したネパール東部の橋/AFP/Jiji - CNN.co.jp",
+      "saved": "2026-08-28-zhuo-liu-niyin-miip-mare-beng-luo-sitaneharudong-bu-noqiao-afp-jiji-cnn-co-jp.md",
+      "ts": 1787896698
+    },
+    "755c21d8a81a2cf4c7776f861df18b5f8386adff39c1bd012d6d5e9ba9a0a56e": {
+      "link": "https://www.itmedia.co.jp/news/article/2608/28/2000000877/",
+      "title": "キオクシア、北上工場に新製造棟建設　「BiCS FLASH」増強、29年度中に稼働へ",
+      "saved": "2026-08-28-kiokusia-bei-shang-gong-chang-nixin-zhi-zao-dong-jian-she-bics-flash-zeng-qiang-.md",
+      "ts": 1787896698
+    },
+    "9da20a0e309b74350bf0cc9ca95f19095bad8fae467343c5e7b8c8b057bfad41": {
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tSWduWm1LWWNRQjAwTko2TU1XSGJBV0FveW1DT3dGMEVZZ2Vqd2l6aDBOLTdqYkpTVkl2ajRYOThtbWRhSTJEUm9zbjJqN1ljalpZ?oc=5",
+      "title": "ネパール洪水、死者389人に 懸命の捜索活動続く - CNN.co.jp",
+      "saved": "2026-08-28-neharuhong-shui-si-zhe-389ren-ni-xuan-ming-nosou-suo-huo-dong-sok-ku-cnn-co-jp.md",
+      "ts": 1787896698
+    },
+    "52bc07be3861ab5e2ece1d45a30d05f103307ebef2057a56bf9e2aaed7e9c47f": {
+      "link": "https://www.itmedia.co.jp/business/articles/2608/28/news034.html",
+      "title": "「心理的安全性が高い職場」の勘違い　仲の良さでは測れないワケ",
+      "saved": "2026-08-28-xin-li-de-an-quan-xing-kagao-izhi-chang-nokan-wei-i-zhong-noliang-satehace-renai.md",
+      "ts": 1787896698
+    },
+    "ac6a4a651363b1bac3fb45c99457642130f0076cb29016f6225af298b0a32b14": {
+      "link": "https://www.itmedia.co.jp/business/articles/2608/28/news017.html",
+      "title": "なぜドンキは外国人客だらけ？　名所より「スーパー」、世界で広がる新たな観光",
+      "saved": "2026-08-28-nasetonkihawai-guo-ren-ke-tarake-ming-suo-yori-suha-shi-jie-teguang-karuxin-tana.md",
+      "ts": 1787896698
+    },
+    "cca68f6ee23e3cf9bd99cf188e6026c90d2c0e3fd26ee2f8e96f3c5ecfef2033": {
+      "link": "https://www.itmedia.co.jp/business/articles/2608/28/news025.html",
+      "title": "なぜ「ほぼAI」のエイベックス・松浦noteは絶賛されたのか　発信者に問われる「その人である必要性」",
+      "saved": "2026-08-28-nase-hohoai-noeihetukususong-pu-notehajue-zan-saretanoka-fa-xin-zhe-niwen-wareru.md",
+      "ts": 1787896698
+    },
+    "9ece0156ca450d13ac05b47a16456803e167dd681ee50ff4c10a755170f0e0fa": {
+      "link": "https://www.itmedia.co.jp/business/articles/2608/28/news040.html",
+      "title": "「残業させ放題」なのか？　厚労省「残業45時間一律指導見直し」で企業が問われる“10項目”【弁護士が解説】",
+      "saved": "2026-08-28-can-ye-sasefang-ti-nanoka-hou-lao-sheng-can-ye-45shi-jian-yi-lu-zhi-dao-jian-zhi.md",
+      "ts": 1787896698
+    },
+    "328797e1c612e183ba8d9973416d16b0cd683c3866ce233ba17934f3a002b355": {
+      "link": "https://www.itmedia.co.jp/business/articles/2608/28/news042.html",
+      "title": "プルデンシャル生命でまた不祥事……営業自粛の裏で続いた詐取、なぜ「不正」は根絶できないのか",
+      "saved": "2026-08-28-hurutensiyarusheng-ming-tematabu-xiang-shi-ying-ye-zi-su-noli-tesok-itazha-qu-na.md",
+      "ts": 1787896698
+    },
+    "1a762d5c7c18289ad4049590ce97a74aba2f7987241fa87eb075b7d8e14db3b1": {
+      "link": "https://www.itmedia.co.jp/business/articles/2608/28/news065.html",
+      "title": "「新幹線料金と同じ」　ラピダス小池社長が明かす、2ナノ半導体“短納期”の勝算",
+      "saved": "2026-08-28-xin-gan-xian-liao-jin-totong-si-rahitasuxiao-chi-she-chang-kaming-kasu-2nanoban-.md",
+      "ts": 1787896698
+    },
+    "b35668847442e4fc1ad6026acdb1fde5f2c933dfad4a7bf6ac594867f2546f55": {
+      "link": "https://www.itmedia.co.jp/business/articles/2608/28/news023.html",
+      "title": "「原資がない」「大切なのは給料じゃない」──賃上げを拒む企業が見て見ぬふりする“人への投資”という最強戦略",
+      "saved": "2026-08-28-yuan-zi-kanai-da-qie-nanohagei-liao-siyanai-ren-shang-kewoju-muqi-ye-kajian-teji.md",
+      "ts": 1787896698
+    },
+    "66ade940d61fa11bc8ca43bac6ec099902439c1a1bc38c1cebb48fe8a49789df": {
+      "link": "https://www.itmedia.co.jp/business/articles/2608/28/news032.html",
+      "title": "「DXでかえって手間が増えた」現場は絶望　アート引越、年2400時間の業務削減への逆転劇",
+      "saved": "2026-08-28-dxtekaetuteshou-jian-kazeng-eta-xian-chang-hajue-wang-atoyin-yue-nian-2400shi-ji.md",
+      "ts": 1787896698
+    },
+    "0747ef3ad246f3b2eb832506796ae35d102bb574ad6e7966e88fd9a5e6ba0cbe": {
+      "link": "https://www.itmedia.co.jp/business/articles/2608/28/news028.html",
+      "title": "飲食店の倒産が相次ぐのになぜ強い？　吉祥寺の4.5坪店が「6つの収益源」で稼ぎ続けるワケ",
+      "saved": "2026-08-28-yin-shi-dian-nodao-chan-kaxiang-ci-kunoninaseqiang-i-ji-xiang-si-no4-5ping-dian-.md",
+      "ts": 1787896698
+    },
+    "465b63d682df67ea8dfeefede1b4f5c47c68a6406aacc1db621562baff935cec": {
+      "link": "https://www.itmedia.co.jp/business/articles/2608/28/news067.html",
+      "title": "OpenAIのAIエージェント、約700体の群れで企業を襲撃　ハッキングの痕跡隠蔽を試みる――事件の裏で何が？",
+      "saved": "2026-08-28-openainoaiesiento-yue-700ti-noqun-reteqi-ye-woxi-ji-hatukinkunohen-ji-yin-bi-wos.md",
+      "ts": 1787896698
+    },
+    "7c21fa0c30db53d0bf2f653649ee25029b08de9c80fd1cbb6b51ab467c7417d7": {
+      "link": "https://www.itmedia.co.jp/business/articles/2608/27/news067.html",
+      "title": "月額550円で採算は取れる？　会員150万人、DMM TVが「まずアニメ→しっかり全体で稼ぐ」戦略",
+      "saved": "2026-08-28-yue-e-550yuan-tecai-suan-haqu-reru-hui-yuan-150mo-ren-dmm-tvka-masuanime-situkar.md",
+      "ts": 1787896698
+    },
+    "96b0eb7619428dd96f8e2c887e3a5f78e16cf7c09967012f40348a9bcf75c478": {
+      "link": "https://www.itmedia.co.jp/business/articles/2608/28/news054.html",
+      "title": "5000億円超の「朝食市場」を狙え　モスバーガーが「昼以外」の来店に力を入れるワケ",
+      "saved": "2026-08-28-5000yi-yuan-chao-no-zhao-shi-shi-chang-woju-e-mosuhakaka-zhou-yi-wai-nolai-dian-.md",
+      "ts": 1787896698
+    },
+    "e83002aac395f04114b3ae09769363dd9257089fdeff2a4c7ef451b6579427fd": {
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQeVlNUFg0M2xFU2lYUVVKekYyajh0Q0FCQTJ0SW01VjNLcHFJa3lvM3RLMU1GRV9QeGd2VXNlY3NUMXRoYlRQYS1fakJOWGh0dFc5eW0xZUlOQXkzYzBjZTd2VEk0aFpXelE?oc=5",
+      "title": "「吸血鬼」と恐れられ埋葬された女性、そのなぞに迫る ポーランド - CNN.co.jp",
+      "saved": "2026-08-25-xi-xie-gui-tokong-reraremai-zang-saretanu-xing-sononasonipo-ru-horanto-cnn-co-jp-3.md",
+      "ts": 1787896698
     }
   }
 }
