@@ -10067,6 +10067,84 @@
       "title": "中国の国営メディアは、中国とネパールの国境検問所で唯一残った建造物であるタンクの映像を公開した/CCTV - CNN.co.jp",
       "saved": "2026-09-01-zhong-guo-noguo-ying-meteiaha-zhong-guo-toneharunoguo-jing-jian-wen-suo-tewei-yi.md",
       "ts": 1788268129
+    },
+    "900c22bd7b7952398318fd2bb4adad9b32790a2c8aa9d98152af850c8b07ed7a": {
+      "link": "https://www.itmedia.co.jp/news/article/2609/02/2000001049/",
+      "title": "Anthropic、企業向け「Enterprise Frontier Safeguards」発表　ログは顧客のクラウドに保存し、人手による確認も顧客側で",
+      "saved": "2026-09-02-anthropic-qi-ye-xiang-ke-enterprise-frontier-safeguards-fa-biao-rokuhagu-ke-noku.md",
+      "ts": 1788306531
+    },
+    "a5c1d4f9f2472aa3bbd0675d13abfada9cf2b37ba5cec555fbfa37c54ff8a480": {
+      "link": "https://www.itmedia.co.jp/business/articles/2609/02/news012.html",
+      "title": "IT人材「罰ゲームを望むわけない」……じゃあ、年収いくら上がれば「管理職」を引き受ける？　エンジニアの本音調査",
+      "saved": "2026-09-02-itren-cai-fa-kemuwowang-muwakenai-siyaa-nian-shou-ikurashang-kareha-guan-li-zhi-.md",
+      "ts": 1788306531
+    },
+    "824dbe27a568f31b56a6a5fc203996ddff72ab87ef77a901f4e1de1062457ebf": {
+      "link": "https://www.itmedia.co.jp/business/articles/2609/01/news080.html",
+      "title": "28卒の就職人気企業ランキング、文系1位は伊藤忠、理系1位は？",
+      "saved": "2026-09-02-28zu-nojiu-zhi-ren-qi-qi-ye-rankinku-wen-xi-1wei-hayi-teng-zhong-li-xi-1wei-ha.md",
+      "ts": 1788306531
+    },
+    "e8240cb928db4efce302ecd0ef5b0862de3492ead3cd51c144bd62934290dfec": {
+      "link": "https://www.itmedia.co.jp/business/articles/2609/02/news040.html",
+      "title": "食料品の消費税1％は「外食いじめ」になる？　「安くなるはず」が外食の賃上げ余力を奪うワケ",
+      "saved": "2026-09-02-shi-liao-pin-noxiao-fei-shui-1-ha-wai-shi-isime-ninaru-an-kunaruhasu-kawai-shi-n.md",
+      "ts": 1788306531
+    },
+    "8e0e4f5772ef3c890519a0c9c65c1a73b76c0a1cbc28741be6733d75ffa60e16": {
+      "link": "https://www.itmedia.co.jp/news/article/2609/02/2000001048/",
+      "title": "Anthropic、「Claude Fable 5.1」と「Claude Mythos 5.1」発表　「監視の難しさ」への懸念も開示",
+      "saved": "2026-09-02-anthropic-claude-fable-5-1-to-claude-mythos-5-1-fa-biao-jian-shi-nonan-sisa-heno.md",
+      "ts": 1788306531
+    },
+    "9811c7f9060e060083a855e1b130c5f31ec134a43773300018ab1ef7c3de0f85": {
+      "link": "https://www.itmedia.co.jp/business/articles/2609/02/news026.html",
+      "title": "「AI攻撃が怖い」でも実際の原因は別　中小企業の47％が経験したサイバー被害、本当の落とし穴",
+      "saved": "2026-09-02-aigong-ji-kabu-i-temoshi-ji-noyuan-yin-habie-zhong-xiao-qi-ye-no47-kajing-yan-si.md",
+      "ts": 1788306531
+    },
+    "a60fb486936f7ff341f9da5101af0bfb335764d1b76003e7a749b294c3266c24": {
+      "link": "https://www.itmedia.co.jp/business/articles/2609/02/news028.html",
+      "title": "アシックスはいかにして復活したか──「箱根駅伝着用ゼロ」の屈辱から売上高1兆円を叩き出した「選択と集中」",
+      "saved": "2026-09-02-asitukusuhaikanisitefu-huo-sitaka-xiang-gen-yi-chuan-zhao-yong-sero-noqu-ru-kara.md",
+      "ts": 1788306531
+    },
+    "66e03e243d4938be14eee14719101d4565e1e32e105e4fa086edfa03ec19455a": {
+      "link": "https://www.itmedia.co.jp/business/articles/2609/02/news011.html",
+      "title": "「何度も調べ直し」「毎回同じことで悩む」を解消　ChatGPTで“自分専用”のマニュアルを作る方法",
+      "saved": "2026-09-02-he-du-modiao-hezhi-si-mei-hui-tong-sikototenao-mu-wojie-xiao-chatgptte-zi-fen-zh.md",
+      "ts": 1788306531
+    },
+    "dd3061705bb59694c75ddd2e5094f5dc1c5d289c492f364e89db6f614a70424f": {
+      "link": "https://www.itmedia.co.jp/business/articles/2609/02/news016.html",
+      "title": "なぜ韓国は世界でヒットを連発し、日本は540億円を溶かしたのか　「クールジャパン」の誤算",
+      "saved": "2026-09-02-nasehan-guo-hashi-jie-tehitutowolian-fa-si-ri-ben-ha540yi-yuan-worong-kasitanoka.md",
+      "ts": 1788306531
+    },
+    "c5109c59c4d9029c18afc6e288a60a9ab2174e7ec6611f49fd3cb30bccbb4080": {
+      "link": "https://www.itmedia.co.jp/business/articles/2609/02/news022.html",
+      "title": "「会議中意識が飛ぶ」「判断が遅れる」──“寝ても眠い”社員たち　企業が把握すべき経済損失「年19.8兆円」のリスク",
+      "saved": "2026-09-02-hui-yi-zhong-yi-shi-kafei-hu-pan-duan-kachi-reru-qin-temomian-i-she-yuan-tati-qi.md",
+      "ts": 1788306531
+    },
+    "27b3a525964f1baca2b8f11ef919ab29efb920f581fc9b47fe29e2d2e3e28108": {
+      "link": "https://www.itmedia.co.jp/business/articles/2609/02/news030.html",
+      "title": "「ペット関連店」の利益が1年で半分以下に、なぜ？　巣ごもり需要で急成長した市場に異変",
+      "saved": "2026-09-02-hetutoguan-lian-dian-noli-yi-ka1nian-teban-fen-yi-xia-ni-nase-chao-komorixu-yao-.md",
+      "ts": 1788306531
+    },
+    "a8e064b25bc2213a762862ea0fbc2dff03cd890cfc21794fab393fffaed985b6": {
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB6QV8zaTdSUjZVYlFRZHhoZXFZM0hYbV9tQmFMd3BTTldrbTJiV2kxT21zUVhaeTY5VEJDdVBGR0lELXdhS3FTZUVWREJxSVJB?oc=5",
+      "title": "【分析】トランプ氏、「よかった、死んでうれしい」 故人に対する無神経発言は新たな境地に - CNN.co.jp",
+      "saved": "2026-03-23-fen-xi-toranhushi-yokatuta-si-nteuresii-gu-ren-nidui-suruwu-shen-jing-fa-yan-hax-6.md",
+      "ts": 1788306531
+    },
+    "a2996ae2a76f91e2675cb821a6338ff02556ffa421cd931d0fe824accab93ef2": {
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0RWI4LW9jVFhHWGVjNGxGUkNiMFFsYlg5N2wzNkpWNjdPVVN4VWRJSmhiV0FOaVhIVnRhMjRlTVYzSTNlZ3FXU1VoSHRXOG92ZGU0?oc=5",
+      "title": "欧州でまれな変異遺伝子持つ精子ドナーから197人の子ども、一部はすでに死亡 - CNN.co.jp",
+      "saved": "2025-12-11-ou-zhou-temarenabian-yi-yi-chuan-zi-chi-tujing-zi-tonakara197ren-nozi-tomo-yi-bu-4.md",
+      "ts": 1788306531
     }
   }
 }
