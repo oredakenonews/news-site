@@ -1,65 +1,5 @@
 {
   "done": {
-    "ddd0866b20e8973724dded22d4d15a89d4216804e26ce1fad2ff7199eb5bdf7a": {
-      "link": "https://www.itmedia.co.jp/business/articles/2608/19/news032.html",
-      "title": "1年分のAI予算をわずか数カ月で“使い倒した”米Uber　CTOが気付いた「脱・トークン浪費」の方法",
-      "saved": "2026-08-19-1nian-fen-noaiyu-suan-wowasukashu-kayue-te-shi-idao-sita-mi-uber-ctokaqi-fu-ita-.md",
-      "ts": 1787091721
-    },
-    "68b9fdebbb37b17b136bb2527f92f01cdfab0896b4d271fdad3bdabcf727d375": {
-      "link": "https://www.itmedia.co.jp/business/articles/2608/19/news021.html",
-      "title": "なぜメルカリの「AIフル活用広告」は成果が出たのか　\"質の低い広告枠\"に追いやられないための「2つのアクション」",
-      "saved": "2026-08-19-nasemerukarino-aihuruhuo-yong-guang-gao-hacheng-guo-kachu-tanoka-zhi-nodi-iguang.md",
-      "ts": 1787091721
-    },
-    "fd300ce20dcd8db117ac07cd450cd287c7930271e86240a1a84ad01b46646e85": {
-      "link": "https://www.itmedia.co.jp/business/articles/2608/19/news005.html",
-      "title": "企業がポッドキャストを始めるのは、なぜ？　じわじわ効く「声」の力",
-      "saved": "2026-08-19-qi-ye-kahotutokiyasutowoshi-merunoha-nase-siwasiwaxiao-ku-sheng-noli.md",
-      "ts": 1787091721
-    },
-    "d571961c7ecac3b4b9d0f6152822e94b172eca11f658310b83521f600b8a6003": {
-      "link": "https://www.itmedia.co.jp/business/articles/2608/19/news011.html",
-      "title": "「桃太郎空港」「すし空港」「コナン空港」……　なぜ“変な名前”の空港が増えている？　実際の効果は",
-      "saved": "2026-08-19-tao-tai-lang-kong-gang-susikong-gang-konankong-gang-nase-bian-naming-qian-nokong.md",
-      "ts": 1787091721
-    },
-    "522d690e661658082ee3e3c242b6c32124a4a73ac961f7b7d768c1715ef6890d": {
-      "link": "https://www.itmedia.co.jp/news/article/2608/18/2000000603/",
-      "title": "LINE Creditに業務改善命令、システム不備で貸金業法違反　一部顧客に過剰貸付けも　東京都",
-      "saved": "2026-08-18-line-creditniye-wu-gai-shan-ming-ling-sisutemubu-bei-tedai-jin-ye-fa-wei-fan-yi-.md",
-      "ts": 1787091721
-    },
-    "494e234ad0bcfa8004b7f1ed6b2094a6844ac26b1e4634b88505d37dc14602ef": {
-      "link": "https://www.itmedia.co.jp/business/articles/2608/18/news099.html",
-      "title": "「ご本人の許可なく」羽生結弦さんらの名前を無断使用　麻辣湯店が謝罪",
-      "saved": "2026-08-18-koben-ren-noxu-ke-naku-yu-sheng-jie-xian-sanranoming-qian-wowu-duan-shi-yong-ma-.md",
-      "ts": 1787091721
-    },
-    "e8b53a46fad4d4759a41b6f1ffd9f80b03988752ece431046af63b9380df6f30": {
-      "link": "https://www.itmedia.co.jp/business/articles/2608/18/news097.html",
-      "title": "「そごう横浜本店」に名称変更　19年ぶりの「本店」、横浜を中核店にする理由",
-      "saved": "2026-08-18-sokouheng-bang-ben-dian-niming-cheng-bian-geng-19nian-hurino-ben-dian-heng-bang-.md",
-      "ts": 1787091721
-    },
-    "0bea9bbd391dbabdd743fb3ec50119cd710570ecf29a0a7b62c5ada0552800ca": {
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxUURoMG56V0ZGNzd2U2preHVFbVNuZkRjU3ViaHg5NUZFN29YNWVwclhiQmxDQTBxdUJ0TFpoTTRHaDV2MFFSMFFGX3lIa3lE?oc=5",
-      "title": "マイクロソフト幹部、路上で銃殺 親権めぐる対立で元妻らが契約殺人(1/2) - cnn.co.jp",
-      "saved": "2026-08-18-maikurosohutogan-bu-lu-shang-techong-sha-qin-quan-mekurudui-li-teyuan-qi-rakaqi--2.md",
-      "ts": 1787091721
-    },
-    "647ec4e9e5f569e1ef8e8d01f3e439c4cb48edf96357b558a213046d183a340a": {
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NdGNsWUttUzk3bHJiSFVmQXNVWTZYSXBIY0JCSzF2VzRSaHU4NmhLdDRpTVN4cy1ncXYxZThVc05XblZmeUxVVFEtNzNrSFBuczhN?oc=5",
-      "title": "伊藤忠、イスラエル軍事企業との協力打ち切り - cnn.co.jp",
-      "saved": "2024-02-06-yi-teng-zhong-isuraerujun-shi-qi-ye-tonoxie-li-da-tiqie-ri-cnn-co-jp.md",
-      "ts": 1787091721
-    },
-    "816ce29788c184b4508979d8dbc07fbad483cc148a81a5e217d07fdfa940c54e": {
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9GMG1FWWdRQmQ5bmdlR052WFBGOERnTHFad2ZmQ1VMdktkRmRGOFZYVU51ZnNGWU14S2IzcU90S3ZBazBPUnFBYlFMdkRoSV9WWm5SbA?oc=5",
-      "title": "米空母３隻が岸壁にそろう「珍事」 米カリフォルニア州 - cnn.co.jp",
-      "saved": "2015-06-20-mi-kong-mu-3zhi-kaan-bi-nisorou-zhen-shi-mi-karihuoruniazhou-cnn-co-jp-2.md",
-      "ts": 1787091721
-    },
     "e006fa155ddca9226328f4ef1c18d6e5b827f4230c7d64a3742be3ab3b0f9b27": {
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5laFN5bFVWakc1aF9udmRCeTlxUGpZSWJSUW9HRzA5NmZnNC1kQmdHeDJoMVpHUEZOTTNOZ0F6OFpveDA4akFhQXh0YmlibTZGM3pSUVZxdDBGY3VOLWc?oc=5",
       "title": "英ユージェニー王女、第3子の名前を発表 今月3日に出産 - CNN.co.jp",
@@ -9227,6 +9167,102 @@
       "title": "人民解放軍を辞めたらこうなる――過酷な処分内容を公表 中国 - CNN.co.jp",
       "saved": "2019-12-17-ren-min-jie-fang-jun-woci-metarakounaru-guo-ku-nachu-fen-nei-rong-wogong-biao-zh-5.md",
       "ts": 1789650283
+    },
+    "74cb80efddcf2c6dd2ec9561e457fda5a6a5ff3859ce577a87a721485c18af40": {
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zVDhzYnlmdFlOQzQ1ZUxTSHByQXRmTmFGWHlLVG5xWV85VjRlNUZJY0c1dnE1ekEwSkNxT2ZkQS14XzQ0TkR5N19ueUJLOUhOSVNj?oc=5",
+      "title": "カナダとEUの連合、「より礼儀正しい」米国のライバル目指さず カーニー首相 - CNN.co.jp",
+      "saved": "2026-09-18-kanatatoeunolian-he-yorili-yi-zheng-sii-mi-guo-noraiharumu-zhi-sasu-kanishou-xia.md",
+      "ts": 1789689344
+    },
+    "b6fc955cd42fe91c715914a7c1502bdf7ddf1df1c186c4652a59742c3fd242a0": {
+      "link": "https://www.itmedia.co.jp/business/articles/2609/18/news027.html",
+      "title": "年間「12億件」の伝票を処理、三菱食品がAIで挑む「受発注改革」　メーカーと卸の“個別最適の壁”、打破する方法は？",
+      "saved": "2026-09-18-nian-jian-12yi-jian-nochuan-piao-wochu-li-san-ling-shi-pin-kaaitetiao-mu-shou-fa.md",
+      "ts": 1789689344
+    },
+    "4203ddeab92b459b8c52edb9e023b5294617dea955752858b1890392f1f63c0e": {
+      "link": "https://www.itmedia.co.jp/business/articles/2609/18/news021.html",
+      "title": "「AIなりすまし面接」が現実に　求められる「構造化面接」と採用リテラシー",
+      "saved": "2026-09-18-ainarisumasimian-jie-kaxian-shi-ni-qiu-merareru-gou-zao-hua-mian-jie-tocai-yong-.md",
+      "ts": 1789689344
+    },
+    "fef7548fa6d80610c866e0ae07af69b4379c115a10681eaef5f6886b90284c11": {
+      "link": "https://www.itmedia.co.jp/business/articles/2609/18/news033.html",
+      "title": "マツダ「29歳元ゲームプログラマー」が挑んだ新型CX-5開発 『頭文字D』が好き――異色の若手エース、仕事術と憧れ",
+      "saved": "2026-09-18-matuta-29sui-yuan-kemuhurokurama-katiao-ntaxin-xing-cx-5kai-fa-tou-wen-zi-d-kaha.md",
+      "ts": 1789689344
+    },
+    "0c9e14e381985fd984234467bab733cecd1a029ec541319d5855ba6c307f9762": {
+      "link": "https://www.itmedia.co.jp/business/articles/2609/18/news018.html",
+      "title": "街に広がるマイクロモビリティ、何が問題なのか？　日本に合う「新しい足」を考える",
+      "saved": "2026-09-18-jie-niguang-karumaikuromohiritei-he-kawen-ti-nanoka-ri-ben-nihe-u-xin-siizu-woka.md",
+      "ts": 1789689344
+    },
+    "fccd48ae4862994e2b0b89c8bc69a5a2bee89dbee5a4132351e9cae93470325a": {
+      "link": "https://www.itmedia.co.jp/news/article/2609/18/2000001600/",
+      "title": "英チャールズ国王、AI大手トップらに「実存的な危険」を警告　NVIDIAやOpenAI、Anthropicが参加",
+      "saved": "2026-09-18-ying-tiyarusuguo-wang-aida-shou-totuhurani-shi-cun-de-nawei-xian-wojing-gao-nvid.md",
+      "ts": 1789689344
+    },
+    "07dce623d6001e15ef0bd1f856d082ae155fd54f69b940ba866a3a0b22326c37": {
+      "link": "https://www.itmedia.co.jp/news/article/2609/18/2000001484/",
+      "title": "経営「AIでラクして早く帰って」→社員「帰らない」　工数最大9割減のDeNAも悩むAI効率化の壁",
+      "saved": "2026-09-18-jing-ying-aiterakusitezao-kugui-tute-she-yuan-gui-ranai-gong-shu-zui-da-9ge-jian.md",
+      "ts": 1789689344
+    },
+    "2a99ef085ac1fedce6036155c0061bcc2602a6450da04a38a0f9b08afdeb3363": {
+      "link": "https://www.itmedia.co.jp/business/articles/2609/18/news053.html",
+      "title": "「サムスンが消えた」独IT見本市IFA　家電王国・日本の消滅と、中国“独り勝ち”の地殻変動",
+      "saved": "2026-09-18-samusunkaxiao-eta-du-itjian-ben-shi-ifa-jia-dian-wang-guo-ri-ben-noxiao-mie-to-z.md",
+      "ts": 1789689344
+    },
+    "2678d8a7d2b4791749bd898d6795b33dfd17e0feb3fa5cf555e5551a64d5aba2": {
+      "link": "https://www.itmedia.co.jp/business/articles/2609/18/news045.html",
+      "title": "「1泊10万円」の豪華客船、“リタイア層”ではなく“現役世代”を狙うワケ――商船三井クルーズ、新船「サクラ」の勝算",
+      "saved": "2026-09-18-1bo-10mo-yuan-nohao-hua-ke-chuan-ritaiaceng-tehanaku-xian-yi-shi-dai-woju-uwake-.md",
+      "ts": 1789689344
+    },
+    "c0a7c6be073f8c5a1fe81aa426b9bc687b7a69c2961cfc3d38fe12c1441f537c": {
+      "link": "https://www.itmedia.co.jp/business/articles/2609/18/news056.html",
+      "title": "セガ内海社長「ゲームは今や文化」　新規IP創出、ファンとの接点をどう広げる？",
+      "saved": "2026-09-18-sekanei-hai-she-chang-kemuhajin-yawen-hua-xin-gui-ipchuang-chu-huantonojie-dian-.md",
+      "ts": 1789689344
+    },
+    "bf2b02eaf434e2c78a7c6004c1327fcc6490aec6f8f040d687f711a2c18ccfe6": {
+      "link": "https://www.itmedia.co.jp/business/articles/2609/18/news008.html",
+      "title": "ツインバードとバルミューダ、なぜ伸び悩む？　「高くても売れる」家電の難しさ",
+      "saved": "2026-09-18-tuinhatotoharumiyuta-naseshen-hinao-mu-gao-kutemomai-reru-jia-dian-nonan-sisa.md",
+      "ts": 1789689344
+    },
+    "4ad750c74c7d9bbb155ece1ab3d80ac9a4c35cc5edc9ca529415e563f75837dc": {
+      "link": "https://www.itmedia.co.jp/business/articles/2609/18/news024.html",
+      "title": "設備点検「目視で10日→AIでほぼ即時」　アナログ現場のAI導入、日立流の実装メソッドにヒントあり",
+      "saved": "2026-09-18-she-bei-dian-jian-mu-shi-te10ri-aitehohoji-shi-anarokuxian-chang-noaidao-ru-ri-l.md",
+      "ts": 1789689344
+    },
+    "d648f712cd0978a000829f3bde31ab9007004a7512113f5e217e11a4bf0d4d49": {
+      "link": "https://www.itmedia.co.jp/news/article/2609/18/2000001599/",
+      "title": "NVIDIA、Google、Emerald AIがAIデータセンターの電力消費調整を目指すアライアンス設立　Anthropicも参加",
+      "saved": "2026-09-18-nvidia-google-emerald-aikaaitetasentanodian-li-xiao-fei-diao-zheng-womu-zhi-suar.md",
+      "ts": 1789689344
+    },
+    "a56bc19dbe5105a4cb2efa7b5e90888b552b8ef7c3a82c0cff0971c0e1327bed": {
+      "link": "https://www.itmedia.co.jp/business/articles/2609/18/news029.html",
+      "title": "関空から京都まで25分、料金2万円　Space Aviationがヘリ移動便を開始",
+      "saved": "2026-09-18-guan-kong-karajing-du-mate25fen-liao-jin-2mo-yuan-space-aviationkaheriyi-dong-bi.md",
+      "ts": 1789689344
+    },
+    "f9fb0fd9e37b2d171db10dbd97695dedc217dc2be7c71af3df756b3c21abc616": {
+      "link": "https://www.itmedia.co.jp/business/articles/2609/18/news013.html",
+      "title": "ファミマ、アルバイト採用で「Web・録画面接」を導入　夜型の人も、子育て中も面接しやすく",
+      "saved": "2026-09-18-huamima-aruhaitocai-yong-te-weblu-hua-mian-jie-wodao-ru-ye-xing-noren-mo-zi-yu-t.md",
+      "ts": 1789689344
+    },
+    "5139c3014319623e2c4b81d44197668ee1b478a1d4a6f70f32ed4b5e3afdaf40": {
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hUVdMSlp1S21EMm1oa0c0WXNVOWhNNVVhWFdDSkJvRHI0UHlVMFgxN0pjTXExQXI3TDNPQ2dsRzVETnRLTTA0LXZZcVI4UGdoOHVwSg?oc=5",
+      "title": "トランプ米大統領を乗せたエアフォースワン（大統領専用機）を護衛するサウジアラビア空軍のF15SA戦闘機 - CNN.co.jp",
+      "saved": "2026-09-17-toranhumi-da-tong-ling-wocheng-setaeahuosuwan-da-tong-ling-zhuan-yong-ji-wohu-we.md",
+      "ts": 1789689344
     }
   }
 }
