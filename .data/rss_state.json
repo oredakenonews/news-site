@@ -1,53 +1,5 @@
 {
   "done": {
-    "96901f3b6b6af6370afd4d9866a94bb7703e3ecc6ad74b3cbcdc081bd2a0e683": {
-      "link": "https://www.itmedia.co.jp/news/article/2608/18/2000000572/",
-      "title": "NVIDIA、OpenAIのオハイオAIデータセンターに最大1050億ドルの債務保証──SB Energyと提携",
-      "saved": "2026-08-18-nvidia-openainoohaioaitetasentanizui-da-1050yi-torunozhai-wu-bao-zheng-sb-energy.md",
-      "ts": 1787005402
-    },
-    "fc5573bed875f15a56a10a26fe447ca25c60d51076729a3b336cdad2084c755e": {
-      "link": "https://www.itmedia.co.jp/business/articles/2608/18/news033.html",
-      "title": "【無料PDF】リピート率「94％」なのに「口コミ」が増えない　ドモホルンリンクルは“沈黙するファン”をどう動かした？【おすすめ事例3選】",
-      "saved": "2026-08-18-wu-liao-pdf-rihitolu-94-nanoni-kou-komi-kazeng-enai-tomohorunrinkuruha-chen-mo-s.md",
-      "ts": 1787005402
-    },
-    "c2399ce648ae3f938ec1b3362336c0d6dac4ef18e9dcd32d69d33d5ab752665e": {
-      "link": "https://www.itmedia.co.jp/business/articles/2608/18/news024.html",
-      "title": "「スーパー化」が進むドラッグストア　食品を強化してウエルシアはどうなった？",
-      "saved": "2026-08-18-suhahua-kajin-mutoratukusutoa-shi-pin-woqiang-hua-siteuerusiahatounatuta.md",
-      "ts": 1787005402
-    },
-    "101c63bcba330075fc4bc4895dd945ecfec43badcfe27f6b25ead4a5c72fa69e": {
-      "link": "https://www.itmedia.co.jp/business/articles/2608/18/news035.html",
-      "title": "正社員不足、企業の5割超　最も人手が足りない業種は？",
-      "saved": "2026-08-18-zheng-she-yuan-bu-zu-qi-ye-no5ge-chao-zui-moren-shou-kazu-rinaiye-zhong-ha.md",
-      "ts": 1787005402
-    },
-    "a50e3cf9aabc7dda6a445c31b61d3204523007e467fb9daea3392b4d95bc6e8c": {
-      "link": "https://www.itmedia.co.jp/business/articles/2608/18/news019.html",
-      "title": "トヨタの「サブスク」は購入より100万円安い？　“若者の車離れ”を阻止できるか",
-      "saved": "2026-08-18-toyotano-sahusuku-hagou-ru-yori100mo-yuan-an-i-ruo-zhe-noche-li-re-wozu-zhi-teki.md",
-      "ts": 1787005402
-    },
-    "84217f3d67cfefd903f92ace0ca368885f959758a21ca9fc2757d99365971346": {
-      "link": "https://www.itmedia.co.jp/business/articles/2608/18/news047.html",
-      "title": "パズル雑誌「ナンプレ広場」出版社が破産開始、理由は？",
-      "saved": "2026-08-18-hasuruza-zhi-nanhureguang-chang-chu-ban-she-kapo-chan-kai-shi-li-you-ha.md",
-      "ts": 1787005402
-    },
-    "23bf5e804a9dd374f12dd456052e671857e043cb822f27f76dbd68c6b0a307cb": {
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFByX3JoRnJ0bUpSVUNxRXQ5bzVLWTRNLVJnaHJUbTh1Rm9Yc0JIZkFjeDR3UDhUZGM4RmpNUGJLQ3pvVDdfNzV4eFc0dVFrcG5BNWZZbA?oc=5",
-      "title": "「世界一醜い犬」コンテスト、6歳のパグが優勝 - CNN.co.jp",
-      "saved": "2026-08-17-shi-jie-yi-chou-iquan-kontesuto-6sui-nohakukayou-sheng-cnn-co-jp-2.md",
-      "ts": 1787005402
-    },
-    "b3ccf09d3de9352bb021199f48c87b077ada1221cb59e1d16960887e21dc72ec": {
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wVWcwejFHdEtTMlVtUlctUkdtTEU5YzNURGN0UFhpU1ZjRE5lVzZiS0xfZHZWYlQ0dVlVX0dydWo0bFhoeUdIVnBhVEYyaVBfVjhrMkM3d3hXX28wVFNBUTVlZW1YQk9SbHc?oc=5",
-      "title": "米巨大ダムの水位が史上最低を記録、発電も放流も不可能になる「未踏の領域」迫る - CNN.co.jp",
-      "saved": "2026-08-17-mi-ju-da-tamunoshui-wei-kashi-shang-zui-di-woji-lu-fa-dian-mofang-liu-mobu-ke-ne-5.md",
-      "ts": 1787005402
-    },
     "1cdd18217699980e155c20a556d561f3a1608a2e0833da368f4bb0c187907cc2": {
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1weUNDeFBZVkJvR0ZvUEhpOFRFZDNReHdqMzV0QzdONmtzTWFZUEQtSUEtUEE4dm9IODJIRTljdE9ZZl82RnVUdjJMZlZJYXNNNld4TG9B?oc=5",
       "title": "36歳で死去の女優ヘイデン・パネッティーアさん、心肺停止で緊急通報 外傷なし - CNN.co.jp",
@@ -9185,6 +9137,108 @@
       "title": "縮小止まらず死にゆく「死海」、救う手立ても定まらず(1/2) - CNN.co.jp",
       "saved": "2026-08-15-suo-xiao-zhi-marasusi-niyuku-si-hai-jiu-ushou-li-temoding-marasu-1-2-cnn-co-jp-2.md",
       "ts": 1789556152
+    },
+    "d0ac878295ef75c9a9418a3c27dd58b1460bc385e287e5dad02ee79021b1d875": {
+      "link": "https://www.itmedia.co.jp/news/article/2609/17/2000001567/",
+      "title": "ムラウチドットコムから顧客情報約771万件の漏えい　氏名や住所、電話番号など",
+      "saved": "2026-09-17-murautitotutokomukaragu-ke-qing-bao-yue-771mo-jian-nolou-ei-shi-ming-yazhu-suo-d.md",
+      "ts": 1789603705
+    },
+    "c159ad2009ac021acb35481eaace52f40d09fd6fc97b8e4240bd255046499439": {
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9WUHlid0VoMjdmYUVZWDUzcTM0QVV3WFBzR05XSTZYRjR0Tkt5RmpZcXVuTlk5cEtqc2JqaGVVNF9kQWtqYURlb1I5MEJMNnF0cERGUDR1TQ?oc=5",
+      "title": "FRB、2023年7月以来初の利上げ 物価上昇の拡大防ぐため - CNN.co.jp",
+      "saved": "2026-09-17-frb-2023nian-7yue-yi-lai-chu-noli-shang-ke-wu-jia-shang-sheng-nokuo-da-fang-kuta.md",
+      "ts": 1789603705
+    },
+    "32714bbef1c162b9d4b1e0a5743f11ee66a992375b2b890bab382e454f285ae2": {
+      "link": "https://www.itmedia.co.jp/news/article/2609/17/2000001564/",
+      "title": "レベルファイブ、AI疑惑に回答　新「妖怪ウォッチ」の“不自然な電線”は手描き、一部は人的ミス……修正版公開へ",
+      "saved": "2026-09-17-reheruhuaihu-aiyi-huo-nihui-da-xin-yao-guai-uotuti-no-bu-zi-ran-nadian-xian-hash.md",
+      "ts": 1789603705
+    },
+    "ee61b4ffcbe7e71a44b2b4150803582a00442ab1a5c03e0ddca632e3b50175b0": {
+      "link": "https://www.itmedia.co.jp/news/article/2609/17/2000001566/",
+      "title": "日本経済新聞、広告冊子の部数水増し　2社に数千万円過大請求",
+      "saved": "2026-09-17-ri-ben-jing-ji-xin-wen-guang-gao-ce-zi-nobu-shu-shui-zeng-si-2she-nishu-qian-mo-.md",
+      "ts": 1789603705
+    },
+    "1d8a808de58a7036d085b7d1719342be175fc72670c7eba76b12ef9181946709": {
+      "link": "https://www.itmedia.co.jp/news/article/2609/17/2000001565/",
+      "title": "Anthropic、Claudeの「チャット」と「Cowork」を統合　資料作成の「Docs」「Slides」も",
+      "saved": "2026-09-17-anthropic-claudeno-tiyatuto-to-cowork-wotong-he-zi-liao-zuo-cheng-no-docs-slides.md",
+      "ts": 1789603705
+    },
+    "d740d285611914d4fa1549570974319ab07fff3f705db014c8590e6c43f5f230": {
+      "link": "https://www.itmedia.co.jp/business/articles/2609/17/news035.html",
+      "title": "千代田区、生成AI全庁展開で「年間4000時間」を削減　次の一歩は「打倒・美しい紙の資料」、そのワケは？",
+      "saved": "2026-09-17-qian-dai-tian-qu-sheng-cheng-aiquan-ting-zhan-kai-te-nian-jian-4000shi-jian-woxu.md",
+      "ts": 1789603705
+    },
+    "1a103c81f2d1919576cff97d3b76b0090aa299d5f52bf76504a0be953c12d1db": {
+      "link": "https://www.itmedia.co.jp/news/article/2609/17/2000001537/",
+      "title": "“良い上司”ほど、部下の労働はラクになる？　上司の質が及ぼす影響、2万人超から分析　ロンドン大",
+      "saved": "2026-09-17-liang-ishang-si-hoto-bu-xia-nolao-dong-harakuninaru-shang-si-nozhi-kaji-hosuying.md",
+      "ts": 1789603705
+    },
+    "6d0d282824c3e91be13d695a72aa14942d2e0b407791bac32fc2b53099d55902": {
+      "link": "https://www.itmedia.co.jp/news/article/2609/17/2000001533/",
+      "title": "次のパンデミックでワクチンを打ちますか？　日本人2万人以上を調査　東大などNature系列誌で発表",
+      "saved": "2026-09-17-ci-nohantemitukutewakutinwoda-timasuka-ri-ben-ren-2mo-ren-yi-shang-wodiao-cha-do.md",
+      "ts": 1789603705
+    },
+    "d0d985b7c5e4b510b02d5a6e682dab26d3d0747f5eedbad05215e44ae351fed3": {
+      "link": "https://www.itmedia.co.jp/business/articles/2609/17/news009.html",
+      "title": "「こんな仕事だとは思わなかった」　早期離職者の44％が「悪い情報も聞きたかった」　“良く見せる採用”の落とし穴",
+      "saved": "2026-09-17-konnashi-shi-tatohasi-wanakatuta-zao-qi-li-zhi-zhe-no44-ka-e-iqing-bao-mowen-kit.md",
+      "ts": 1789603705
+    },
+    "c3ed976ce71d004c19a9885e505bda3dddb08b279e95e5680c546f6cda95dc63": {
+      "link": "https://www.itmedia.co.jp/business/articles/2609/17/news052.html",
+      "title": "データセンター増設ラッシュで「東京1つ分の電力」が必要に　間に合わぬインフラ整備、東電の“奇策”は",
+      "saved": "2026-09-17-tetasentazeng-she-ratusiyute-dong-jing-1tufen-nodian-li-kabi-yao-ni-jian-nihe-wa.md",
+      "ts": 1789603705
+    },
+    "558cf0ed13cb9025fc12c1c3fbe4658fc00963abc999dfa8603d3761ab464578": {
+      "link": "https://www.itmedia.co.jp/news/article/2609/16/2000001559/",
+      "title": "「NTT」名乗る電話、転送先は“警察”――巧妙化するニセ警察詐欺、約4割が「本物だと思った」",
+      "saved": "2026-09-16-ntt-ming-cheng-rudian-hua-zhuan-song-xian-ha-jing-cha-qiao-miao-hua-surunisejing.md",
+      "ts": 1789603705
+    },
+    "d5afd938361e9f48a1e52dd445c0639985a301208d0164663828d923d8812b69": {
+      "link": "https://www.itmedia.co.jp/news/article/2609/16/2000001562/",
+      "title": "Salesforceで大規模障害　「夕方以降に落ちるなんて」阿鼻叫喚　PayPayのフォームにも影響",
+      "saved": "2026-09-16-salesforceteda-gui-mo-zhang-hai-xi-fang-yi-jiang-niluo-tirunante-a-bi-jiao-huan-.md",
+      "ts": 1789603705
+    },
+    "af9ed3814295713e3d82f74e1793f5554daf30c15a800aa160a02b6ba85c5ebe": {
+      "link": "https://www.itmedia.co.jp/news/article/2609/16/2000001560/",
+      "title": "Gyazoに不正アクセス　ユーザー情報約2362万件、画像メタデータ約4.9億件が流出",
+      "saved": "2026-09-16-gyazonibu-zheng-akusesu-yusaqing-bao-yue-2362mo-jian-hua-xiang-metatetayue-4-9yi.md",
+      "ts": 1789603705
+    },
+    "1a49b072335648e99df68c0709da6269ba978a0cf818467cd343e1be2f8946d5": {
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GX0VBeXFjTGtreHFnVTRucFo5b3FwOFRWYl93V1hERVFsWHo0QzI3alh0UzNHNXJLRnlxNFcyTWpoX0Q0di1hUEFwUm1BZnMzdUpKYw?oc=5",
+      "title": "移動式診療所が無料のHIV検査を提供する様子＝3月19日、フィジー/AFP/Getty Images - CNN.co.jp",
+      "saved": "2026-09-16-yi-dong-shi-zhen-liao-suo-kawu-liao-nohivjian-cha-woti-gong-suruyang-zi-3yue-19r.md",
+      "ts": 1789603705
+    },
+    "044dddc6ddd6b630e145405bf4688e6ea6375163a6441627efc3a63e69a6cac1": {
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLSlNfb1FSR1J1VjBfY0ZvSXZSVUpFeDNRb3ptcm0zZ1VYbDFfaElfS2lkWERORmVlWmktWlVVYjBQRC0ybFUyRUFnTTFkZDhMUEpRZg?oc=5",
+      "title": "イラン当局が、撃墜されたF15E戦闘機の救出任務中に墜落したとしていた米軍ヘリの残骸＝4月15日 - CNN.co.jp",
+      "saved": "2026-09-14-irandang-ju-ka-ji-zhui-saretaf15ezhan-dou-ji-nojiu-chu-ren-wu-zhong-nizhui-luo-s.md",
+      "ts": 1789603705
+    },
+    "cb75107416f210fb83f18950bd814dd14be9a471f9356f6e81ec99a69ad5ed6a": {
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSTG1ac0paa1hmdy0tNkUzSG16YWd2dDhoLTFzVTh2YURUbUNUTmJTczVwQnpDaTVmWHc3RlBFM2ktM2VyY0w5Z25IbTJXVE9iNFVF?oc=5",
+      "title": "橋から宙づりの遺体６体発見 メキシコ・リゾート地付近(1/2) - CNN.co.jp",
+      "saved": "2017-12-23-qiao-karazhou-turinoyi-ti-6ti-fa-jian-mekisikorisotodi-fu-jin-1-2-cnn-co-jp-2.md",
+      "ts": 1789603705
+    },
+    "92f97ce89e0741f2899d02128c682848a38c144ab723a88c24231ce2d5176a06": {
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsT0ZyWFlMUlVYRktQTVBmOEkybjBFcE5DX0w5NTF5alVBNUJTRG1nWkxCMXZIWWR2QlRNWkFHbzhpN2VnQXdfcktleUNVUTFCOVhB?oc=5",
+      "title": "英ヘンリー王子、エイズ偏見解消願い「秘密」告白(1/2) - CNN.co.jp",
+      "saved": "2014-12-02-ying-henriwang-zi-eisupian-jian-jie-xiao-yuan-i-mi-mi-gao-bai-1-2-cnn-co-jp.md",
+      "ts": 1789603705
     }
   }
 }
