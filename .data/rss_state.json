@@ -1,83 +1,5 @@
 {
   "done": {
-    "44d2fea9bdc22d5265ea2fb1f57e8a8d911f214ea1be4850b935b445e38db833": {
-      "link": "https://www.itmedia.co.jp/news/article/2609/09/2000001297/",
-      "title": "“地下神殿”への濁流動画をダウンロード公開　Xでの反響受け……「首都圏外郭放水路」に称賛",
-      "saved": "2026-09-09-di-xia-shen-dian-henozhuo-liu-dong-hua-wotaunrotogong-kai-xtenofan-xiang-shou-ke.md",
-      "ts": 1788911505
-    },
-    "d3f50e0cc6d901166133e2ef7ff822365481fb475551d2c09b2fad01b9fb7779": {
-      "link": "https://www.itmedia.co.jp/news/article/2609/09/2000001296/",
-      "title": "Google DeepMind、90億通りの全塩基変異の影響を予測した「AlphaGenome Atlas」　学術向けに無償提供",
-      "saved": "2026-09-09-google-deepmind-90yi-tong-rinoquan-yan-ji-bian-yi-noying-xiang-woyu-ce-sita-alph.md",
-      "ts": 1788911505
-    },
-    "529e51210c8900024edfcfc3e7a6c427c201852d339aac06c5ef731094651368": {
-      "link": "https://www.itmedia.co.jp/news/article/2609/09/2000001295/",
-      "title": "名古屋豪雨、冠水した道は今通れる？　トヨタ「通れた道マップ」で確認を",
-      "saved": "2026-09-09-ming-gu-wu-hao-yu-guan-shui-sitadao-hajin-tong-reru-toyota-tong-retadao-matuhu-t.md",
-      "ts": 1788911505
-    },
-    "f7619cbeab52e2a61b04da72afc4ee170be88839234918ee7540a2b0966b3c87": {
-      "link": "https://www.itmedia.co.jp/news/article/2609/09/2000001253/",
-      "title": "ネコはなぜ箱に入りたがるのか？　ただ“狭い所好き”なだけではなかった　オランダ研究チームが2014年に調査",
-      "saved": "2026-09-09-nekohanasexiang-niru-ritakarunoka-tata-xia-isuo-hao-ki-nataketehanakatuta-oranta.md",
-      "ts": 1788911505
-    },
-    "ce6ffb496734bfed56db1aa056b2215f14a8812df66358fb863447f63e61c64e": {
-      "link": "https://www.itmedia.co.jp/business/articles/2609/09/news024.html",
-      "title": "退職は“裏切り”か？　自治体は「辞める職員を育てよ」AI時代の人材戦略",
-      "saved": "2026-09-09-tui-zhi-ha-li-qie-ri-ka-zi-zhi-ti-ha-ci-meruzhi-yuan-woyu-teyo-aishi-dai-noren-c.md",
-      "ts": 1788911505
-    },
-    "bcccdf210a95a4e955e1a6a93415a69e79cf7665a74125faf3d153c25f29fff5": {
-      "link": "https://www.itmedia.co.jp/business/articles/2609/09/news039.html",
-      "title": "支払いは「顔パス」「スマホ不要」　NECらが挑む「決済3秒・レジ待ちゼロ」の買い物体験",
-      "saved": "2026-09-09-zhi-fu-iha-yan-hasu-sumahobu-yao-necrakatiao-mu-jue-ji-3miao-residai-tisero-noma.md",
-      "ts": 1788911505
-    },
-    "eaab796edae4267fec67056e51908982549da881723d33ada8b14b436fae614e": {
-      "link": "https://www.itmedia.co.jp/business/articles/2609/09/news045.html",
-      "title": "富士通「量子コンピュータ」試作機を披露　見通せぬ実用性、ライバル撤退――それでも挑み続ける理由",
-      "saved": "2026-09-09-fu-shi-tong-liang-zi-konhiyuta-shi-zuo-ji-wopi-lu-jian-tong-senushi-yong-xing-ra.md",
-      "ts": 1788911505
-    },
-    "9a6a6e3041cbbff4638e7745581e7877c75bd4afe7745e70216fc0f1654acc87": {
-      "link": "https://www.itmedia.co.jp/news/article/2609/09/2000001294/",
-      "title": "Meta、パーソナルAIエージェント「Muse」発表　メール送信や買い物も代行（まずは米国で無料提供開始）",
-      "saved": "2026-09-09-meta-hasonaruaiesiento-muse-fa-biao-merusong-xin-yamai-iwu-modai-xing-masuhami-g.md",
-      "ts": 1788911505
-    },
-    "70ac8dd5b6b64dca6eb21d333f53859619c5ea928c1f37f548e8c6c4f3129ddf": {
-      "link": "https://www.itmedia.co.jp/business/articles/2609/09/news021.html",
-      "title": "くら寿司はなぜ「ちいかわ」に頼るのか　景品横領で見えた“コラボ依存”の落とし穴",
-      "saved": "2026-09-09-kurashou-si-hanase-tiikawa-nilai-runoka-jing-pin-heng-ling-tejian-eta-korahoyi-c.md",
-      "ts": 1788911505
-    },
-    "2cae4d52a4a2ff1cf0a589b46c42d313c9f4e20c52eebe50cc085174e4c8c176": {
-      "link": "https://www.itmedia.co.jp/business/articles/2609/09/news009.html",
-      "title": "「AIに買い物を任せる時代」到来？　でも、小売企業は「AIに選ばれるだけ」では生き残れない、これだけの理由",
-      "saved": "2026-09-09-ainimai-iwu-woren-serushi-dai-dao-lai-temo-xiao-mai-qi-ye-ha-ainixuan-harerutake.md",
-      "ts": 1788911505
-    },
-    "a9b042207cd4e294b079640fed171ff3ad804e662ca9992df8469dc4b5ceaa7e": {
-      "link": "https://www.itmedia.co.jp/business/articles/2609/09/news010.html",
-      "title": "ワークマン「不審者パーカー」がヒット　2026年は12万点販売、人気の背景は？",
-      "saved": "2026-09-09-wakuman-bu-shen-zhe-haka-kahituto-2026nian-ha12mo-dian-fan-mai-ren-qi-nobei-jing.md",
-      "ts": 1788911505
-    },
-    "c76088cd98570504a2107b670b158bbc819b89834f2d1940638f9576a71526d3": {
-      "link": "https://www.itmedia.co.jp/business/articles/2609/09/news040.html",
-      "title": "ワークマン、リカバリーウェアの「スーツ」発売　利用シーンを拡大、初年度売り上げ23億円目指す",
-      "saved": "2026-09-09-wakuman-rikahariueano-sutu-fa-mai-li-yong-sinwokuo-da-chu-nian-du-mai-rishang-ke.md",
-      "ts": 1788911505
-    },
-    "493fbb7ca2087f7421bf78ecc3731381e7cd00e9883831612b70d841d4978b26": {
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9TZ0dUcUcxc3AxcTBxd3NFQmoxbS10N2JycDgwQnY1S2NVSmhoTXF5c2YxVER0QzFMQnFubUJYMkNTQ2pGd2tGUGtCekg0cGN5MDJZ?oc=5",
-      "title": "戦争の代償、ロシアが「耐えられないものに」 仏首相 - CNN.co.jp",
-      "saved": "2022-10-04-zhan-zheng-nodai-chang-rosiaka-nai-erarenaimononi-fo-shou-xiang-cnn-co-jp-3.md",
-      "ts": 1788911505
-    },
     "e49ca472e6c56b6992b44e5be2e93439e7a4a17fb718800ea6481c4ffbffc59e": {
       "link": "https://www.itmedia.co.jp/news/article/2609/09/2000001304/",
       "title": "PENTAX、現行の「Kシリーズ」終了、K100Dから20年……「新コンセプトの一眼レフ」開発中",
@@ -8735,6 +8657,156 @@
       "title": "SBI証券、Google・Appleパスキー乗っ取り被害「確認されていない」　注意喚起は他社事案",
       "saved": "2026-10-08-sbizheng-quan-googleapplehasukicheng-tuqu-ribei-hai-que-ren-sareteinai-zhu-yi-hu.md",
       "ts": 1791479580
+    },
+    "464ce12268e00eb26b6ce205226267882679e93a3bc407e2b2cc2d2b17f27706": {
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1PWXlFZ2JFeFBhS2l1dUVXRE5DNDMyZVFWdVFBXzN5U3c1V0hQWEF5ZXluc2dnam0tTEthVUhNM3RmbnIyV0lOU2NKdlNSeEFa?oc=5",
+      "title": "NY市内でICE執行官が発砲 男性が負傷、車内の5歳児は無事 - CNN.jp",
+      "saved": "2026-10-09-nyshi-nei-teicezhi-xing-guan-kafa-pao-nan-xing-kafu-shang-che-nei-no5sui-er-hawu.md",
+      "ts": 1791510322
+    },
+    "de35addc4bc2cfbff0ade13f3ebf60d07d6c06d9060b998a69c8dd4900f69278": {
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBocXhPamU0eXZIZFpkeXZKQlV1TU11MzF4Q3VIZUhoQlQ0eDc3OGpDWm93TGxoUDB2YW0taXliUDREVzBCZ1ZSQ2ktYl9Sb0k?oc=5",
+      "title": "ICE執行官が発砲、現場の様子 - CNN.jp",
+      "saved": "2026-10-09-icezhi-xing-guan-kafa-pao-xian-chang-noyang-zi-cnn-jp.md",
+      "ts": 1791510322
+    },
+    "985634d8f9f88c90255cdf762c666215992751f328624c7d644293598f6432ff": {
+      "link": "https://www.itmedia.co.jp/news/article/2610/09/2000002155/",
+      "title": "Amazon、「Fire」に代わる新タブレット「Amazon Alexa Tablet」発表　「Amazonキッズタブレット」は日本でも発売へ",
+      "saved": "2026-10-09-amazon-fire-nidai-waruxin-tahuretuto-amazon-alexa-tablet-fa-biao-amazonkitusutah.md",
+      "ts": 1791510322
+    },
+    "32d2529cd379363c1f8160dfedef0fb8ad40b393afa92a94fc94d162814830be": {
+      "link": "https://www.itmedia.co.jp/news/article/2610/09/2000002154/",
+      "title": "ビッグエコー会員ら872万件の個人情報漏えいか　第一興商、委託先PCがマルウェア感染",
+      "saved": "2026-10-09-hitukuekohui-yuan-ra872mo-jian-noge-ren-qing-bao-lou-eika-di-yi-xing-shang-wei-t.md",
+      "ts": 1791510322
+    },
+    "b129815d7b1cc6f0afbf9ca4d261105edb298efd6879d452c6f326099fb65219": {
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFVkJRVUFpeTBiQ0tzTHBjRDhDa0YwVGlHLU4zTVRZSmVEdk80elJZMmV1bDkxZFRjZkZDVWlnd2EyOWM2ZC11bUJULTdMUVJ2?oc=5",
+      "title": "ベネズエラ前大統領夫妻、米国人拷問の疑いで追起訴 - CNN.jp",
+      "saved": "2026-10-09-henesueraqian-da-tong-ling-fu-qi-mi-guo-ren-kao-wen-noyi-itezhui-qi-su-cnn-jp.md",
+      "ts": 1791510322
+    },
+    "3854597cb7353cbe9d9e770e098e872a3cf763aad3d3f9e6843192bad324e637": {
+      "link": "https://www.itmedia.co.jp/news/article/2610/09/2000002153/",
+      "title": "NewsPicksユーザーの個人情報漏えいか　勤務先やカード番号下4桁も……管理ツールに不正アクセス",
+      "saved": "2026-10-09-newspicksyusanoge-ren-qing-bao-lou-eika-qin-wu-xian-yakatofan-hao-xia-4hang-mo-g.md",
+      "ts": 1791510322
+    },
+    "da252282792a1a1b4948f3726520d14b38ce16f130484807563b9b4a485574d1": {
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Ta0RXbmVfVzV5dGVhbkgzeS0zYzVRczJUVHV0MWFuXy03MHpFdGUxNUluUnI3Skw2X3ZZVnhlT1RhbjBjQmhQejJCYlVKVDBu?oc=5",
+      "title": "第2次大戦以来の銃殺刑をライブ配信へ、米国防長官が「公開」表明 - CNN.jp",
+      "saved": "2026-10-09-di-2ci-da-zhan-yi-lai-nochong-sha-xing-woraihupei-xin-he-mi-guo-fang-chang-guan-.md",
+      "ts": 1791510322
+    },
+    "db3d9bad9ab71a338e1acf393247fb83607d787f682d1365a82f69413ae6b7d7": {
+      "link": "https://www.itmedia.co.jp/news/article/2610/09/2000002150/",
+      "title": "ブックオフに不正アクセス、最大約643万件の個人情報流出　氏名、住所、ハッシュ化パスワードなど",
+      "saved": "2026-10-09-hutukuohunibu-zheng-akusesu-zui-da-yue-643mo-jian-noge-ren-qing-bao-liu-chu-shi-.md",
+      "ts": 1791510322
+    },
+    "ed277d24571032d04ab013e2f8f1ea54cd5042bf1f7ef588652ca2f2124c9bb1": {
+      "link": "https://www.itmedia.co.jp/news/article/2610/09/2000002149/",
+      "title": "Anthropic、Claudeへの“虐待”を利用ポリシーで禁止　影響工作の規定も集約",
+      "saved": "2026-10-09-anthropic-claudeheno-nue-dai-woli-yong-horisitejin-zhi-ying-xiang-gong-zuo-nogui.md",
+      "ts": 1791510322
+    },
+    "31e5481f2d42f3b8904e8841d5b82e3dc679f27a6aca7f4dcfe7ae4764fcadd9": {
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1oellCT3Zkc3pHRlVjOFVCamNYbjU0S0FPUWJwUmhYS0hBbGtXTVlsRldRanYzMm1NTmFrcXA4aXRFOWFLcXIzeS1ibHBhZ3I3?oc=5",
+      "title": "イラン工作員、AI使い米メディアに偽記事を掲載 オープンAIが発表 - CNN.jp",
+      "saved": "2026-10-09-irangong-zuo-yuan-aishi-imi-meteianiwei-ji-shi-wojie-zai-ohunaikafa-biao-cnn-jp.md",
+      "ts": 1791510322
+    },
+    "d7e2a10934208ba11029486e97f46625b53001326ed1c04d0cfba89b1ee18272": {
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5qdkNBMG5lSkVUcDBjUm9rNzNtSEVmVGFVZ1JIQTM5TzJJQTd3cXpkSC1sTXE3dFJiNVgzMy1VeGpTc2g3YUYwMm8yNVNXMnlK?oc=5",
+      "title": "トランプ氏、中間選挙前に「イラン攻撃の計画なし」 - CNN.jp",
+      "saved": "2026-10-09-toranhushi-zhong-jian-xuan-ju-qian-ni-irangong-ji-noji-hua-nasi-cnn-jp.md",
+      "ts": 1791510322
+    },
+    "82d654f961a43720f6443fec27e7b7096e1f18ffa66eca4a94d4eff977d0f09f": {
+      "link": "https://www.itmedia.co.jp/news/article/2610/09/2000002148/",
+      "title": "ローソン、215万件の個人情報漏えい　「ユーザー本人に情報を表示する機構」に不正アクセス",
+      "saved": "2026-10-09-roson-215mo-jian-noge-ren-qing-bao-lou-ei-yusaben-ren-niqing-bao-wobiao-shi-suru.md",
+      "ts": 1791510322
+    },
+    "fd8011150820e720510ffb14f4ba7c7916dc44e509bb428477def46df7563cec": {
+      "link": "https://www.itmedia.co.jp/business/articles/2610/09/news018.html",
+      "title": "「ボスの言うことは絶対」「まず実装・スピード重視」　モンゴル人の仕事観から、日本の働き方を眺めると……？",
+      "saved": "2026-10-09-hosunoyan-ukotohajue-dui-masushi-zhuang-suhitozhong-shi-monkoruren-noshi-shi-gua.md",
+      "ts": 1791510322
+    },
+    "e57f20114425bf6a56c7ec68b20421e9c0e7eaefc64f89296cd4a79ecee0dc74": {
+      "link": "https://www.itmedia.co.jp/business/articles/2610/09/news021.html",
+      "title": "「3週間まとめて休む」「ルールは状況次第で変化」──モンゴル人女性が日本の職場で驚いた文化の違いとは？",
+      "saved": "2026-10-09-3zhou-jian-matometexiu-mu-ruruhazhuang-kuang-ci-di-tebian-hua-monkoruren-nu-xing.md",
+      "ts": 1791510322
+    },
+    "484f57a4be34424a9c0da2b29f44f4f4326da635410b05bd7b3d1aab94813112": {
+      "link": "https://www.itmedia.co.jp/news/article/2610/09/2000002147/",
+      "title": "IDCFクラウド障害、顧客データ「取り出し・復元困難」　復元は顧客側のバックアップ頼み",
+      "saved": "2026-10-09-idcfkurautozhang-hai-gu-ke-teta-qu-richu-sifu-yuan-kun-nan-fu-yuan-hagu-ke-ce-no.md",
+      "ts": 1791510322
+    },
+    "c7d70cd84d7eddae2c6d022e855a853e25b2573193c527215f8c743630ba2de2": {
+      "link": "https://www.itmedia.co.jp/news/article/2610/09/2000002146/",
+      "title": "Apple、10月13日に「Welcome home.」イベント開催",
+      "saved": "2026-10-09-apple-10yue-13ri-ni-welcome-home-ihentokai-cui.md",
+      "ts": 1791510322
+    },
+    "4149edf099c4603ec2bfe4864e65888757d8989dfa30515ce1096a0f2f8cb80b": {
+      "link": "https://www.itmedia.co.jp/business/articles/2610/09/news011.html",
+      "title": "「AIが決めたことだから」と責任まで丸投げする企業の危うさ　「AIの過度な擬人化」が招く“恐ろしい錯覚”とは？",
+      "saved": "2026-10-09-aikajue-metakototakara-toze-ren-matewan-tou-kesuruqi-ye-nowei-usa-ainoguo-du-nan.md",
+      "ts": 1791510322
+    },
+    "bc62218ac285976bade9904caefb464c5b924dd16ad771196d5fe4d0d9a8fdb0": {
+      "link": "https://www.itmedia.co.jp/business/articles/2610/09/news012.html",
+      "title": "「トイザらス」、おもちゃ市場「過去最高」でも倒産のワケ　ドンキが買収、玩具店が生き残る道はあるか",
+      "saved": "2026-10-09-toisarasu-omotiyashi-chang-guo-qu-zui-gao-temodao-chan-nowake-tonkikamai-shou-wa.md",
+      "ts": 1791510322
+    },
+    "0db8e9660f9ac0cd9fd60d93d7e5845478c5342bb3561d0715a7a406df85dc33": {
+      "link": "https://www.itmedia.co.jp/business/articles/2610/09/news035.html",
+      "title": "「人工雷」で肥料を生み、キュウリでAIを育てる　福岡の100年商社「welzo」が挑む農業DX",
+      "saved": "2026-10-09-ren-gong-lei-tefei-liao-wosheng-mi-kiyuuriteaiwoyu-teru-fu-gang-no100nian-shang-.md",
+      "ts": 1791510322
+    },
+    "9faa03efb46abc689c09be50e252c3450b83dc5d4713ab5ce83db64f26d71a1d": {
+      "link": "https://www.itmedia.co.jp/business/articles/2610/09/news048.html",
+      "title": "“クールジャパン機構の二の舞”か？　2兆円支援のラピダス、2ナノ半導体工場あっても拭えぬ「顧客不在」の懸念",
+      "saved": "2026-10-09-kurusiyahanji-gou-noer-nowu-ka-2zhao-yuan-zhi-yuan-norahitasu-2nanoban-dao-ti-go.md",
+      "ts": 1791510322
+    },
+    "df968908de6a77aba781820059e5b5888815e92ae1241d48e1a15dab0b2974ab": {
+      "link": "https://www.itmedia.co.jp/business/articles/2610/09/news016.html",
+      "title": "永守氏は姿見せず　ニデック品質不正「844件」の真相、不正のトライアングルを生んだのは現場か、経営か",
+      "saved": "2026-10-09-yong-shou-shi-hazi-jian-sesu-nitetukupin-zhi-bu-zheng-844jian-nozhen-xiang-bu-zh.md",
+      "ts": 1791510322
+    },
+    "8eeaa711569e60284d157bbd8a9ba199fed023b0b35b29e56dacb874955a2fb8": {
+      "link": "https://www.itmedia.co.jp/business/articles/2610/09/news047.html",
+      "title": "「再発防止策だけでは、変われない」　プルデンシャル生命が謝罪、30年以上続いた不正の構造的問題は",
+      "saved": "2026-10-09-zai-fa-fang-zhi-ce-taketeha-bian-warenai-hurutensiyarusheng-ming-kaxie-zui-30nia.md",
+      "ts": 1791510322
+    },
+    "8e029bb019d294d3de072a4ad7e618511d02a638885eb01d34e47c4021847a57": {
+      "link": "https://www.itmedia.co.jp/business/articles/2610/09/news049.html",
+      "title": "「当然、攻撃者はAIを悪用する」――不正アクセスに対峙する国家サイバー統括室を直撃、日本の情報をどう守る？",
+      "saved": "2026-10-09-dang-ran-gong-ji-zhe-haaiwoe-yong-suru-bu-zheng-akusesunidui-zhi-suruguo-jia-sai.md",
+      "ts": 1791510322
+    },
+    "9f651acf8c0b93883ca5851827b36f7b2ddd44ca42f668726d933f73013e3523": {
+      "link": "https://www.itmedia.co.jp/business/articles/2610/09/news015.html",
+      "title": "AI普及で「人材育成を見直さねば……」8割が実感　それでも進まない、予算や時間以外の理由とは",
+      "saved": "2026-10-09-aipu-ji-te-ren-cai-yu-cheng-wojian-zhi-saneha-8ge-kashi-gan-soretemojin-manai-yu.md",
+      "ts": 1791510322
+    },
+    "a0c777fd1e3977e7df07af7cdd282d0eb9d9b9b00fc1b16cc5062b546e674462": {
+      "link": "https://www.itmedia.co.jp/business/articles/2610/09/news014.html",
+      "title": "「グレーゾーン」のカスハラ、どう対応？　時間拘束、過度な要求……客の怒りを“エスカレートさせない”企業の工夫",
+      "saved": "2026-10-09-kureson-nokasuhara-toudui-ying-shi-jian-ju-shu-guo-du-nayao-qiu-ke-nonu-riwo-esu.md",
+      "ts": 1791510322
     }
   }
 }
