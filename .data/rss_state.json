@@ -1,107 +1,5 @@
 {
   "done": {
-    "28a3062903f6823c0b3edf3a0c829e4717fbcbd9dd83e7da253bc5b3c0b4a5e1": {
-      "link": "https://www.itmedia.co.jp/business/articles/2609/14/news091.html",
-      "title": "「1年以内にAIがネット乗っ取る可能性」米アンソロピックCEO警告、開発の減速求める",
-      "saved": "2026-09-14-1nian-yi-nei-niaikanetutocheng-tuqu-ruke-neng-xing-mi-ansorohitukuceojing-gao-ka.md",
-      "ts": 1789378583
-    },
-    "4c369c6deb27d55155398ad343223199c50d9a4969c8cd7031eb46419babe757": {
-      "link": "https://www.bbc.com/japanese/articles/cvgyrvnxenzo?at_medium=RSS&at_campaign=rss",
-      "title": "英ウェールズ、スコットランド、北アイルランドの首長らが初会合へ",
-      "saved": "2026-09-14-ying-uerusu-sukotutoranto-bei-airurantonoshou-chang-rakachu-hui-he-he.md",
-      "ts": 1789378583
-    },
-    "7d1ae915e402fbf874d5685e8f62a2f468f5fb53379afc75befc0c4353413474": {
-      "link": "https://www.itmedia.co.jp/news/article/2609/14/2000001458/",
-      "title": "古坂大魔王が8歳娘の手描きキャラをAIアニメ化→「良いパパ」「子どもの創造性損ねる」と賛否両論",
-      "saved": "2026-09-14-gu-ban-da-mo-wang-ka8sui-niang-noshou-miao-kikiyarawoaianimehua-liang-ihaha-zi-t.md",
-      "ts": 1789378583
-    },
-    "13c4d686e62636adcd0ef954876da9774d7f62109b4e5a547f91937bcaa2d05b": {
-      "link": "https://www.bbc.com/japanese/articles/cnvl21n27ypo?at_medium=RSS&at_campaign=rss",
-      "title": "【解説】 BRICS首脳会議、イラン戦争で関係を再構築　分断も明らかに",
-      "saved": "2026-09-14-jie-shuo-bricsshou-noy-hui-yi-iranzhan-zheng-teguan-xi-wozai-gou-zhu-fen-duan-mo.md",
-      "ts": 1789378583
-    },
-    "a64787edb254f86b02f465af7373a283d7418794a6d33eda79884a369e21e3a1": {
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFUEViSVVhVGthMkRtNmpUdExFRWxKQUtaZGJ4bnY5VVdVWVVNQVRLT2VtOE5mSUJlRElqR0txUVY5eXd1c3hZVmp1RWFRazht?oc=5",
-      "title": "米ケネディ・センター、財政破綻を警告 建物にトランプ氏の名前掲げない限り - CNN.co.jp",
-      "saved": "2026-09-14-mi-keneteisenta-cai-zheng-po-zhan-wojing-gao-jian-wu-nitoranhushi-noming-qian-ji.md",
-      "ts": 1789378583
-    },
-    "5d836b98ff7cad3d5c766956986be7a8e492bf530685f1b158c75754bd33a767": {
-      "link": "https://www.bbc.com/japanese/articles/c5y7j0g87qko?at_medium=RSS&at_campaign=rss",
-      "title": "8月は記録的な暑さだったとEU　気候変動とエルニーニョ現象の複合作用で",
-      "saved": "2026-09-14-8yue-haji-lu-de-nashu-satatutatoeu-qi-hou-bian-dong-toeruniniyoxian-xiang-nofu-h.md",
-      "ts": 1789378583
-    },
-    "f7f008cf692347a5522ac6339b8b98356b243c5bff99f088c656355aa9365c82": {
-      "link": "https://www.itmedia.co.jp/news/article/2609/14/2000001436/",
-      "title": "「GPT Astraでゲーム開発＝ほぼソシャゲ」説を唱えたい　非エンジニアの挑戦は、廃課金への道か",
-      "saved": "2026-09-14-gpt-astratekemukai-fa-hohososiyake-shuo-wochang-etai-fei-ensinianotiao-zhan-ha-f.md",
-      "ts": 1789378583
-    },
-    "658bc9814da9e457ac7f249c153e0ee8fa0e85eeb3a1b52aaf7732d14d050d54": {
-      "link": "https://www.bbc.com/japanese/articles/cvgy1vpqg3eo?at_medium=RSS&at_campaign=rss",
-      "title": "ロシアの列車攻撃は新しい展開なのか、外交列車を狙った可能性",
-      "saved": "2026-09-14-rosianolie-che-gong-ji-haxin-siizhan-kai-nanoka-wai-jiao-lie-che-woju-tutake-nen.md",
-      "ts": 1789378583
-    },
-    "43ce279e42b8618d41f17d44e9268326bd191a8ea398fbcfcf26d90f8998126d": {
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBXVnpia0J1cjR0M1RpRTl5SjREZ3FNWUdYRkFtc01pRzUxbU1kTWs1ZnNDMFp0bWYtOUhhQk5ROFdQWUd6UnJUV3ZhMkNKYUJv?oc=5",
-      "title": "イランで撃墜されたF15戦闘機の乗員、救出までの体験を語る - CNN.co.jp",
-      "saved": "2026-09-14-iranteji-zhui-saretaf15zhan-dou-ji-nocheng-yuan-jiu-chu-matenoti-yan-woyu-ru-cnn.md",
-      "ts": 1789378583
-    },
-    "81a24f314a9a975fe437e572ef6a2f0567e26e49fda50049a8d2ce08d727de0d": {
-      "link": "https://www.itmedia.co.jp/news/article/2609/14/2000001452/",
-      "title": "“自動で耳コピ”アプリ、ヤマハが無料公開　音源読み込み→3分でピアノ譜に",
-      "saved": "2026-09-14-zi-dong-teer-kohi-ahuri-yamahakawu-liao-gong-kai-yin-yuan-du-miip-mi-3fen-tehian.md",
-      "ts": 1789378583
-    },
-    "4aa42dc1704e3f6a059ddae5c551b504ceec9f182ea1c5995f8776813d5c98fb": {
-      "link": "https://www.bbc.com/japanese/articles/c783v0dvj75o?at_medium=RSS&at_campaign=rss",
-      "title": "【解説】 ヒマラヤ山脈の氷河、急速に溶解　インド経済が「危機」に",
-      "saved": "2026-09-14-jie-shuo-himarayashan-mo-nobing-he-ji-su-nirong-jie-intojing-ji-ka-wei-ji-ni.md",
-      "ts": 1789378583
-    },
-    "41005ce571aa4497d45d65697c5c812ad3409d1b719e0d0e72b4377fb3d7f91f": {
-      "link": "https://www.itmedia.co.jp/business/articles/2609/14/news006.html",
-      "title": "なぜ若手エンジニアは「ホワイトすぎる会社」を辞めるのか？　AI時代に加速する「ホワハラ脱出」の真実",
-      "saved": "2026-09-14-naseruo-shou-ensiniaha-howaitosukiruhui-she-woci-merunoka-aishi-dai-nijia-su-sur.md",
-      "ts": 1789378583
-    },
-    "3117136991a3d77ff457de12e4e27f5bae545f86e4a77c423a4a13caecf6df8d": {
-      "link": "https://www.bbc.com/japanese/articles/cly7589yr29o?at_medium=RSS&at_campaign=rss",
-      "title": "AI企業のスタッフは人類の未来がどうなるか「本当に恐れている」、元アンソロピック社員がBBCに語る",
-      "saved": "2026-09-14-aiqi-ye-nosutatuhuharen-lei-nowei-lai-katounaruka-ben-dang-nikong-reteiru-yuan-a.md",
-      "ts": 1789378583
-    },
-    "f30d0df85845c5d5ef175b715238d57bc2497f4259c3bff5ee0b9c89fda5d171": {
-      "link": "https://www.itmedia.co.jp/news/article/2609/14/2000001440/",
-      "title": "レベルファイブ発表会のAI演出が物議　「不自然」「内容よりAIが気になる」　日野社長「派手にしたかった」",
-      "saved": "2026-09-14-reheruhuaihufa-biao-hui-noaiyan-chu-kawu-yi-bu-zi-ran-nei-rong-yoriaikaqi-ninaru.md",
-      "ts": 1789378583
-    },
-    "3ac2b19c39e4904d32f328234ab1c57e534acbb89519b10ba18649842f8251ed": {
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CY0Y3ZVM1dXN4dU5DVUw0R0lEOXItVUpZb0h1VGdHalp2ME9ZWkhYTDVXelBYWWsyYWQzN3g5dVJUb1ZIcUNuM3dkR2lZY01hbEdr?oc=5",
-      "title": "ホルムズ海峡再開に向けた米国抜きのイランと湾岸諸国の会合、延期に オマーン外相 - CNN.co.jp",
-      "saved": "2026-09-14-horumusuhai-xia-zai-kai-nixiang-ketami-guo-ba-kinoirantowan-an-zhu-guo-nohui-he-.md",
-      "ts": 1789378583
-    },
-    "4f8445ab5cb6f688d7a9141dcf02c9ed1936881a37bb6825be0ddb2402863bfb": {
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pWnJ1bHpLajdra0V0a210eC00bUhoNTB2M2tFVTBMRW9PVlBCVnNCeE1jZlZaVXNUYzYycW9SbTNUdDYyR3RqczNiUjFUcVQ1QkNKa2VB?oc=5",
-      "title": "【分析】「シャチがホッキョクグマを捕食」、プーチン氏の世界は常に弱肉強食 トランプ氏のウクライナ和平構想に暗雲(2/2) - CNN.co.jp",
-      "saved": "2026-09-12-fen-xi-siyatikahotukiyokukumawobu-shi-hutinshi-noshi-jie-hachang-niruo-rou-qiang-2.md",
-      "ts": 1789378583
-    },
-    "b7947bba31b9d11dc42c0369baba3164697538d853c8b6858c379946405d2ed5": {
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9la2xOM1BaMHVaZmRkbVNQWFZ3dFhoem9HNlh6dS05bUt1Z0JOTVlFY20yazhYOUtfNjMwTUVuSEtWeUxmMnFNZWkteXM?oc=5",
-      "title": "- CNN.co.jp",
-      "saved": "2013-04-11-cnn-co-jp-2.md",
-      "ts": 1789378583
-    },
     "887e86ca98b9621c87825a6c90d568ebd5d4372171b2cc7dbc1681fbac9af590": {
       "link": "https://www.bbc.com/japanese/articles/ck305jvy987go?at_medium=RSS&at_campaign=rss",
       "title": "英ウェールズ、スコットランド、北アイルランドの指導者が初会談　イングランド議会支配の時代はそろそろ終わると",
@@ -8819,6 +8717,72 @@
       "title": "ニダル・ハサン死刑囚 - CNN.co.jp",
       "saved": "2026-10-10-nitaruhasansi-xing-qiu-cnn-co-jp.md",
       "ts": 1791961724
+    },
+    "543fddaf2a98f7c8b527597bab08848758b75c2c5b801b22fc830ec7c7d994f5": {
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FY2VOYkFpZkROMEN2VmdMWmw1RE5KMFIxZVBNQXFmZmtOZEgzTWV4SDlpOWY3T2dVaDFreE4xUGpvd04zSndDeENPelVFTG5pS2Z2NA?oc=5",
+      "title": "クマが玄関先でドアベル鳴らす？、民家のカメラに映る 22年米サウスカロライナ州 - CNN.co.jp",
+      "saved": "2026-10-14-kumakaxuan-guan-xian-tetoaheruming-rasu-min-jia-nokameraniying-ru-22nian-mi-saus.md",
+      "ts": 1791983999
+    },
+    "913472be6fdea49fb433ff55007ec601f36f7ff1ce75c2a9529b0e286052e7a5": {
+      "link": "https://www.itmedia.co.jp/news/article/2610/14/2000002265/",
+      "title": "Google、待望の新AIモデル「Gemini 4 Argon」一般提供を開始　推論の継続力を強化　一部ベンチでトップに",
+      "saved": "2026-10-14-google-dai-wang-noxin-aimoteru-gemini-4-argon-yi-ban-ti-gong-wokai-shi-tui-lun-n.md",
+      "ts": 1791983999
+    },
+    "aa51c572124cce803629a36ec1698aaf1ea8909a55da2fdb216bbb5cbd747f8b": {
+      "link": "https://www.itmedia.co.jp/news/article/2610/14/2000002278/",
+      "title": "デジハリ大、「Claude」を全学導入へ──国内初、“回数気にせず”使い放題に",
+      "saved": "2026-10-14-tesiharida-claude-woquan-xue-dao-ru-he-guo-nei-chu-hui-shu-qi-nisesu-shi-ifang-t.md",
+      "ts": 1791983999
+    },
+    "d1e68d18d91c0334dded04efbccde7c46caac24bdc09b7760b4ebc865b6c45e2": {
+      "link": "https://www.itmedia.co.jp/news/article/2610/14/2000002276/",
+      "title": "小中学校の校務に“自前運用”の国産LLM　NTT西と茨木市が全国初の実証",
+      "saved": "2026-10-14-xiao-zhong-xue-xiao-noxiao-wu-ni-zi-qian-yun-yong-noguo-chan-llm-nttxi-toci-mu-s.md",
+      "ts": 1791983999
+    },
+    "77e466026b29dd0b6f0f9c774a42f52755763c1803c5894a9d110726ab106d86": {
+      "link": "https://www.bbc.com/japanese/articles/cm93z4zrxl10o?at_medium=RSS&at_campaign=rss",
+      "title": "アルゼンチン、フォークランド諸島の石油探査めぐりイギリスへの法的措置開始",
+      "saved": "2026-10-14-arusentin-huokurantozhu-dao-noshi-you-tan-cha-mekuriikirisuhenofa-de-cuo-zhi-kai.md",
+      "ts": 1791983999
+    },
+    "fca45ec7ef329b07ef1b8debff9db8d2891920a955f417f1cd951206e42eb040": {
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01bU15OTliTmtPVTNEenBVeC1HeUdfR2ZMSHA1Y0JpanhyTnQ0ZFhOVXF1dUJaWTUzeExZaGY3c0E3NC1BWHFZMkZwQWtjQ0ZVeVd3?oc=5",
+      "title": "コカ・ コーラにマクドナルド、ウクライナの米国企業を攻撃するロシア それでもトランプ政権は沈黙(1/2) - CNN.co.jp",
+      "saved": "2026-10-14-koka-koranimakutonaruto-ukurainanomi-guo-qi-ye-wogong-ji-sururosia-soretemotoran.md",
+      "ts": 1791983999
+    },
+    "a9e79662d828ffe500352960228e1c9b9bc7f59d15f6fc8ad3fea3b2233aaded": {
+      "link": "https://www.itmedia.co.jp/business/articles/2610/14/news069.html",
+      "title": "日立が「木造データセンター」展開　“鉄とコンクリ”から木材へ、“見た目がオシャレ”以外の価値は？",
+      "saved": "2026-10-14-ri-li-ka-mu-zao-tetasenta-zhan-kai-tie-tokonkuri-karamu-cai-he-jian-tamu-kaosiya.md",
+      "ts": 1791983999
+    },
+    "8a90b4a2b141686a3dfec47c36c0548624d400b07297438a4c88212a0819f60f": {
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5iWDgweXRmYUxOTFllWmNCVmlUd2Vyd04wd1Q1dDZjcEhyb3E3eHBOWmdsMWtFVkFocmNPUTBwLU5CNUNzZjYzZFktQmVmVERjblE?oc=5",
+      "title": "AIの暴走、訴えるべき相手はだれなのか - CNN.co.jp",
+      "saved": "2026-10-14-ainobao-zou-su-eruhekixiang-shou-hatarenanoka-cnn-co-jp.md",
+      "ts": 1791983999
+    },
+    "fa553cd4ab3f24fc30785eb7caa1a1d4260f901c8458eae8c382691b3a97d47f": {
+      "link": "https://www.itmedia.co.jp/news/article/2610/14/2000002268/",
+      "title": "化粧品販売「アエナ」約81万人分の個人情報流出か　氏名やクレカ下4ケタ・有効期限など",
+      "saved": "2026-10-14-hua-zhuang-pin-fan-mai-aena-yue-81mo-ren-fen-noge-ren-qing-bao-liu-chu-ka-shi-mi.md",
+      "ts": 1791983999
+    },
+    "dad902e1917e97ac4c61824907b79228a402ba90f9cdd0e0ae002a3bfa7572fb": {
+      "link": "https://www.bbc.com/japanese/articles/cxnv050epg0ro?at_medium=RSS&at_campaign=rss",
+      "title": "ロシア、スパイ容疑で日本人記者を拘束",
+      "saved": "2026-10-14-rosia-suhairong-yi-teri-ben-ren-ji-zhe-woju-shu.md",
+      "ts": 1791983999
+    },
+    "36ed7738fa3ce202cce451d8b540419bd60252cf792262c292cfd518070df2a6": {
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aU2lBTXNwaF9DNGQ3MGQycDlNVmtyYWFybWFOVzZKbWs1MTJpTzB2TlZlXzUxYjNVYTQ4M2ZySDAwc3drZ25vRXRzNHZ6VFpDNnZoRw?oc=5",
+      "title": "初めての記者会見に臨むケイティ・ザカリア報道官＝13日/Julia Demaree Nikhinson/AP - CNN.co.jp",
+      "saved": "2026-10-14-chu-metenoji-zhe-hui-jian-nilin-mukeiteisakariabao-dao-guan-13ri-julia-demaree-n.md",
+      "ts": 1791983999
     }
   }
 }
