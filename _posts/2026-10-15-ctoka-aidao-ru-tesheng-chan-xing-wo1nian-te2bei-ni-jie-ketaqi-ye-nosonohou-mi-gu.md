@@ -1,0 +1,8 @@
+---
+title: "CTOが「AI導入で生産性を1年で2倍に」掲げた企業のその後　米国が開発者802人の進捗を追跡調査"
+date: 2026-10-15 12:00:00 +0900
+categories: [ITmedia]
+---
+米カーネギーメロン大学や米スタンフォード大学などに所属する研究者らが発表した論文「AI Writes Faster Than Humans Can Review: A Longitudinal Study of an Enterprise 2x Mandate」は、AI導入を義務化したソフトウェア会社がどのような影響を受けたのかを調査した研究報告だ。
+
+[続きを読む →](https://www.itmedia.co.jp/news/article/2610/15/2000002260/)

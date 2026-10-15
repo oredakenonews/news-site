@@ -1,95 +1,5 @@
 {
   "done": {
-    "d60008e20809411e2391a7a3d8d1f9189830fc2fd1fcbef07deb7253dc4b4f79": {
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5MDJpWDV4ZUYwN096ck9wbnhwanVsUlZhZlNNY09JOFpWeURHTVlZUkRRX2tBdG5ubThWNktjOUlGaTNVd2JGWnR5ZTgwbU0?oc=5",
-      "title": "ヘンリー王子とメーガン妃、英国での生活ぶりは？ - CNN.co.jp",
-      "saved": "2026-09-15-henriwang-zi-tomekanfei-ying-guo-tenosheng-huo-huriha-cnn-co-jp.md",
-      "ts": 1789431610
-    },
-    "377f77e1748b3759be794dd59dda44ca88ae6478402fd21ada2dc0c37c5af8ab": {
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1WVzI5Sy1EVWJ1VGFFaXhpc3ZlT3hSdFV1U3p6YjFURFlGeGNIdTBPdWJBV1pXb2pxa1dDSmdxdE1QejBpWXF5M0FSanZ1MGJHelE4?oc=5",
-      "title": "英ヘンリー王子夫妻、新学期開始からわずか数日で子どもたちを転校 警備上の事情で - CNN.co.jp",
-      "saved": "2026-09-15-ying-henriwang-zi-fu-qi-xin-xue-qi-kai-shi-karawasukashu-ri-tezi-tomotatiwozhuan.md",
-      "ts": 1789431610
-    },
-    "67e65b07f679e23acd1c3be0f4c413b6d331c5f6e3510e0f6b7950bbc095b5ca": {
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xT1FIMDV1a2tDcXIyVW44Q3FvTXlieVhralo1cUVnTHlkakhLdG5EcUROaW8zblRsZkZjVTZ6LWNFcDhHeGplRmRVREZWZEk4?oc=5",
-      "title": "トランプ氏、AIへの警告を「でっち上げ」と一蹴 政権内に不安の声 - CNN.co.jp",
-      "saved": "2026-09-15-toranhushi-aihenojing-gao-wo-tetutishang-ke-toyi-cu-zheng-quan-nei-nibu-an-noshe.md",
-      "ts": 1789431610
-    },
-    "65bcd929785c08cc453b933d2e54947657ac93fe2c32fd0c4623910600677ad0": {
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByWTZ2bEQ0akw5XzVhSjVoc2ZqbGVXZ20zVHJGd0ROZ0QybmNMczlUajVwZWRnQWhSUXpzcU1uck02Z3N4WFNOYy02X25ndVhZdVJjZWFNY05BNVU?oc=5",
-      "title": "トランプ氏、AIへの警告を「でっち上げ」と一蹴 政権内に不安の声 - CNN.co.jp",
-      "saved": "2026-09-15-toranhushi-aihenojing-gao-wo-tetutishang-ke-toyi-cu-zheng-quan-nei-nibu-an-noshe-2.md",
-      "ts": 1789431610
-    },
-    "7af5662845e267a5326dee704aa78300a64f8ef34f0d4b173dc0bc6baf002ec5": {
-      "link": "https://www.itmedia.co.jp/news/article/2609/15/2000001470/",
-      "title": "トランプ大統領、アモデイ氏を名指しで「完璧な小さい天使のふり」　「AIに必要なガードレールは強く賢い大統領だけ」",
-      "saved": "2026-09-15-toranhuda-tong-ling-amoteishi-woming-zhi-site-wan-bi-naxiao-saitian-shi-nohuri-a.md",
-      "ts": 1789431610
-    },
-    "db5fbd04515a10d44042394625d45245e7fa94e4bcdc7c59db53acb3b8879e4c": {
-      "link": "https://www.itmedia.co.jp/business/articles/2609/15/news039.html",
-      "title": "上司は部下の不満を「全て対処する」必要はない　見極めるべき「2つ」の論点",
-      "saved": "2026-09-15-shang-si-habu-xia-nobu-man-wo-quan-tedui-chu-suru-bi-yao-hanai-jian-ji-meruheki-.md",
-      "ts": 1789431610
-    },
-    "1e089e946997050a3e5c18961d58fcde271df5a19a874e8336976309c024a1f4": {
-      "link": "https://www.itmedia.co.jp/business/articles/2609/15/news052.html",
-      "title": "ビル管理で進む「属人化」解消なるか　東京建物らが開設、新たな「基地」が持つ5つの機能",
-      "saved": "2026-09-15-hiruguan-li-tejin-mu-shu-ren-hua-jie-xiao-naruka-dong-jing-jian-wu-rakakai-she-x.md",
-      "ts": 1789431610
-    },
-    "1eb25798b0eb7890728701d8450c7d8f07f0c2dcd27cb77f1f25f416235c4540": {
-      "link": "https://www.itmedia.co.jp/business/articles/2609/15/news025.html",
-      "title": "障害者雇用、“質ばかり重視”する企業が陥る「盲点」とは？　「本業で雇用」だけが正義ではない、これだけの理由",
-      "saved": "2026-09-15-zhang-hai-zhe-gu-yong-zhi-hakarizhong-shi-suruqi-ye-kaxian-ru-mang-dian-toha-ben.md",
-      "ts": 1789431610
-    },
-    "b51f3cfb91d659ae613bd3a8cb03594d92a49d338ebb3b9275e58942f3320083": {
-      "link": "https://www.itmedia.co.jp/news/article/2609/15/2000001450/",
-      "title": "“ぼっちな生まれ”より“ぼっちな育ち”の方が他者と関わるのが苦手？　京大がオタマジャクシの社会性を実験",
-      "saved": "2026-09-15-hotutinasheng-mare-yori-hotutinayu-ti-nofang-kata-zhe-toguan-warunokaku-shou-jin.md",
-      "ts": 1789431610
-    },
-    "7d9d87d0458849a7dacfc0f174459fdd3c6595bd41f7c9edeaf4dc51ba3b7b3a": {
-      "link": "https://www.itmedia.co.jp/news/article/2609/15/2000001469/",
-      "title": "中国外務省、AI開発「減速論」に反応　「恐怖をあおることや対立、悪性の競争は誰の利益にもならない」",
-      "saved": "2026-09-15-zhong-guo-wai-wu-sheng-aikai-fa-jian-su-lun-nifan-ying-kong-bu-woaorukotoyadui-l.md",
-      "ts": 1789431610
-    },
-    "0e62b8444a249fead9d06d06736ff8e469e261374cee2cd76a1ecfbe800f115a": {
-      "link": "https://www.itmedia.co.jp/business/articles/2609/15/news014.html",
-      "title": "「AIっぽさ丸出し」の画像から脱却せよ　実際にチラシを作ってみた【プロンプト紹介】",
-      "saved": "2026-09-15-aituhosawan-chu-si-nohua-xiang-karatuo-que-seyo-shi-ji-nitirasiwozuo-tutemita-hu.md",
-      "ts": 1789431610
-    },
-    "ffaa092b108502b6f074e3c5973453db2776b50c0fc39eda1f1b0100dda93947": {
-      "link": "https://www.itmedia.co.jp/business/articles/2609/15/news023.html",
-      "title": "「廃墟」と呼ばれたタイムアウト大阪　半年後に行ってみたら、どうなっていた？",
-      "saved": "2026-09-15-fei-xu-tohu-haretataimuautoda-ban-ban-nian-hou-nixing-tutemitara-tounatuteita.md",
-      "ts": 1789431610
-    },
-    "3804173680784fb14111b6ef3be8be3db8ca9da442f68b39fa558e343ff32736": {
-      "link": "https://www.itmedia.co.jp/business/articles/2609/15/news020.html",
-      "title": "ファミマのユニフォームはどう変化した？　初代「エプロン」から、業界初「Tシャツ」への刷新までを振り返る",
-      "saved": "2026-09-15-huamimanoyunihuomuhatoubian-hua-sita-chu-dai-ehuron-kara-ye-jie-chu-tsiyatu-heno.md",
-      "ts": 1789431610
-    },
-    "7919d25dbc91038e2ed8cc07f8384e393ed7e9e123194bc5ce90d205dee17b5d": {
-      "link": "https://www.itmedia.co.jp/business/articles/2609/15/news018.html",
-      "title": "21万円超の「iPhone 18 Pro」　価格高騰で“iPhone離れ”は進むのか　中古・残クレに広がる選択肢",
-      "saved": "2026-09-15-21mo-yuan-chao-no-iphone-18-pro-jia-ge-gao-teng-te-iphoneli-re-hajin-munoka-zhon.md",
-      "ts": 1789431610
-    },
-    "8488fab2d637f2c519eb12a6f52c94eb34bc90f7fb119a5c8bca7026b407ea88": {
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wN1FLN2Zqb1RBeEt6ZkdFQ2lNM3R3b3ZwTlZZbWNJc0daLUR2WUk2OFFMclFMUFdlWDFJc2lPdWNQRmdHbHozNHVYT3JBSFZCWkhCRQ?oc=5",
-      "title": "ケネディ・センター正面からトランプ氏の名前が取り除かれた後も足場を覆うシートは残されたままだ＝2日、ワシントン - CNN.co.jp",
-      "saved": "2026-09-14-keneteisentazheng-mian-karatoranhushi-noming-qian-kaqu-richu-karetahou-mozu-chan.md",
-      "ts": 1789431610
-    },
     "deeab6389b19bf362e8ce9a071f349d16f0e69daa4a73f45ba7e5fb966fb99b1": {
       "link": "https://www.bbc.com/japanese/articles/c34gden2qz29o?at_medium=RSS&at_campaign=rss",
       "title": "アメリカ、石炭とガス使う火力発電所の温室効果ガス排出規制を撤廃",
@@ -8765,6 +8675,156 @@
       "title": "「誰か1人だけ赤字」ではバトンが渡らない　JX金属×経産省が挑む重要鉱物リサイクル、“もうかる仕組み”どうつくる？",
       "saved": "2026-10-15-shui-ka1ren-takechi-zi-tehahatonkadu-ranai-jxjin-shu-xjing-chan-sheng-katiao-muz.md",
       "ts": 1792023470
+    },
+    "b7024fc3fe2f6d56a406d2c6810da94bd2bc7f9a08b006910f789f4522b2442e": {
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2dDcwRmdYd3htZmVnanQzNHEwNDJaR3A4QWxUWGxkdk1Fdnd0Y2JORmxUbThoMGpLQ05Wa29vdWVlUUlMOFdEMHhTZHVfRVhISGk4?oc=5",
+      "title": "ホルムズ海峡の麻痺解消、それでもガソリン・軽油価格が高止まりする理由とは？(1/2) - CNN.co.jp",
+      "saved": "2026-10-15-horumusuhai-xia-noma-bei-jie-xiao-soretemokasorinqing-you-jia-ge-kagao-zhi-maris.md",
+      "ts": 1792047659
+    },
+    "535161c69998ba0803815a49a7d4015b423019f0f44fc109aee952caaa7fc693": {
+      "link": "https://www.bbc.com/japanese/articles/cm4g1el3j2xlo?at_medium=RSS&at_campaign=rss",
+      "title": "【解説】 衛星通信「スターリンク」、なぜウクライナの戦場で非常に重要なのか",
+      "saved": "2026-10-15-jie-shuo-wei-xing-tong-xin-sutarinku-naseukurainanozhan-chang-tefei-chang-nizhon.md",
+      "ts": 1792047659
+    },
+    "5597e20facc8025b0bce710614bb3e571cbfb070023ace4a18751b0dd8e1beb9": {
+      "link": "https://www.itmedia.co.jp/news/article/2610/15/2000002295/",
+      "title": "「Rakuten Mini」など4機種に脆弱性　楽天モバイル、他製品への切り替え推奨",
+      "saved": "2026-10-15-rakuten-mini-nato4ji-zhong-nicui-ruo-xing-le-tian-mohairu-ta-zhi-pin-henoqie-rit.md",
+      "ts": 1792047659
+    },
+    "52d3e8c633b1679539cc4bc97121addaca381fb2c5946528ceef6c47d9f3db6e": {
+      "link": "https://www.bbc.com/japanese/watch/c6n4eqldjqvxo?at_medium=RSS&at_campaign=rss",
+      "title": "ゼレンスキー氏とバーナム氏が会談、なぜ今重要なのか",
+      "saved": "2026-10-15-serensukishi-tohanamushi-kahui-tan-nasejin-zhong-yao-nanoka.md",
+      "ts": 1792047659
+    },
+    "62e3cd30ac46673798c616b25e21377aafb6533f7cd5ad04926f9421475d1a91": {
+      "link": "https://www.bbc.com/japanese/articles/cx7vp77jnml9o?at_medium=RSS&at_campaign=rss",
+      "title": "スターリンク利用制限でウクライナのドローン速度低下　マスク氏は米政府の関与を示唆",
+      "saved": "2026-10-15-sutarinkuli-yong-zhi-xian-teukurainanotoronsu-du-di-xia-masukushi-hami-zheng-fu-.md",
+      "ts": 1792047659
+    },
+    "a0af6b1c33f75e3a2122c900f1c4e2f7883d65b18e3b59e8d7f72199497c55c1": {
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83Z2ZJNjZvTDhRRzdwRXdQM2ptcDA0NndqZUtlMWdSR0hhcVZfblZneTcwVnVuN1RhOHFBR3BpVlllY0VBanRZbXhoLVM4dWFjTy04?oc=5",
+      "title": "ウクライナの「スターシールド」利用に制限か、軍の作戦に支障 マスク氏は「米政府が管理」と主張 - CNN.co.jp",
+      "saved": "2026-10-15-ukurainano-sutasiruto-li-yong-nizhi-xian-ka-jun-nozuo-zhan-nizhi-zhang-masukushi.md",
+      "ts": 1792047659
+    },
+    "4cc3055ba679928bd253692db1598e2e436c785bc85b77c50ca289374db1571c": {
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85aW5UYWhEYUtLdUdENFZleEI1aFREeFhSSldDcUlPUTJGb1RCb0l6Mi1rQks5Q1FlZTREbG41ZVA4S2dhbGF2V1lxM1RFZFlGOHlF?oc=5",
+      "title": "スーパーの冷凍・冷蔵設備にサイバー攻撃、大規模な被害を招いた「弱点」とは フランス - CNN.co.jp",
+      "saved": "2026-10-15-suhanoleng-dong-leng-zang-she-bei-nisaihagong-ji-da-gui-mo-nabei-hai-wozhao-ita-.md",
+      "ts": 1792047659
+    },
+    "e8440e2b8c6352ffc469c5285b3267452334a4981b62ff9b66e006bb756b45ae": {
+      "link": "https://www.itmedia.co.jp/news/article/2610/15/2000002260/",
+      "title": "CTOが「AI導入で生産性を1年で2倍に」掲げた企業のその後　米国が開発者802人の進捗を追跡調査",
+      "saved": "2026-10-15-ctoka-aidao-ru-tesheng-chan-xing-wo1nian-te2bei-ni-jie-ketaqi-ye-nosonohou-mi-gu.md",
+      "ts": 1792047659
+    },
+    "a819b5d73cfdeaf59eb19b3fcc120c17d41f2dda809248ac78eaa9c0065eb0fa": {
+      "link": "https://www.itmedia.co.jp/news/article/2610/15/2000002258/",
+      "title": "“コネクテッドカー”はGoogleやMetaにどれだけ情報を送っている？　21車種30アプリを調査",
+      "saved": "2026-10-15-konekutetutoka-hagoogleyametanitoretakeqing-bao-wosong-tuteiru-21che-zhong-30ahu.md",
+      "ts": 1792047659
+    },
+    "d40c8c2f395a28a38f0202d0da53e4696207f426c34f7d9eb1c204f71ae9576e": {
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WZ3pPcE9nSVBjckx0Z3lkS0djUlpJMU4tSXkxV3FZYXRNcXY3akpid09JeVhqYVJQaEhKejltdXMtcWdOSnlaZy1lUG1ubkJfaGY4?oc=5",
+      "title": "軍事に巨額の費用投じるサウジ、それでもフーシの攻撃を防げない理由 - CNN.co.jp",
+      "saved": "2026-10-15-jun-shi-niju-e-nofei-yong-tou-sirusausi-soretemohusinogong-ji-wofang-kenaili-you.md",
+      "ts": 1792047659
+    },
+    "793db3226e5762ce9d0b50d5856a79292af97f5f333b21ba85e2407f6f932e9e": {
+      "link": "https://www.itmedia.co.jp/news/article/2610/15/2000002293/",
+      "title": "メドレーの産婦人科向けシステムに不正アクセス、患者の個人情報漏えいか　最大787の医療機関が対象",
+      "saved": "2026-10-15-metorenochan-fu-ren-ke-xiang-kesisutemunibu-zheng-akusesu-huan-zhe-noge-ren-qing.md",
+      "ts": 1792047659
+    },
+    "06d08d99e5b8f1890d1de7d785d1fef23b65e9a689d491ba1ff64596d0a3a2b6": {
+      "link": "https://www.itmedia.co.jp/news/article/2610/15/2000002291/",
+      "title": "ネットフリックスがレイオフ　従業員1000人削減へ　2022年以来の規模",
+      "saved": "2026-10-15-netutohuritukusukareiohu-cong-ye-yuan-1000ren-xue-jian-he-2022nian-yi-lai-nogui-.md",
+      "ts": 1792047659
+    },
+    "632cd63b6b2dbf3f882b52628212807c5d0ed6fa6cf6dc79570602b077394069": {
+      "link": "https://www.itmedia.co.jp/news/article/2610/15/2000002286/",
+      "title": "相次ぐサイバー攻撃に「AI悪用の可能性」……初来日のAnthropic共同創業者が言及　悪用どう抑止",
+      "saved": "2026-10-15-xiang-ci-kusaihagong-ji-ni-aie-yong-noke-neng-xing-chu-lai-ri-noanthropicgong-to.md",
+      "ts": 1792047659
+    },
+    "8bdea331fbbc1a6a1a95599a2a38c339c0070dae22deea45bb3c9f16c836a0ec": {
+      "link": "https://www.itmedia.co.jp/news/article/2610/15/2000002290/",
+      "title": "米8州「OpenAI」提訴　ChatGPTが「子供らに危害」　安全対策導入など求める",
+      "saved": "2026-10-15-mi-8zhou-openai-ti-su-chatgptka-zi-gong-raniwei-hai-an-quan-dui-ce-dao-ru-natoqi.md",
+      "ts": 1792047659
+    },
+    "42c2c22f06acc4754a6727167a14ccb6961326147b66bd5904397d6394f7b1e7": {
+      "link": "https://www.itmedia.co.jp/news/article/2610/15/2000002288/",
+      "title": "消防の一斉連絡システムに不正アクセス、個人情報漏えいか　防災メール配信システムのアルカディア運営",
+      "saved": "2026-10-15-xiao-fang-noyi-qi-lian-luo-sisutemunibu-zheng-akusesu-ge-ren-qing-bao-lou-eika-f.md",
+      "ts": 1792047659
+    },
+    "6993b213a70168d6142443c99a3b5b56249e7acf868289a2167ea21a05c7a834": {
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOQkp5b0NEVzB1SzNoNVhKVXBtUFd5b3FZbXRUcmVoVFkxN2tKLU9pUXhMemhHS0g4UG93RDVMWTdUMlNKQ1ZnOHVMVHdpZWs?oc=5",
+      "title": "世界最古の沈没船、潜水調査で判明 トルコ沖 - CNN.co.jp",
+      "saved": "2026-10-15-shi-jie-zui-gu-nochen-mei-chuan-qian-shui-diao-cha-tepan-ming-torukochong-cnn-co.md",
+      "ts": 1792047659
+    },
+    "3d74c8dfbb94bbfb5c6d14db40ea9d262078b00cc74c51462fd1fe74b52ac283": {
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5FTlFJSVVCcGJFbzJaal91by1vM1BYb1pQUnFIVms3VFg1c1dJZUFpWm5HVVFiWXNfejdWVVRtTlJhb1ZIM3RQNUdFYTNTbDR1ak85MQ?oc=5",
+      "title": "トルコ沖で見つかった沈没船、世界最古の沈没船と判明 船内の遺物の年代から - CNN.co.jp",
+      "saved": "2026-10-15-torukochong-tejian-tukatutachen-mei-chuan-shi-jie-zui-gu-nochen-mei-chuan-topan-.md",
+      "ts": 1792047659
+    },
+    "98784824466dcc7d2665262f40cb0c9060f622dbbff8f75115761a35069e84cf": {
+      "link": "https://www.itmedia.co.jp/news/article/2610/15/2000002287/",
+      "title": "「YouTube Music」、生成AIで作られた楽曲にラベル表示",
+      "saved": "2026-10-15-youtube-music-sheng-cheng-aitezuo-raretale-qu-niraherubiao-shi.md",
+      "ts": 1792047659
+    },
+    "5c93826892e095790497edff8de8447420da79083efc3b9abccf39fd57641047": {
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE52M3duZFZISHhRaTE3UUF2Z0N3a3l0RkhHc0ZZQVdydktvLVppX24ycHpubC11NlliVkdqLVZMSXpFZWJRQU9EbGZvcDh6czQ?oc=5",
+      "title": "ゼレンスキー氏、トランプ氏に「裏切られた」 - CNN.co.jp",
+      "saved": "2026-10-15-serensukishi-toranhushi-ni-li-qie-rareta-cnn-co-jp.md",
+      "ts": 1792047659
+    },
+    "1b0649c2142d144e24bf0002425de758eb8214156ef04226b6d905ad6794b52a": {
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15UXpjN3dfUW1XS0NHeTJaSmRPanEwb0syYUNha1dBZzVBQlJoWTZOV2IxT0NNcFJVaF9uUklXaWRYNkZDVTBLLTFld0VNNGR5eE04?oc=5",
+      "title": "ゼレンスキー氏、トランプ氏に「裏切られた」 ロシアとの燃料取引受け - CNN.co.jp",
+      "saved": "2026-10-15-serensukishi-toranhushi-ni-li-qie-rareta-rosiatonoran-liao-qu-yin-shou-ke-cnn-co.md",
+      "ts": 1792047659
+    },
+    "cce24c57262b8733e1fc84a1623fbea3d1834042d5c474e6d827140c2c9bc401": {
+      "link": "https://www.itmedia.co.jp/news/article/2610/15/2000002285/",
+      "title": "SpaceX、ウクライナ軍の「Starshield」に移動速度制限　マスク氏「決めるのは米軍と大統領」",
+      "saved": "2026-10-15-spacex-ukurainajun-no-starshield-niyi-dong-su-du-zhi-xian-masukushi-jue-merunoha.md",
+      "ts": 1792047659
+    },
+    "8126fe814ff81804e28f72a06d9ff5b9298a8e08ce79a7126561566af90452dd": {
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9oRUQ5Q0ZjWXZBcHRJc0xwc2hPZ1kyRE9ablVoQy1KWnVNbk5nYUtaZ2JBZ3lBcGx3Yk5YeW5YcjZ6S0lHOEpBdVlHb1E4dzUyLTY0?oc=5",
+      "title": "ロボットが16歳少女に痴漢行為？ ドイツ警察が捜査 - CNN.co.jp",
+      "saved": "2026-10-15-rohotutoka16sui-shao-nu-nichi-han-xing-wei-toitujing-cha-kasou-cha-cnn-co-jp.md",
+      "ts": 1792047659
+    },
+    "047d6d748ad3b30f01bf225487c7f90daf1ac783e6c1e843259014189fb080e8": {
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE45dTVqdzNObUtjaDFqdTJwdnlyamxSOU1VcThycDZQUTVWQ3N2bXI5UExHckQxVFpHTUVjTi1odjV4R2FFemsyT3k3ZWk0WFhGSUlF?oc=5",
+      "title": "ローマ教皇レオ14世、肺がん診断後初のメッセージを発表 - CNN.co.jp",
+      "saved": "2026-10-15-romajiao-huang-reo14shi-fei-kanzhen-duan-hou-chu-nometusesiwofa-biao-cnn-co-jp.md",
+      "ts": 1792047659
+    },
+    "a57562651a26531e980e82868d747ae770103a1bcb595004ee0faf1c09257a98": {
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2b1A0NzlmNGltX24zaGg0MUc1OUJjeVpVZWdGM3RyWThPMWRoOVc4a2tKWFh3a25fTmVaaUVma2RaQW8yazJwa24yd2dIbU5OM1Bv?oc=5",
+      "title": "グリーンランド、石油・天然ガスの「大規模探査が近く開始」とのトランプ氏主張を否定 - CNN.co.jp",
+      "saved": "2026-10-15-kurinranto-shi-you-tian-ran-kasuno-da-gui-mo-tan-cha-kajin-kukai-shi-tonotoranhu.md",
+      "ts": 1792047659
+    },
+    "b5924b77297c45b3e7de842cb197021b3d40028afa4e53c3935f0cf2fc4912bf": {
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SYkJCZGZDTUVNMkhydElLUlZSMkhncVpHR0JSTlVrYXRRNFY3RGVjZkNCZ2o0S3UxRXp6bjIxNjV1aDc1ekZXUnN1bVMzOVJub3lrdTJB?oc=5",
+      "title": "12人が死亡した空港攻撃への対応を迫られるサウジ、選択肢は過酷(2/2) - CNN.co.jp",
+      "saved": "2026-10-12-12ren-kasi-wang-sitakong-gang-gong-ji-henodui-ying-wopo-rarerusausi-xuan-ze-zhi--2.md",
+      "ts": 1792047659
     }
   }
 }
