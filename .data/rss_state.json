@@ -1,107 +1,5 @@
 {
   "done": {
-    "bce2e696ade150fd9050565e76d0c96c4311dad4be7ecfe1a7b218bd1c3b7154": {
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8xdi04ckRmRFNzc1pKaEpOOE9FTVZSTnhBUkZBNnM2TUc0VFJQblRndjFOS24tajlMQ1hZVWJ6RzFfQXE3OHVjVVJEUWVyd1F4?oc=5",
-      "title": "トランプ氏、ニューヨーク市長と公邸で会談 住宅開発計画や移民問題など協議 - CNN.co.jp",
-      "saved": "2026-09-22-toranhushi-niyuyokushi-chang-togong-di-tehui-tan-zhu-zhai-kai-fa-ji-hua-yayi-min.md",
-      "ts": 1790037390
-    },
-    "da960475750ff4e1910410f90543065d67b4b6fd8ca70176c3ad59ad19706464": {
-      "link": "https://www.itmedia.co.jp/business/articles/2609/22/news001.html",
-      "title": "AIの回答がイマイチな人の共通点　うまく使う人が必ず伝える6つのこと",
-      "saved": "2026-09-22-ainohui-da-kaimaitinaren-nogong-tong-dian-umakushi-uren-kabi-suchuan-eru6tunokot.md",
-      "ts": 1790037390
-    },
-    "389a08439d7d500ef1485fd64885d5bf65cc3a81a32cfe74e8a2ed395562a990": {
-      "link": "https://www.itmedia.co.jp/business/articles/2609/22/news003.html",
-      "title": "異動は「異業種への転職レベル」、現場は疲弊　自治体職員の働き方はどこへ向かう？",
-      "saved": "2026-09-22-yi-dong-ha-yi-ye-zhong-henozhuan-zhi-reheru-xian-chang-hapi-bi-zi-zhi-ti-zhi-yua.md",
-      "ts": 1790037390
-    },
-    "64a2a9a9a2e31c43cf47c44f3d6d95855fe3e93079f68f37b6b683a51d3b31c6": {
-      "link": "https://www.itmedia.co.jp/news/article/2609/22/2000001668/",
-      "title": "SpaceXAI、「Grok 4.7」発表　コーディングと知識労働向けで同社最高性能、価格は据え置き",
-      "saved": "2026-09-22-spacexai-grok-4-7-fa-biao-koteinkutozhi-shi-lao-dong-xiang-ketetong-she-zui-gao-.md",
-      "ts": 1790037390
-    },
-    "3abd0845ac38e7aa8447cd064d083d872925cc9e6b7f559d5262ce4980ee844b": {
-      "link": "https://www.itmedia.co.jp/news/article/2609/22/2000001649/",
-      "title": "今度は“ディスプレイなし”のAIグラス、「Rokid Ai Glasses Style」を試す",
-      "saved": "2026-09-22-jin-du-ha-teisuhureinasi-noaikurasu-rokid-ai-glasses-style-woshi-su.md",
-      "ts": 1790037390
-    },
-    "fc80c72c5cf7c151e825059b711111e6453369b82383254d53ce33c9426ce728": {
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1WUHdyLWZ1ZnZSWWpnNmxPNXhoSU83Q0hoZG91MmVyeGNVRHF2cEF6QUZGdmJwWTBUYzhRMjFKRTRwaEMwRlRoNzZjdjJTR202M2NN?oc=5",
-      "title": "イラン、NYでの国連総会出席へ 米国との和平なお遠く - CNN.co.jp",
-      "saved": "2026-09-22-iran-nytenoguo-lian-zong-hui-chu-xi-he-mi-guo-tonohe-ping-naoyuan-ku-cnn-co-jp.md",
-      "ts": 1790037390
-    },
-    "a82fd8b7bede185f05a57e016e40d8153f23d20ca5584974699bfaecd8e3d63f": {
-      "link": "https://www.itmedia.co.jp/business/articles/2609/22/news013.html",
-      "title": "なぜ「動く自販機」で月440万円？　成田空港で分かった売れる場所と見せ方",
-      "saved": "2026-09-22-nase-dong-kuzi-fan-ji-teyue-440mo-yuan-cheng-tian-kong-gang-tefen-katutamai-reru.md",
-      "ts": 1790037390
-    },
-    "86f7a14dad627d64a0047775d798bd0c4833a2e9ab546ba8de366aaba5528d8c": {
-      "link": "https://www.itmedia.co.jp/business/articles/2609/22/news017.html",
-      "title": "「休暇中もメールを確認」――休めない現代人、78％が「AIに頼れば仕事から離れやすい」　調査で見えた“悲痛な叫び”",
-      "saved": "2026-09-22-xiu-xia-zhong-momeruwoque-ren-xiu-menaixian-dai-ren-78-ka-ainilai-rehashi-shi-ka.md",
-      "ts": 1790037390
-    },
-    "71cb4c6609588882891081e857d97a31b7e69cf05576c1676210a7d5279f38e1": {
-      "link": "https://www.itmedia.co.jp/business/articles/2609/22/news015.html",
-      "title": "「野球企業」に追い風、相次ぐ黒字転換　5年前は苦境だったのに、なぜ？",
-      "saved": "2026-09-22-ye-qiu-qi-ye-nizhui-ifeng-xiang-ci-kuhei-zi-zhuan-huan-5nian-qian-haku-jing-tatu.md",
-      "ts": 1790037390
-    },
-    "5a65ab38be3c238d458ab2329e363e099a00eaf5e1cac7bc05ca962acd89d2ef": {
-      "link": "https://www.itmedia.co.jp/business/articles/2609/22/news016.html",
-      "title": "「新聞販売店」の倒産、じわり増加中　追い打ちをかける「四重苦」の正体",
-      "saved": "2026-09-22-xin-wen-fan-mai-dian-nodao-chan-siwarizeng-jia-zhong-zhui-ida-tiwokakeru-si-zhon.md",
-      "ts": 1790037390
-    },
-    "da373312e873e2646eeed28be8a5f36f4d497bb1b58da22d74ec65f9590db96b": {
-      "link": "https://www.itmedia.co.jp/business/articles/2609/22/news002.html",
-      "title": "製造業7割が経験した「サプライチェーン寸断」　4割超が抱える\"見えない弱点\"とは",
-      "saved": "2026-09-22-zhi-zao-ye-7ge-kajing-yan-sita-sahuraitiencun-duan-4ge-chao-kabao-eru-jian-enair.md",
-      "ts": 1790037390
-    },
-    "82ef5c37a77dbccfd24f4eb321cb66706db0c1693ec4b072b14bd6228893dfee": {
-      "link": "https://www.itmedia.co.jp/business/articles/2609/22/news008.html",
-      "title": "SNSに「某IT企業勤務の1日！」──社員が顔出ししてSNS投稿　会社はやめさせられる？",
-      "saved": "2026-09-22-snsni-mou-itqi-ye-qin-wu-no1ri-she-yuan-kayan-chu-sisitesnstou-gao-hui-she-hayam.md",
-      "ts": 1790037390
-    },
-    "34c76207a241bad93f688d2a8f1d791cb03760e9c16374575a8af07e8fd8bbcd": {
-      "link": "https://www.itmedia.co.jp/business/articles/2609/22/news021.html",
-      "title": "「静かな場所で仕事したい」「指示は全て文章で」──発達障害のある社員が配慮を希望、会社はどこまで対応すれば？",
-      "saved": "2026-09-22-jing-kanachang-suo-teshi-shi-sitai-zhi-shi-haquan-tewen-zhang-te-fa-da-zhang-hai.md",
-      "ts": 1790037390
-    },
-    "bafd2f3767253cc44a7b3cb89aa599fb72ede61864c59204d5cfe029ea6e32cd": {
-      "link": "https://www.itmedia.co.jp/news/article/2609/22/2000001667/",
-      "title": "Google、「Googlebook」の予約受付開始　899ドル（約14万円）から",
-      "saved": "2026-09-22-google-googlebook-noyu-yue-shou-fu-kai-shi-899toru-yue-14mo-yuan-kara.md",
-      "ts": 1790037390
-    },
-    "3b1217f4e76a4a719c56f5ffcf51d2eb787132125be663f36a4dc06d052d3712": {
-      "link": "https://www.itmedia.co.jp/business/articles/2609/22/news006.html",
-      "title": "カインズ初のPBビール、累計販売数100万本超に　158円で「まずは1本」試し買い、ケース購入につなげる",
-      "saved": "2026-09-22-kainsuchu-nopbhiru-lei-ji-fan-mai-shu-100mo-ben-chao-ni-158yuan-te-masuha1ben-sh.md",
-      "ts": 1790037390
-    },
-    "ce3a6055f6411e5aef29606a28ed8b37f9d585f6b74d2563f94f633fba9dcdd5": {
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80S3VBdjE5cS1ZVVRaNHg5UWduUDJpdHZZb0RPRTB3RHVoZks5V0R3ajBueHZ1SkRNb3BJN0lxSXJvcWc4ZDA4ZVIyQWRZSmdyUUNPSW53?oc=5",
-      "title": "写真特集：2025年にレッドカーペットを席巻したネイキッドドレスを振り返る(5/10) - CNN.co.jp",
-      "saved": "2025-12-25-xie-zhen-te-ji-2025nian-niretutokahetutowoxi-juan-sitaneikitutotoresuwozhen-rifa-5.md",
-      "ts": 1790037390
-    },
-    "0935ad15182fb61210be07f1b5667024106cf9d6edd6be091ccc601152c4dd55": {
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5TkVYMFE2V0UtMmNSalRZOTdXdl8tUF9qWGk1ZmpTOThDb21FcW9rMnRQM3V0QS1kcU1tcVcxdXFRQzRsZEtBLXdjdW0wb3JHMkdUYmdR?oc=5",
-      "title": "写真特集：2025年にレッドカーペットを席巻したネイキッドドレスを振り返る(4/10) - CNN.co.jp",
-      "saved": "2025-12-25-xie-zhen-te-ji-2025nian-niretutokahetutowoxi-juan-sitaneikitutotoresuwozhen-rifa-6.md",
-      "ts": 1790037390
-    },
     "256a07b28ee0778142d36c93aa4115623675fdaa113e43b01cb2fbec3b175dd7": {
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5SejU5c2liNWpOd0RrVTlKX2ItQ0pmZmZ2RjV2clBraVNCTXJacWVnVkN4TzhQTWhleTFvajhRNElPNzY2LTk2NVdha0tJaXM?oc=5",
       "title": "マムダニ氏、ネタニヤフ氏は「戦争犯罪者」 - CNN.co.jp",
@@ -8975,6 +8873,144 @@
       "title": "日本の美しい風景３１選(1/10) - CNN.jp",
       "saved": "2015-05-03-ri-ben-nomei-siifeng-jing-31xuan-1-10-cnn-jp.md",
       "ts": 1792628790
+    },
+    "0af1f6ecfd525ca59d0d59367b0bca25a5944d3db0564effd1044cc9acbba876": {
+      "link": "https://www.bbc.com/japanese/articles/cr4g1j6nx08no?at_medium=RSS&at_campaign=rss",
+      "title": "エアビー、ホストは客にシーツ外しや皿洗いを強制できないと新ルール",
+      "saved": "2026-10-22-eahi-hosutohake-nisituwai-siyamin-xi-iwoqiang-zhi-tekinaitoxin-ruru.md",
+      "ts": 1792652981
+    },
+    "58202afd72c9b6408061a8bbbae5c02210d38fc2e0eb99531da3764bd3f99508": {
+      "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002517/",
+      "title": "豪州でAI「Claude」に保育施設銃撃を予告したら逮捕　弁護側「耳感染症でストレス」",
+      "saved": "2026-10-22-hao-zhou-teai-claude-nibao-yu-shi-she-chong-ji-woyu-gao-sitaradai-bu-bian-hu-ce-.md",
+      "ts": 1792652981
+    },
+    "cac2d3f05d306a01098847b6206db6e2a34e7e4547fc8e138f020b781c076732": {
+      "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002516/",
+      "title": "PHP「緊急」脆弱性悪用の試み、数百万件に　CloudflareのCEOが報告",
+      "saved": "2026-10-22-php-jin-ji-cui-ruo-xing-e-yong-noshi-mi-shu-bai-mo-jian-ni-cloudflarenoceokabao-.md",
+      "ts": 1792652981
+    },
+    "df899987f521a41527ffff133ab794facf8005f8968b1995392d670e542eabe3": {
+      "link": "https://www.bbc.com/japanese/articles/cm93zxd0yw50o?at_medium=RSS&at_campaign=rss",
+      "title": "【解説】 日本のイベント開催能力は世界有数、しかしアジア大会は混乱を極めた",
+      "saved": "2026-10-22-jie-shuo-ri-ben-noihentokai-cui-neng-li-hashi-jie-you-shu-sikasiasiada-hui-hahun.md",
+      "ts": 1792652981
+    },
+    "87e6f5e23b0cd4f24accb85a13fe331596e8ba6aff8812f46568cd7dfaa0bf37": {
+      "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002514/",
+      "title": "PHP脆弱性、海外では“政府サイトごと停止”も　オランダの電子認証やWikipedia関連サービスなどにも影響",
+      "saved": "2026-10-22-phpcui-ruo-xing-hai-wai-teha-zheng-fu-saitokototing-zhi-mo-orantanodian-zi-ren-z.md",
+      "ts": 1792652981
+    },
+    "64ac52a697398638f7fa388c3db013cd80a26b01a6999924f1a31a790f625459": {
+      "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002512/",
+      "title": "PHP脆弱性で高市総理「サイトを一時的に停止することも重要」",
+      "saved": "2026-10-22-phpcui-ruo-xing-tegao-shi-zong-li-saitowoyi-shi-de-niting-zhi-surukotomozhong-ya.md",
+      "ts": 1792652981
+    },
+    "d5d3bd2644c95e3178c9b37821fbb1c149a0fe6d96fe48668ea75775e369b7b7": {
+      "link": "https://www.bbc.com/japanese/articles/cjy56q09r9e7o?at_medium=RSS&at_campaign=rss",
+      "title": "米裁判所、メタに制裁金4兆円の判決　利用者データ流出で「うそ」の説明",
+      "saved": "2026-10-22-mi-cai-pan-suo-metanizhi-cai-jin-4zhao-yuan-nopan-jue-li-yong-zhe-tetaliu-chu-te.md",
+      "ts": 1792652981
+    },
+    "ef78c839539684594247a736ca807e56bc9b341dd71b051bc618d32ad36628fa": {
+      "link": "https://www.itmedia.co.jp/business/articles/2610/22/news069.html",
+      "title": "「大変遺憾」──阪大で約7.8万人の個人情報漏えいか　委託先NECの“契約外運用”が招いた事態",
+      "saved": "2026-10-22-da-bian-yi-han-ban-da-teyue-7-8mo-ren-noge-ren-qing-bao-lou-eika-wei-tuo-xian-ne.md",
+      "ts": 1792652981
+    },
+    "40e91d1004a3f5d5a6d60ffa47d8ad58fde8dc8e14c30bfe6a4c639f5c7747d9": {
+      "link": "https://www.bbc.com/japanese/articles/cvkgk11xrzkwo?at_medium=RSS&at_campaign=rss",
+      "title": "ロシア、キーウをミサイル攻撃　アメリカが促すウクライナとの和平協議再開への意向表明後",
+      "saved": "2026-10-22-rosia-kiuwomisairugong-ji-amerikakacu-suukurainatonohe-ping-xie-yi-zai-kai-henoy.md",
+      "ts": 1792652981
+    },
+    "c91f42b06d241d48e0727b620e5a4bd6e844d5000405d66df26e0d8e1d3e4788": {
+      "link": "https://www.itmedia.co.jp/business/articles/2610/22/news053.html",
+      "title": "“緊急メンテの夜”までの一部始終は？　8月にAIで「PHPの重大な脆弱性」発見→OpenAIが即応チームを招集",
+      "saved": "2026-10-22-jin-ji-mentenoye-matenoyi-bu-shi-zhong-ha-8yue-niaite-phpnozhong-da-nacui-ruo-xi.md",
+      "ts": 1792652981
+    },
+    "2470b52a1066b62f98494fc5c15bd06a543f6965ad5dfd7b62bc1e39d3183ec3": {
+      "link": "https://www.itmedia.co.jp/business/articles/2610/22/news060.html",
+      "title": "PHPに深刻な脆弱性、米NSAやFBIが組織へ直ちに対策要請　サイト遮断の勧告も",
+      "saved": "2026-10-22-phpnishen-ke-nacui-ruo-xing-mi-nsayafbikazu-zhi-hezhi-tinidui-ce-yao-qing-saitoz.md",
+      "ts": 1792652981
+    },
+    "13259b25c8a9ae336a40e2ef211e662f8ec4ee4a2f8a5cd2f771e6a57f97c1e1": {
+      "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002501/",
+      "title": "「GitLab」に深刻度“最大”の脆弱性　認証なしで任意のコード実行の恐れ、修正版適用を　CVSS「10.0」",
+      "saved": "2026-10-22-gitlab-nishen-ke-du-zui-da-nocui-ruo-xing-ren-zheng-nasiteren-yi-nokotoshi-xing-.md",
+      "ts": 1792652981
+    },
+    "298d3140cbdd4c556c7c0aa1bc16acbc471795aa1d93d4e8ac02da5ae5fe31e2": {
+      "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002500/",
+      "title": "コミックシーモア、流出は最大約420万件に　メールアドレスや生年月日など　不正アクセスの経路特定・遮断は完了",
+      "saved": "2026-10-22-komitukusimoa-liu-chu-hazui-da-yue-420mo-jian-ni-meruatoresuyasheng-nian-yue-ri-.md",
+      "ts": 1792652981
+    },
+    "25ab7a59173840c614ce44bae5218c93a42f62fc171e905bdd2242371e215c0f": {
+      "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002498/",
+      "title": "Anthropic、Claudeでソフトウェアのアタックサーフェスを洗い出し・縮小する研究を公開　OpenSSHの修正にも貢献",
+      "saved": "2026-10-22-anthropic-claudetesohutoueanoatatukusahuesuwoxi-ichu-sisuo-xiao-suruyan-jiu-wogo.md",
+      "ts": 1792652981
+    },
+    "cc2e3103f0696946f19e5525d5b424411bf56ea84967362ccc9f9e06f6728b87": {
+      "link": "https://www.bbc.com/japanese/articles/c674p01yqwqko?at_medium=RSS&at_campaign=rss",
+      "title": "プログラミング言語「PHP」に重大な脆弱性、世界中で多くのウェブサイト休止",
+      "saved": "2026-10-22-hurokuraminkuyan-yu-php-nizhong-da-nacui-ruo-xing-shi-jie-zhong-teduo-kunouehusa.md",
+      "ts": 1792652981
+    },
+    "37d1967bda7944fe50c4fa297e75f9d271cdb35c01a924d01630646d110a1e9c": {
+      "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002493/",
+      "title": "旅行ゲーム「ワールドクエスト」、PHP脆弱性で即日サービス終了　「古い仕組みのため対策とれず」",
+      "saved": "2026-10-22-lu-xing-kemu-warutokuesuto-phpcui-ruo-xing-teji-ri-sahisuzhong-liao-gu-ishi-zu-m.md",
+      "ts": 1792652981
+    },
+    "4b93d4d246fe011b669fb2f48cbea6c09b76abfa16f9fc5b423a713021176f02": {
+      "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002468/",
+      "title": "「スーパーの冷蔵設備が50度に」フランスの店舗襲ったサイバー攻撃の正体　弱点だらけだったセキュリティ対策",
+      "saved": "2026-10-22-suhanoleng-zang-she-bei-ka50du-ni-huransunodian-pu-xi-tutasaihagong-ji-nozheng-t.md",
+      "ts": 1792652981
+    },
+    "6d9823f43c42f1b29d396c7c22fd6469c7e4d88f94e825dbde792fc2a3779aaf": {
+      "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002492/",
+      "title": "NVIDIA、AIファクトリーをコンテナで届ける「DSX POD」発表　アヒル型ロボット「Microduck」も登壇──GTC Berlin基調講演",
+      "saved": "2026-10-22-nvidia-aihuakutoriwokontenatejie-keru-dsx-pod-fa-biao-ahiruxing-rohotuto-microdu.md",
+      "ts": 1792652981
+    },
+    "88681a230aed50746da4a89f467026cf87d42f691f0eaa005515d200272054ea": {
+      "link": "https://www.itmedia.co.jp/business/articles/2610/22/news004.html",
+      "title": "なぜ今「G-SHOCK」が若者に売れるのか　新製品を減らして定番を売る理由",
+      "saved": "2026-10-22-nasejin-g-shock-karuo-zhe-nimai-rerunoka-xin-zhi-pin-wojian-rasiteding-fan-womai.md",
+      "ts": 1792652981
+    },
+    "725e4063402f8342c7b2cbe24ab3a0d9a1e107a0bd66fa487cdaf6de7bae428b": {
+      "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002491/",
+      "title": "大阪大、学生など7.8万人の情報漏えい　NECが無断で協力会社とデータ共有",
+      "saved": "2026-10-22-da-ban-da-xue-sheng-nato7-8mo-ren-noqing-bao-lou-ei-neckawu-duan-texie-li-hui-sh.md",
+      "ts": 1792652981
+    },
+    "b30ccbca5f5a742a5482bdfaa17c5e615bbd48e3f90a5ee4f1ac5adc7f5df82f": {
+      "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002489/",
+      "title": "Meta決算、売上高26％増も営業益37％減　AIエージェント「Muse」は1000万人超が利用開始",
+      "saved": "2026-10-22-metajue-suan-mai-shang-gao-26-zeng-moying-ye-yi-37-jian-aiesiento-muse-ha1000mo-.md",
+      "ts": 1792652981
+    },
+    "9e12a33c175a87417d4b467ee5cdbe12da0c5bda4066ca86a8fc6438afb5a0fe": {
+      "link": "https://www.itmedia.co.jp/business/articles/2610/22/news003.html",
+      "title": "「皿になるフライパン」の開発秘話　燕三条の老舗メーカーに聞く“当たり前”を取り払った商品の生み出し方は？",
+      "saved": "2026-10-22-min-ninaruhuraihan-nokai-fa-mi-hua-yan-san-tiao-nolao-pu-mekaniwen-ku-dang-tariq.md",
+      "ts": 1792652981
+    },
+    "03d6c594873a04a31168bf87a1fbca9df31aaa24567e58bdd6f9c514cc64a1ed": {
+      "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002488/",
+      "title": "Tesla決算、営業益56％減　FSD契約は67％増の174万件　SpaceX合併は「昨日すべて話した」とマスク氏",
+      "saved": "2026-10-22-teslajue-suan-ying-ye-yi-56-jian-fsdqi-yue-ha67-zeng-no174mo-jian-spacexhe-bing-.md",
+      "ts": 1792652981
     }
   }
 }
