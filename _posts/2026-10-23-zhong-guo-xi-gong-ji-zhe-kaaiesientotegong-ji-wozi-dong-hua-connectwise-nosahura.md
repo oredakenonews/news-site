@@ -1,0 +1,8 @@
+---
+title: "中国系攻撃者がAIエージェントで攻撃を自動化、「ConnectWise」のサプライチェーン攻撃に関与　Microsoftが警告"
+date: 2026-10-23 07:45:34 +0900
+categories: [ITmedia]
+---
+Microsoftは、中国連携の攻撃者「Storm-0940」がオープンソースのAI侵入テストツール「ARTEX」で攻撃を自動化し、世界で数百の組織を標的にしていると発表した。ConnectWise経由で顧客のMicrosoft 365に侵入した事例も同グループと分析。管理者権限奪取まで3時間未満の例もあり、注意を呼び掛けている。
+
+[続きを読む →](https://www.itmedia.co.jp/news/article/2610/23/2000002531/)

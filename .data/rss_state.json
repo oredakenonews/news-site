@@ -1,77 +1,5 @@
 {
   "done": {
-    "eea69c257f0976770aa514c6417674945b97c4c14006e4b7c40897f2106225a5": {
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5GSW5DNEp3Z2dWMERvSTJqaUMtSmFLMHhXNDlmTEFWaXdSd0swd1BrN1l5alZsU2pMZW5tUFJSaDNlSGR0blVSX0lLdkxteEEy?oc=5",
-      "title": "トランプ氏が国連演説、イラン巡り「重大な決断」 「選挙後に合意か壊滅させるか」 - CNN.co.jp",
-      "saved": "2026-09-23-toranhushi-kaguo-lian-yan-shuo-iranxun-ri-zhong-da-najue-duan-xuan-ju-hou-nihe-y.md",
-      "ts": 1790121712
-    },
-    "90073e9c7ca742a4832b1a0d2251f1de50078ae120084a86fdb56d393a6ad721": {
-      "link": "https://www.itmedia.co.jp/business/articles/2609/23/news008.html",
-      "title": "キーワードの詰め込みはもう無意味？　「生成AI検索最適化」で行うべき10の施策",
-      "saved": "2026-09-23-kiwatonojie-meip-mihamouwu-yi-wei-sheng-cheng-aijian-suo-zui-shi-hua-texing-uhek.md",
-      "ts": 1790121712
-    },
-    "713ff96bad3e2a82030df8cad9793cc2d5fe06b91f09d2ca6c68297ffe207b86": {
-      "link": "https://www.itmedia.co.jp/business/articles/2609/23/news005.html",
-      "title": "会社の水やティッシュを勝手に持ち帰る社員　どう対応すれば？",
-      "saved": "2026-09-23-hui-she-noshui-yateitusiyuwosheng-shou-nichi-tigui-rushe-yuan-toudui-ying-sureha.md",
-      "ts": 1790121712
-    },
-    "34cc5c1e012f740c8a439961970ca9c525955373b644d12cbe24545f774cda18": {
-      "link": "https://www.itmedia.co.jp/business/articles/2609/23/news007.html",
-      "title": "「システム入れれば解決」のワナ　中小企業の53％が途中で「失敗」、“後出しコスト”に泣くDXのリアル",
-      "saved": "2026-09-23-sisutemuru-rerehajie-jue-nowana-zhong-xiao-qi-ye-no53-katu-zhong-te-shi-bai-hou-.md",
-      "ts": 1790121712
-    },
-    "2f156b0c9f7b7466cdcc2a6748e44b98abaeab0c8806e7f280ad6aca6ee474a7": {
-      "link": "https://www.itmedia.co.jp/business/articles/2609/23/news004.html",
-      "title": "今押さえたい「半導体」の基礎知識　極小チップが“AI時代の戦略物資”になった、納得の理由",
-      "saved": "2026-09-23-jin-ya-saetai-ban-dao-ti-noji-chu-zhi-shi-ji-xiao-tituhuka-aishi-dai-nozhan-lue-.md",
-      "ts": 1790121712
-    },
-    "f59d4bab45be1209689d480692140fe1dc5d0af6cb9d488d9587a2da7044ecc3": {
-      "link": "https://www.itmedia.co.jp/business/articles/2609/23/news003.html",
-      "title": "ベテランは距離を置き、若手は黙って去る――「職場断絶」のリアルと、その処方箋",
-      "saved": "2026-09-23-heteranhaju-li-wozhi-ki-ruo-shou-hamo-tutequ-ru-zhi-chang-duan-jue-noriaruto-son.md",
-      "ts": 1790121712
-    },
-    "8cb8409f9539f6fd89a795ee52af6478f598ff0113055c5e7d16c68831e37e93": {
-      "link": "https://www.itmedia.co.jp/business/articles/2609/23/news018.html",
-      "title": "おにぎりブームが落ち着く中、なぜ売れる？　「おにまる」と「おにどん」のちょっと意外な仕掛け",
-      "saved": "2026-09-23-onikirihumukaluo-tizhao-kuzhong-nasemai-reru-onimaru-to-oniton-notiyotutoyi-wai-.md",
-      "ts": 1790121712
-    },
-    "72f54f7efb2d54dcf908826dbd293e304d7052945f0936410c1c2397a78af0ed": {
-      "link": "https://www.itmedia.co.jp/news/article/2609/23/2000001673/",
-      "title": "Anthropic、「Claude Opus 5.5」公開　Fable 5.1並みの性能で利用コスト4割減",
-      "saved": "2026-09-23-anthropic-claude-opus-5-5-gong-kai-fable-5-1bing-minoxing-neng-teli-yong-kosuto4.md",
-      "ts": 1790121712
-    },
-    "9d0cb7c98ab874a8ff95b8acb18e13b74adc83dca95c20df674cd447546a27ef": {
-      "link": "https://www.itmedia.co.jp/business/articles/2609/23/news009.html",
-      "title": "国道にも「レア度」がある？　ゼンリンのトレカ、初回限定版は約10分で完売",
-      "saved": "2026-09-23-guo-dao-nimo-readu-kaaru-senrinnotoreka-chu-hui-xian-ding-ban-hayue-10fen-tewan-.md",
-      "ts": 1790121712
-    },
-    "131ea8746175ac201be3bcfa9736f79fdd20a404402d2d788d54cc782eeb5236": {
-      "link": "https://www.itmedia.co.jp/business/articles/2609/23/news002.html",
-      "title": "「返信忘れてた……」　メールの“うっかり放置”を減らす「Gemini Spark」活用術【実際のプロンプト紹介】",
-      "saved": "2026-09-23-fan-xin-wang-reteta-meruno-utukarifang-zhi-wojian-rasu-gemini-spark-huo-yong-shu.md",
-      "ts": 1790121712
-    },
-    "23e7030e874cdac6acfaa5b6a85af245d17caa19e5fcfc6930dfbba3744ba3ba": {
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hZDhTdDV5ODQ0WjZEVk93VjdCSlBoVzJWQWx4bTZuc2lVVVIxQXZneUZuRnh2SWdVU01nelh3Q3lsM0E3QWdwZjMzZWNtVS1fU2ZucnRn?oc=5",
-      "title": "ネパール・中国国境の壊滅的な洪水、原因は 科学者チームが分析結果を報告(2/3) - CNN.co.jp",
-      "saved": "2026-09-17-neharuzhong-guo-guo-jing-nohuai-mie-de-nahong-shui-yuan-yin-ha-ke-xue-zhe-timuka-2.md",
-      "ts": 1790121712
-    },
-    "a7aa04d501e53b608dd94b15e58366666d39d148225b8d1fb92660721bd2290c": {
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zczBXLXNzVFhqT1BIcUFFNGZmTjJreUowLURKNmxxSm92dUtHZFNNcS0tRzFYQWlQRE5pUURoNnp6bzdEdEtmeUZXeGJnUVlja3JtSmFR?oc=5",
-      "title": "写真特集：2025年にレッドカーペットを席巻したネイキッドドレスを振り返る(7/10) - CNN.co.jp",
-      "saved": "2025-12-25-xie-zhen-te-ji-2025nian-niretutokahetutowoxi-juan-sitaneikitutotoresuwozhen-rifa-7.md",
-      "ts": 1790121712
-    },
     "8afcb6a159a8e528ac748454ed5268adb2bc0620c457a990a9e7ccb1305326ca": {
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55U0R6RmY4VDUwVW93SVJXQ2tRSmNXZm1Rb3J2VUo0ZFUxakpKQmRWY0hIcWQxUkFUR0dJYkliYnp0d052Z2lZb1RJWV8xdmpoMmZycw?oc=5",
       "title": "2月のニューヨーク・ファッション・ウィークでランウェーを歩くクラビキュラー/Victor Virgile/Gamma-Rapho/Getty Images - CNN.co.jp",
@@ -8951,6 +8879,48 @@
       "title": "米国で高速鉄道がうまくいかない理由(3/3) - CNN.jp",
       "saved": "2026-10-11-mi-guo-tegao-su-tie-dao-kaumakuikanaili-you-3-3-cnn-jp.md",
       "ts": 1792675805
+    },
+    "5e3649005c7fec4bd78f7234b7a1a8f25bb073d8a625d3f16ae6ed849c69da9d": {
+      "link": "https://www.itmedia.co.jp/news/article/2610/23/2000002532/",
+      "title": "「お名前.com」 のFX自動売買VPS、不正アクセスで金銭被害か　「600万円の損失」「55万円なくなった」……報告相次ぐ",
+      "saved": "2026-10-23-oming-qian-com-nofxzi-dong-mai-mai-vps-bu-zheng-akusesutejin-qian-bei-hai-ka-600.md",
+      "ts": 1792715069
+    },
+    "be702e08436b9d6437ae7e414cd9fac57d7e56a423b44aff741e9c210dc3b4ec": {
+      "link": "https://www.itmedia.co.jp/news/article/2610/23/2000002527/",
+      "title": "「AIでエンジニア派遣は不要になる」のか？　各社に肌感を聞いた　求められる人材、明確に変化",
+      "saved": "2026-10-23-aiteensiniapai-qian-habu-yao-ninaru-noka-ge-she-niji-gan-wowen-ita-qiu-merarerur.md",
+      "ts": 1792715069
+    },
+    "8f4a532e37ac6b4f17637c08da08c9e0b69c070e5a1e742749fd06c4687eca96": {
+      "link": "https://www.itmedia.co.jp/news/article/2610/23/2000002531/",
+      "title": "中国系攻撃者がAIエージェントで攻撃を自動化、「ConnectWise」のサプライチェーン攻撃に関与　Microsoftが警告",
+      "saved": "2026-10-23-zhong-guo-xi-gong-ji-zhe-kaaiesientotegong-ji-wozi-dong-hua-connectwise-nosahura.md",
+      "ts": 1792715069
+    },
+    "610fc54e391064325541719a2a4126a2c4ca5e94f11852c19ed406cf75ebca8a": {
+      "link": "https://www.itmedia.co.jp/news/article/2610/23/2000002530/",
+      "title": "PHP2Shell、公表4日前に悪用の試み　「公表日より前にさかのぼって調査を」とAmazon",
+      "saved": "2026-10-23-php2shell-gong-biao-4ri-qian-nie-yong-noshi-mi-gong-biao-ri-yoriqian-nisakanohot.md",
+      "ts": 1792715069
+    },
+    "e3ae4ef33deafc98080762d9d16df7074d94aadee5907b82e4730e6cb132f347": {
+      "link": "https://www.itmedia.co.jp/business/articles/2610/23/news019.html",
+      "title": "「660万件流出」判明の3日前、タイムズカーは何を伝えた？　企業の命運を分ける「初報の鉄則」",
+      "saved": "2026-10-23-660mo-jian-liu-chu-pan-ming-no3ri-qian-taimusukahahe-wochuan-eta-qi-ye-noming-yu.md",
+      "ts": 1792715069
+    },
+    "08e3192b4f2629dbf8d4f6c381af484153d9e5b0e663d5ae0c59d1b742cbc1c2": {
+      "link": "https://www.itmedia.co.jp/business/articles/2610/23/news006.html",
+      "title": "なぜ高収入の“超エリート集団”は一線を越えたのか　プルデンシャル不祥事の深層",
+      "saved": "2026-10-23-nasegao-shou-ru-no-chao-eritoji-tuan-hayi-xian-woyue-etanoka-hurutensiyarubu-xia.md",
+      "ts": 1792715069
+    },
+    "9145489d92ab24d7a26d7091b1e51c7cc8324f38ce6db15925df65415173fc02": {
+      "link": "https://www.itmedia.co.jp/business/articles/2610/23/news012.html",
+      "title": "心を満たす「かわいいフィジカルAI」、日本の勝ち筋になり得るか？　「LOVOT」林社長が説く可能性",
+      "saved": "2026-10-23-xin-woman-tasu-kawaiihuisikaruai-ri-ben-nosheng-tijin-ninaride-ruka-lovot-lin-sh.md",
+      "ts": 1792715069
     }
   }
 }
