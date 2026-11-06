@@ -1,143 +1,5 @@
 {
   "done": {
-    "2a8145cf88fb1d70076d6c34d5f4528f1d4af882ba012aba5fcbc77789d65141": {
-      "link": "https://www.itmedia.co.jp/news/article/2610/07/2000002072/",
-      "title": "「応用情報技術者試験」申込初日にアクセス集中、「地域選べない」「決済できない」……IPAが謝罪",
-      "saved": "2026-10-07-ying-yong-qing-bao-ji-shu-zhe-shi-yan-shen-ip-chu-ri-niakusesuji-zhong-di-yu-xua.md",
-      "ts": 1791335611
-    },
-    "2bda55af5c44f46b9d1c907103d886e5788670df737db926f249c35f60b31bd0": {
-      "link": "https://www.itmedia.co.jp/news/article/2610/07/2000002071/",
-      "title": "OpenAI、社内AIがリーマン予想の関連難問を証明と主張　論文722本をGitHubで公開",
-      "saved": "2026-10-07-openai-she-nei-aikarimanyu-xiang-noguan-lian-nan-wen-wozheng-ming-tozhu-zhang-lu.md",
-      "ts": 1791335611
-    },
-    "b7a8f1d744463f49ad6d04bc09008de21a8f8c36e69c048f3a350a6f90dd3ad8": {
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wdk5ONVZwbUpYdWRIbS1DLXdvS1RDWEZSMkMxdzVQb1N5TFpvdFF5T3dNX0dBSm5TV3Y0OXF0UlpmVlJnTDB4Q3NCUkxGajVSNDRnQUd5bw?oc=5",
-      "title": "トイレ故障で国際便が緊急着陸、搭乗者287人に「二つしか使えない」 - CNN.jp",
-      "saved": "2026-10-07-toiregu-zhang-teguo-ji-bian-kajin-ji-zhao-lu-da-cheng-zhe-287ren-ni-er-tusikashi.md",
-      "ts": 1791335611
-    },
-    "d71aa4664efce9f46a8022a77a326f5a7a9c768f64c397de1ac2aca606398609": {
-      "link": "https://www.itmedia.co.jp/news/article/2610/07/2000002070/",
-      "title": "旭化成子会社、約51万人分の個人情報漏えいか　医療関係者向けサイトに不正アクセス",
-      "saved": "2026-10-07-xu-hua-cheng-zi-hui-she-yue-51mo-ren-fen-noge-ren-qing-bao-lou-eika-yi-liao-guan.md",
-      "ts": 1791335611
-    },
-    "95966e3d6e69604078691fea39ced1b1d92c05cb9987488292440f69c21f7102": {
-      "link": "https://www.itmedia.co.jp/business/articles/2610/07/news024.html",
-      "title": "「チェーン店は金太郎あめ」の時代は終わった　AOKIHD会長が語る、異業種1398店舗を束ねる「賢い投資」",
-      "saved": "2026-10-07-tiendian-hajin-tai-lang-ame-noshi-dai-hazhong-watuta-aokihdhui-chang-kayu-ru-yi-.md",
-      "ts": 1791335611
-    },
-    "f002f8afd80ede549c97c34af309701f8fcda8f83d407f06919a0df6c459d44e": {
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zUDgydUlLSEM0a3dqMDB3eU4zcldCTXgtQzY4N1VSREVpdHZhWVVKdjh1OFBvV0ZTUTRvVEFOVkpQU2taQjlrdWhlN1RWbmhy?oc=5",
-      "title": "死刑執行を生き延びたクリスタ・パイク死刑囚、意識戻り発話も 弁護団が明かす 米 - CNN.jp",
-      "saved": "2026-10-07-si-xing-zhi-xing-wosheng-kiyan-hitakurisutahaikusi-xing-qiu-yi-shi-li-rifa-hua-m.md",
-      "ts": 1791335611
-    },
-    "f4943be0fbfc5a440e246189331c032045b95c8d17584ce4ec4892f952c9e11e": {
-      "link": "https://www.itmedia.co.jp/business/articles/2610/07/news015.html",
-      "title": "「教育熱心」「お出かけ好き」　Vポイントが“AIペルソナ”で進める顧客理解　Olive連携、どれだけ“強み”を磨けるか",
-      "saved": "2026-10-07-jiao-yu-re-xin-ochu-kakehao-ki-vhointoka-aiherusona-tejin-merugu-ke-li-jie-olive.md",
-      "ts": 1791335611
-    },
-    "1711f1b68a55663d42928afb1f45f189654055bdf37269aa625078e0422c13f6": {
-      "link": "https://www.itmedia.co.jp/business/articles/2610/07/news014.html",
-      "title": "あえて「経済圏を持たない」Vポイント、Olive連携を武器にどう戦う？　社長が語る",
-      "saved": "2026-10-07-aete-jing-ji-quan-wochi-tanai-vhointo-olivelian-xi-wowu-qi-nitouzhan-u-she-chang.md",
-      "ts": 1791335611
-    },
-    "9c812f7693a6874e620e9d99bfe67f01483e8c5b10e0c50f58fc2fbcdf7afe5a": {
-      "link": "https://www.itmedia.co.jp/news/article/2610/07/2000002069/",
-      "title": "Paramount、Warner Bros. Discoveryの買収を完了　新社名は「Skydance」に",
-      "saved": "2026-10-07-paramount-warner-bros-discoverynomai-shou-wowan-liao-xin-she-ming-ha-skydance-ni.md",
-      "ts": 1791335611
-    },
-    "a067e9ad2349fed056e78f7eb86fb1100f5559cd226e6dac81335723d1011626": {
-      "link": "https://www.itmedia.co.jp/business/articles/2610/07/news042.html",
-      "title": "「AIの多少の悪影響は許容すべき」　OpenAIアルトマン氏、“AIが暴走”してなおAnthropicと主張がズレる訳",
-      "saved": "2026-10-07-ainoduo-shao-noe-ying-xiang-haxu-rong-suheki-openaiarutomanshi-aikabao-zou-siten.md",
-      "ts": 1791335611
-    },
-    "c20a96ac25d0c932dc23934dd8fc5517c3dcf63d79958060352d1052aa9ddff0": {
-      "link": "https://www.itmedia.co.jp/business/articles/2610/07/news012.html",
-      "title": "職人がスマホで“サクッと”動画撮影→技を共有　「金箔ソフト」で知られる老舗企業が挑む「技術継承」",
-      "saved": "2026-10-07-zhi-ren-kasumahote-sakututo-dong-hua-cuo-ying-ji-wogong-you-jin-bo-sohuto-tezhi-.md",
-      "ts": 1791335611
-    },
-    "cc042e6e1827289bbdf1446feff720123da2fff32046f5bde7d7362b6ca6d2a8": {
-      "link": "https://www.itmedia.co.jp/news/article/2610/07/2000002068/",
-      "title": "Google、原発大手Constellationと20年の電力購入契約　「他の電力利用者に負担なし」",
-      "saved": "2026-10-07-google-yuan-fa-da-shou-constellationto20nian-nodian-li-gou-ru-qi-yue-ta-nodian-l.md",
-      "ts": 1791335611
-    },
-    "ce35076e6de4cc382c50920595d5076e2e0e5c6b121f4311a2e9dd408b07c5a4": {
-      "link": "https://www.itmedia.co.jp/news/article/2610/06/2000002037/",
-      "title": "Adobeツールの代替に？　オープンソースの無料クリエイティブソフト「Crafting Apps」公開",
-      "saved": "2026-10-06-adobeturunodai-ti-ni-ohunsosunowu-liao-kurieiteihusohuto-crafting-apps-gong-kai.md",
-      "ts": 1791335611
-    },
-    "cdfe6aae1c74b309e634414a1698508e0f21487fd0a2dc0da3c957d6b7e7b4cd": {
-      "link": "https://www.bbc.com/japanese/articles/cm86zqpy4l94o?at_medium=RSS&at_campaign=rss",
-      "title": "イエメン政府軍、紅海の重要航路を「確保」と発表　フーシ派は否定",
-      "saved": "2026-10-06-iemenzheng-fu-jun-hong-hai-nozhong-yao-hang-lu-wo-que-bao-tofa-biao-husipai-hafo.md",
-      "ts": 1791335611
-    },
-    "72df120e1e10f5bc5b3a5e893cdb599ba70bf1539f255aabb3b082ef9d57a005": {
-      "link": "https://www.bbc.com/japanese/articles/ck054zl26jjro?at_medium=RSS&at_campaign=rss",
-      "title": "フェイスブックへの投稿で死刑判決、サウジアラビアへの出稼ぎ労働者　恩赦求める声高まる",
-      "saved": "2026-10-06-hueisuhutukuhenotou-gao-tesi-xing-pan-jue-sausiarahiahenochu-jia-kilao-dong-zhe-.md",
-      "ts": 1791335611
-    },
-    "bf09def0c1740b1932d267c7892ac3688f2ff1c0b31c0bd28c29142800e00990": {
-      "link": "https://www.itmedia.co.jp/news/article/2610/06/2000002067/",
-      "title": "シチズン時計、委託先への不正アクセスで約10万人分の個人情報漏えいか　大和証券と同じサービスが原因に",
-      "saved": "2026-10-06-sitisunshi-ji-wei-tuo-xian-henobu-zheng-akusesuteyue-10mo-ren-fen-noge-ren-qing-.md",
-      "ts": 1791335611
-    },
-    "4da42f35147202e84a0120729aa6e626b285b4de1fa325db5f3f98ff48a8a53d": {
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XY2FNSjI4eDBuWF85RDZvTjVwLWtqelVjbXotM2xaSnEtTm92aTN4WE1KNVZfV3F1RzRTN09fSEN1RXhueDRmZjRYcFpyNFFOTmZMTw?oc=5",
-      "title": "死亡したペスト対策研究所の検査技師ダリア・シピロワさん（28）。地元メディアが特定した/VK/Darya Shipilova - CNN.jp",
-      "saved": "2026-10-06-si-wang-sitahesutodui-ce-yan-jiu-suo-nojian-cha-ji-shi-tariasihirowasan-28-di-yu.md",
-      "ts": 1791335611
-    },
-    "81f356c0f0c7e14662852c2b4e3aa4068974a3674c6dfb3b7638a7c63452aeba": {
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YRXlCQTBHV3dvcHAzSU9RS2R1bmR1ZWI0YmhBNVE4R0dVTDdQYmk3bDhhcEZwb1J4WklkNlNtd3AybXV1dERtNnRuWW92MmtBbnJrRnRnc2lCYS1nYWRaNjFFQ1NVZDJYTGc?oc=5",
-      "title": "住宅の「暗い片隅」に追いやられていた4500円の絵画、2億円で落札 米 - CNN.jp",
-      "saved": "2026-10-06-zhu-zhai-no-an-ipian-yu-nizhui-iyarareteita4500yuan-nohui-hua-2yi-yuan-teluo-zha-2.md",
-      "ts": 1791335611
-    },
-    "bf73f498b078b434c833fbff3dd9cbb548b20e22e2f36f0b522ed9ebbdddb3fa": {
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qcGNJTG5vc1RnQkhQam54bjdaMGx1akYzcjJnZjl1UGQtUE1BUklodk9qQTFMNy1FREZHNWQ3T3dibVJidWx6VTBJOFZfanZnNlV1aUNB?oc=5",
-      "title": "フライドバイ乗っ取り未遂で露呈した航空保安対策の溝、「内部の脅威」は想定せず(2/2) - CNN.jp",
-      "saved": "2026-10-05-huraitohaicheng-tuqu-riwei-sui-telu-cheng-sitahang-kong-bao-an-dui-ce-nogou-nei--2.md",
-      "ts": 1791335611
-    },
-    "a8a0aa7257a8e19a469f3a562b88076a7217815996869fa70debf829182cb99c": {
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBUSDJ4c0VEd1FEdDdiTlZwUi1UUDlfblEwdnFBT3FCZE1nR2ZrRWRKUWcwR3JxcFR0b3hTTEVoVDNqbjBJelpudU1JTnVobi1BWUpVcw?oc=5",
-      "title": "9月30日、イスラエルのベングリオン空港への着陸態勢に入るフライドバイの旅客機 - CNN.jp",
-      "saved": "2026-10-01-9yue-30ri-isuraerunohenkurionkong-gang-henozhao-lu-tai-shi-niru-ruhuraitohainolu.md",
-      "ts": 1791335611
-    },
-    "67f27eca7d1aa7d55f0ba1874e84a9bd768647c146c76255488d9d73cad40a02": {
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAtV3JmN1N1UUIxenZ3NnFwd3JRS0p0MnFCYjVzcEJyekg0VzhXOV9UcEptY05yekRzYXJ1aUpxNEJzWk9mSW9IZzR4bkV1SVNo?oc=5",
-      "title": "失踪中のロスアラモス研究所職員、森林で遺体発見 米ニューメキシコ州 - CNN.jp",
-      "saved": "2026-06-02-shi-zong-zhong-norosuaramosuyan-jiu-suo-zhi-yuan-sen-lin-teyi-ti-fa-jian-mi-niyu-2.md",
-      "ts": 1791335611
-    },
-    "a2996ae2a76f91e2675cb821a6338ff02556ffa421cd931d0fe824accab93ef2": {
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0RWI4LW9jVFhHWGVjNGxGUkNiMFFsYlg5N2wzNkpWNjdPVVN4VWRJSmhiV0FOaVhIVnRhMjRlTVYzSTNlZ3FXU1VoSHRXOG92ZGU0?oc=5",
-      "title": "欧州でまれな変異遺伝子持つ精子ドナーから197人の子ども、一部はすでに死亡 - CNN.jp",
-      "saved": "2025-12-11-ou-zhou-temarenabian-yi-yi-chuan-zi-chi-tujing-zi-tonakara197ren-nozi-tomo-yi-bu-5.md",
-      "ts": 1791335611
-    },
-    "dad0f1e1464e469d90a9ad0198faf1d7ba238b56ce8ac7b2b9799bc0378370de": {
-      "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1KVGNCN1RFeWVWV0JiR0p0a2lSaTlYSXVIZ2NWeGU3VkxtUUJaemRFQks2Rmt3N0RwV2c?oc=5",
-      "title": "CNN.co.jp - CNN.jp",
-      "saved": "2015-11-05-cnn-co-jp-cnn-jp.md",
-      "ts": 1791335611
-    },
     "0027b1caf7826ff0b1b98f47f6f37623cdc2a0ac8571a5d378a1a1b893f407c4": {
       "link": "https://www.bbc.com/japanese/articles/cm0rlgywzxyvo?at_medium=RSS&at_campaign=rss",
       "title": "ロシアのペスト研究所職員が死亡、ロシアとアメリカのやりとりは",
@@ -8903,6 +8765,132 @@
       "title": "副大統領専用機の外で報道陣の取材に応じるバンス氏＝2日、メリーランド州アンドルーズ統合基地 - CNN",
       "saved": "2026-11-05-fu-da-tong-ling-zhuan-yong-ji-nowai-tebao-dao-zhen-noqu-cai-niying-siruhansushi-.md",
       "ts": 1793901109
+    },
+    "9425d5c089ce3f27092c0951c1cfd7376598f57ee90b2c326fd6a197e2e46301": {
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14anYtdFZjb2J0NE1HWUdxek5GNHJzWGYzMzVJVk01bUNlYV9pVHhCQkVXTnFsZTVMei15QVFjN1RKbVp3UVNrQnlKamVPM2lB?oc=5",
+      "title": "米カリフォルニア州知事、死刑囚全員を終身刑に減刑 執行失敗で論議再燃する中 - CNN",
+      "saved": "2026-11-06-mi-karihuoruniazhou-zhi-shi-si-xing-qiu-quan-yuan-wozhong-shen-xing-nijian-xing-.md",
+      "ts": 1793930389
+    },
+    "a6f2abd9198c5a28cee4fc90db4ed37c763c911c55e6923d3694d2d2d64356c6": {
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MN0tNS1h6dVJTQTVzZ1kxc19SVFluZ2xIRUxQQ1duYjF2dzVRQXl4d1hzd1RseDhYdHhDTlItNlZucWFOMU5JLUM4cURFNjFRSXNJ?oc=5",
+      "title": "ゼレンスキー氏、米国からの追加支援に期待感 米中間選挙での民主党大勝を受け - CNN",
+      "saved": "2026-11-06-serensukishi-mi-guo-karanozhui-jia-zhi-yuan-niqi-dai-gan-mi-zhong-jian-xuan-ju-t.md",
+      "ts": 1793930389
+    },
+    "ec97fabe91b0361379b2440e1113c451333933fd049aae83f8623e7aa8acd314": {
+      "link": "https://www.itmedia.co.jp/business/articles/2611/06/news047.html",
+      "title": "ソニー2Q過去最高益も　「プレステ」サービス、サイバー攻撃の懸念にCFOは何を語ったか",
+      "saved": "2026-11-06-soni2qguo-qu-zui-gao-yi-mo-huresute-sahisu-saihagong-ji-noxuan-nian-nicfohahe-wo.md",
+      "ts": 1793930389
+    },
+    "31d2337600afc9561ae2c531d5a0d965448a470f6ec437c7857cd0585ef0acf2": {
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA0OVZTS0N6MFhsSDhDU1NiQXYzUlZ4WUhIM1F5cHNqdXJ3T2VCUkxzXzk2MlRTX1VVTFo5MHhBWFZEUU1uUDk0WXBKR3d1T0E?oc=5",
+      "title": "フランスで大規模デモ 最多の人数が参加 - CNN",
+      "saved": "2026-11-06-huransuteda-gui-mo-temo-zui-duo-noren-shu-kacan-jia-cnn.md",
+      "ts": 1793930389
+    },
+    "cdc4b02802615b310ae69a34e49c8adfd3eca1928b69af638b52a76e42223b5e": {
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE00NzNwbGZwS2wwYVBDc0RXSzl1YWtUUDJUTFhMclRYTURvNjlHcGdmTjZDSFpLejY2bWcxUUtWVG03SEt5ZDFCYmFRRGkzd1c5TnZJ?oc=5",
+      "title": "フランス全土で大規模デモ、最多の57万人超が参加 警察と衝突も - CNN",
+      "saved": "2026-11-06-huransuquan-tu-teda-gui-mo-temo-zui-duo-no57mo-ren-chao-kacan-jia-jing-cha-tocho.md",
+      "ts": 1793930389
+    },
+    "f5b68c026a8787d9bb6218eaedee1b91200dd1d17adf13a1e02f92167508c553": {
+      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002936/",
+      "title": "Google、ワイオミング州のデータセンターなどに170億ドル投資へ　電力費全額負担を約束",
+      "saved": "2026-11-06-google-waiominkuzhou-notetasentanatoni170yi-torutou-zi-he-dian-li-fei-quan-e-fu-.md",
+      "ts": 1793930389
+    },
+    "f872571fd33300add1d11b376a0a6a7bdd83da8e31067b1eeca50a175c481016": {
+      "link": "https://www.bbc.com/japanese/articles/cm9dzwwjl6q2o?at_medium=RSS&at_campaign=rss",
+      "title": "ロシアによる「追い打ち攻撃」、ウクライナ警察が映像公開　支援センターでの死者少なくとも40人に",
+      "saved": "2026-11-06-rosianiyoru-zhui-ida-tigong-ji-ukurainajing-cha-kaying-xiang-gong-kai-zhi-yuan-s.md",
+      "ts": 1793930389
+    },
+    "a48d0599837958a3241d8098d79058febd5a420b9cf3b91a8837b55b9446cdbf": {
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wdFhfdE1SdlV1RFlWVDZZZXRtSkN1S0tuVEZXMFFTMDhZcUNXcFU3TmpvdnZtNHlQN1pwZ2taT2swWFBZXzhQMHFudGs4eHVzamk4?oc=5",
+      "title": "「まさに青天の霹靂」 イスラエル大統領、トランプ氏の支援打ち切り表明に衝撃 - CNN",
+      "saved": "2026-11-06-masaniqing-tian-nopi-li-isuraeruda-tong-ling-toranhushi-nozhi-yuan-da-tiqie-ribi.md",
+      "ts": 1793930389
+    },
+    "2fc0095754577b349b2fbd17e5cf6e579a10a7c91aa31312dc5aac10d4e15943": {
+      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002935/",
+      "title": "Anthropic、「Claude」に家計管理機能「Personal Finance」　銀行口座と連携、米国でβ提供",
+      "saved": "2026-11-06-anthropic-claude-nijia-ji-guan-li-ji-neng-personal-finance-yin-xing-kou-zuo-toli.md",
+      "ts": 1793930389
+    },
+    "c74eb3cff6ed989ed92699970155a6d31f0997e471aa2776374be985586c1a86": {
+      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002934/",
+      "title": "アイリスオーヤマ、非会員含む約770万人分の情報漏えいか　外部クラウドに不審ファイル発見→不正アクセス発覚",
+      "saved": "2026-11-06-airisuoyama-fei-hui-yuan-han-muyue-770mo-ren-fen-noqing-bao-lou-eika-wai-bu-kura.md",
+      "ts": 1793930389
+    },
+    "4a73b23e5956014c32f873e7a64066022714d46941cafe3b5eda83bb3ecb08be": {
+      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002867/",
+      "title": "「給与維持の週休3日制」AI効率化で実現　しかし社員が喜ばず……なぜ？　「ライザAI」提供企業で起きたこと",
+      "saved": "2026-11-06-gei-yu-wei-chi-nozhou-xiu-3ri-zhi-aixiao-lu-hua-teshi-xian-sikasishe-yuan-kaxi-h.md",
+      "ts": 1793930389
+    },
+    "58e83796262bf847194957fd176c4a2cbff8aec6f39154897cf7b02cdccb3b51": {
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1renhZd2tFZTh6UFVNZFI2NGd0SVhhR29RTjRucjlzX2EyVzY5aDdqdVpLeURfa3l4VEhVR0lrZ0ZDRU1xdVhlY1U3NTRieGRW?oc=5",
+      "title": "米民主党、下院で250議席超を獲得へ 上院はアラスカなど2州で大接戦 - CNN",
+      "saved": "2026-11-06-mi-min-zhu-dang-xia-yuan-te250yi-xi-chao-wohuo-de-he-shang-yuan-haarasukanato2zh.md",
+      "ts": 1793930389
+    },
+    "be2d2a0a71518f6d5087a4a2cc646a3c6b6619b81cbec4c772c346ac925f4311": {
+      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002932/",
+      "title": "ドコモ通信障害、約14時間で復旧　原因は「交換機の輻輳」、不正アクセスの形跡なし",
+      "saved": "2026-11-06-tokomotong-xin-zhang-hai-yue-14shi-jian-tefu-jiu-yuan-yin-ha-jiao-huan-ji-nofu-c.md",
+      "ts": 1793930389
+    },
+    "57e8b60fa15a23daf7a3f8790dcf142526745eac281fb0afdf6bff07fc80145d": {
+      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002931/",
+      "title": "OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表　Firefoxの未知の脆弱性81件を発見",
+      "saved": "2026-11-06-openai-saihasekiyuriteite-hua-xing-gpt-6-cyber-fa-biao-firefoxnowei-zhi-nocui-ru.md",
+      "ts": 1793930389
+    },
+    "88809c34bfd9b4ff7557f6195e93011afbac5ec1485371458e2b1b975e794185": {
+      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002930/",
+      "title": "年収やローン保証額、免許証番号など最大32万人分漏えい　SMBC系、保証業務システムに不正アクセス",
+      "saved": "2026-11-06-nian-shou-yaronbao-zheng-e-mian-xu-zheng-fan-hao-natozui-da-32mo-ren-fen-lou-ei-.md",
+      "ts": 1793930389
+    },
+    "96d376a34535d0ed458bbf24e3b6c8bc3c256cd30bdae0ffe24474a0cc319aa2": {
+      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002929/",
+      "title": "ドコモ不正アクセス、最大30万件の顧客情報流出　「My docomo」など緊急メンテ、再開未定",
+      "saved": "2026-11-06-tokomobu-zheng-akusesu-zui-da-30mo-jian-nogu-ke-qing-bao-liu-chu-my-docomo-natoj.md",
+      "ts": 1793930389
+    },
+    "96e6f92deaaf11855a622b7a39463e427d9564a39bb700bec05883fafc16675b": {
+      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002928/",
+      "title": "OpenAI、データセンター立地地域への約束と政策提言を発表　電力費の全額負担や公職者とのNDA不使用など",
+      "saved": "2026-11-06-openai-tetasentali-di-di-yu-henoyue-shu-tozheng-ce-ti-yan-wofa-biao-dian-li-fei-.md",
+      "ts": 1793930389
+    },
+    "95774eecc9dd50b295580975c9f69436c2b649f2f77aa7674435201b2979453a": {
+      "link": "https://www.itmedia.co.jp/business/articles/2611/06/news011.html",
+      "title": "タカラジェンヌ→「宝塚ホテル」支配人に　マネジメントに生きた「劇団で培った2つの力」とは？",
+      "saved": "2026-11-06-takarasiennu-bao-zhong-hoteru-zhi-pei-ren-ni-manesimentonisheng-kita-ju-tuan-tep.md",
+      "ts": 1793930389
+    },
+    "874712e2357ff142ed0f9db4406bb9dbfb589834cfeabf6a47e8ca40cb62ad35": {
+      "link": "https://www.itmedia.co.jp/business/articles/2611/06/news010.html",
+      "title": "人任せのDX→アプリ開発で「年間2億円超」削減見込み　関西電力送配電はどうやって社長・役員を“本気にさせた”のか",
+      "saved": "2026-11-06-ren-ren-senodx-ahurikai-fa-te-nian-jian-2yi-yuan-chao-xue-jian-jian-ip-mi-guan-x.md",
+      "ts": 1793930389
+    },
+    "abd148e55f9c5be84f23bda58ef481e7bee57098246649258fb6e7fc6a77b2d3": {
+      "link": "https://www.itmedia.co.jp/business/articles/2611/06/news009.html",
+      "title": "JR東日本の新決済サービス「teppay」は普及するのか？　Suicaの「上限2万円」解消も、クレカチャージには制約",
+      "saved": "2026-11-06-jrdong-ri-ben-noxin-jue-ji-sahisu-teppay-hapu-ji-surunoka-suicano-shang-xian-2mo.md",
+      "ts": 1793930389
+    },
+    "2b00fa07b3fe7bc4cfe34df9bda5ef3a930d143bcca216d8271a48507378953c": {
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5PeFZkR3otRm5uaEV0a3ZOZFVPMUZOamZkaG56dWNyVTRXRVdsamN5OGctMlh0b0F6bWgxVVprbHNBanNRWC1yeU9yTzdWanpQ?oc=5",
+      "title": "【分析】合衆国憲法修正第25条の発動でトランプ氏の解任求める声、超党派で突如高まる - CNN",
+      "saved": "2026-04-08-fen-xi-he-zhong-guo-xian-fa-xiu-zheng-di-25tiao-nofa-dong-tetoranhushi-nojie-ren-4.md",
+      "ts": 1793930389
     }
   }
 }
