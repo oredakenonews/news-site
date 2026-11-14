@@ -1,101 +1,5 @@
 {
   "done": {
-    "543fddaf2a98f7c8b527597bab08848758b75c2c5b801b22fc830ec7c7d994f5": {
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FY2VOYkFpZkROMEN2VmdMWmw1RE5KMFIxZVBNQXFmZmtOZEgzTWV4SDlpOWY3T2dVaDFreE4xUGpvd04zSndDeENPelVFTG5pS2Z2NA?oc=5",
-      "title": "クマが玄関先でドアベル鳴らす？、民家のカメラに映る 22年米サウスカロライナ州 - CNN.co.jp",
-      "saved": "2026-10-14-kumakaxuan-guan-xian-tetoaheruming-rasu-min-jia-nokameraniying-ru-22nian-mi-saus.md",
-      "ts": 1791983999
-    },
-    "913472be6fdea49fb433ff55007ec601f36f7ff1ce75c2a9529b0e286052e7a5": {
-      "link": "https://www.itmedia.co.jp/news/article/2610/14/2000002265/",
-      "title": "Google、待望の新AIモデル「Gemini 4 Argon」一般提供を開始　推論の継続力を強化　一部ベンチでトップに",
-      "saved": "2026-10-14-google-dai-wang-noxin-aimoteru-gemini-4-argon-yi-ban-ti-gong-wokai-shi-tui-lun-n.md",
-      "ts": 1791983999
-    },
-    "aa51c572124cce803629a36ec1698aaf1ea8909a55da2fdb216bbb5cbd747f8b": {
-      "link": "https://www.itmedia.co.jp/news/article/2610/14/2000002278/",
-      "title": "デジハリ大、「Claude」を全学導入へ──国内初、“回数気にせず”使い放題に",
-      "saved": "2026-10-14-tesiharida-claude-woquan-xue-dao-ru-he-guo-nei-chu-hui-shu-qi-nisesu-shi-ifang-t.md",
-      "ts": 1791983999
-    },
-    "d1e68d18d91c0334dded04efbccde7c46caac24bdc09b7760b4ebc865b6c45e2": {
-      "link": "https://www.itmedia.co.jp/news/article/2610/14/2000002276/",
-      "title": "小中学校の校務に“自前運用”の国産LLM　NTT西と茨木市が全国初の実証",
-      "saved": "2026-10-14-xiao-zhong-xue-xiao-noxiao-wu-ni-zi-qian-yun-yong-noguo-chan-llm-nttxi-toci-mu-s.md",
-      "ts": 1791983999
-    },
-    "77e466026b29dd0b6f0f9c774a42f52755763c1803c5894a9d110726ab106d86": {
-      "link": "https://www.bbc.com/japanese/articles/cm93z4zrxl10o?at_medium=RSS&at_campaign=rss",
-      "title": "アルゼンチン、フォークランド諸島の石油探査めぐりイギリスへの法的措置開始",
-      "saved": "2026-10-14-arusentin-huokurantozhu-dao-noshi-you-tan-cha-mekuriikirisuhenofa-de-cuo-zhi-kai.md",
-      "ts": 1791983999
-    },
-    "fca45ec7ef329b07ef1b8debff9db8d2891920a955f417f1cd951206e42eb040": {
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01bU15OTliTmtPVTNEenBVeC1HeUdfR2ZMSHA1Y0JpanhyTnQ0ZFhOVXF1dUJaWTUzeExZaGY3c0E3NC1BWHFZMkZwQWtjQ0ZVeVd3?oc=5",
-      "title": "コカ・ コーラにマクドナルド、ウクライナの米国企業を攻撃するロシア それでもトランプ政権は沈黙(1/2) - CNN.co.jp",
-      "saved": "2026-10-14-koka-koranimakutonaruto-ukurainanomi-guo-qi-ye-wogong-ji-sururosia-soretemotoran.md",
-      "ts": 1791983999
-    },
-    "a9e79662d828ffe500352960228e1c9b9bc7f59d15f6fc8ad3fea3b2233aaded": {
-      "link": "https://www.itmedia.co.jp/business/articles/2610/14/news069.html",
-      "title": "日立が「木造データセンター」展開　“鉄とコンクリ”から木材へ、“見た目がオシャレ”以外の価値は？",
-      "saved": "2026-10-14-ri-li-ka-mu-zao-tetasenta-zhan-kai-tie-tokonkuri-karamu-cai-he-jian-tamu-kaosiya.md",
-      "ts": 1791983999
-    },
-    "8a90b4a2b141686a3dfec47c36c0548624d400b07297438a4c88212a0819f60f": {
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5iWDgweXRmYUxOTFllWmNCVmlUd2Vyd04wd1Q1dDZjcEhyb3E3eHBOWmdsMWtFVkFocmNPUTBwLU5CNUNzZjYzZFktQmVmVERjblE?oc=5",
-      "title": "AIの暴走、訴えるべき相手はだれなのか - CNN.co.jp",
-      "saved": "2026-10-14-ainobao-zou-su-eruhekixiang-shou-hatarenanoka-cnn-co-jp.md",
-      "ts": 1791983999
-    },
-    "fa553cd4ab3f24fc30785eb7caa1a1d4260f901c8458eae8c382691b3a97d47f": {
-      "link": "https://www.itmedia.co.jp/news/article/2610/14/2000002268/",
-      "title": "化粧品販売「アエナ」約81万人分の個人情報流出か　氏名やクレカ下4ケタ・有効期限など",
-      "saved": "2026-10-14-hua-zhuang-pin-fan-mai-aena-yue-81mo-ren-fen-noge-ren-qing-bao-liu-chu-ka-shi-mi.md",
-      "ts": 1791983999
-    },
-    "dad902e1917e97ac4c61824907b79228a402ba90f9cdd0e0ae002a3bfa7572fb": {
-      "link": "https://www.bbc.com/japanese/articles/cxnv050epg0ro?at_medium=RSS&at_campaign=rss",
-      "title": "ロシア、スパイ容疑で日本人記者を拘束",
-      "saved": "2026-10-14-rosia-suhairong-yi-teri-ben-ren-ji-zhe-woju-shu.md",
-      "ts": 1791983999
-    },
-    "36ed7738fa3ce202cce451d8b540419bd60252cf792262c292cfd518070df2a6": {
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aU2lBTXNwaF9DNGQ3MGQycDlNVmtyYWFybWFOVzZKbWs1MTJpTzB2TlZlXzUxYjNVYTQ4M2ZySDAwc3drZ25vRXRzNHZ6VFpDNnZoRw?oc=5",
-      "title": "初めての記者会見に臨むケイティ・ザカリア報道官＝13日/Julia Demaree Nikhinson/AP - CNN.co.jp",
-      "saved": "2026-10-14-chu-metenoji-zhe-hui-jian-nilin-mukeiteisakariabao-dao-guan-13ri-julia-demaree-n.md",
-      "ts": 1791983999
-    },
-    "29cf825a2f3c4db9c94d9b1b030507095b3494c79bfb151e241e7cfb021ef698": {
-      "link": "https://www.itmedia.co.jp/news/article/2610/15/2000002283/",
-      "title": "研究者グループ、中国Tencentのクラウド上の“逸脱”AIエージェント群と交信　報告書の隠しテキストで呼び込む",
-      "saved": "2026-10-15-yan-jiu-zhe-kuruhu-zhong-guo-tencentnokurautoshang-no-yi-tuo-aiesientoqun-tojiao.md",
-      "ts": 1792023470
-    },
-    "76f69023aed2a5c4af9c6c5e6c90d692a8d104f9f4d9563dbb0fe26a24e8576d": {
-      "link": "https://www.itmedia.co.jp/news/article/2610/15/2000002282/",
-      "title": "IDCFクラウド障害、一部でバックアップ取り出し可能に　データ流出は「なかった」",
-      "saved": "2026-10-15-idcfkurautozhang-hai-yi-bu-tehatukuatuhuqu-richu-sike-neng-ni-tetaliu-chu-ha-nak.md",
-      "ts": 1792023470
-    },
-    "a3fb2c359e6afee903332bcd50d92fc25c8f713af75489dcf8f1dd2b8b77f89f": {
-      "link": "https://www.itmedia.co.jp/business/articles/2610/15/news012.html",
-      "title": "「フリマは面倒」層をつかむ　ファミマ×ブックオフ買取、開始1カ月の反響は？",
-      "saved": "2026-10-15-hurimahamian-dao-ceng-wotukamu-huamimaxhutukuohumai-qu-kai-shi-1kayue-nofan-xian.md",
-      "ts": 1792023470
-    },
-    "c89c0fb5525f00842a5574136827a395cfd8bc4d601c9f9000fa4ae72aeff27c": {
-      "link": "https://www.itmedia.co.jp/business/articles/2610/15/news048.html",
-      "title": "需要が消え、設備が老い、人が減る――西武鉄道、144両更新の裏側　「大手なのに恥ずかしい」を受け入れたワケは",
-      "saved": "2026-10-15-xu-yao-kaxiao-e-she-bei-kalao-i-ren-kajian-ru-xi-wu-tie-dao-144liang-geng-xin-no.md",
-      "ts": 1792023470
-    },
-    "b7397ab2a8e63c9c5d775aaecac71e4b8b5ac09ce5cef7fa654f4963e75c8d22": {
-      "link": "https://www.itmedia.co.jp/business/articles/2610/15/news005.html",
-      "title": "「誰か1人だけ赤字」ではバトンが渡らない　JX金属×経産省が挑む重要鉱物リサイクル、“もうかる仕組み”どうつくる？",
-      "saved": "2026-10-15-shui-ka1ren-takechi-zi-tehahatonkadu-ranai-jxjin-shu-xjing-chan-sheng-katiao-muz.md",
-      "ts": 1792023470
-    },
     "b7024fc3fe2f6d56a406d2c6810da94bd2bc7f9a08b006910f789f4522b2442e": {
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2dDcwRmdYd3htZmVnanQzNHEwNDJaR3A4QWxUWGxkdk1Fdnd0Y2JORmxUbThoMGpLQ05Wa29vdWVlUUlMOFdEMHhTZHVfRVhISGk4?oc=5",
       "title": "ホルムズ海峡の麻痺解消、それでもガソリン・軽油価格が高止まりする理由とは？(1/2) - CNN.co.jp",
@@ -8729,6 +8633,60 @@
       "title": "米紙記者、「日本人の優勝は不愉快」のツイートで解雇に - CNN",
       "saved": "2017-05-30-mi-zhi-ji-zhe-ri-ben-ren-noyou-sheng-habu-yu-kuai-notuitotejie-gu-ni-cnn-3.md",
       "ts": 1794570788
+    },
+    "0a9cec743af2d71319be3ee4f6b538a17cde0dd3aaa06c6fc7645a689bc06626": {
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpa3gtNnk3aXN2MTN4aldQejlGS1NrbmRMZ0lFd1ZSNXpEZk5vQS1pdGYxU0E5ZUxYVXc2RHBZb1BMN2FtbFlpb0dJWHlPSTBV?oc=5",
+      "title": "トランプ氏が習氏・プーチン氏と会談へ、歴史的な米中ロ3首脳会談 核不拡散が議題に - CNN",
+      "saved": "2026-11-14-toranhushi-kaxi-shi-hutinshi-tohui-tan-he-li-shi-de-nami-zhong-ro3shou-noy-hui-t.md",
+      "ts": 1794621514
+    },
+    "e39828b727809f9d2903110ed2f21a71ba0886f362e1c2b672ca0b43f33a1495": {
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tVl9xMkxORVFyVWx6cUV2V2JER1kzdVExRWIzQmRaQzJodmQ0Z1ZrbnVQUXQ4YnoyTGdZcW9nUGoyV2tkWmM1RDJIamJ0SzhLT3lj?oc=5",
+      "title": "ロシア首都で車爆発、ウクライナ親ロ派政治家の元側近が負傷 前日にも爆発で軍人死亡 - CNN",
+      "saved": "2026-11-14-rosiashou-du-teche-bao-fa-ukurainaqin-ropai-zheng-zhi-jia-noyuan-ce-jin-kafu-sha.md",
+      "ts": 1794621514
+    },
+    "283fb0de5599d241b0742833ffa7d016e6a9c6cb33183f61d0d6f9473a6d905f": {
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OWE1HLU9lZEpTQndGRURPVTZqaEY0eklSM2xPNUQtRDlBMHZSbU1VNW0xZWQwZ0VQVFVtZVR6YWVSWTdsTzVUNEFWNUdmSXM?oc=5",
+      "title": "ロシア首都で車爆発、ウクライナ親ロ派政治家の元側近が負傷 - CNN",
+      "saved": "2026-11-14-rosiashou-du-teche-bao-fa-ukurainaqin-ropai-zheng-zhi-jia-noyuan-ce-jin-kafu-sha-2.md",
+      "ts": 1794621514
+    },
+    "5d8a5b00834463a9c1d323d059d3e77bbaa4205e02f84eb5fec4f42d527d5789": {
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1hU29ESUEyRzhObkNZa3ZUWFY3MEVZNy1TdERFUEx2MldyYlJXeUtxTFNZcm9FSTQ0WFVnb0VEYWk4d2I1MHdBcE1TbEE0Ym8?oc=5",
+      "title": "タンカーがリバークルーズ船に衝突 米ニューオーリンズ - CNN",
+      "saved": "2026-11-14-tankakarihakurusuchuan-nichong-tu-mi-niyuorinsu-cnn.md",
+      "ts": 1794621514
+    },
+    "a1673037aa0cb78ec300ea3d4bc6f60bf7db5596c911a77b93d5592638d1f40d": {
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBuVGdBUGpQU21sbkhyZmo0TENYTlVWNkhaeS1Pa0o2eU9mWnBSNEEzNnRXOWItMVEzTFdjenRhWGNaRG5VbkUxOTFPQ1htei1f?oc=5",
+      "title": "タンカーが「制御失う」、リバークルーズ船に衝突 米ニューオーリンズ - CNN",
+      "saved": "2026-11-14-tankaka-zhi-yu-shi-u-rihakurusuchuan-nichong-tu-mi-niyuorinsu-cnn.md",
+      "ts": 1794621514
+    },
+    "ebcb0182706c93b7edc68f502b5c6238eb317d218ef8c52e3c810f74b4f1a8e0": {
+      "link": "https://www.itmedia.co.jp/news/article/2611/14/2000003193/",
+      "title": "相次ぐ情報漏えいでアナログ回帰？　ダイソー「パスワード管理ノート」が品薄に　一方でリスクも──IPAに聞いた",
+      "saved": "2026-11-14-xiang-ci-kuqing-bao-lou-eiteanarokuhui-gui-taiso-hasuwatoguan-li-noto-kapin-bo-n.md",
+      "ts": 1794621514
+    },
+    "6da3451cbd8791016c07f84fbbf74821aec22d351f91ad7980dc262d24e308bc": {
+      "link": "https://www.itmedia.co.jp/business/articles/2611/14/news008.html",
+      "title": "NVIDIAをつくった男、ジェンスン・フアン　“デニーズの皿洗い“から“AI時代の主役“へ、激動の半生",
+      "saved": "2026-11-14-nvidiawotukututanan-siensunhuan-tenisunomin-xi-i-kara-aishi-dai-nozhu-yi-he-ji-d.md",
+      "ts": 1794621514
+    },
+    "9927a7ef3aec9ca4daac0c3613e35c9e31a0fdcab3491d96efaa87836932871a": {
+      "link": "https://www.itmedia.co.jp/business/articles/2611/14/news006.html",
+      "title": "スパイ対策人材に年収6億円　NVIDIAトップ辞任で顕在化したAI企業「元諜報員」採用の過熱",
+      "saved": "2026-11-14-suhaidui-ce-ren-cai-ninian-shou-6yi-yuan-nvidiatotuhuci-ren-texian-zai-hua-sitaa.md",
+      "ts": 1794621514
+    },
+    "9304a95a1515bc83ade67b7a52731a58eb92dc9364b7251966f688b31e67f35a": {
+      "link": "https://www.itmedia.co.jp/business/articles/2611/14/news007.html",
+      "title": "ワコールが麹町ビル売却へ　浅草橋ビル、新京都ビルに続き「アセットライト化」推進",
+      "saved": "2026-11-14-wakorukaqu-ting-hirumai-que-he-qian-cao-qiao-hiru-xin-jing-du-hirunisok-ki-asetu.md",
+      "ts": 1794621514
     }
   }
 }
