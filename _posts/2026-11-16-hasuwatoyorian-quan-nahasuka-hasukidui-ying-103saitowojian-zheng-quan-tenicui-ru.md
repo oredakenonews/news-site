@@ -1,0 +1,8 @@
+---
+title: "パスワードより安全なはずが……パスキー対応103サイトを検証→全てに脆弱性　独大学の調査結果"
+date: 2026-11-16 12:00:00 +0900
+categories: [ITmedia]
+---
+ドイツのルール大学ボーフムなどに所属する研究者らが発表した論文「The State of Passkeys: Studying the Adoption and Security of Passkeys on the Web」は、公開されているサイトのパスキーの普及状況と安全性を調査した研究報告だ。
+
+[続きを読む →](https://www.itmedia.co.jp/news/article/2611/16/2000003199/)
