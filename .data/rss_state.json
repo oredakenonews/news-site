@@ -1,119 +1,5 @@
 {
   "done": {
-    "9fde34151d821eeddf2c71459059909ddfe46d9aa2e4ce0dcc5d66a9ef75d380": {
-      "link": "https://www.bbc.com/japanese/articles/ckvg7p23pwy8o?at_medium=RSS&at_campaign=rss",
-      "title": "PHPサイバーセキュリティー危機、知られざる英雄になったエンジニアの話",
-      "saved": "2026-10-26-phpsaihasekiyuriteiwei-ji-zhi-raresaruying-xiong-ninatutaensinianohua.md",
-      "ts": 1793007980
-    },
-    "5f1d19ad5a442e435cea149d3912bab2ba86644808d2e3c8a27e4208f0c63f1f": {
-      "link": "https://www.itmedia.co.jp/news/article/2610/26/2000002591/",
-      "title": "野村総研、サイバー攻撃時の「能動的なシステム停止」を支援する新サービス",
-      "saved": "2026-10-26-ye-cun-zong-yan-saihagong-ji-shi-no-neng-dong-de-nasisutemuting-zhi-wozhi-yuan-s.md",
-      "ts": 1793007980
-    },
-    "5aaf17155f2681fa9606818e37502f53305b8cc3f89e8eaff73ffe45df039c62": {
-      "link": "https://www.bbc.com/japanese/articles/c6y0e9epklgxo?at_medium=RSS&at_campaign=rss",
-      "title": "マスク氏、ウクライナのスターリンク接続をスペースXが制限したと説明　サービスは復旧",
-      "saved": "2026-10-26-masukushi-ukurainanosutarinkujie-sok-wosuhesuxkazhi-xian-sitatoshuo-ming-sahisuh.md",
-      "ts": 1793007980
-    },
-    "3d336ce7122aa5e1469df91ed60dd19fe6435ec609afda237d9a5d600b1b87ef": {
-      "link": "https://www.bbc.com/japanese/watch/c6rryn44nenno?at_medium=RSS&at_campaign=rss",
-      "title": "ブラジルのルラ大統領、決選投票で勝利　どうやって形勢逆転したのか",
-      "saved": "2026-10-26-hurasirunorurada-tong-ling-jue-xuan-tou-piao-tesheng-li-touyatutexing-shi-ni-zhu.md",
-      "ts": 1793007980
-    },
-    "0210fda4c1af91d56a66fd9a7bcbcd1111fb06597bda51287b5d4844fa9f8bd2": {
-      "link": "https://www.bbc.com/japanese/watch/cmgr8d80108vo?at_medium=RSS&at_campaign=rss",
-      "title": "前大統領の敗北宣言に喜びと驚き、総選挙直後のセルビア首都",
-      "saved": "2026-10-26-qian-da-tong-ling-nobai-bei-xuan-yan-nixi-hitojing-ki-zong-xuan-ju-zhi-hou-noser.md",
-      "ts": 1793007980
-    },
-    "93359befe0d60527b5243b2ec66ae090df9a7140a990d6ed4269730b2e75669c": {
-      "link": "https://www.bbc.com/japanese/articles/c9x28km27gklo?at_medium=RSS&at_campaign=rss",
-      "title": "フランス全土で再び大規模な抗議デモ、1300人以上逮捕　参加者と警官らが衝突",
-      "saved": "2026-10-26-huransuquan-tu-tezai-hida-gui-mo-nakang-yi-temo-1300ren-yi-shang-dai-bu-can-jia-.md",
-      "ts": 1793007980
-    },
-    "7576d3750677c163aba0da19b3a3a86910b75574ce7957892a260d2e4a29dcfb": {
-      "link": "https://www.itmedia.co.jp/business/articles/2610/26/news054.html",
-      "title": "AI活用で処遇改善、週休3日を導入　建設会社社長から介護事業を“起業”した経営者の「実行力」",
-      "saved": "2026-10-26-aihuo-yong-techu-yu-gai-shan-zhou-xiu-3ri-wodao-ru-jian-she-hui-she-she-chang-ka.md",
-      "ts": 1793007980
-    },
-    "3a73b87cb49cdad9fc354c605c2df1c1def2c4a39f999ddce7a4afa4d1459a96": {
-      "link": "https://www.itmedia.co.jp/news/article/2610/26/2000002476/",
-      "title": "「漏えい」の一言で素通り客が振り返る──相次ぐ情報流出の中で開幕のセキュリティ展示会　来場者の態度も激変",
-      "saved": "2026-10-26-lou-ei-noyi-yan-tesu-tong-rike-kazhen-rifan-ru-xiang-ci-kuqing-bao-liu-chu-nozho.md",
-      "ts": 1793007980
-    },
-    "ecfc550b05fbf9bff3739fadb53dfe1cdff70bb8615ee354a1f04d8372edf5a4": {
-      "link": "https://www.itmedia.co.jp/news/article/2610/26/2000002579/",
-      "title": "Xの「いいね」長押しで1ドル送金　マスク氏が“投げ銭”機能を予告",
-      "saved": "2026-10-26-xno-iine-chang-ya-site1torusong-jin-masukushi-ka-tou-keqian-ji-neng-woyu-gao.md",
-      "ts": 1793007980
-    },
-    "7df8467d0d9e2523aef6dda3c6ed584761f82d531c1091897c0ae265c720501a": {
-      "link": "https://www.itmedia.co.jp/business/articles/2610/26/news049.html",
-      "title": "5000円のお見舞金で幕引き？　GMO熊谷社長「そうではない」──不正アクセスの真相と“後手の悔恨”【ブログ全文】",
-      "saved": "2026-10-26-5000yuan-noojian-wu-jin-temu-yin-ki-gmoxiong-gu-she-chang-soutehanai-bu-zheng-ak.md",
-      "ts": 1793007980
-    },
-    "97ea691fb2c808d904c3b39cca2b252dc79d6a4e46afc8e870cd122aef3c90ea": {
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1BNldGeXBheFg5b0V0VDVMMldURTg0ZVZLT0RKeVJNY1RBejdNM3dpZy05SFdfWDBzT2tHQUpyOWotSU1FZWFWX2M4MHM0cklORHRUTXZkTQ?oc=5",
-      "title": "謎の巨大生物「ビッグフット」、米オハイオ州で目撃情報 長年の議論が再燃 (2/2) - CNN.co.jp",
-      "saved": "2026-10-21-mi-noju-da-sheng-wu-hitukuhututo-mi-ohaiozhou-temu-ji-qing-bao-chang-nian-noyi-l-2.md",
-      "ts": 1793007980
-    },
-    "33413c6736a262e8bc49fde8fce5b77e504785273acdff631682d465de26b31c": {
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5DVThLTUdaalNHbkh3RV9zdElGbVNoSUFIY3NxYXVtTkZRN0g3VjNzdEtwTUc5TVBETnpjb2JzUTlEQnBsMEE?oc=5",
-      "title": "Business - CNN.co.jp",
-      "saved": "2015-11-05-business-cnn-co-jp.md",
-      "ts": 1793007980
-    },
-    "8599b07fc84e65f804bc93047325f96f66301815eb6b862f2ecf7dbbf40b094f": {
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE4zT0N2ckFYTF9wQ3ZYU0g3b2tpcnZnMmd3X2c5a09kUmh5VXJ1dHQtYkpTSm9TZTBmWVFnR0txcXNKLXM?oc=5",
-      "title": "Odd News - CNN.co.jp",
-      "saved": "2015-11-05-odd-news-cnn-co-jp-2.md",
-      "ts": 1793007980
-    },
-    "bb8f053d935452c07f66147ff0c1d22ab235241da400ee33a0284b4b5c91282f": {
-      "link": "https://www.itmedia.co.jp/business/articles/2610/26/news079.html",
-      "title": "メール配信サービス「ユミルリンク」で個人情報5000万件超漏えいか　氏名や住所が含まれるかは「確認中」",
-      "saved": "2026-10-26-merupei-xin-sahisu-yumirurinku-tege-ren-qing-bao-5000mo-jian-chao-lou-eika-shi-m.md",
-      "ts": 1793032315
-    },
-    "19ca4559bb8557614fe5051ff233cc8bcc7ed640396e6b3e8c6f611ffcb1f6b4": {
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFByYmZDRkozcE9OT2ZmcTR2ZWk4ajBLWTZ0OGlxa3FIMHNURXZLeDE2cnhHRUlwb20tSnFjZ3RGWVdRaHVyRVhLMTBQNS1TM19YaHBvcG93?oc=5",
-      "title": "声優のエリック・バウザさん、46歳で死去 バッグス・バニーなど「ルーニー・テューンズ」のキャラクターたちを演じる - CNN.co.jp",
-      "saved": "2026-10-26-sheng-you-noeritukuhausasan-46sui-tesi-qu-hatukusuhaninato-runiteyunsu-nokiyarak.md",
-      "ts": 1793032315
-    },
-    "df7d39635dfb26ab9549bb1d14fcaf7ef480c4433a772069e0d2bf93bf4f52fe": {
-      "link": "https://www.itmedia.co.jp/news/article/2610/26/2000002601/",
-      "title": "ジョーシンへの不正アクセス、最大623万件漏えいか　運転免許証2件・マイナカード1件なども",
-      "saved": "2026-10-26-siyosinhenobu-zheng-akusesu-zui-da-623mo-jian-lou-eika-yun-zhuan-mian-xu-zheng-2.md",
-      "ts": 1793032315
-    },
-    "47ae07eabb65da1b743e7f0381373494dcac0269336901d379930aa01bfb8e1a": {
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9RM3RvOWU5dEZjQnpLZm56MlZYdjA0R0FlMlFDTDkzUkE2RlZTbUszN29wc051V181dmlTSW5fVWJoTWxVZWlSSGlTMFc1VkpqbTY1Uw?oc=5",
-      "title": "ゴッホが描いた「星月夜」の光景、実は本物の天体配列だった？ 新研究で判明 - CNN.co.jp",
-      "saved": "2026-10-26-kotuhokamiao-ita-xing-yue-ye-noguang-jing-shi-haben-wu-notian-ti-pei-lie-tatuta-.md",
-      "ts": 1793032315
-    },
-    "0d3cf71beb836fdc0f6358bace7e2c5233ba26fdccfc28ebc9927f00d28c607d": {
-      "link": "https://www.itmedia.co.jp/news/article/2610/26/2000002598/",
-      "title": "タイムズカー流出で顧客らが損害賠償求め運営会社提訴へ　サイト開設の弁護士が記者会見",
-      "saved": "2026-10-26-taimusukaliu-chu-tegu-ke-rakasun-hai-pei-chang-qiu-meyun-ying-hui-she-ti-su-he-s.md",
-      "ts": 1793032315
-    },
-    "8b9a1c7c102f3b8e344cdbf1414da48e3b30f85b840cc11cedbb4e3c9c95f304": {
-      "link": "https://www.itmedia.co.jp/news/article/2610/26/2000002597/",
-      "title": "「年齢は合ってますが、人間ではありません」　6歳の飼い猫に届いた“進研ゼミの案内”　なぜ届いたのかベネッセに聞いた",
-      "saved": "2026-10-26-nian-ling-hahe-tutemasuka-ren-jian-tehaarimasen-6sui-nosi-imao-nijie-ita-jin-yan.md",
-      "ts": 1793032315
-    },
     "9afd4a623d52983d41852b86f9a3d738e06c0437e55d05e8686922483147d5e8": {
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10b1pKZWFrZ0RZa2NXZEROdThaY0xidDhNUzJ5c2pWYW5lT253UWo1alJDSkN5TDFwRWJmd3NZcEdXSUdpQjFxeE0wOGxRMzQ?oc=5",
       "title": "米司法省、コミー元FBI長官を3度目の刑事訴追 - CNN.co.jp",
@@ -8279,6 +8165,126 @@
       "title": "「中世でも見ない拷問」 損壊した遺体、シリア首都の安置所の内側 - CNN",
       "saved": "2024-12-13-zhong-shi-temojian-naikao-wen-sun-huai-sitayi-ti-siriashou-du-noan-zhi-suo-nonei-3.md",
       "ts": 1795582000
+    },
+    "ff03aff2bcadc912ca7638abfb3c53bbeae2bc6b3e7ef8f02b7dd82131e88eca": {
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TNV9PMHlMTlJxb0o1YXRKeGxPMTQ3SFB2ZDdrcFhKMjhjN0ZnUW5leGd4ZFdTbDZTOXVaMGoyeTIyaFpQcUdZYlFGeFg5ZWx4ZFpkdw?oc=5",
+      "title": "オランダの研究チームが人ののどの奥に未知の臓器を発見した - CNN",
+      "saved": "2026-11-25-orantanoyan-jiu-timukaren-nonotonoao-niwei-zhi-nozang-qi-wofa-jian-sita-cnn.md",
+      "ts": 1795625515
+    },
+    "b60b85526959256c24881ac8e9dbe2b1e635f3ff5b86812ec3fcf989ef6f14b2": {
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DdnNPd3pNYV81MmpSRTRwai1hVFBQVGJZSmJicUVkZmFSMTdnZ0RYbEV6WFJmVURNN0hpcEoyeGJ4cjZLQ0xEbDVDdUUzc2J6dnViYg?oc=5",
+      "title": "人の喉に未知の臓器を発見、オランダ研究チームが20年に発表 - CNN",
+      "saved": "2026-11-25-ren-nohou-niwei-zhi-nozang-qi-wofa-jian-orantayan-jiu-timuka20nian-nifa-biao-cnn.md",
+      "ts": 1795625515
+    },
+    "7654ad68d38a102f5bafaf27a90d4305fe1ca54f087c3b2bbeb48f7b17945e6d": {
+      "link": "https://www.itmedia.co.jp/news/article/2611/25/2000003458/",
+      "title": "海外経由の接続は見放題、議論尽くせるか　「ブロッキング」法制化、識者の見方は",
+      "saved": "2026-11-25-hai-wai-jing-you-nojie-sok-hajian-fang-ti-yi-lun-jin-kuseruka-hurotukinku-fa-zhi.md",
+      "ts": 1795625515
+    },
+    "39945e5d6c2c3430399cb6e29d12188ab298ea6fbba97860d716582ce7b1dc8a": {
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ub05mRHZKZzlIdUxlYUtkalBzWG52YjAzTXJ6WHVxb08zelR2c204Ry1xeHNaWDFjVDlDbXcwYmRIdjZlSWltNjN1TlNodlRFM1NUWg?oc=5",
+      "title": "歴史的快挙を達成した「ボイジャー1号」、トラブルに見舞われている可能性 科学データ届かず - CNN",
+      "saved": "2026-11-25-li-shi-de-kuai-ju-woda-cheng-sita-hoisiya1hao-torahurunijian-wu-wareteiruke-neng.md",
+      "ts": 1795625515
+    },
+    "075f385273303d3e6689d552868b08739bfb4721671b3829c555ba0865c4ff4c": {
+      "link": "https://www.bbc.com/japanese/articles/cmq5v38864w0o?at_medium=RSS&at_campaign=rss",
+      "title": "英政府、ロシアの妨害工作への自衛策を「今すぐ取る」よう指示　ウクライナを支援する企業に",
+      "saved": "2026-11-25-ying-zheng-fu-rosianofang-hai-gong-zuo-henozi-wei-ce-wo-jin-sukuqu-ru-youzhi-shi.md",
+      "ts": 1795625515
+    },
+    "55e618ae1732311852c2dee9d8f238d1b4c9707ec404c96971230f289adaad63": {
+      "link": "https://www.bbc.com/japanese/articles/ck30g7z274jlo?at_medium=RSS&at_campaign=rss",
+      "title": "米アイオワ州で劣化した爆薬の爆破処理計画、住民から不安の声",
+      "saved": "2026-11-25-mi-aiowazhou-telie-hua-sitabao-yao-nobao-po-chu-li-ji-hua-zhu-min-karabu-an-nosh.md",
+      "ts": 1795625515
+    },
+    "3108fa6e17475ad1c0de7893f5b8c3eb365e8444741d65f5f4eec826da599160": {
+      "link": "https://www.bbc.com/japanese/articles/cv2d90j9pkllo?at_medium=RSS&at_campaign=rss",
+      "title": "前教皇フランシスコ、悪魔を3回見たと　出版された日記に記載",
+      "saved": "2026-11-25-qian-jiao-huang-huransisuko-e-mo-wo3hui-jian-tato-chu-ban-saretari-ji-niji-zai.md",
+      "ts": 1795625515
+    },
+    "270ded730f4df16760a6fb18ae75bd842937c6948a5bf8d1634793526355811c": {
+      "link": "https://www.bbc.com/japanese/articles/c6x20llg7zxko?at_medium=RSS&at_campaign=rss",
+      "title": "英皇太子夫妻の別邸に盗みに入った疑い、2人逮捕　英東部ノーフォーク",
+      "saved": "2026-11-25-ying-huang-tai-zi-fu-qi-nobie-di-nidao-miniru-tutayi-i-2ren-dai-bu-ying-dong-bu-.md",
+      "ts": 1795625515
+    },
+    "2c0149826fd5345bf5ac555019c6da74931eadb21ede23cd646963f3db42eadf": {
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBDMzdFVmJaVkplTThILUp0ejlYSVBla2JEVVJDMi1XdXo4UlhkY1VTcEIta1lvNWRvdU1BaGtJTFVUSWFWZ3d5TVVwMm9kQnds?oc=5",
+      "title": "トランプ氏、フアン氏への恩赦「常に選択肢ある」 必要になる可能性は低いとも - CNN",
+      "saved": "2026-11-25-toranhushi-huanshi-henoen-she-chang-nixuan-ze-zhi-aru-bi-yao-ninaruke-neng-xing-.md",
+      "ts": 1795625515
+    },
+    "cd9c6ae0d3be2e841d8e26e5c74980f3a341856a5207d718fd82f441f1ea8e35": {
+      "link": "https://www.bbc.com/japanese/articles/cmp3ell1k2y5o?at_medium=RSS&at_campaign=rss",
+      "title": "ロシアのウクライナでの戦死者は約50万人　流出公式データをBBCが分析",
+      "saved": "2026-11-25-rosianoukurainatenozhan-si-zhe-hayue-50mo-ren-liu-chu-gong-shi-tetawobbckafen-xi.md",
+      "ts": 1795625515
+    },
+    "ae74bcee40e0485414f8f4ccb0fda29a335d872a56009d3d24e68bfd78f3ae27": {
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ibFlJMU0wb2p6cE13VlJzV0pUM0NIWWRoOGlnYWNsOGdGZ3JCT1FsWG5WV1lCRmI0YjNBc3A2empYM25pbWNYQzJ4WEgwQ1M0SW4zaURBQQ?oc=5",
+      "title": "富裕層への課税、米国で議論白熱 AI長者の急増受け - CNN",
+      "saved": "2026-11-25-fu-yu-ceng-henoke-shui-mi-guo-teyi-lun-bai-re-aichang-zhe-noji-zeng-shou-ke-cnn.md",
+      "ts": 1795625515
+    },
+    "a78098824b1b0951942880d5b79cb9d003af573e12c31989f24a2e4e61f5d0e6": {
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5IdWhnT2JFdnNSelRrelRza1hDeExtZV80M3ozb1pSbWhaMWhCeFhyNkdDUXRHWExXaHoxbl9BQ2lPSlBuN3ZuWkNGZDdneGwt?oc=5",
+      "title": "離島沖で小型機墜落、搭乗者6人全員の死亡確認 米ミシシッピ州 - CNN",
+      "saved": "2026-11-25-li-dao-chong-texiao-xing-ji-zhui-luo-da-cheng-zhe-6ren-quan-yuan-nosi-wang-que-r.md",
+      "ts": 1795625515
+    },
+    "c3debe145b7e8a53c7594b5d864b84b5b14cc3962aba4809de1bdbfc57af5b1e": {
+      "link": "https://www.itmedia.co.jp/news/article/2611/25/2000003445/",
+      "title": "突然「未来の約定通知」届く……三菱UFJ eスマート証券、メンテ中のミス謝罪",
+      "saved": "2026-11-25-tu-ran-wei-lai-noyue-ding-tong-zhi-jie-ku-san-ling-ufj-esumatozheng-quan-mentezh.md",
+      "ts": 1795625515
+    },
+    "69b2bccf681f1b414b03d2567c2c2f822599bbdb9899a4ceb4d1ee4b85631d36": {
+      "link": "https://www.itmedia.co.jp/news/article/2611/25/2000003443/",
+      "title": "タイムズカー免許画像漏えいの見舞金、「現金かカーシェアeチケット3000円分」　12月1日から案内",
+      "saved": "2026-11-25-taimusukamian-xu-hua-xiang-lou-einojian-wu-jin-xian-jin-kakasieaetiketuto3000yua.md",
+      "ts": 1795625515
+    },
+    "e1e4a444684719281286d61d7ee6b1e5acdbdad736a0a1b77312b3e4cc7e4295": {
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ja0RiWjNpQXBYVDFkVTVlUUV0SmY5ZklLM2UwMlpSS085X0hyYmplbG5kS0hhUzVTV3RCWDJUQmF5clRSWGVzUEZySExWeXNj?oc=5",
+      "title": "ドローンで届けさせたスマホで塀の中から詐欺電話、1億6千万円詐取した受刑者ら起訴 米 - CNN",
+      "saved": "2026-11-25-torontejie-kesasetasumahotepyeng-nozhong-karazha-qi-dian-hua-1yi-6qian-mo-yuan-z.md",
+      "ts": 1795625515
+    },
+    "9cca65d8a615ac0574816067e4b4bee74b64a8402d02a1583fee9241face0372": {
+      "link": "https://www.itmedia.co.jp/news/article/2611/25/2000003440/",
+      "title": "子どもの成績や月謝、口座番号など最大5万件漏えいか　学習塾「ベスト個別」運営元に不正アクセス",
+      "saved": "2026-11-25-zi-tomonocheng-ji-yayue-xie-kou-zuo-fan-hao-natozui-da-5mo-jian-lou-eika-xue-xi-.md",
+      "ts": 1795625515
+    },
+    "9fb16f40075bf01743103eee0784cb505df6901870128037012f3650a438d2f5": {
+      "link": "https://www.bbc.com/japanese/articles/cw0k673z7ppko?at_medium=RSS&at_campaign=rss",
+      "title": "イングランドの暑さ関連死、2026年は過去最多の推定5200人",
+      "saved": "2026-11-25-inkurantonoshu-saguan-lian-si-2026nian-haguo-qu-zui-duo-notui-ding-5200ren.md",
+      "ts": 1795625515
+    },
+    "c9034743ba1c8ae32154a5148b0b8a2649db8c4bdad8e321c0eeb59c4ea76bcd": {
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NWTkwYTN4c3FSM3BqRnYzUmpZbTdBOGxwZzNMX24tVHg1ZE15MGlfNFlBMGVJTTVfLVprT2Naa2RVbnJMdHNDZFpUX2t5cVNXWXc?oc=5",
+      "title": "エヌビディアCEOに復帰のフアン氏、従業員に謝罪 「セラピー」受けていると明かす - CNN",
+      "saved": "2026-11-25-enuhiteiaceonifu-gui-nohuanshi-cong-ye-yuan-nixie-zui-serahi-shou-keteirutoming-.md",
+      "ts": 1795625515
+    },
+    "eede67268cc68ae875780fbe24b4a68dc59940b4fb34e062d48b4d2f0ce920f0": {
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hMm1vclJJcDlLMlJCUk9hZDR1bGkwaWlBX1lQLTUtX0Rhb0FmMHZUUXQzWmVla1VlNDVjRDlQUzdoWWxxTzN5S2xlMVlRY2kzUEdNX1pB?oc=5",
+      "title": "トランプ氏、FIFA会長にレッドカード処分見直すよう要請か 米国FW、ベルギー戦出場へ(1/2) - CNN",
+      "saved": "2026-07-06-toranhushi-fifahui-chang-niretutokatochu-fen-jian-zhi-suyouyao-qing-ka-mi-guo-fw-2.md",
+      "ts": 1795625515
+    },
+    "0ca3c9ab2f1f347822f3cdeac4d6ba6096acff869f5034827e3639736fd97ab9": {
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KdzduQWdFLVdmc3lwRWZLNmhBdlNUajI3SXNnMzRxVGlpQjNxLUpLTkhzOV9QeG1fWjNYdnFZeWtQdlQ4eWtVSEpNMlZsLW1jUTVsRA?oc=5",
+      "title": "「死の神」の小惑星アポフィス、２０２９年に地球に接近 - CNN",
+      "saved": "2019-05-02-si-noshen-noxiao-huo-xing-ahohuisu-2029nian-nidi-qiu-nijie-jin-cnn.md",
+      "ts": 1795625515
     }
   }
 }
