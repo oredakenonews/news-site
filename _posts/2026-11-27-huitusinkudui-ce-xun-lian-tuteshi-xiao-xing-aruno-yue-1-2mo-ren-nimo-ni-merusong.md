@@ -1,0 +1,8 @@
+---
+title: "「フィッシング対策訓練」って実効性あるの？　約1.2万人に模擬メール送り検証、結果は……"
+date: 2026-11-27 12:00:00 +0900
+categories: [ITmedia]
+---
+米パデュー大学に所属する研究者らが発表した論文「Anti-Phishing Training (Still) Does Not Work: A Large-Scale Reproduction of Phishing Training Inefficacy Grounded in the NIST Phish Scale」は、フィッシング対策研修に効果があるのかを調査した研究報告だ。
+
+[続きを読む →](https://www.itmedia.co.jp/news/article/2611/27/2000003502/)
